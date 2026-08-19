@@ -1,0 +1,10 @@
+# 本地数据（可通过脚本重新拉取）
+starred_raw.json
+starred_full.json
+list_items.json
+lists_meta.json
+*.log
+
+# 敏感信息（绝不上传）
+device_code.json
+new_token.json
