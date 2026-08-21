@@ -1,6 +1,6 @@
 import json, subprocess, time
 
-lists = json.load(open('lists_meta.json'))
+lists = json.load(open('data/lists_meta.json'))
 all_items = {}  # list_id -> set of nameWithOwner
 
 def gql(query, var=None):
@@ -31,5 +31,5 @@ for l in lists:
     all_items[lid] = items
     print(f"{l['slug']}: {len(items)} items")
 
-json.dump({k: sorted(v) for k, v in all_items.items()}, open('list_items.json', 'w'), ensure_ascii=False, indent=1)
+json.dump({k: sorted(v) for k, v in all_items.items()}, open('data/list_items.json', 'w'), ensure_ascii=False, indent=1)
 print('saved list_items.json')
