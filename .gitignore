@@ -1,10 +1,13 @@
-# 本地数据（可通过脚本重新拉取）
-starred_raw.json
-starred_full.json
-list_items.json
-lists_meta.json
+# 本地数据(可通过脚本重新拉取,CI 中动态生成)
+data/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 日志
 *.log
 
-# 敏感信息（绝不上传）
+# 敏感信息(绝不上传)
 device_code.json
 new_token.json

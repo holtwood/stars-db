@@ -2,15 +2,15 @@ import json, subprocess, time
 
 # ---------- 数据加载 ----------
 repos = {}
-with open('starred_full.json') as f:
+with open('data/starred_full.json') as f:
     for line in f:
         line = line.strip()
         if line:
             r = json.loads(line)
             repos[r['full_name']] = r
 
-list_items = json.load(open('list_items.json'))
-lists_meta = {l['id']: l for l in json.load(open('lists_meta.json'))}
+list_items = json.load(open('data/list_items.json'))
+lists_meta = {l['id']: l for l in json.load(open('data/lists_meta.json'))}
 repo_lists = {}
 for lid, items in list_items.items():
     for item in items:
