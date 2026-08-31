@@ -2,22 +2,22 @@
 
 > Android / iOS / 跨平台移动开发
 
-共 **12** 个项目,按 ⭐ 数排序
+共 **12** 个项目,按 ⭐ 排序
 
-| 项目 | 星数 | 语言 | 状态 | 描述 |
-|------|------|------|------|------|
-| [localsend/localsend](https://github.com/localsend/localsend) | ⭐ 88.7k | Dart | 🟢 活跃 | An open-source cross-platform alternative to AirDrop |
-| [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) | ⭐ 22.6k | C# | 🟡 已归档 | CodeHub is an iOS application written using Xamarin |
-| [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | ⭐ 17.3k | Kotlin | 🟢 活跃 | A Download Manager that speeds up your downloads |
-| [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | ⭐ 17.2k | Dart | 🟢 活跃 | PiliPlus |
-| [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) | ⭐ 12.5k | Kotlin | 🟢 活跃 | An alternative frontend for YouTube, for Android. |
-| [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | ⭐ 10.6k | Shell | 🟢 活跃 | Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) |
-| [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) | ⭐ 8.7k | Dart | 🟢 活跃 | Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. |
-| [metowolf/vCards](https://github.com/metowolf/vCards) | ⭐ 6.4k | JavaScript | 🟢 活跃 | 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验 |
-| [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) | ⭐ 3.6k | Shell | 🟢 活跃 | Scripts to install Google Apps into a WSA image. Plus optional root |
-| [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) | ⭐ 1.2k | Kotlin | 🟢 活跃 | An app to help you capture thoughts and ideas |
-| [hmarr/vitals](https://github.com/hmarr/vitals) | ⭐ 468 | Swift | 🟢 活跃 | 📊 A tiny macOS process monitor |
-| [byhieg/easyweather](https://github.com/byhieg/easyweather) | ⭐ 72 | Java | 🟢 活跃 | 这是一款基于MD设计的Android天气App。提供查询任意城市天气，获取所在城市天气等功能。 |
+| 项目 | 星数 | 语言 | 描述 |
+|------|------|------|------|
+| [localsend/localsend](https://github.com/localsend/localsend) | ⭐ 89.8k | Dart | AirDrop 的开源跨平台替代工具 |
+| [CodeHubApp/CodeHub🟡](https://github.com/CodeHubApp/CodeHub) | ⭐ 22.6k | C# | CodeHub 是一款基于 Xamarin 开发的 iOS 应用程序 |
+| [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | ⭐ 17.9k | Dart | PiliPlus |
+| [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | ⭐ 17.6k | Kotlin | 一款可提升下载速度的下载管理器 |
+| [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) | ⭐ 12.6k | Kotlin | 适用于 Android 的第三方 YouTube 前端界面 |
+| [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | ⭐ 10.6k | Shell | 将 Magisk root 和 Google Apps 集成进 WSA（Windows Subsystem for Android） |
+| [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) | ⭐ 8.8k | Dart | 它具备强大AI能力，支持多种电子书格式，让阅读更智能、更专注。 |
+| [metowolf/vCards](https://github.com/metowolf/vCards) | ⭐ 6.4k | JavaScript | 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验 |
+| [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) | ⭐ 3.6k | Shell | 用于向 WSA 镜像安装 Google Apps 的脚本，同时支持可选获取 root 权限 |
+| [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) | ⭐ 1.2k | Kotlin | 一款帮你记录想法与灵感的应用 |
+| [hmarr/vitals](https://github.com/hmarr/vitals) | ⭐ 466 | Swift | 📊 轻量macOS进程监视器 |
+| [byhieg/easyweather](https://github.com/byhieg/easyweather) | ⭐ 72 | Java | 这是一款基于MD设计的Android天气App。提供查询任意城市天气，获取所在城市天气等功能。 |
 
 ---
 [⬆ 返回顶部](#top)
