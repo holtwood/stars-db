@@ -1,0 +1,26 @@
+- [🏠 首页](README.md)
+
+**分类**
+  - [🤖 AI 与 LLM](docs/ai.md)
+  - [☁️ DevOps 与云原生](docs/devops.md)
+  - [🧩 语言生态](docs/lang.md)
+  - [🎨 前端与 Web](docs/frontend.md)
+  - [⌨️ CLI 与终端](docs/cli.md)
+  - [🗄️ 数据库与存储](docs/storage.md)
+  - [🔐 安全与逆向](docs/security.md)
+  - [🌐 网络与代理](docs/net.md)
+  - [🎬 图形与音视频](docs/multimedia.md)
+  - [🧩 浏览器扩展](docs/browser.md)
+  - [📱 移动开发](docs/mobile.md)
+  - [📝 编辑器与文档笔记](docs/notes.md)
+  - [🧮 算法与面试](docs/algo.md)
+  - [⚡ 高性能计算](docs/hpc.md)
+  - [🗜️ 压缩与编码](docs/compression.md)
+  - [🧬 生物信息](docs/bio.md)
+  - [📚 学习资源与清单](docs/learning.md)
+  - [🎯 面试资料](docs/interview.md)
+  - [📦 其他与杂项](docs/misc.md)
+
+**索引**
+  - [📦 全量索引](docs/all.md)
+  - [🗣️ 按语言浏览](docs/by-language.md)

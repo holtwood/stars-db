@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""生成 stars-index 索引仓库内容(从 data/ 下的 GitHub API 数据)
+"""生成 stars-index 索引仓库内容（从 data/ 下的 GitHub API 数据）
 
 数据管线:
-  scripts/fetch_stars.sh  → data/starred_full.json   (JSONL,每行一个 repo)
+  scripts/fetch_stars.sh  → data/starred_full.json   (JSONL,每行一个 repo,含 starred_at)
   scripts/fetch_lists.py  → data/list_items.json     (list_id → [repo名])
-  scripts/gen_index.py    → README.md + docs/*.md     (本脚本)
+  scripts/translate.py    → data/desc_zh.json        (full_name → 中文描述)
+  scripts/gen_index.py    → README.md + docs/*.md + data/stars.json + _sidebar.md
 
 用法:
   python3 scripts/gen_index.py
@@ -12,6 +13,7 @@
 import json
 import sys
 from collections import Counter
+from datetime import datetime, timezone
 
 from config import CATEGORIES, ALL_INDEX, LANG_INDEX, OWNER, REPO, STAR_LISTS_URL, today
 
@@ -19,20 +21,32 @@ DATA_DIR = 'data'
 DOCS_DIR = 'docs'
 
 # ---------- 加载数据 ----------
-def load_repos():
-    repos = []
-    with open(f'{DATA_DIR}/starred_full.json') as f:
+def load_jsonl(path):
+    items = []
+    with open(path) as f:
         for line in f:
             line = line.strip()
             if line:
-                repos.append(json.loads(line))
-    return repos
+                items.append(json.loads(line))
+    return items
+
+
+def load_repos():
+    return load_jsonl(f'{DATA_DIR}/starred_full.json')
+
+
+def load_desc():
+    """中文描述缓存:full_name → 中文描述（translate.py 生成）"""
+    try:
+        with open(f'{DATA_DIR}/desc_zh.json', encoding='utf-8') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return {}
 
 
 def load_lists():
     list_items = json.load(open(f'{DATA_DIR}/list_items.json'))
     lists_meta = {l['id']: l for l in json.load(open(f'{DATA_DIR}/lists_meta.json'))}
-    name2id = {l['name']: l['id'] for l in lists_meta.values()}
     # repo -> [list名] 与 反向映射 list名 -> [repo名]
     repo_lists = {}
     list_repos = {}
@@ -41,7 +55,7 @@ def load_lists():
         for item in items:
             repo_lists.setdefault(item, []).append(name)
             list_repos.setdefault(name, []).append(item)
-    return repo_lists, list_repos, name2id
+    return repo_lists, list_repos
 
 
 # ---------- 格式化工具 ----------
@@ -58,24 +72,35 @@ def esc(text):
     return text.replace('|', '\\|').replace('\n', ' ').strip()
 
 
-def status_of(r):
-    """返回仓库活跃状态标记:🟢 活跃 / 🟡 已归档 / 🔀 分叉"""
+def status_mark(r):
+    """仓库状态小标记:🟡 已归档 / 🔀 分叉 / 空(活跃)"""
     if r.get('archived'):
-        return '🟡 已归档'
+        return '🟡'
     if r.get('fork'):
-        return '🔀 分叉'
-    return '🟢 活跃'
+        return '🔀'
+    return ''
 
 
-def repo_row(r):
-    desc = esc(r.get('description') or '')
+def zh_desc(r, desc_zh, limit=80):
+    """中文描述优先;无缓存则取英文原文截断"""
+    text = desc_zh.get(r['full_name']) or (r.get('description') or '').strip()
+    if not text:
+        return ''
+    if len(text) > limit:
+        text = text[:limit].rstrip() + '…'
+    return text
+
+
+def repo_row(r, desc_zh):
+    mark = status_mark(r)
+    name = f"{r['full_name']}{mark}" if mark else r['full_name']
     lang = esc(r.get('language') or '')
-    return (f"| [{r['full_name']}]({r['html_url']}) | ⭐ {star(r['stargazers_count'])} "
-            f"| {lang} | {status_of(r)} | {desc} |")
+    return (f"| [{name}]({r['html_url']}) | ⭐ {star(r['stargazers_count'])} "
+            f"| {lang} | {zh_desc(r, desc_zh)} |")
 
 
 def bar(ratio, width=16):
-    """ASCII 占比条,例如 ratio=0.37 → '██████████░░░░░░';非零占比至少显示一格"""
+    """ASCII 占比条"""
     filled = round(ratio * width)
     if ratio > 0 and filled == 0:
         filled = 1
@@ -83,7 +108,7 @@ def bar(ratio, width=16):
 
 
 def badge(label, value, color):
-    """shields.io 静态徽章 URL(label-value 用 -- 分隔,空格转义)"""
+    """shields.io 静态徽章 URL"""
     label = label.replace('-', '--').replace(' ', '_')
     value = value.replace('-', '--').replace(' ', '_')
     return f"https://img.shields.io/badge/{label}-{value}-{color}"
@@ -95,7 +120,6 @@ def verify_consistency(repos, list_repos, counts):
     total = len(repos)
     sum_cats = sum(counts.values())
 
-    # 每个 repo 必须至少属于一个分类
     covered = set()
     for cat in CATEGORIES:
         for lst in cat['lists']:
@@ -104,7 +128,6 @@ def verify_consistency(repos, list_repos, counts):
     if missing:
         problems.append(f"{len(missing)} 个 repo 未被任何分类覆盖,例如: {missing[:3]}")
 
-    # 分类之和允许 > 总数:一个 repo 可同时属于多个分类(如同时属 Python生态 与 AI与LLM)
     if sum_cats < total:
         problems.append(f"分类之和 {sum_cats} < 仓库总数 {total}")
 
@@ -121,7 +144,10 @@ def verify_consistency(repos, list_repos, counts):
 
 
 # ---------- 生成分类页 ----------
-def build_category_files(repos_by_name, list_repos, counts):
+TABLE_HEADER = "| 项目 | 星数 | 语言 | 描述 |\n|------|------|------|------|"
+
+
+def build_category_files(repos_by_name, list_repos, counts, desc_zh):
     files = {}
     for cat in CATEGORIES:
         items = []
@@ -141,31 +167,29 @@ def build_category_files(repos_by_name, list_repos, counts):
             "",
             f"> {cat['desc']}",
             "",
-            f"共 **{len(items)}** 个项目,按 ⭐ 数排序",
+            f"共 **{len(items)}** 个项目,按 ⭐ 排序",
             "",
-            "| 项目 | 星数 | 语言 | 状态 | 描述 |",
-            "|------|------|------|------|------|",
+            TABLE_HEADER,
         ]
         for r in items:
-            lines.append(repo_row(r))
+            lines.append(repo_row(r, desc_zh))
         lines += ["", "---", "[⬆ 返回顶部](#top)"]
         files[cat['key']] = '\n'.join(lines) + '\n'
     return files
 
 
 # ---------- 生成全量索引 all.md ----------
-def build_all_index(repos):
+def build_all_index(repos, desc_zh):
     items = sorted(repos, key=lambda x: -x['stargazers_count'])
     lines = [
         "# 📦 全量索引",
         "",
-        f"> 全部 **{len(items)}** 个 Star 项目,按 ⭐ 数排序",
+        f"> 全部 **{len(items)}** 个 Star 项目,按 ⭐ 排序",
         "",
-        "| 项目 | 星数 | 语言 | 状态 | 描述 |",
-        "|------|------|------|------|------|",
+        TABLE_HEADER,
     ]
     for r in items:
-        lines.append(repo_row(r))
+        lines.append(repo_row(r, desc_zh))
     lines += ["", "---", "[⬆ 返回顶部](#top)"]
     return '\n'.join(lines) + '\n'
 
@@ -187,13 +211,26 @@ def build_lang_index(repos):
     return '\n'.join(lines) + '\n'
 
 
+# ---------- 生成最近收藏 ----------
+def build_recent(repos, desc_zh, n=15):
+    """按 starred_at 倒序取最近收藏"""
+    starred = [r for r in repos if r.get('starred_at')]
+    starred.sort(key=lambda x: x['starred_at'], reverse=True)
+    lines = ["## 🔥 最近收藏", ""]
+    for r in starred[:n]:
+        date = r['starred_at'][:10]
+        lines.append(f"- ⭐ [{r['full_name']}]({r['html_url']}) — {zh_desc(r, desc_zh, 60)} `{date}`")
+    lines.append("")
+    return '\n'.join(lines)
+
+
 # ---------- 生成 README ----------
-def build_readme(total, counts, list_count):
+def build_readme(total, counts, list_count, repos, desc_zh):
     readme = []
     today_str = today()
     readme.append("# ⭐ Stars Index")
     readme.append("")
-    readme.append("> 我的 GitHub Star 分类索引 · 由脚本自动生成 · 与 [Star Lists](https://github.com/LessUp?tab=stars) 同步")
+    readme.append("> 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/LessUp?tab=stars) 同步")
     readme.append("")
     readme.append(f"![项目数]({badge('Star 项目', str(total), '8A2BE2')}) "
                   f"![最后同步]({badge('最后同步', today_str, '2ea44f')}) "
@@ -201,6 +238,7 @@ def build_readme(total, counts, list_count):
     readme.append("")
     readme.append(f"> 📈 **{total}** 个项目 · **{len(CATEGORIES)}** 个分类 · **{list_count}** 个 Star Lists · 每日自动同步")
     readme.append("")
+    readme.append(build_recent(repos, desc_zh))
     readme.append("## 📑 分类导航")
     readme.append("")
     readme.append("| 分类 | 项目数 | 占比 | 文档 |")
@@ -218,7 +256,7 @@ def build_readme(total, counts, list_count):
     readme.append("")
     readme.append("## 🔄 自动同步")
     readme.append("")
-    readme.append("本仓库由 [GitHub Actions](.github/workflows/sync.yml) 每日自动拉取最新的 Star 数据并重新生成,"
+    readme.append("本仓库由 [GitHub Actions](.github/workflows/sync.yml) 每日自动拉取 Star 数据并重新生成,"
                   "也可在 Actions 页面手动触发 `workflow_dispatch`。")
     readme.append("")
     readme.append("### 本地手动更新")
@@ -228,24 +266,87 @@ def build_readme(total, counts, list_count):
     readme.append("bash scripts/fetch_stars.sh")
     readme.append("# 2. 拉取 Star Lists 归属(需要认证)")
     readme.append("python3 scripts/fetch_lists.py")
-    readme.append("# 3. 重新生成 README 与 docs/")
+    readme.append("# 3. 增量翻译新项目的中文描述(需要 NEWAPI_BASE_URL/NEWAPI_API_KEY 环境变量)")
+    readme.append("python3 scripts/translate.py")
+    readme.append("# 4. 重新生成 README 与 docs/")
     readme.append("python3 scripts/gen_index.py")
     readme.append("```")
     readme.append("")
+    readme.append("> 💡 翻译结果缓存在 `data/desc_zh.json` 随仓库提交,新 star 项目翻译前以英文原文显示。")
+    readme.append("")
     return '\n'.join(readme) + '\n'
+
+
+# ---------- 生成 data/stars.json(供前端/二次开发) ----------
+def build_stars_json(repos, repo_lists, counts, desc_zh):
+    categories = {}
+    for cat in CATEGORIES:
+        categories[cat['key']] = {
+            'title': f"{cat['emoji']} {cat['title']}",
+            'desc': cat['desc'],
+            'count': counts[cat['key']],
+            'lists': cat['lists'],
+        }
+    payload = {
+        'generated_at': datetime.now(timezone.utc).isoformat(),
+        'total': len(repos),
+        'categories': categories,
+        'repos': [
+            {
+                'full_name': r['full_name'],
+                'html_url': r['html_url'],
+                'stars': r['stargazers_count'],
+                'language': r.get('language'),
+                'topics': r.get('topics', []),
+                'description': r.get('description'),
+                'description_zh': desc_zh.get(r['full_name']),
+                'archived': r.get('archived', False),
+                'fork': r.get('fork', False),
+                'starred_at': r.get('starred_at'),
+                'lists': repo_lists.get(r['full_name'], []),
+            }
+            for r in repos
+        ],
+    }
+    return json.dumps(payload, ensure_ascii=False, indent=1) + '\n'
+
+
+# ---------- 生成 docsify 侧边栏 ----------
+def build_sidebar():
+    lines = ["- [🏠 首页](README.md)", "", "**分类**"]
+    for cat in CATEGORIES:
+        lines.append(f"  - [{cat['emoji']} {cat['title']}](docs/{cat['key']}.md)")
+    lines += ["", "**索引**",
+              f"  - [📦 全量索引](docs/{ALL_INDEX})",
+              f"  - [🗣️ 按语言浏览](docs/{LANG_INDEX})"]
+    return '\n'.join(lines) + '\n'
 
 
 # ---------- 主流程 ----------
 def main():
     repos = load_repos()
-    _, list_repos, _ = load_lists()
+    repo_lists, list_repos = load_lists()
+    desc_zh = load_desc()
     repos_by_name = {r['full_name']: r for r in repos}
     total = len(repos)
     list_count = len(list_repos)
 
+    # 未分类 repo 自动归入「其他与杂项」(仅展示层,不写回 GitHub Lists)
+    covered = set()
+    for cat in CATEGORIES:
+        for lst in cat['lists']:
+            covered.update(list_repos.get(lst, []))
+    uncovered = [r['full_name'] for r in repos if r['full_name'] not in covered]
+    if uncovered:
+        print(f"ℹ️  {len(uncovered)} 个未分类 repo 自动归入「其他与杂项」: {uncovered}")
+        list_repos.setdefault('其他与杂项', []).extend(uncovered)
+        repo_lists.setdefault('其他与杂项', []).extend(uncovered)
+        for name in uncovered:
+            repo_lists.setdefault(name, []).append('其他与杂项')
+
     counts = {}
-    files = build_category_files(repos_by_name, list_repos, counts)
-    files[ALL_INDEX] = build_all_index(repos)
+    files = build_category_files(repos_by_name, list_repos, counts, desc_zh)
+    files[ALL_INDEX] = build_all_index(repos, desc_zh)
     files[LANG_INDEX] = build_lang_index(repos)
 
     verify_consistency(repos, list_repos, counts)
@@ -258,9 +359,17 @@ def main():
 
     # 写 README
     with open('README.md', 'w') as f:
-        f.write(build_readme(total, counts, list_count))
+        f.write(build_readme(total, counts, list_count, repos, desc_zh))
 
-    print(f"✅ 生成完成: README.md + docs/ 下 {len(files)} 个文件")
+    # 写前端数据
+    with open(f'{DATA_DIR}/stars.json', 'w') as f:
+        f.write(build_stars_json(repos, repo_lists, counts, desc_zh))
+
+    # 写 docsify 侧边栏
+    with open('_sidebar.md', 'w') as f:
+        f.write(build_sidebar())
+
+    print(f"✅ 生成完成: README.md + docs/ 下 {len(files)} 个文件 + data/stars.json + _sidebar.md")
     print(f"   总项目: {total}")
     for cat in CATEGORIES:
         print(f"   {cat['key']}: {counts[cat['key']]}")

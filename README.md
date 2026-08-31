@@ -1,10 +1,28 @@
 # ⭐ Stars Index
 
-> 我的 GitHub Star 分类索引 · 由脚本自动生成 · 与 [Star Lists](https://github.com/LessUp?tab=stars) 同步
+> 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/LessUp?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1317-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--08--21-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1331-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--08--31-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
-> 📈 **1317** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
+> 📈 **1331** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
+
+## 🔥 最近收藏
+
+- ⭐ [AnnaSuSu/TechSpar](https://github.com/AnnaSuSu/TechSpar) — 一个持续进化的面试训练系统。在线体验地址：https://techspar.cn `2026-08-29`
+- ⭐ [CometixSpace/CCursor](https://github.com/CometixSpace/CCursor) — 为 Cursor IDE 自带密钥！ `2026-08-27`
+- ⭐ [gethomepage/homepage](https://github.com/gethomepage/homepage) — 支持Docker和服务API集成的高度可自定义主页（起始页/应用仪表盘） `2026-08-27`
+- ⭐ [archibate/dotfiles-opencode](https://github.com/archibate/dotfiles-opencode) — Archibate 针对 OpenCode 的个人配置 `2026-08-27`
+- ⭐ [OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) — 去AI味提示词-作家增强-SKILL `2026-08-24`
+- ⭐ [louislam/dockge](https://github.com/louislam/dockge) — 美观易用且响应式的自托管 docker compose.yaml 面向栈管理器 `2026-08-23`
+- ⭐ [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) — 酷炫的自托管监控工具 `2026-08-22`
+- ⭐ [sissbruecker/linkding](https://github.com/sissbruecker/linkding) — 可自托管的书签管理器，设计简约、运行快速，通过Docker即可轻松部署。 `2026-08-22`
+- ⭐ [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) — 社区驱动的增强型文档管理系统：扫描、索引并归档您所有的文档 `2026-08-22`
+- ⭐ [chaun-yi7/Clay](https://github.com/chaun-yi7/Clay) — Clay —— 一款仿 Claude 审美的 Typora 主题，暖纸质感、明暗双色，克制耐看。 `2026-08-21`
+- ⭐ [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) — 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建 `2026-08-21`
+- ⭐ [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) — Ally-Health 是一款智能医疗助手，它依托先进AI技术与医学专业知识革新个人健康管理。它通过自然语言交互帮助用户… `2026-08-21`
+- ⭐ [henrygd/beszel](https://github.com/henrygd/beszel) — 轻量服务器监控，支持历史数据、Docker 统计和告警。 `2026-08-20`
+- ⭐ [searxng/searxng](https://github.com/searxng/searxng) — SearXNG 是一款免费的互联网元搜索引擎，可聚合来自多种搜索服务与数据库的搜索结果。它不会追踪用户，也不会为用户建立… `2026-08-20`
+- ⭐ [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) — 一个用于在NVIDIA GPU和昆仑芯XPU上训练大语言模型、视觉语言模型、扩散模型以及具身智能模型的高性能框架 `2026-08-18`
 
 ## 📑 分类导航
 
@@ -12,8 +30,8 @@
 |------|--------|------|------|
 | 🤖 AI 与 LLM | 308 | `████░░░░░░░░░░░░` (23%) | [docs/ai.md](docs/ai.md) |
 | ☁️ DevOps 与云原生 | 26 | `█░░░░░░░░░░░░░░░` (2%) | [docs/devops.md](docs/devops.md) |
-| 🧩 语言生态 | 259 | `███░░░░░░░░░░░░░` (20%) | [docs/lang.md](docs/lang.md) |
-| 🎨 前端与 Web | 86 | `█░░░░░░░░░░░░░░░` (7%) | [docs/frontend.md](docs/frontend.md) |
+| 🧩 语言生态 | 259 | `███░░░░░░░░░░░░░` (19%) | [docs/lang.md](docs/lang.md) |
+| 🎨 前端与 Web | 86 | `█░░░░░░░░░░░░░░░` (6%) | [docs/frontend.md](docs/frontend.md) |
 | ⌨️ CLI 与终端 | 129 | `██░░░░░░░░░░░░░░` (10%) | [docs/cli.md](docs/cli.md) |
 | 🗄️ 数据库与存储 | 13 | `█░░░░░░░░░░░░░░░` (1%) | [docs/storage.md](docs/storage.md) |
 | 🔐 安全与逆向 | 3 | `█░░░░░░░░░░░░░░░` (0%) | [docs/security.md](docs/security.md) |
@@ -28,16 +46,16 @@
 | 🧬 生物信息 | 51 | `█░░░░░░░░░░░░░░░` (4%) | [docs/bio.md](docs/bio.md) |
 | 📚 学习资源与清单 | 225 | `███░░░░░░░░░░░░░` (17%) | [docs/learning.md](docs/learning.md) |
 | 🎯 面试资料 | 15 | `█░░░░░░░░░░░░░░░` (1%) | [docs/interview.md](docs/interview.md) |
-| 📦 其他与杂项 | 20 | `█░░░░░░░░░░░░░░░` (2%) | [docs/misc.md](docs/misc.md) |
+| 📦 其他与杂项 | 34 | `█░░░░░░░░░░░░░░░` (3%) | [docs/misc.md](docs/misc.md) |
 
 ## 📊 快速入口
 
-- 📦 [全量索引(1317)](docs/all.md) — 所有项目按 ⭐ 排序
+- 📦 [全量索引(1331)](docs/all.md) — 所有项目按 ⭐ 排序
 - 🗣️ [按语言浏览](docs/by-language.md) — 语言分布一览
 
 ## 🔄 自动同步
 
-本仓库由 [GitHub Actions](.github/workflows/sync.yml) 每日自动拉取最新的 Star 数据并重新生成,也可在 Actions 页面手动触发 `workflow_dispatch`。
+本仓库由 [GitHub Actions](.github/workflows/sync.yml) 每日自动拉取 Star 数据并重新生成,也可在 Actions 页面手动触发 `workflow_dispatch`。
 
 ### 本地手动更新
 
@@ -46,7 +64,11 @@
 bash scripts/fetch_stars.sh
 # 2. 拉取 Star Lists 归属(需要认证)
 python3 scripts/fetch_lists.py
-# 3. 重新生成 README 与 docs/
+# 3. 增量翻译新项目的中文描述(需要 NEWAPI_BASE_URL/NEWAPI_API_KEY 环境变量)
+python3 scripts/translate.py
+# 4. 重新生成 README 与 docs/
 python3 scripts/gen_index.py
 ```
+
+> 💡 翻译结果缓存在 `data/desc_zh.json` 随仓库提交,新 star 项目翻译前以英文原文显示。
 

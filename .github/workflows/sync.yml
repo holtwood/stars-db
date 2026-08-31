@@ -6,6 +6,10 @@
 #   Value: 你的 GitHub Personal Access Token(需 stars 读取权限)
 #          参见 https://github.com/settings/tokens
 #   (GITHUB_TOKEN 无法读取 Star Lists,必须用 PAT)
+#
+# 说明:CI 只负责同步数据与重新生成页面。中文描述翻译由本地
+#   scripts/translate.py 完成后随提交入库(desc_zh.json 增量缓存),
+#   新 star 项目在翻译前会以英文原文显示。
 
 name: Sync Stars
 

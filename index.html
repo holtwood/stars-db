@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>⭐ Stars Index — GitHub Star 分类导航</title>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    :root {
+      --sidebar-width: 260px;
+    }
+    .markdown-section {
+      max-width: 1000px;
+    }
+    .markdown-section h1 {
+      font-size: 1.9em;
+      font-weight: 700;
+    }
+    .markdown-section h2 {
+      font-size: 1.4em;
+      font-weight: 600;
+      padding-bottom: 6px;
+      border-bottom: 1px solid #eee;
+    }
+    .markdown-section p, .markdown-section li {
+      line-height: 1.7;
+    }
+    .markdown-section table {
+      font-size: 13px;
+      line-height: 1.5;
+    }
+    .markdown-section table thead th {
+      font-weight: 600;
+      color: #555;
+    }
+    .markdown-section table tbody tr:hover {
+      background: #f6f8fa;
+    }
+    .markdown-section code {
+      padding: 1px 5px;
+      border-radius: 4px;
+    }
+    .sidebar {
+      font-size: 14px;
+    }
+    .sidebar .app-name {
+      font-size: 1.2em;
+      font-weight: 700;
+    }
+    .sidebar .sidebar-nav a.active {
+      font-weight: 600;
+    }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: '⭐ Stars Index',
+      repo: 'https://github.com/holtwood/page-stars',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      search: {
+        placeholder: '🔍 搜索 Star 项目',
+        noData: '未找到结果',
+        depth: 2,
+        paths: 'auto'
+      }
+    };
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+</body>
+</html>

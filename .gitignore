@@ -1,5 +1,6 @@
-# 本地数据(可通过脚本重新拉取,CI 中动态生成)
-data/
+# 从 GitHub API 拉取的中间数据(可重新生成;desc_zh.json 翻译缓存需提交避免重复付费)
+data/starred_full.json
+data/list_items.json
 
 # Python 缓存
 __pycache__/
