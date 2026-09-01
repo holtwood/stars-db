@@ -2,12 +2,15 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/LessUp?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1331-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--08--31-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1334-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--01-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
-> 📈 **1331** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
+> 📈 **1334** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
 ## 🔥 最近收藏
 
+- ⭐ [build-workbench/yolo-toys](https://github.com/build-workbench/yolo-toys) — 多模型视觉推理服务 - YOLOv8 / DETR / OWL-ViT / Grounding DINO / BLIP… `2026-08-31`
+- ⭐ [cpulxb/WSL-Image-Clipboard-Helper](https://github.com/cpulxb/WSL-Image-Clipboard-Helper) — 该工具用于在 Windows 中配合 WSL 环境下的 Claude Code、CodeX、OpenCode等 AI 工… `2026-08-31`
+- ⭐ [build-workbench/meta-human](https://github.com/build-workbench/meta-human) — 浏览器原生 3D 数字人引擎，集成语音与对话 `2026-08-31`
 - ⭐ [AnnaSuSu/TechSpar](https://github.com/AnnaSuSu/TechSpar) — 一个持续进化的面试训练系统。在线体验地址：https://techspar.cn `2026-08-29`
 - ⭐ [CometixSpace/CCursor](https://github.com/CometixSpace/CCursor) — 为 Cursor IDE 自带密钥！ `2026-08-27`
 - ⭐ [gethomepage/homepage](https://github.com/gethomepage/homepage) — 支持Docker和服务API集成的高度可自定义主页（起始页/应用仪表盘） `2026-08-27`
@@ -20,9 +23,6 @@
 - ⭐ [chaun-yi7/Clay](https://github.com/chaun-yi7/Clay) — Clay —— 一款仿 Claude 审美的 Typora 主题，暖纸质感、明暗双色，克制耐看。 `2026-08-21`
 - ⭐ [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) — 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建 `2026-08-21`
 - ⭐ [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) — Ally-Health 是一款智能医疗助手，它依托先进AI技术与医学专业知识革新个人健康管理。它通过自然语言交互帮助用户… `2026-08-21`
-- ⭐ [henrygd/beszel](https://github.com/henrygd/beszel) — 轻量服务器监控，支持历史数据、Docker 统计和告警。 `2026-08-20`
-- ⭐ [searxng/searxng](https://github.com/searxng/searxng) — SearXNG 是一款免费的互联网元搜索引擎，可聚合来自多种搜索服务与数据库的搜索结果。它不会追踪用户，也不会为用户建立… `2026-08-20`
-- ⭐ [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) — 一个用于在NVIDIA GPU和昆仑芯XPU上训练大语言模型、视觉语言模型、扩散模型以及具身智能模型的高性能框架 `2026-08-18`
 
 ## 📑 分类导航
 
@@ -36,7 +36,7 @@
 | 🗄️ 数据库与存储 | 13 | `█░░░░░░░░░░░░░░░` (1%) | [docs/storage.md](docs/storage.md) |
 | 🔐 安全与逆向 | 3 | `█░░░░░░░░░░░░░░░` (0%) | [docs/security.md](docs/security.md) |
 | 🌐 网络与代理 | 40 | `█░░░░░░░░░░░░░░░` (3%) | [docs/net.md](docs/net.md) |
-| 🎬 图形与音视频 | 20 | `█░░░░░░░░░░░░░░░` (2%) | [docs/multimedia.md](docs/multimedia.md) |
+| 🎬 图形与音视频 | 20 | `█░░░░░░░░░░░░░░░` (1%) | [docs/multimedia.md](docs/multimedia.md) |
 | 🧩 浏览器扩展 | 11 | `█░░░░░░░░░░░░░░░` (1%) | [docs/browser.md](docs/browser.md) |
 | 📱 移动开发 | 12 | `█░░░░░░░░░░░░░░░` (1%) | [docs/mobile.md](docs/mobile.md) |
 | 📝 编辑器与文档笔记 | 34 | `█░░░░░░░░░░░░░░░` (3%) | [docs/notes.md](docs/notes.md) |
@@ -46,11 +46,11 @@
 | 🧬 生物信息 | 51 | `█░░░░░░░░░░░░░░░` (4%) | [docs/bio.md](docs/bio.md) |
 | 📚 学习资源与清单 | 225 | `███░░░░░░░░░░░░░` (17%) | [docs/learning.md](docs/learning.md) |
 | 🎯 面试资料 | 15 | `█░░░░░░░░░░░░░░░` (1%) | [docs/interview.md](docs/interview.md) |
-| 📦 其他与杂项 | 34 | `█░░░░░░░░░░░░░░░` (3%) | [docs/misc.md](docs/misc.md) |
+| 📦 其他与杂项 | 37 | `█░░░░░░░░░░░░░░░` (3%) | [docs/misc.md](docs/misc.md) |
 
 ## 📊 快速入口
 
-- 📦 [全量索引(1331)](docs/all.md) — 所有项目按 ⭐ 排序
+- 📦 [全量索引(1334)](docs/all.md) — 所有项目按 ⭐ 排序
 - 🗣️ [按语言浏览](docs/by-language.md) — 语言分布一览
 
 ## 🔄 自动同步
