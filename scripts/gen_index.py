@@ -230,7 +230,7 @@ def build_readme(total, counts, list_count, repos, desc_zh):
     today_str = today()
     readme.append("# ⭐ StarsDB")
     readme.append("")
-    readme.append("> 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/LessUp?tab=stars) 同步")
+    readme.append(f"> 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists]({STAR_LISTS_URL}) 同步")
     readme.append("")
     readme.append(f"![项目数]({badge('Star 项目', str(total), '8A2BE2')}) "
                   f"![最后同步]({badge('最后同步', today_str, '2ea44f')}) "
