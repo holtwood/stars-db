@@ -112,8 +112,8 @@ LANG_INDEX = 'by-language.md'
 
 # 仓库基础信息
 REPO = 'stars-db'
-OWNER = 'LessUp'
-STAR_LISTS_URL = 'https://github.com/LessUp?tab=stars'
+OWNER = 'holtwood'
+STAR_LISTS_URL = 'https://github.com/holtwood?tab=stars'
 
 def today() -> str:
     return datetime.date.today().isoformat()
