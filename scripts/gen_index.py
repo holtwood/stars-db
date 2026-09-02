@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""生成 StarDB 索引仓库内容（从 data/ 下的 GitHub API 数据）
+"""生成 StarsDB 索引仓库内容（从 data/ 下的 GitHub API 数据）
 
 数据管线:
   scripts/fetch_stars.sh  → data/starred_full.json   (JSONL,每行一个 repo,含 starred_at)
@@ -228,7 +228,7 @@ def build_recent(repos, desc_zh, n=15):
 def build_readme(total, counts, list_count, repos, desc_zh):
     readme = []
     today_str = today()
-    readme.append("# ⭐ StarDB")
+    readme.append("# ⭐ StarsDB")
     readme.append("")
     readme.append("> 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/LessUp?tab=stars) 同步")
     readme.append("")
