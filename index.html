@@ -7,48 +7,137 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <style>
     :root {
-      --sidebar-width: 260px;
+      --sidebar-width: 280px;
+      --accent: #8a2be2;
+      --accent-soft: #f5eefc;
+      --ink: #24292f;
+      --muted: #57606a;
+      --line: #e8eaef;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC",
+        "PingFang SC", "Microsoft YaHei", sans-serif;
+      -webkit-font-smoothing: antialiased;
+      color: var(--ink);
     }
     .markdown-section {
-      max-width: 1000px;
+      max-width: 980px;
+      padding: 2.5rem 2.5rem 4rem;
     }
     .markdown-section h1 {
-      font-size: 1.9em;
+      font-size: 1.85em;
       font-weight: 700;
+      letter-spacing: -0.01em;
+      margin: 0 0 0.6em;
+      border: 0;
     }
     .markdown-section h2 {
-      font-size: 1.4em;
-      font-weight: 600;
-      padding-bottom: 6px;
-      border-bottom: 1px solid #eee;
+      font-size: 1.34em;
+      font-weight: 650;
+      margin: 1.8em 0 0.7em;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--line);
     }
-    .markdown-section p, .markdown-section li {
-      line-height: 1.7;
+    .markdown-section h3 {
+      font-size: 1.12em;
+      font-weight: 650;
+    }
+    .markdown-section p,
+    .markdown-section li {
+      line-height: 1.75;
+      color: var(--ink);
+    }
+    .markdown-section a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(138, 43, 226, 0.25);
+      transition: border-color 0.15s ease;
+    }
+    .markdown-section a:hover {
+      border-bottom-color: var(--accent);
+    }
+    .markdown-section blockquote {
+      color: var(--muted);
+      background: var(--accent-soft);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 8px 8px 0;
+      padding: 0.6em 1em;
+      margin: 1.2em 0;
+    }
+    .markdown-section blockquote p {
+      color: var(--muted);
+      margin: 0.2em 0;
     }
     .markdown-section table {
       font-size: 13px;
-      line-height: 1.5;
+      line-height: 1.55;
+      display: table;
+      width: 100%;
+      border-collapse: collapse;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      overflow: hidden;
     }
     .markdown-section table thead th {
       font-weight: 600;
-      color: #555;
+      color: var(--muted);
+      background: #f8f9fc;
+      white-space: nowrap;
+    }
+    .markdown-section table th,
+    .markdown-section table td {
+      padding: 7px 12px;
+      border-color: var(--line);
     }
     .markdown-section table tbody tr:hover {
-      background: #f6f8fa;
+      background: #f8f9fc;
     }
     .markdown-section code {
-      padding: 1px 5px;
-      border-radius: 4px;
+      padding: 1px 6px;
+      border-radius: 5px;
+      background: #f3f2f7;
+      color: #6b21a8;
+    }
+    .markdown-section img[src*="shields.io"],
+    .markdown-section p > img:first-child {
+      vertical-align: middle;
+      margin: 0 2px 2px 0;
     }
     .sidebar {
       font-size: 14px;
+      border-right: 1px solid var(--line);
+      background: #fbfbfd;
     }
     .sidebar .app-name {
-      font-size: 1.2em;
+      font-size: 1.15em;
       font-weight: 700;
+      letter-spacing: 0.01em;
+    }
+    .sidebar .search input[type="search"] {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      padding: 0 10px;
+      height: 32px;
+      transition: border-color 0.15s ease, box-shadow 0.15s ease;
+    }
+    .sidebar .search input[type="search"]:focus {
+      outline: none;
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(138, 43, 226, 0.12);
+    }
+    .sidebar ul li a {
+      border-radius: 6px;
+      padding: 3px 8px;
+      transition: background 0.15s ease, color 0.15s ease;
+    }
+    .sidebar ul li a:hover {
+      background: #f0ebf9;
+      text-decoration: none;
     }
     .sidebar .sidebar-nav a.active {
       font-weight: 600;
+      color: var(--accent);
     }
   </style>
 </head>
