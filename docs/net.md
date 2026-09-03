@@ -6,14 +6,14 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ⭐ 141.6k | TypeScript | 基于 Tauri 构建的现代化图形界面客户端，支持在 Windows、macOS 和 Linux 运行，提供定制化代理体验 |
-| [2dust/v2rayN](https://github.com/2dust/v2rayN) | ⭐ 115.2k | C# | 支持Xray、sing-box等的多平台GUI客户端，兼容Windows、Linux与macOS |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ⭐ 141.8k | TypeScript | 基于 Tauri 构建的现代化图形界面客户端，支持在 Windows、macOS 和 Linux 运行，提供定制化代理体验 |
+| [2dust/v2rayN](https://github.com/2dust/v2rayN) | ⭐ 115.3k | C# | 支持Xray、sing-box等的多平台GUI客户端，兼容Windows、Linux与macOS |
 | [2dust/v2rayNG](https://github.com/2dust/v2rayNG) | ⭐ 62.0k | Kotlin | 适用于 Android 的 V2Ray 客户端，支持 Xray 核心与 v2fly 核心 |
-| [chen08209/FlClash](https://github.com/chen08209/FlClash) | ⭐ 50.7k | Dart | 基于 ClashMeta 的多平台代理客户端，简洁易用，开源无广告。 |
-| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | ⭐ 47.0k | Go | 一个用于聚合与分发的统一AI模型 hub，支持将各类大语言模型转换为兼容OpenAI、Claude或Gemini的格式，是供个人与企业进行模型管理的集中网关。 |
+| [chen08209/FlClash](https://github.com/chen08209/FlClash) | ⭐ 50.8k | Dart | 基于 ClashMeta 的多平台代理客户端，简洁易用，开源无广告。 |
+| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | ⭐ 47.1k | Go | 一个用于聚合与分发的统一AI模型 hub，支持将各类大语言模型转换为兼容OpenAI、Claude或Gemini的格式，是供个人与企业进行模型管理的集中网关。 |
 | [MetaCubeX/ClashMetaForAndroid🔀](https://github.com/MetaCubeX/ClashMetaForAndroid) | ⭐ 45.5k | Kotlin | 适用于 Android 的基于规则的隧道工具 |
 | [StevenBlack/hosts](https://github.com/StevenBlack/hosts) | ⭐ 31.0k | Python | 🔒 整合并扩展来自多个精选来源的 hosts 文件，可按需选择 porn、社交媒体等类别的扩展规则。 |
-| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) | ⭐ 29.7k |  | 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。 |
+| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) | ⭐ 29.8k |  | 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。 |
 | [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | ⭐ 28.3k |  | 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Pre… |
 | [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) | ⭐ 27.8k | JavaScript | 分流规则、重写写规则及脚本。 |
 | [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) | ⭐ 26.2k | TypeScript | :electron: 又一款 Mihomo 图形界面 |
@@ -34,7 +34,7 @@
 | [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) | ⭐ 6.0k | Adblock Filter List | 适用于 uBlock Origin 和 uBlock Origin Lite 的过滤列表 |
 | [GMOogway/shadowrocket-rules](https://github.com/GMOogway/shadowrocket-rules) | ⭐ 5.3k |  | 小火箭规则🚀，小火箭模块，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（DIRECT）、代理（PROXY）、屏蔽… |
 | [lennylxx/ipv6-hosts🟡](https://github.com/lennylxx/ipv6-hosts) | ⭐ 4.5k | Python | 这是 https://code.google.com/archive/p/ipv6-hosts/ 的分支，专注于实现自动化 |
-| [yuaotian/antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) | ⭐ 3.8k | C++ | 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TU… |
+| [yuaotian/antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) | ⭐ 3.9k | C++ | 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TU… |
 | [Script-Hub-Org/Script-Hub](https://github.com/Script-Hub-Org/Script-Hub) | ⭐ 3.8k | JavaScript | Advanced Script Converter for QX, Loon, Surge, Stash, Egern, LanceX and Shadowro… |
 | [alexkirsz/dispatch-proxy🟡](https://github.com/alexkirsz/dispatch-proxy) | ⭐ 3.5k | CoffeeScript | 合并多个网络连接，提升下载速度 |
 | [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) | ⭐ 2.7k | TypeScript | 适用于 Firefox/Chrome 的浏览器扩展。SmartProxy 可根据可自定义规则，为你访问的网站自动开启/关闭代理。 |
@@ -42,7 +42,7 @@
 | [BiFangKNT/mtga](https://github.com/BiFangKNT/mtga) | ⭐ 1.2k | Python | 基于本地代理的方式，绕过 IDE 的固定模型服务商限制 |
 | [ccpopy/antissh](https://github.com/ccpopy/antissh) | ⭐ 576 | Shell | 反重力Agent代理一键脚本，支持WSL、SSH远程 |
 | [foxyproxy/firefox-extension](https://github.com/foxyproxy/firefox-extension) | ⭐ 540 | JavaScript | 适用于 Firefox 57（Quantum）及以上版本的 Firefox 扩展 FoxyProxy |
-| [MetaCubeX/clash-verge🟡](https://github.com/MetaCubeX/clash-verge) | ⭐ 442 | TypeScript | 基于 Tauri 构建的 Clash 图形界面，支持 Windows、macOS 和 Linux。 |
+| [MetaCubeX/clash-verge🟡](https://github.com/MetaCubeX/clash-verge) | ⭐ 441 | TypeScript | 基于 Tauri 构建的 Clash 图形界面，支持 Windows、macOS 和 Linux。 |
 | [TopChina/proxy-list](https://github.com/TopChina/proxy-list) | ⭐ 305 |  | 免费代理列表，含HTTP、Socks4与Socks5开放代理 |
 | [kbykb/OpenAI-Compatible-API-Proxy-for-Z](https://github.com/kbykb/OpenAI-Compatible-API-Proxy-for-Z) | ⭐ 200 | Go | 这是一个为 Zai 提供 OpenAI API 兼容接口的代理服务，允许开发者通过标准的 OpenAI API 格式访问 Zai 的 GLM-4.5 模型。 |
 | [oasis-proxy/oasis-proxy-archive](https://github.com/oasis-proxy/oasis-proxy-archive) | ⭐ 44 | Vue | 适配 Manifest v3 的 SwitchOmega 替代工具 |
