@@ -9,7 +9,7 @@
 | [localsend/localsend](https://github.com/localsend/localsend) | ⭐ 90.0k | Dart | AirDrop 的开源跨平台替代工具 |
 | [CodeHubApp/CodeHub🟡](https://github.com/CodeHubApp/CodeHub) | ⭐ 22.6k | C# | CodeHub 是一款基于 Xamarin 开发的 iOS 应用程序 |
 | [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | ⭐ 18.0k | Dart | PiliPlus |
-| [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | ⭐ 17.6k | Kotlin | 一款可提升下载速度的下载管理器 |
+| [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | ⭐ 17.7k | Kotlin | 一款可提升下载速度的下载管理器 |
 | [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) | ⭐ 12.6k | Kotlin | 适用于 Android 的第三方 YouTube 前端界面 |
 | [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | ⭐ 10.6k | Shell | 将 Magisk root 和 Google Apps 集成进 WSA（Windows Subsystem for Android） |
 | [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) | ⭐ 8.8k | Dart | 它具备强大AI能力，支持多种电子书格式，让阅读更智能、更专注。 |

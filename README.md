@@ -2,12 +2,16 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1342-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--03-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1346-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--04-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
-> 📈 **1342** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
+> 📈 **1346** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
 ## 🔥 最近收藏
 
+- ⭐ [alibaba/zvec](https://github.com/alibaba/zvec) — A lightweight, lightning-fast, in-process vector database `2026-09-03`
+- ⭐ [build-workbench/chat-stash](https://github.com/build-workbench/chat-stash) — 基于大模型的聊天记录智能收纳与检索工具 | LLM-powered chat history organizer and… `2026-09-03`
+- ⭐ [charmbracelet/freeze](https://github.com/charmbracelet/freeze) — Generate images of code and terminal output 📸 `2026-09-03`
+- ⭐ [ShareX/ShareX](https://github.com/ShareX/ShareX) — ShareX is a free and open-source application that enables us… `2026-09-03`
 - ⭐ [zellij-org/zellij](https://github.com/zellij-org/zellij) — A terminal workspace with batteries included `2026-09-03`
 - ⭐ [Kuddev/nebula](https://github.com/Kuddev/nebula) — AI-native, GPU-accelerated terminal emulator for Windows wit… `2026-09-03`
 - ⭐ [holtwood/wb2api](https://github.com/holtwood/wb2api) —  `2026-09-02`
@@ -19,10 +23,6 @@
 - ⭐ [build-workbench/yolo-toys](https://github.com/build-workbench/yolo-toys) — 多模型视觉推理服务 - YOLOv8 / DETR / OWL-ViT / Grounding DINO / BLIP… `2026-08-31`
 - ⭐ [cpulxb/WSL-Image-Clipboard-Helper](https://github.com/cpulxb/WSL-Image-Clipboard-Helper) — 该工具用于在 Windows 中配合 WSL 环境下的 Claude Code、CodeX、OpenCode等 AI 工… `2026-08-31`
 - ⭐ [build-workbench/meta-human](https://github.com/build-workbench/meta-human) — 浏览器原生 3D 数字人引擎,集成语音与对话 | Browser-native 3D digital human eng… `2026-08-31`
-- ⭐ [AnnaSuSu/TechSpar](https://github.com/AnnaSuSu/TechSpar) — 一个持续进化的面试训练系统。在线体验地址：https://techspar.cn `2026-08-29`
-- ⭐ [CometixSpace/CCursor](https://github.com/CometixSpace/CCursor) — 为 Cursor IDE 自带密钥！ `2026-08-27`
-- ⭐ [gethomepage/homepage](https://github.com/gethomepage/homepage) — 支持Docker和服务API集成的高度可自定义主页（起始页/应用仪表盘） `2026-08-27`
-- ⭐ [archibate/dotfiles-opencode](https://github.com/archibate/dotfiles-opencode) — Archibate 针对 OpenCode 的个人配置 `2026-08-27`
 
 ## 📑 分类导航
 
@@ -46,11 +46,11 @@
 | 🧬 生物信息 | 51 | `█░░░░░░░░░░░░░░░` (4%) | [docs/bio.md](docs/bio.md) |
 | 📚 学习资源与清单 | 225 | `███░░░░░░░░░░░░░` (17%) | [docs/learning.md](docs/learning.md) |
 | 🎯 面试资料 | 15 | `█░░░░░░░░░░░░░░░` (1%) | [docs/interview.md](docs/interview.md) |
-| 📦 其他与杂项 | 45 | `█░░░░░░░░░░░░░░░` (3%) | [docs/misc.md](docs/misc.md) |
+| 📦 其他与杂项 | 49 | `█░░░░░░░░░░░░░░░` (4%) | [docs/misc.md](docs/misc.md) |
 
 ## 📊 快速入口
 
-- 📦 [全量索引(1342)](docs/all.md) — 所有项目按 ⭐ 排序
+- 📦 [全量索引(1346)](docs/all.md) — 所有项目按 ⭐ 排序
 - 🗣️ [按语言浏览](docs/by-language.md) — 语言分布一览
 
 ## 🔄 自动同步

@@ -6,12 +6,12 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | ⭐ 75.4k | Go | 快速可扩展的多平台 HTTP/1-2-3 Web 服务器，自带自动 HTTPS |
-| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | ⭐ 66.7k | Rust | 用 Rust 编写的非官方兼容 Bitwarden 的服务端，曾用名 bitwarden_rs |
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | ⭐ 75.5k | Go | 快速可扩展的多平台 HTTP/1-2-3 Web 服务器，自带自动 HTTPS |
+| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | ⭐ 66.8k | Rust | 用 Rust 编写的非官方兼容 Bitwarden 的服务端，曾用名 bitwarden_rs |
 | [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) | ⭐ 52.9k | Shell | 在 Docker 中运行 macOS 虚拟机！在 Docker 中运行接近原生性能的 OSX-KVM！支持 X11 转发！适用于 OS X 安全研究的 CI/C… |
 | [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) | ⭐ 37.7k | TypeScript | 使用 Trilium Notes 构建你的个人知识库 |
 | [nginx/nginx](https://github.com/nginx/nginx) | ⭐ 31.6k | C | NGINX 开源版官方仓库。 |
-| [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | ⭐ 28.7k | TypeScript | 支持自托管的全类型书签应用，可收纳链接、笔记与图片，带AI自动 tagging 和全文搜索 |
+| [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | ⭐ 28.8k | TypeScript | 支持自托管的全类型书签应用，可收纳链接、笔记与图片，带AI自动 tagging 和全文搜索 |
 | [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | ⭐ 18.8k | Shell | 可用于生产环境、容器化运行、功能完整却轻量简单的邮件服务器，支持SMTP、IMAP、LDAP、反垃圾邮件、杀毒等功能。 |
 | [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) | ⭐ 11.5k | Go | Nginx 的又一个 WebUI |
 | [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) | ⭐ 9.1k | Shell | 经过优化适配Docker的极简Ubuntu基础镜像 |
