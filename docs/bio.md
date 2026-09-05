@@ -8,8 +8,8 @@
 |------|------|------|------|
 | [ossu/bioinformatics🟡](https://github.com/ossu/bioinformatics) | ⭐ 7.1k |  | 🔬 自学生物信息学免费入门指南！ |
 | [google/deepvariant](https://github.com/google/deepvariant) | ⭐ 3.8k | Python | DeepVariant 是一款利用深度神经网络从下一代DNA测序数据中识别遗传变异的分析流程。 |
-| [alexdobin/STAR](https://github.com/alexdobin/STAR) | ⭐ 2.2k | C | RNA-seq 比对工具 |
 | [lh3/minimap2](https://github.com/lh3/minimap2) | ⭐ 2.2k | C | 适用于基因组和剪接核苷酸序列的通用双序列比对工具 |
+| [alexdobin/STAR](https://github.com/alexdobin/STAR) | ⭐ 2.2k | C | RNA-seq 比对工具 |
 | [samtools/samtools](https://github.com/samtools/samtools) | ⭐ 1.9k | C | 使用htslib以C语言编写的、用于处理下一代测序数据的工具集 |
 | [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) | ⭐ 1.9k | Shell | 用于 Bioconda 频道的 Conda 配置配方 |
 | [rust-bio/rust-bio](https://github.com/rust-bio/rust-bio) | ⭐ 1.8k | Rust | 此库提供了许多适用于生物信息学的算法和数据结构实现，所有实现都通过持续集成进行了严格测试。 |
@@ -23,15 +23,15 @@
 | [openwdl/wdl](https://github.com/openwdl/wdl) | ⭐ 856 |  | 工作流描述语言（WDL）规范 |
 | [crazyhottommy/scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes) | ⭐ 833 |  | Ming Tang 的单细胞 RNA 测序分析笔记 |
 | [mdozmorov/scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes) | ⭐ 814 | R | 单细胞RNA测序分析工具清单 |
-| [bebop/poly](https://github.com/bebop/poly) | ⭐ 736 | Go | 用于工程改造生物体的Go包 |
+| [bebop/poly](https://github.com/bebop/poly) | ⭐ 737 | Go | 用于工程改造生物体的Go包 |
 | [OysterQAQ/ACG2vec](https://github.com/OysterQAQ/ACG2vec) | ⭐ 582 |  | ACG2vec (Anime Comics Games to vector) are committed to creating a playground th… |
 | [wdecoster/NanoPlot](https://github.com/wdecoster/NanoPlot) | ⭐ 560 | HTML | 用于长读长测序数据的绘图脚本 |
-| [10XGenomics/cellranger](https://github.com/10XGenomics/cellranger) | ⭐ 475 | Rust | 10x Genomics 单细胞分析 |
+| [10XGenomics/cellranger](https://github.com/10XGenomics/cellranger) | ⭐ 476 | Rust | 10x Genomics 单细胞分析 |
 | [openbiox/weekly](https://github.com/openbiox/weekly) | ⭐ 461 | HTML | 生信爱好者周刊（每周日发布） |
 | [seqan/seqan3](https://github.com/seqan/seqan3) | ⭐ 461 | C++ | 用于序列分析的现代C++库，包含该库的第3版本及API文档。 |
 | [gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) | ⭐ 395 |  |  |
 | [Ming-Lian/NGS-analysis](https://github.com/Ming-Lian/NGS-analysis) | ⭐ 378 |  | 二代测序数据分析 |
-| [obophenotype/human-phenotype-ontology](https://github.com/obophenotype/human-phenotype-ontology) | ⭐ 371 | Makefile | 用于描述人类临床特征的本体 |
+| [obophenotype/human-phenotype-ontology](https://github.com/obophenotype/human-phenotype-ontology) | ⭐ 372 | Makefile | 用于描述人类临床特征的本体 |
 | [brentp/goleft](https://github.com/brentp/goleft) | ⭐ 227 | Go | goleft 是遵循 MIT 许可证分发的生物信息学工具合集，打包为单个静态二进制文件 |
 | [PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition) | ⭐ 216 | Python | Python生物信息学 cookbook 第三版 |
 | [BGI-HangzhouAI/Genos](https://github.com/BGI-HangzhouAI/Genos) | ⭐ 179 | Jupyter Notebook | 基因组基础大模型 |

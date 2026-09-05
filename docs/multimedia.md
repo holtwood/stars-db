@@ -23,7 +23,7 @@
 | [VonChange/utao](https://github.com/VonChange/utao) | ⭐ 4.4k | JavaScript | 油桃TV 电视浏览器 可看各大卫视CCTV直播 无需电视VIP 适配爱奇艺等主流视频平台 |
 | [q191201771/lal](https://github.com/q191201771/lal) | ⭐ 3.0k | Go | 🔥 Golang audio/video live streaming lib/client/server. support RTMP, RTSP(RTP/RT… |
 | [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) | ⭐ 2.5k | TypeScript | 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成 |
-| [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 783 | Go | 👏 Make learning a lifelong habit. 学无止境 |
+| [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 784 | Go | 👏 Make learning a lifelong habit. 学无止境 |
 | [lylehust/Chinese-IPTV](https://github.com/lylehust/Chinese-IPTV) | ⭐ 595 |  | 中国电视频道列表（IPV6） |
 | [hooke007/mpv.net_CM🟡](https://github.com/hooke007/mpv.net_CM) | ⭐ 550 |  | 🎞 mpv.net_CM 是中文分支模组 |
 

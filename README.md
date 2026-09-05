@@ -2,12 +2,14 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1346-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--04-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1348-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--05-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
-> 📈 **1346** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
+> 📈 **1348** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
 ## 🔥 最近收藏
 
+- ⭐ [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games) — GPT-6 Astra 的 One Shot 游戏测试，包含原始 Prompt 与可直接运行的单文件 HTML。 `2026-09-05`
+- ⭐ [openchamber/openchamber](https://github.com/openchamber/openchamber) — Agentic Development Environment based on OpenCode AI agent `2026-09-04`
 - ⭐ [alibaba/zvec](https://github.com/alibaba/zvec) — A lightweight, lightning-fast, in-process vector database `2026-09-03`
 - ⭐ [build-workbench/chat-stash](https://github.com/build-workbench/chat-stash) — 基于大模型的聊天记录智能收纳与检索工具 | LLM-powered chat history organizer and… `2026-09-03`
 - ⭐ [charmbracelet/freeze](https://github.com/charmbracelet/freeze) — Generate images of code and terminal output 📸 `2026-09-03`
@@ -21,8 +23,6 @@
 - ⭐ [holtwood/agent-skills-kit](https://github.com/holtwood/agent-skills-kit) —  `2026-09-01`
 - ⭐ [build-workbench/bookmarks-cleaner](https://github.com/build-workbench/bookmarks-cleaner) — 离线书签自动分类引擎：规则优先 · ML 辅助 · LLM 可选 `2026-09-01`
 - ⭐ [build-workbench/yolo-toys](https://github.com/build-workbench/yolo-toys) — 多模型视觉推理服务 - YOLOv8 / DETR / OWL-ViT / Grounding DINO / BLIP… `2026-08-31`
-- ⭐ [cpulxb/WSL-Image-Clipboard-Helper](https://github.com/cpulxb/WSL-Image-Clipboard-Helper) — 该工具用于在 Windows 中配合 WSL 环境下的 Claude Code、CodeX、OpenCode等 AI 工… `2026-08-31`
-- ⭐ [build-workbench/meta-human](https://github.com/build-workbench/meta-human) — 浏览器原生 3D 数字人引擎,集成语音与对话 | Browser-native 3D digital human eng… `2026-08-31`
 
 ## 📑 分类导航
 
@@ -46,11 +46,11 @@
 | 🧬 生物信息 | 51 | `█░░░░░░░░░░░░░░░` (4%) | [docs/bio.md](docs/bio.md) |
 | 📚 学习资源与清单 | 225 | `███░░░░░░░░░░░░░` (17%) | [docs/learning.md](docs/learning.md) |
 | 🎯 面试资料 | 15 | `█░░░░░░░░░░░░░░░` (1%) | [docs/interview.md](docs/interview.md) |
-| 📦 其他与杂项 | 49 | `█░░░░░░░░░░░░░░░` (4%) | [docs/misc.md](docs/misc.md) |
+| 📦 其他与杂项 | 51 | `█░░░░░░░░░░░░░░░` (4%) | [docs/misc.md](docs/misc.md) |
 
 ## 📊 快速入口
 
-- 📦 [全量索引(1346)](docs/all.md) — 所有项目按 ⭐ 排序
+- 📦 [全量索引(1348)](docs/all.md) — 所有项目按 ⭐ 排序
 - 🗣️ [按语言浏览](docs/by-language.md) — 语言分布一览
 
 ## 🔄 自动同步
