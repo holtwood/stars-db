@@ -20,7 +20,7 @@
 | [genieincodebottle/generative-ai](https://github.com/genieincodebottle/generative-ai) | ⭐ 2.6k | Jupyter Notebook | 生成式AI综合资源库，包含详细路线图、项目、应用场景、面试准备与编程准备内容。 |
 | [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice) | ⭐ 2.5k | Go | 交互式Go面试平台——包含30+编程挑战，提供即时反馈、AI面试模拟、竞技排行榜和自动化测试，覆盖从入门到进阶全等级，场景贴合实际开发。 |
 | [AniruddhaChattopadhyay/Books](https://github.com/AniruddhaChattopadhyay/Books) | ⭐ 1.9k |  |  |
-| [jingtian11/EasyOffer](https://github.com/jingtian11/EasyOffer) | ⭐ 820 | Jupyter Notebook | 《EasyOffer》（<大模型面经合集>）是针对LLM宝宝们量身打造的大模型暑期实习Offer指南，主要记录大模型暑期实习和秋招准备的一些常见大厂手撕代码、大… |
+| [jingtian11/EasyOffer](https://github.com/jingtian11/EasyOffer) | ⭐ 819 | Jupyter Notebook | 《EasyOffer》（<大模型面经合集>）是针对LLM宝宝们量身打造的大模型暑期实习Offer指南，主要记录大模型暑期实习和秋招准备的一些常见大厂手撕代码、大… |
 
 ---
 [⬆ 返回顶部](#top)

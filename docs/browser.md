@@ -6,7 +6,7 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [refined-github/refined-github](https://github.com/refined-github/refined-github) | ⭐ 32.0k | TypeScript | :octocat: 一款简化 GitHub 界面并新增实用功能的浏览器扩展 |
+| [refined-github/refined-github](https://github.com/refined-github/refined-github) | ⭐ 32.1k | TypeScript | :octocat: 一款简化 GitHub 界面并新增实用功能的浏览器扩展 |
 | [ovity/octotree](https://github.com/ovity/octotree) | ⭐ 23.2k | JavaScript | 能力超强增强版GitHub |
 | [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) | ⭐ 7.5k |  | 我终于能用谷歌搜中文了…… |
 | [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) | ⭐ 6.0k | JavaScript | 使用Google、Bing或Yandex实时翻译你的页面 |

@@ -17,7 +17,7 @@
 | [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) | ⭐ 31.1k |  | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 |
 | [aosabook/500lines](https://github.com/aosabook/500lines) | ⭐ 29.6k | JavaScript | 500行以内项目 |
 | [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) | ⭐ 28.4k | TypeScript | 几秒即可克隆复刻任意网站，生成现代化 React 应用 |
-| [readest/readest](https://github.com/readest/readest) | ⭐ 24.0k | TypeScript | Readest 是为深度阅读爱好者打造的现代化多功能电子书阅读器，可提供流畅跨平台访问、强大工具与直观界面，全方位提升你的阅读体验。 |
+| [readest/readest](https://github.com/readest/readest) | ⭐ 24.1k | TypeScript | Readest 是为深度阅读爱好者打造的现代化多功能电子书阅读器，可提供流畅跨平台访问、强大工具与直观界面，全方位提升你的阅读体验。 |
 | [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) | ⭐ 20.4k | JavaScript | 一个轻量的 Vue2.0 后台管理模板 |
 | [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) | ⭐ 19.7k | JavaScript | 用于本地文件共享的渐进式Web应用 |
 | [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) | ⭐ 19.6k | Vue | Vue3、Element Plus、typescript后台管理系统 |
@@ -55,9 +55,9 @@
 | [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) | ⭐ 905 | Svelte | 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI… |
 | [yenche123/liubai](https://github.com/yenche123/liubai) | ⭐ 864 | TypeScript | 赋能你自己！ |
 | [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 852 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
-| [o8oo8o/WebCurl](https://github.com/o8oo8o/WebCurl) | ⭐ 609 | HTML | 极简网页版API调试神器 |
-| [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 598 | TypeScript |  |
-| [Paper-Dragon/mobaxterm-crack](https://github.com/Paper-Dragon/mobaxterm-crack) | ⭐ 573 | TypeScript | 破解MobaXterm的高级版，生成密钥，支持几乎所有版本。 |
+| [o8oo8o/WebCurl](https://github.com/o8oo8o/WebCurl) | ⭐ 608 | HTML | 极简网页版API调试神器 |
+| [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 600 | TypeScript |  |
+| [Paper-Dragon/mobaxterm-crack](https://github.com/Paper-Dragon/mobaxterm-crack) | ⭐ 575 | TypeScript | 破解MobaXterm的高级版，生成密钥，支持几乎所有版本。 |
 | [Sergei-Korneev/obsidian-local-images-plus](https://github.com/Sergei-Korneev/obsidian-local-images-plus) | ⭐ 563 | TypeScript | 本仓库是 obsidian-local-images 插件的重制项目，该插件的核心功能是将 Markdown 笔记中的图片下载到本地存储。 |
 | [lunar-landing/layui-vue](https://github.com/lunar-landing/layui-vue) | ⭐ 557 | Vue | 基于 Layui 和 Vue 的企业级 UI 组件库 |
 | [ButaiKirin/MicrosoftHostsPicker](https://github.com/ButaiKirin/MicrosoftHostsPicker) | ⭐ 509 | CSS | 用于筛选Microsoft服务最快IP的轻量Python脚本 |
@@ -67,7 +67,7 @@
 | [wzdnzd/resume](https://github.com/wzdnzd/resume) | ⭐ 402 | TypeScript | 功能丰富、支持灵活自定义的简历生成工具 |
 | [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) | ⭐ 370 | JavaScript | 一款广受欢迎的纯CSS文字肖像生成工具，用来送给你爱的人。 |
 | [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) | ⭐ 359 | JavaScript | GitHub Freshness 在线文档 |
-| [AnkRoot/Augment-BYOK](https://github.com/AnkRoot/Augment-BYOK) | ⭐ 341 | JavaScript |  |
+| [AnkRoot/Augment-BYOK](https://github.com/AnkRoot/Augment-BYOK) | ⭐ 342 | JavaScript |  |
 | [dongshuyan/PromptHelper](https://github.com/dongshuyan/PromptHelper) | ⭐ 332 | JavaScript | 帮你管理提示词模板 |
 | [zhugezifang/ai_timeline](https://github.com/zhugezifang/ai_timeline) | ⭐ 233 | HTML | AI时间线，产品地址：http://www.ai-timeline.top |
 | [summertime-wu/make_cnblogs_better](https://github.com/summertime-wu/make_cnblogs_better) | ⭐ 217 | HTML | 博客园样式美化、自定义博客园样式 |
