@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-05T03:30:31.352162+00:00",
- "total": 1348,
+ "generated_at": "2026-09-06T03:31:15.901078+00:00",
+ "total": 1350,
  "categories": {
   "ai": {
    "title": "🤖 AI 与 LLM",
@@ -157,7 +157,7 @@
   "misc": {
    "title": "📦 其他与杂项",
    "desc": "未归类、杂项与有效工具",
-   "count": 51,
+   "count": 53,
    "lists": [
     "其他与杂项",
     "有效工具"
@@ -166,9 +166,54 @@
  },
  "repos": [
   {
+   "full_name": "Caldis/Mos",
+   "html_url": "https://github.com/Caldis/Mos",
+   "stars": 21330,
+   "language": "Swift",
+   "topics": [
+    "homebrew",
+    "macos",
+    "mouse",
+    "osx",
+    "reverse",
+    "scroll",
+    "smooth",
+    "smooth-scrolling",
+    "smoothscroll",
+    "swift"
+   ],
+   "description": "一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS",
+   "description_zh": null,
+   "archived": false,
+   "fork": false,
+   "starred_at": "2026-09-05T09:59:09Z",
+   "lists": [
+    "其他与杂项"
+   ]
+  },
+  {
+   "full_name": "p0deje/Maccy",
+   "html_url": "https://github.com/p0deje/Maccy",
+   "stars": 21488,
+   "language": "Swift",
+   "topics": [
+    "clipboard-manager",
+    "maccy",
+    "macos"
+   ],
+   "description": "Lightweight clipboard manager for macOS",
+   "description_zh": null,
+   "archived": false,
+   "fork": false,
+   "starred_at": "2026-09-05T09:57:45Z",
+   "lists": [
+    "其他与杂项"
+   ]
+  },
+  {
    "full_name": "Ayi1337/gpt6-astra-one-shot-games",
    "html_url": "https://github.com/Ayi1337/gpt6-astra-one-shot-games",
-   "stars": 6,
+   "stars": 16,
    "language": "HTML",
    "topics": [],
    "description": "GPT-6 Astra 的 One Shot 游戏测试，包含原始 Prompt 与可直接运行的单文件 HTML。",
@@ -183,7 +228,7 @@
   {
    "full_name": "openchamber/openchamber",
    "html_url": "https://github.com/openchamber/openchamber",
-   "stars": 9562,
+   "stars": 9586,
    "language": "TypeScript",
    "topics": [
     "agentic-engineering",
@@ -204,7 +249,7 @@
   {
    "full_name": "alibaba/zvec",
    "html_url": "https://github.com/alibaba/zvec",
-   "stars": 15784,
+   "stars": 15796,
    "language": "C++",
    "topics": [
     "agent-skills",
@@ -273,7 +318,7 @@
   {
    "full_name": "ShareX/ShareX",
    "html_url": "https://github.com/ShareX/ShareX",
-   "stars": 39448,
+   "stars": 39454,
    "language": "C#",
    "topics": [
     "avalonia",
@@ -309,7 +354,7 @@
   {
    "full_name": "zellij-org/zellij",
    "html_url": "https://github.com/zellij-org/zellij",
-   "stars": 35287,
+   "stars": 35295,
    "language": "Rust",
    "topics": [
     "multiplexer",
@@ -328,7 +373,7 @@
   {
    "full_name": "Kuddev/nebula",
    "html_url": "https://github.com/Kuddev/nebula",
-   "stars": 650,
+   "stars": 659,
    "language": "Rust",
    "topics": [
     "ai-cli",
@@ -376,7 +421,7 @@
   {
    "full_name": "MAXeaglet/commandcode-proxy",
    "html_url": "https://github.com/MAXeaglet/commandcode-proxy",
-   "stars": 298,
+   "stars": 304,
    "language": "JavaScript",
    "topics": [],
    "description": "Command Code API → OpenAI 兼容接口的反代代理",
@@ -391,7 +436,7 @@
   {
    "full_name": "NousResearch/hermes-agent",
    "html_url": "https://github.com/NousResearch/hermes-agent",
-   "stars": 241545,
+   "stars": 242064,
    "language": "Python",
    "topics": [
     "ai",
@@ -420,7 +465,7 @@
   {
    "full_name": "tt-a1i/archify",
    "html_url": "https://github.com/tt-a1i/archify",
-   "stars": 48235,
+   "stars": 49569,
    "language": "JavaScript",
    "topics": [
     "agent-skills",
@@ -599,7 +644,7 @@
   {
    "full_name": "gethomepage/homepage",
    "html_url": "https://github.com/gethomepage/homepage",
-   "stars": 32414,
+   "stars": 32428,
    "language": "JavaScript",
    "topics": [
     "docker",
@@ -637,8 +682,8 @@
   {
    "full_name": "OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL",
    "html_url": "https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL",
-   "stars": 749,
-   "language": "JavaScript",
+   "stars": 752,
+   "language": null,
    "topics": [],
    "description": "去AI味提示词-作家增强-SKILL",
    "description_zh": "去AI味提示词-作家增强-SKILL",
@@ -652,7 +697,7 @@
   {
    "full_name": "louislam/dockge",
    "html_url": "https://github.com/louislam/dockge",
-   "stars": 24256,
+   "stars": 24265,
    "language": "TypeScript",
    "topics": [
     "docker",
@@ -681,7 +726,7 @@
   {
    "full_name": "louislam/uptime-kuma",
    "html_url": "https://github.com/louislam/uptime-kuma",
-   "stars": 90987,
+   "stars": 91023,
    "language": "JavaScript",
    "topics": [
     "docker",
@@ -709,7 +754,7 @@
   {
    "full_name": "sissbruecker/linkding",
    "html_url": "https://github.com/sissbruecker/linkding",
-   "stars": 11146,
+   "stars": 11149,
    "language": "Python",
    "topics": [
     "bookmark-manager",
@@ -729,7 +774,7 @@
   {
    "full_name": "paperless-ngx/paperless-ngx",
    "html_url": "https://github.com/paperless-ngx/paperless-ngx",
-   "stars": 44856,
+   "stars": 44878,
    "language": "Python",
    "topics": [
     "ai",
@@ -772,7 +817,7 @@
   {
    "full_name": "Christ9038/Ydisks-Xianyu-Helper",
    "html_url": "https://github.com/Christ9038/Ydisks-Xianyu-Helper",
-   "stars": 1338,
+   "stars": 1349,
    "language": "Go",
    "topics": [
     "xianyu",
@@ -793,7 +838,7 @@
   {
    "full_name": "huifer/WellAlly-health",
    "html_url": "https://github.com/huifer/WellAlly-health",
-   "stars": 938,
+   "stars": 939,
    "language": "Shell",
    "topics": [
     "claude",
@@ -813,7 +858,7 @@
   {
    "full_name": "henrygd/beszel",
    "html_url": "https://github.com/henrygd/beszel",
-   "stars": 25075,
+   "stars": 25105,
    "language": "Go",
    "topics": [
     "homelab",
@@ -832,7 +877,7 @@
   {
    "full_name": "searxng/searxng",
    "html_url": "https://github.com/searxng/searxng",
-   "stars": 36531,
+   "stars": 36570,
    "language": "Python",
    "topics": [
     "bing",
@@ -917,7 +962,7 @@
   {
    "full_name": "Mailu/Mailu",
    "html_url": "https://github.com/Mailu/Mailu",
-   "stars": 7488,
+   "stars": 7490,
    "language": "Python",
    "topics": [
     "dkim",
@@ -946,7 +991,7 @@
   {
    "full_name": "DigitalPlatDev/FreeDomain",
    "html_url": "https://github.com/DigitalPlatDev/FreeDomain",
-   "stars": 197609,
+   "stars": 197758,
    "language": "Markdown",
    "topics": [
     "digitalplat",
@@ -977,7 +1022,7 @@
   {
    "full_name": "docker-mailserver/docker-mailserver",
    "html_url": "https://github.com/docker-mailserver/docker-mailserver",
-   "stars": 18826,
+   "stars": 18828,
    "language": "Shell",
    "topics": [
     "container",
@@ -1004,7 +1049,7 @@
   {
    "full_name": "dani-garcia/vaultwarden",
    "html_url": "https://github.com/dani-garcia/vaultwarden",
-   "stars": 66858,
+   "stars": 66900,
    "language": "Rust",
    "topics": [
     "bitwarden",
@@ -1026,7 +1071,7 @@
   {
    "full_name": "yjh051108/dsh-routing-suite",
    "html_url": "https://github.com/yjh051108/dsh-routing-suite",
-   "stars": 7079,
+   "stars": 7098,
    "language": "JavaScript",
    "topics": [
     "ai-agents",
@@ -1047,7 +1092,7 @@
   {
    "full_name": "xiaobright/dsh-anchored-standard",
    "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
-   "stars": 3823,
+   "stars": 3827,
    "language": "JavaScript",
    "topics": [
     "deepseek",
@@ -1067,7 +1112,7 @@
   {
    "full_name": "yjh051108/dsh-router-standard",
    "html_url": "https://github.com/yjh051108/dsh-router-standard",
-   "stars": 362,
+   "stars": 361,
    "language": "JavaScript",
    "topics": [
     "ai-agents",
@@ -1088,7 +1133,7 @@
   {
    "full_name": "reubeno/brush",
    "html_url": "https://github.com/reubeno/brush",
-   "stars": 2203,
+   "stars": 2204,
    "language": "Rust",
    "topics": [
     "bash",
@@ -1109,7 +1154,7 @@
   {
    "full_name": "deepseek-ai/deepseek-harness",
    "html_url": "https://github.com/deepseek-ai/deepseek-harness",
-   "stars": 212354,
+   "stars": 213231,
    "language": "TypeScript",
    "topics": [
     "ai-agents",
@@ -1129,7 +1174,7 @@
   {
    "full_name": "mudkipme/MoeMemosAndroid",
    "html_url": "https://github.com/mudkipme/MoeMemosAndroid",
-   "stars": 1164,
+   "stars": 1166,
    "language": "Kotlin",
    "topics": [
     "android-application",
@@ -1153,7 +1198,7 @@
   {
    "full_name": "bin456789/reinstall",
    "html_url": "https://github.com/bin456789/reinstall",
-   "stars": 12987,
+   "stars": 12999,
    "language": "Shell",
    "topics": [
     "alpine",
@@ -1185,7 +1230,7 @@
   {
    "full_name": "v2rayA/v2rayA",
    "html_url": "https://github.com/v2rayA/v2rayA",
-   "stars": 15535,
+   "stars": 15533,
    "language": "Go",
    "topics": [
     "gfw",
@@ -1211,7 +1256,7 @@
   {
    "full_name": "vrtmrz/obsidian-livesync",
    "html_url": "https://github.com/vrtmrz/obsidian-livesync",
-   "stars": 12232,
+   "stars": 12239,
    "language": "TypeScript",
    "topics": [],
    "description": null,
@@ -1226,7 +1271,7 @@
   {
    "full_name": "huangguang1999/ccstatusline-zh",
    "html_url": "https://github.com/huangguang1999/ccstatusline-zh",
-   "stars": 771,
+   "stars": 772,
    "language": "TypeScript",
    "topics": [],
    "description": "ccstatusline 的中文汉化版 - Claude Code CLI 可定制状态栏格式化工具",
@@ -1275,7 +1320,7 @@
   {
    "full_name": "gpu-mode/lectures",
    "html_url": "https://github.com/gpu-mode/lectures",
-   "stars": 6546,
+   "stars": 6552,
    "language": "Jupyter Notebook",
    "topics": [],
    "description": "Material for gpu-mode lectures",
@@ -1290,7 +1335,7 @@
   {
    "full_name": "siboehm/SGEMM_CUDA",
    "html_url": "https://github.com/siboehm/SGEMM_CUDA",
-   "stars": 1300,
+   "stars": 1299,
    "language": "Cuda",
    "topics": [],
    "description": "Fast CUDA matrix multiplication from scratch",
@@ -1305,7 +1350,7 @@
   {
    "full_name": "manaflow-ai/cmux",
    "html_url": "https://github.com/manaflow-ai/cmux",
-   "stars": 26790,
+   "stars": 26824,
    "language": "Swift",
    "topics": [
     "amp",
@@ -1354,7 +1399,7 @@
   {
    "full_name": "karpathy/minGPT",
    "html_url": "https://github.com/karpathy/minGPT",
-   "stars": 24864,
+   "stars": 24865,
    "language": "Python",
    "topics": [],
    "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
@@ -1389,7 +1434,7 @@
   {
    "full_name": "sirmalloc/ccstatusline",
    "html_url": "https://github.com/sirmalloc/ccstatusline",
-   "stars": 12770,
+   "stars": 12783,
    "language": "TypeScript",
    "topics": [
     "ai-tools",
@@ -1415,7 +1460,7 @@
   {
    "full_name": "shadcn/improve",
    "html_url": "https://github.com/shadcn/improve",
-   "stars": 9074,
+   "stars": 9083,
    "language": null,
    "topics": [],
    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
@@ -1430,7 +1475,7 @@
   {
    "full_name": "xai-org/grok-build",
    "html_url": "https://github.com/xai-org/grok-build",
-   "stars": 26476,
+   "stars": 26495,
    "language": "Rust",
    "topics": [],
    "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
@@ -1466,7 +1511,7 @@
   {
    "full_name": "NVIDIA/stdexec",
    "html_url": "https://github.com/NVIDIA/stdexec",
-   "stars": 2428,
+   "stars": 2429,
    "language": "C++",
    "topics": [],
    "description": "`std::execution`, the standard C++ framework for asynchronous and parallel programming.",
@@ -1508,7 +1553,7 @@
   {
    "full_name": "eatmoreduck/boss-zhipin-scraper",
    "html_url": "https://github.com/eatmoreduck/boss-zhipin-scraper",
-   "stars": 1297,
+   "stars": 1300,
    "language": "Python",
    "topics": [
     "boss-zhipin",
@@ -1535,7 +1580,7 @@
   {
    "full_name": "binaricat/Netcatty",
    "html_url": "https://github.com/binaricat/Netcatty",
-   "stars": 5631,
+   "stars": 5657,
    "language": "TypeScript",
    "topics": [
     "electron",
@@ -1596,7 +1641,7 @@
   {
    "full_name": "sgl-project/sglang",
    "html_url": "https://github.com/sgl-project/sglang",
-   "stars": 35488,
+   "stars": 35511,
    "language": "Python",
    "topics": [
     "attention",
@@ -1658,7 +1703,7 @@
   {
    "full_name": "triton-lang/triton",
    "html_url": "https://github.com/triton-lang/triton",
-   "stars": 20092,
+   "stars": 20096,
    "language": "MLIR",
    "topics": [],
    "description": "Development repository for the Triton language and compiler",
@@ -1674,7 +1719,7 @@
   {
    "full_name": "Gisto/Gisto",
    "html_url": "https://github.com/Gisto/Gisto",
-   "stars": 1165,
+   "stars": 1166,
    "language": "TypeScript",
    "topics": [
     "gist",
@@ -1758,7 +1803,7 @@
   {
    "full_name": "GanyuanRan/Aegis",
    "html_url": "https://github.com/GanyuanRan/Aegis",
-   "stars": 1167,
+   "stars": 1170,
    "language": "Python",
    "topics": [
     "agent-skills",
@@ -1847,7 +1892,7 @@
   {
    "full_name": "XiaomiMiMo/MiMo-Code",
    "html_url": "https://github.com/XiaomiMiMo/MiMo-Code",
-   "stars": 12949,
+   "stars": 12956,
    "language": "TypeScript",
    "topics": [
     "ai",
@@ -1868,7 +1913,7 @@
   {
    "full_name": "danielmiessler/LifeOS",
    "html_url": "https://github.com/danielmiessler/LifeOS",
-   "stars": 18886,
+   "stars": 18897,
    "language": "TypeScript",
    "topics": [
     "ai",
@@ -1893,7 +1938,7 @@
   {
    "full_name": "geekxh/hello-algorithm",
    "html_url": "https://github.com/geekxh/hello-algorithm",
-   "stars": 36090,
+   "stars": 36091,
    "language": "Java",
    "topics": [
     "algorithms",
@@ -1914,7 +1959,7 @@
   {
    "full_name": "taizilongxu/interview_python",
    "html_url": "https://github.com/taizilongxu/interview_python",
-   "stars": 17383,
+   "stars": 17382,
    "language": "Shell",
    "topics": [],
    "description": "关于Python的面试题",
@@ -1930,7 +1975,7 @@
   {
    "full_name": "karanpratapsingh/system-design",
    "html_url": "https://github.com/karanpratapsingh/system-design",
-   "stars": 45938,
+   "stars": 45942,
    "language": null,
    "topics": [
     "architecture",
@@ -1957,7 +2002,7 @@
   {
    "full_name": "genieincodebottle/generative-ai",
    "html_url": "https://github.com/genieincodebottle/generative-ai",
-   "stars": 2612,
+   "stars": 2613,
    "language": "Jupyter Notebook",
    "topics": [
     "agentic-ai",
@@ -2020,7 +2065,7 @@
   {
    "full_name": "andkret/Cookbook",
    "html_url": "https://github.com/andkret/Cookbook",
-   "stars": 15402,
+   "stars": 15403,
    "language": "Python",
    "topics": [
     "best-practices",
@@ -2042,7 +2087,7 @@
   {
    "full_name": "donnemartin/interactive-coding-challenges",
    "html_url": "https://github.com/donnemartin/interactive-coding-challenges",
-   "stars": 31782,
+   "stars": 31785,
    "language": "Python",
    "topics": [
     "algorithm",
@@ -2068,7 +2113,7 @@
   {
    "full_name": "Wechat-ggGitHub/Awesome-GitHub-Repo",
    "html_url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
-   "stars": 17218,
+   "stars": 17219,
    "language": null,
    "topics": [],
    "description": "收集整理 GitHub 上高质量、有趣的开源项目。",
@@ -2083,7 +2128,7 @@
   {
    "full_name": "GitHubDaily/GitHubDaily",
    "html_url": "https://github.com/GitHubDaily/GitHubDaily",
-   "stars": 47832,
+   "stars": 47836,
    "language": null,
    "topics": [
     "ai",
@@ -2115,7 +2160,7 @@
   {
    "full_name": "DataExpert-io/data-engineer-handbook",
    "html_url": "https://github.com/DataExpert-io/data-engineer-handbook",
-   "stars": 43977,
+   "stars": 43989,
    "language": "Jupyter Notebook",
    "topics": [
     "apachespark",
@@ -2137,7 +2182,7 @@
   {
    "full_name": "luhengshiwo/LLMForEverybody",
    "html_url": "https://github.com/luhengshiwo/LLMForEverybody",
-   "stars": 7271,
+   "stars": 7276,
    "language": "Jupyter Notebook",
    "topics": [
     "agent",
@@ -2174,7 +2219,7 @@
   {
    "full_name": "dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions",
    "html_url": "https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions",
-   "stars": 4434,
+   "stars": 4433,
    "language": null,
    "topics": [
     "algorithm",
@@ -2196,7 +2241,7 @@
   {
    "full_name": "AndrewStetsenko/tech-jobs-with-relocation",
    "html_url": "https://github.com/AndrewStetsenko/tech-jobs-with-relocation",
-   "stars": 4526,
+   "stars": 4529,
    "language": null,
    "topics": [
     "abroad",
@@ -2219,7 +2264,7 @@
   {
    "full_name": "liquidslr/leetcode-company-wise-problems",
    "html_url": "https://github.com/liquidslr/leetcode-company-wise-problems",
-   "stars": 29652,
+   "stars": 29678,
    "language": null,
    "topics": [
     "amazon-interview",
@@ -2318,7 +2363,7 @@
   {
    "full_name": "RezaSi/go-interview-practice",
    "html_url": "https://github.com/RezaSi/go-interview-practice",
-   "stars": 2462,
+   "stars": 2465,
    "language": "Go",
    "topics": [
     "ai-interview",
@@ -2371,7 +2416,7 @@
   {
    "full_name": "nas5w/interview-guide",
    "html_url": "https://github.com/nas5w/interview-guide",
-   "stars": 4306,
+   "stars": 4307,
    "language": "Astro",
    "topics": [
     "interview",
@@ -2390,7 +2435,7 @@
   {
    "full_name": "cybergeekgyan/Quant-Developers-Resources",
    "html_url": "https://github.com/cybergeekgyan/Quant-Developers-Resources",
-   "stars": 3759,
+   "stars": 3762,
    "language": "Python",
    "topics": [
     "algorithmic-trading",
@@ -2446,7 +2491,7 @@
   {
    "full_name": "aishwaryanr/awesome-generative-ai-guide",
    "html_url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-   "stars": 29257,
+   "stars": 29268,
    "language": "HTML",
    "topics": [
     "awesome",
@@ -2486,7 +2531,7 @@
   {
    "full_name": "0voice/awesome_audio_video_learning",
    "html_url": "https://github.com/0voice/awesome_audio_video_learning",
-   "stars": 1168,
+   "stars": 1169,
    "language": null,
    "topics": [],
    "description": "2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！",
@@ -2613,7 +2658,7 @@
   {
    "full_name": "alexeygrigorev/ai-engineering-field-guide",
    "html_url": "https://github.com/alexeygrigorev/ai-engineering-field-guide",
-   "stars": 5451,
+   "stars": 5465,
    "language": "HTML",
    "topics": [],
    "description": "Research into AI engineering interview assignments, take-home challenges, and hiring practices from 2026",
@@ -2628,7 +2673,7 @@
   {
    "full_name": "KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
    "html_url": "https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
-   "stars": 1045,
+   "stars": 1046,
    "language": null,
    "topics": [
     "ai-engineer-interview",
@@ -2648,7 +2693,7 @@
   {
    "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
    "html_url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-   "stars": 2990,
+   "stars": 2999,
    "language": "Markdown",
    "topics": [
     "agents",
@@ -2677,7 +2722,7 @@
   {
    "full_name": "deepseek-ai/awesome-deepseek-agent",
    "html_url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
-   "stars": 6037,
+   "stars": 6040,
    "language": null,
    "topics": [],
    "description": null,
@@ -2707,7 +2752,7 @@
   {
    "full_name": "microsoft/coreutils",
    "html_url": "https://github.com/microsoft/coreutils",
-   "stars": 5130,
+   "stars": 5136,
    "language": "Rust",
    "topics": [
     "command-line-tool",
@@ -2751,7 +2796,7 @@
   {
    "full_name": "Ssabby1/repo-to-resume-tailor",
    "html_url": "https://github.com/Ssabby1/repo-to-resume-tailor",
-   "stars": 121,
+   "stars": 122,
    "language": "Python",
    "topics": [],
    "description": "Turn code repositories into resume-ready project descriptions tailored to roles or job descriptions.",
@@ -2766,7 +2811,7 @@
   {
    "full_name": "OthmanAdi/planning-with-files",
    "html_url": "https://github.com/OthmanAdi/planning-with-files",
-   "stars": 26631,
+   "stars": 26648,
    "language": "Shell",
    "topics": [
     "agent-skills",
@@ -2802,7 +2847,7 @@
   {
    "full_name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
    "html_url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-   "stars": 17920,
+   "stars": 17927,
    "language": "Python",
    "topics": [],
    "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
@@ -2817,7 +2862,7 @@
   {
    "full_name": "BigPizzaV3/CodexPlusPlus",
    "html_url": "https://github.com/BigPizzaV3/CodexPlusPlus",
-   "stars": 30202,
+   "stars": 30264,
    "language": "Rust",
    "topics": [],
    "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
@@ -2832,7 +2877,7 @@
   {
    "full_name": "MoonshotAI/kimi-code",
    "html_url": "https://github.com/MoonshotAI/kimi-code",
-   "stars": 7253,
+   "stars": 7265,
    "language": "TypeScript",
    "topics": [],
    "description": "Kimi Code CLI  —  The Starting Point for Next-Gen Agents",
@@ -2897,7 +2942,7 @@
   {
    "full_name": "psmux/psmux",
    "html_url": "https://github.com/psmux/psmux",
-   "stars": 3419,
+   "stars": 3423,
    "language": "PowerShell",
    "topics": [
     "cli",
@@ -2929,7 +2974,7 @@
   {
    "full_name": "OpenBMB/MiniCPM-V",
    "html_url": "https://github.com/OpenBMB/MiniCPM-V",
-   "stars": 26298,
+   "stars": 26303,
    "language": "Python",
    "topics": [
     "minicpm",
@@ -2972,7 +3017,7 @@
   {
    "full_name": "vercel-labs/agent-skills",
    "html_url": "https://github.com/vercel-labs/agent-skills",
-   "stars": 30845,
+   "stars": 30880,
    "language": "JavaScript",
    "topics": [],
    "description": "Vercel's official collection of agent skills",
@@ -2987,7 +3032,7 @@
   {
    "full_name": "mxyhi/ok-skills",
    "html_url": "https://github.com/mxyhi/ok-skills",
-   "stars": 480,
+   "stars": 481,
    "language": "HTML",
    "topics": [
     "agent-skills",
@@ -3019,7 +3064,7 @@
   {
    "full_name": "karpathy/nanochat",
    "html_url": "https://github.com/karpathy/nanochat",
-   "stars": 57780,
+   "stars": 57803,
    "language": "Python",
    "topics": [],
    "description": "The best ChatGPT that $100 can buy.",
@@ -3064,7 +3109,7 @@
   {
    "full_name": "Rath-Team/OpenRath",
    "html_url": "https://github.com/Rath-Team/OpenRath",
-   "stars": 1134,
+   "stars": 1136,
    "language": "Python",
    "topics": [
     "agent-framework",
@@ -3114,7 +3159,7 @@
   {
    "full_name": "deepseek-ai/TileKernels",
    "html_url": "https://github.com/deepseek-ai/TileKernels",
-   "stars": 1751,
+   "stars": 1752,
    "language": "Python",
    "topics": [],
    "description": "A kernel library written in tilelang",
@@ -3129,7 +3174,7 @@
   {
    "full_name": "jlcodes99/cockpit-tools",
    "html_url": "https://github.com/jlcodes99/cockpit-tools",
-   "stars": 17061,
+   "stars": 17110,
    "language": "Rust",
    "topics": [
     "account-manager",
@@ -3154,7 +3199,7 @@
   {
    "full_name": "a9gent/mindfs",
    "html_url": "https://github.com/a9gent/mindfs",
-   "stars": 1769,
+   "stars": 1770,
    "language": "TypeScript",
    "topics": [],
    "description": "Access your personal AI agents and workstation data anywhere, anytime through MindFS.",
@@ -3169,7 +3214,7 @@
   {
    "full_name": "aaif-goose/goose",
    "html_url": "https://github.com/aaif-goose/goose",
-   "stars": 53918,
+   "stars": 53942,
    "language": "Rust",
    "topics": [
     "acp",
@@ -3189,7 +3234,7 @@
   {
    "full_name": "JuliusBrussee/caveman",
    "html_url": "https://github.com/JuliusBrussee/caveman",
-   "stars": 103611,
+   "stars": 103817,
    "language": "Go",
    "topics": [
     "ai",
@@ -3239,7 +3284,7 @@
   {
    "full_name": "earendil-works/pi",
    "html_url": "https://github.com/earendil-works/pi",
-   "stars": 101879,
+   "stars": 102155,
    "language": "TypeScript",
    "topics": [],
    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
@@ -3254,7 +3299,7 @@
   {
    "full_name": "twpayne/chezmoi",
    "html_url": "https://github.com/twpayne/chezmoi",
-   "stars": 21464,
+   "stars": 21475,
    "language": "Go",
    "topics": [
     "configuration",
@@ -3280,7 +3325,7 @@
   {
    "full_name": "trzsz/trzsz-ssh",
    "html_url": "https://github.com/trzsz/trzsz-ssh",
-   "stars": 2708,
+   "stars": 2710,
    "language": "Go",
    "topics": [
     "mosh",
@@ -3325,7 +3370,7 @@
   {
    "full_name": "wzsx150/MobaXterm_CN",
    "html_url": "https://github.com/wzsx150/MobaXterm_CN",
-   "stars": 553,
+   "stars": 557,
    "language": null,
    "topics": [],
    "description": "MobaXterm 综合远程工具 汉化版",
@@ -3340,7 +3385,7 @@
   {
    "full_name": "amir1376/ab-download-manager",
    "html_url": "https://github.com/amir1376/ab-download-manager",
-   "stars": 17689,
+   "stars": 17722,
    "language": "Kotlin",
    "topics": [
     "chrome",
@@ -3371,7 +3416,7 @@
   {
    "full_name": "MarkEdit-app/MarkEdit",
    "html_url": "https://github.com/MarkEdit-app/MarkEdit",
-   "stars": 5583,
+   "stars": 5586,
    "language": "Swift",
    "topics": [
     "codemirror",
@@ -3396,7 +3441,7 @@
   {
    "full_name": "jaywcjlove/linux-command",
    "html_url": "https://github.com/jaywcjlove/linux-command",
-   "stars": 36806,
+   "stars": 36834,
    "language": "Markdown",
    "topics": [
     "bash",
@@ -3426,7 +3471,7 @@
   {
    "full_name": "uutils/coreutils",
    "html_url": "https://github.com/uutils/coreutils",
-   "stars": 24039,
+   "stars": 24041,
    "language": "Rust",
    "topics": [
     "busybox",
@@ -3448,7 +3493,7 @@
   {
    "full_name": "ghostty-org/ghostty",
    "html_url": "https://github.com/ghostty-org/ghostty",
-   "stars": 60719,
+   "stars": 60751,
    "language": "Zig",
    "topics": [],
    "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
@@ -3478,7 +3523,7 @@
   {
    "full_name": "ZMGID/kivio",
    "html_url": "https://github.com/ZMGID/kivio",
-   "stars": 574,
+   "stars": 576,
    "language": "Rust",
    "topics": [],
    "description": null,
@@ -3508,7 +3553,7 @@
   {
    "full_name": "zerx-lab/zap",
    "html_url": "https://github.com/zerx-lab/zap",
-   "stars": 2067,
+   "stars": 2068,
    "language": "Rust",
    "topics": [],
    "description": "Zap is an open, local-first terminal with first-class AI and agent support.",
@@ -3538,7 +3583,7 @@
   {
    "full_name": "gorkys/youshu",
    "html_url": "https://github.com/gorkys/youshu",
-   "stars": 52,
+   "stars": 53,
    "language": "Kotlin",
    "topics": [],
    "description": "🗂一个由AI开发的家庭物品管理的安卓App",
@@ -3553,7 +3598,7 @@
   {
    "full_name": "mattpocock/skills",
    "html_url": "https://github.com/mattpocock/skills",
-   "stars": 250577,
+   "stars": 252834,
    "language": "Shell",
    "topics": [],
    "description": "Skills for Real Engineers. Straight from my .agents directory.",
@@ -3568,7 +3613,7 @@
   {
    "full_name": "code-yeongyu/oh-my-openagent",
    "html_url": "https://github.com/code-yeongyu/oh-my-openagent",
-   "stars": 68701,
+   "stars": 68732,
    "language": "TypeScript",
    "topics": [
     "ai",
@@ -3614,7 +3659,7 @@
   {
    "full_name": "WangQrkkk/PaperQuay",
    "html_url": "https://github.com/WangQrkkk/PaperQuay",
-   "stars": 291,
+   "stars": 293,
    "language": "TypeScript",
    "topics": [
     "agent",
@@ -3644,7 +3689,7 @@
   {
    "full_name": "warpdotdev/warp",
    "html_url": "https://github.com/warpdotdev/warp",
-   "stars": 64808,
+   "stars": 64821,
    "language": "Rust",
    "topics": [
     "bash",
@@ -3668,7 +3713,7 @@
   {
    "full_name": "junhoyeo/tokscale",
    "html_url": "https://github.com/junhoyeo/tokscale",
-   "stars": 5299,
+   "stars": 5308,
    "language": "Rust",
    "topics": [
     "ai",
@@ -3704,7 +3749,7 @@
   {
    "full_name": "hellowind777/hello2cc",
    "html_url": "https://github.com/hellowind777/hello2cc",
-   "stars": 693,
+   "stars": 694,
    "language": "JavaScript",
    "topics": [],
    "description": "Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.",
@@ -3734,7 +3779,7 @@
   {
    "full_name": "DetachHead/rebased",
    "html_url": "https://github.com/DetachHead/rebased",
-   "stars": 5388,
+   "stars": 5399,
    "language": "Java",
    "topics": [],
    "description": "A git client based on the IntelliJ platform",
@@ -3749,7 +3794,7 @@
   {
    "full_name": "OpenCoworkAI/open-codesign",
    "html_url": "https://github.com/OpenCoworkAI/open-codesign",
-   "stars": 7878,
+   "stars": 7883,
    "language": "TypeScript",
    "topics": [
     "ai-design",
@@ -3826,7 +3871,7 @@
   {
    "full_name": "obra/superpowers",
    "html_url": "https://github.com/obra/superpowers",
-   "stars": 281823,
+   "stars": 282133,
    "language": "Shell",
    "topics": [
     "ai",
@@ -3850,8 +3895,8 @@
   {
    "full_name": "bmad-code-org/BMAD-METHOD",
    "html_url": "https://github.com/bmad-code-org/BMAD-METHOD",
-   "stars": 52682,
-   "language": "JavaScript",
+   "stars": 52711,
+   "language": "Python",
    "topics": [],
    "description": "Breakthrough Method for Agile Ai Driven Development",
    "description_zh": "敏捷AI驱动开发的突破性方法",
@@ -3865,7 +3910,7 @@
   {
    "full_name": "microsoft/TRELLIS",
    "html_url": "https://github.com/microsoft/TRELLIS",
-   "stars": 13574,
+   "stars": 13579,
    "language": "Python",
    "topics": [
     "3d",
@@ -3886,7 +3931,7 @@
   {
    "full_name": "Fission-AI/OpenSpec",
    "html_url": "https://github.com/Fission-AI/OpenSpec",
-   "stars": 67326,
+   "stars": 67404,
    "language": "TypeScript",
    "topics": [
     "ai",
@@ -3942,7 +3987,7 @@
   {
    "full_name": "multica-ai/andrej-karpathy-skills",
    "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
-   "stars": 210195,
+   "stars": 210417,
    "language": null,
    "topics": [],
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
@@ -3957,7 +4002,7 @@
   {
    "full_name": "datawhalechina/hello-agents",
    "html_url": "https://github.com/datawhalechina/hello-agents",
-   "stars": 77022,
+   "stars": 77160,
    "language": "Python",
    "topics": [
     "agent",
@@ -3977,7 +4022,7 @@
   {
    "full_name": "ComposioHQ/awesome-claude-skills",
    "html_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-   "stars": 74480,
+   "stars": 74548,
    "language": "Python",
    "topics": [
     "agent-skills",
@@ -4010,7 +4055,7 @@
   {
    "full_name": "Blushyes/reef",
    "html_url": "https://github.com/Blushyes/reef",
-   "stars": 82,
+   "stars": 81,
    "language": "Rust",
    "topics": [
     "ai",
@@ -4029,7 +4074,7 @@
   {
    "full_name": "rtk-ai/rtk",
    "html_url": "https://github.com/rtk-ai/rtk",
-   "stars": 78608,
+   "stars": 78950,
    "language": "Rust",
    "topics": [
     "agentic-coding",
@@ -4084,7 +4129,7 @@
   {
    "full_name": "MoonshotAI/kimi-cli",
    "html_url": "https://github.com/MoonshotAI/kimi-cli",
-   "stars": 11321,
+   "stars": 11325,
    "language": "Python",
    "topics": [],
    "description": "Kimi Code CLI is your next CLI agent.",
@@ -4194,7 +4239,7 @@
   {
    "full_name": "lsdefine/GenericAgent",
    "html_url": "https://github.com/lsdefine/GenericAgent",
-   "stars": 14118,
+   "stars": 14121,
    "language": "Python",
    "topics": [
     "ai-agent",
@@ -4225,7 +4270,7 @@
   {
    "full_name": "zhukunpenglinyutong/desktop-cc-gui",
    "html_url": "https://github.com/zhukunpenglinyutong/desktop-cc-gui",
-   "stars": 4151,
+   "stars": 4160,
    "language": "TypeScript",
    "topics": [
     "ai-coding",
@@ -4249,7 +4294,7 @@
   {
    "full_name": "Mouseww/anything-analyzer",
    "html_url": "https://github.com/Mouseww/anything-analyzer",
-   "stars": 3619,
+   "stars": 3622,
    "language": "TypeScript",
    "topics": [
     "2api",
@@ -4290,7 +4335,7 @@
   {
    "full_name": "funny-vibes/agent-vibes",
    "html_url": "https://github.com/funny-vibes/agent-vibes",
-   "stars": 357,
+   "stars": 358,
    "language": "TypeScript",
    "topics": [
     "agent",
@@ -4330,7 +4375,7 @@
   {
    "full_name": "bjrzs/Cursor_chinese",
    "html_url": "https://github.com/bjrzs/Cursor_chinese",
-   "stars": 73,
+   "stars": 72,
    "language": "Python",
    "topics": [],
    "description": null,
@@ -4371,7 +4416,7 @@
   {
    "full_name": "sigoden/aichat",
    "html_url": "https://github.com/sigoden/aichat",
-   "stars": 10428,
+   "stars": 10435,
    "language": "Rust",
    "topics": [
     "ai",
@@ -4401,7 +4446,7 @@
   {
    "full_name": "TheR1D/shell_gpt",
    "html_url": "https://github.com/TheR1D/shell_gpt",
-   "stars": 12273,
+   "stars": 12272,
    "language": "Python",
    "topics": [
     "chatgpt",
@@ -4551,7 +4596,7 @@
   {
    "full_name": "bytedance/deer-flow",
    "html_url": "https://github.com/bytedance/deer-flow",
-   "stars": 81369,
+   "stars": 81435,
    "language": "Python",
    "topics": [
     "agent",
@@ -4585,7 +4630,7 @@
   {
    "full_name": "cita-777/metapi",
    "html_url": "https://github.com/cita-777/metapi",
-   "stars": 3260,
+   "stars": 3261,
    "language": "TypeScript",
    "topics": [],
    "description": "把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优",
@@ -4600,7 +4645,7 @@
   {
    "full_name": "016/Antigravity-Better",
    "html_url": "https://github.com/016/Antigravity-Better",
-   "stars": 259,
+   "stars": 260,
    "language": "HTML",
    "topics": [],
    "description": "Customize your Antigravity AI chat panel. Your IDE, your rules. 自定义你的 Antigravity AI 聊天面板。你的 IDE，你做主。",
@@ -4630,7 +4675,7 @@
   {
    "full_name": "LigphiDonk/academic-figure-generator",
    "html_url": "https://github.com/LigphiDonk/academic-figure-generator",
-   "stars": 2252,
+   "stars": 2258,
    "language": "Python",
    "topics": [],
    "description": "AI 驱动的学术论文配图生成平台。上传论文 → AI 分析内容生成 Prompt → 一键生成高质量科研配图，还有配套的skill可在主流agent中使用",
@@ -4645,7 +4690,7 @@
   {
    "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
    "html_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-   "stars": 125052,
+   "stars": 125304,
    "language": "Python",
    "topics": [
     "ai-skills",
@@ -4722,7 +4767,7 @@
   {
    "full_name": "wavetermdev/waveterm",
    "html_url": "https://github.com/wavetermdev/waveterm",
-   "stars": 22209,
+   "stars": 22214,
    "language": "Go",
    "topics": [
     "command-line",
@@ -4746,7 +4791,7 @@
   {
    "full_name": "lissy93/dashy",
    "html_url": "https://github.com/lissy93/dashy",
-   "stars": 26388,
+   "stars": 26392,
    "language": "Vue",
    "topics": [
     "awesome",
@@ -4834,7 +4879,7 @@
   {
    "full_name": "itMrBoy/resumePolice",
    "html_url": "https://github.com/itMrBoy/resumePolice",
-   "stars": 2255,
+   "stars": 2256,
    "language": null,
    "topics": [],
    "description": "简历警察 🕵️‍♂️ 疯狂逮捕",
@@ -4849,7 +4894,7 @@
   {
    "full_name": "LingyiChen-AI/JadeAI",
    "html_url": "https://github.com/LingyiChen-AI/JadeAI",
-   "stars": 1952,
+   "stars": 1954,
    "language": "TypeScript",
    "topics": [
     "ai",
@@ -4872,7 +4917,7 @@
   {
    "full_name": "liangdabiao/Claude-Code-Stock-Deep-Research-Agent",
    "html_url": "https://github.com/liangdabiao/Claude-Code-Stock-Deep-Research-Agent",
-   "stars": 369,
+   "stars": 370,
    "language": null,
    "topics": [
     "claude-code"
@@ -4889,7 +4934,7 @@
   {
    "full_name": "knowsuchagency/mcp2cli",
    "html_url": "https://github.com/knowsuchagency/mcp2cli",
-   "stars": 2382,
+   "stars": 2383,
    "language": "Python",
    "topics": [
     "ai",
@@ -4982,7 +5027,7 @@
   {
    "full_name": "Haleclipse/CodexDesktop-Rebuild",
    "html_url": "https://github.com/Haleclipse/CodexDesktop-Rebuild",
-   "stars": 2681,
+   "stars": 2684,
    "language": "JavaScript",
    "topics": [],
    "description": "Codex Desktop App - Cross-platform Rebuild",
@@ -5031,7 +5076,7 @@
   {
    "full_name": "assimon/dujiaoka",
    "html_url": "https://github.com/assimon/dujiaoka",
-   "stars": 12143,
+   "stars": 12141,
    "language": "PHP",
    "topics": [
     "dujiaofaka",
@@ -5050,7 +5095,7 @@
   {
    "full_name": "tw93/Kaku",
    "html_url": "https://github.com/tw93/Kaku",
-   "stars": 5870,
+   "stars": 5872,
    "language": "Rust",
    "topics": [
     "ai-coding",
@@ -5074,7 +5119,7 @@
   {
    "full_name": "campfirein/byterover-cli",
    "html_url": "https://github.com/campfirein/byterover-cli",
-   "stars": 4954,
+   "stars": 4956,
    "language": "TypeScript",
    "topics": [
     "agent",
@@ -5103,7 +5148,7 @@
   {
    "full_name": "anthropics/skills",
    "html_url": "https://github.com/anthropics/skills",
-   "stars": 174175,
+   "stars": 174604,
    "language": "Python",
    "topics": [
     "agent-skills"
@@ -5135,7 +5180,7 @@
   {
    "full_name": "Syngnat/GoNavi",
    "html_url": "https://github.com/Syngnat/GoNavi",
-   "stars": 1887,
+   "stars": 1888,
    "language": "TypeScript",
    "topics": [
     "ai",
@@ -5186,7 +5231,7 @@
   {
    "full_name": "mindfold-ai/Trellis",
    "html_url": "https://github.com/mindfold-ai/Trellis",
-   "stars": 14463,
+   "stars": 14471,
    "language": "TypeScript",
    "topics": [
     "agentic-coding",
@@ -5213,7 +5258,7 @@
     "javascript",
     "typescript"
    ],
-   "description": "大模型应用开发的方向，上下文工程是设计原则，Agent Harness 是构建目标，本项目的目标，是为开发者和研究者提供一份大模型应用开发的骨架思路",
+   "description": "大模型应用开发 -上下文工程与运行空间实践指南，上下文工程是设计原则，Agent Harness 是构建目标，本项目的目标，是为开发者和研究者提供一份大模型应用开发的骨架思路",
    "description_zh": "大模型应用开发的方向，上下文工程是设计原则，Agent Harness 是构建目标，本项目的目标，是为开发者和研究者提供一份大模型应用开发的骨架思路",
    "archived": false,
    "fork": false,
@@ -5225,7 +5270,7 @@
   {
    "full_name": "affaan-m/ECC",
    "html_url": "https://github.com/affaan-m/ECC",
-   "stars": 248597,
+   "stars": 250035,
    "language": "JavaScript",
    "topics": [
     "ai-agents",
@@ -5249,7 +5294,7 @@
   {
    "full_name": "Yeachan-Heo/oh-my-claudecode",
    "html_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-   "stars": 39015,
+   "stars": 39030,
    "language": "TypeScript",
    "topics": [
     "agentic-coding",
@@ -5275,7 +5320,7 @@
   {
    "full_name": "oomol-lab/pdf-craft",
    "html_url": "https://github.com/oomol-lab/pdf-craft",
-   "stars": 6266,
+   "stars": 6271,
    "language": "Python",
    "topics": [
     "deepseek-ocr",
@@ -5295,7 +5340,7 @@
   {
    "full_name": "haierkeys/obsidian-fast-note-sync",
    "html_url": "https://github.com/haierkeys/obsidian-fast-note-sync",
-   "stars": 2934,
+   "stars": 2938,
    "language": "JavaScript",
    "topics": [
     "better-sync",
@@ -5344,7 +5389,7 @@
   {
    "full_name": "SeemSeam/claude_codex_bridge",
    "html_url": "https://github.com/SeemSeam/claude_codex_bridge",
-   "stars": 3476,
+   "stars": 3478,
    "language": "Python",
    "topics": [
     "ai-coding",
@@ -5395,7 +5440,7 @@
   {
    "full_name": "yuaotian/antigravity-proxy",
    "html_url": "https://github.com/yuaotian/antigravity-proxy",
-   "stars": 3921,
+   "stars": 3935,
    "language": "C++",
    "topics": [
     "antigravity",
@@ -5421,7 +5466,7 @@
   {
    "full_name": "lbjlaq/Antigravity-Manager",
    "html_url": "https://github.com/lbjlaq/Antigravity-Manager",
-   "stars": 31018,
+   "stars": 31053,
    "language": "Rust",
    "topics": [
     "account-manager",
@@ -5543,7 +5588,7 @@
   {
    "full_name": "Asabeneh/30-Days-Of-Python",
    "html_url": "https://github.com/Asabeneh/30-Days-Of-Python",
-   "stars": 72843,
+   "stars": 72916,
    "language": "Python",
    "topics": [
     "30-days-of-python",
@@ -5597,7 +5642,7 @@
   {
    "full_name": "rust-lang/rustlings",
    "html_url": "https://github.com/rust-lang/rustlings",
-   "stars": 64040,
+   "stars": 64048,
    "language": "Rust",
    "topics": [
     "beginner-friendly",
@@ -5617,7 +5662,7 @@
   {
    "full_name": "zoicware/RepairBadTweaks",
    "html_url": "https://github.com/zoicware/RepairBadTweaks",
-   "stars": 311,
+   "stars": 312,
    "language": "PowerShell",
    "topics": [
     "tweaks",
@@ -5650,7 +5695,7 @@
   {
    "full_name": "zhukunpenglinyutong/jetbrains-cc-gui",
    "html_url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
-   "stars": 5817,
+   "stars": 5843,
    "language": "Java",
    "topics": [],
    "description": "Jetbrains Claude Code and Codex GUI Plugin",
@@ -5665,7 +5710,7 @@
   {
    "full_name": "odygrd/quill",
    "html_url": "https://github.com/odygrd/quill",
-   "stars": 3021,
+   "stars": 3022,
    "language": "C++",
    "topics": [
     "async",
@@ -5783,7 +5828,7 @@
   {
    "full_name": "mlabonne/llm-course",
    "html_url": "https://github.com/mlabonne/llm-course",
-   "stars": 82307,
+   "stars": 82320,
    "language": null,
    "topics": [
     "course",
@@ -5804,7 +5849,7 @@
   {
    "full_name": "minio/minio",
    "html_url": "https://github.com/minio/minio",
-   "stars": 61375,
+   "stars": 61370,
    "language": "Go",
    "topics": [
     "amazon-s3",
@@ -5857,7 +5902,7 @@
   {
    "full_name": "DayuanJiang/next-ai-draw-io",
    "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-   "stars": 35621,
+   "stars": 35642,
    "language": "TypeScript",
    "topics": [
     "ai",
@@ -5891,7 +5936,7 @@
   {
    "full_name": "mongodb/mongo",
    "html_url": "https://github.com/mongodb/mongo",
-   "stars": 28526,
+   "stars": 28529,
    "language": "C++",
    "topics": [
     "c-plus-plus",
@@ -5911,7 +5956,7 @@
   {
    "full_name": "anomalyco/opencode",
    "html_url": "https://github.com/anomalyco/opencode",
-   "stars": 204188,
+   "stars": 204728,
    "language": "TypeScript",
    "topics": [],
    "description": "The open source coding agent.",
@@ -5977,7 +6022,7 @@
   {
    "full_name": "farion1231/cc-switch",
    "html_url": "https://github.com/farion1231/cc-switch",
-   "stars": 131100,
+   "stars": 131231,
    "language": "Rust",
    "topics": [
     "ai-tools",
@@ -6073,7 +6118,7 @@
   {
    "full_name": "ahpxex/open-dictionary",
    "html_url": "https://github.com/ahpxex/open-dictionary",
-   "stars": 133,
+   "stars": 134,
    "language": "Python",
    "topics": [
     "ai",
@@ -6094,7 +6139,7 @@
   {
    "full_name": "ChristosChristofidis/awesome-deep-learning",
    "html_url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
-   "stars": 28862,
+   "stars": 28864,
    "language": null,
    "topics": [
     "awesome",
@@ -6166,7 +6211,7 @@
   {
    "full_name": "docker/awesome-compose",
    "html_url": "https://github.com/docker/awesome-compose",
-   "stars": 46233,
+   "stars": 46238,
    "language": "HTML",
    "topics": [
     "awesome",
@@ -6204,7 +6249,7 @@
   {
    "full_name": "devcontainers/images",
    "html_url": "https://github.com/devcontainers/images",
-   "stars": 2119,
+   "stars": 2120,
    "language": "Shell",
    "topics": [
     "containers",
@@ -6280,7 +6325,7 @@
   {
    "full_name": "ai-dynamo/dynamo",
    "html_url": "https://github.com/ai-dynamo/dynamo",
-   "stars": 7970,
+   "stars": 7976,
    "language": "Rust",
    "topics": [
     "diffusion",
@@ -6418,7 +6463,7 @@
   {
    "full_name": "pionxzh/chatgpt-exporter",
    "html_url": "https://github.com/pionxzh/chatgpt-exporter",
-   "stars": 2723,
+   "stars": 2724,
    "language": "TypeScript",
    "topics": [
     "ai",
@@ -6440,7 +6485,7 @@
   {
    "full_name": "rashidazarang/chatgpt-chat-exporter",
    "html_url": "https://github.com/rashidazarang/chatgpt-chat-exporter",
-   "stars": 373,
+   "stars": 374,
    "language": "JavaScript",
    "topics": [],
    "description": "A lightweight browser-based tool to export your ChatGPT conversations in beautiful Markdown or PDF format.",
@@ -6455,7 +6500,7 @@
   {
    "full_name": "hellodigua/code996",
    "html_url": "https://github.com/hellodigua/code996",
-   "stars": 2109,
+   "stars": 2111,
    "language": "TypeScript",
    "topics": [],
    "description": "统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。  Analyzes the commit time distribution of Git projects to infer coding work intensity.",
@@ -6470,7 +6515,7 @@
   {
    "full_name": "fastfetch-cli/fastfetch",
    "html_url": "https://github.com/fastfetch-cli/fastfetch",
-   "stars": 24523,
+   "stars": 24533,
    "language": "C",
    "topics": [
     "bsdfetch",
@@ -6554,7 +6599,7 @@
   {
    "full_name": "Loyalsoldier/v2ray-rules-dat",
    "html_url": "https://github.com/Loyalsoldier/v2ray-rules-dat",
-   "stars": 20624,
+   "stars": 20631,
    "language": null,
    "topics": [
     "adblock",
@@ -6611,7 +6656,7 @@
   {
    "full_name": "modelcontextprotocol/python-sdk",
    "html_url": "https://github.com/modelcontextprotocol/python-sdk",
-   "stars": 24206,
+   "stars": 24211,
    "language": "Python",
    "topics": [
     "mcp",
@@ -6631,7 +6676,7 @@
   {
    "full_name": "yamadashy/repomix",
    "html_url": "https://github.com/yamadashy/repomix",
-   "stars": 28194,
+   "stars": 28214,
    "language": "TypeScript",
    "topics": [
     "ai",
@@ -6667,7 +6712,7 @@
   {
    "full_name": "FoundationAgents/OpenManus",
    "html_url": "https://github.com/FoundationAgents/OpenManus",
-   "stars": 58186,
+   "stars": 58205,
    "language": "Python",
    "topics": [],
    "description": "No fortress, purely open ground.  OpenManus is Coming.",
@@ -6682,7 +6727,7 @@
   {
    "full_name": "ZJU-LLMs/Foundations-of-LLMs",
    "html_url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
-   "stars": 17808,
+   "stars": 17811,
    "language": null,
    "topics": [],
    "description": "A book for Learning the Foundations of LLMs",
@@ -6697,7 +6742,7 @@
   {
    "full_name": "SwanHubX/SwanLab",
    "html_url": "https://github.com/SwanHubX/SwanLab",
-   "stars": 4194,
+   "stars": 4198,
    "language": "Python",
    "topics": [
     "ai-infra",
@@ -6729,7 +6774,7 @@
   {
    "full_name": "hacksider/Deep-Live-Cam",
    "html_url": "https://github.com/hacksider/Deep-Live-Cam",
-   "stars": 96487,
+   "stars": 96505,
    "language": "Python",
    "topics": [
     "ai",
@@ -6763,7 +6808,7 @@
   {
    "full_name": "mindverse/Second-Me",
    "html_url": "https://github.com/mindverse/Second-Me",
-   "stars": 15679,
+   "stars": 15680,
    "language": "Python",
    "topics": [],
    "description": "Train your AI self, amplify you, bridge the world",
@@ -6778,7 +6823,7 @@
   {
    "full_name": "humanlayer/12-factor-agents",
    "html_url": "https://github.com/humanlayer/12-factor-agents",
-   "stars": 25696,
+   "stars": 25717,
    "language": "TypeScript",
    "topics": [
     "12-factor",
@@ -6805,7 +6850,7 @@
   {
    "full_name": "GeeeekExplorer/nano-vllm",
    "html_url": "https://github.com/GeeeekExplorer/nano-vllm",
-   "stars": 15310,
+   "stars": 15320,
    "language": "Python",
    "topics": [
     "deep-learning",
@@ -6828,7 +6873,7 @@
   {
    "full_name": "KlingAIResearch/LivePortrait",
    "html_url": "https://github.com/KlingAIResearch/LivePortrait",
-   "stars": 19005,
+   "stars": 19015,
    "language": "Python",
    "topics": [
     "face-animation",
@@ -6883,7 +6928,7 @@
   {
    "full_name": "coderamp-labs/gitingest",
    "html_url": "https://github.com/coderamp-labs/gitingest",
-   "stars": 15390,
+   "stars": 15394,
    "language": "Python",
    "topics": [
     "ai",
@@ -6927,7 +6972,7 @@
   {
    "full_name": "github/spec-kit",
    "html_url": "https://github.com/github/spec-kit",
-   "stars": 133514,
+   "stars": 133630,
    "language": "Python",
    "topics": [
     "ai",
@@ -6950,7 +6995,7 @@
   {
    "full_name": "tw93/Mole",
    "html_url": "https://github.com/tw93/Mole",
-   "stars": 66214,
+   "stars": 66325,
    "language": "Shell",
    "topics": [
     "analyzer",
@@ -6985,7 +7030,7 @@
   {
    "full_name": "glidea/banana-prompt-quicker",
    "html_url": "https://github.com/glidea/banana-prompt-quicker",
-   "stars": 2411,
+   "stars": 2412,
    "language": "JavaScript",
    "topics": [
     "banana",
@@ -7071,7 +7116,7 @@
   {
    "full_name": "CometixAI/Cometix-Indexer",
    "html_url": "https://github.com/CometixAI/Cometix-Indexer",
-   "stars": 69,
+   "stars": 68,
    "language": "TypeScript",
    "topics": [],
    "description": "A MCP built from Cursor Codebase Indexer",
@@ -7086,7 +7131,7 @@
   {
    "full_name": "MiniMax-AI/Mini-Agent",
    "html_url": "https://github.com/MiniMax-AI/Mini-Agent",
-   "stars": 3010,
+   "stars": 3011,
    "language": "Python",
    "topics": [
     "agent",
@@ -7105,7 +7150,7 @@
   {
    "full_name": "matrixorigin/matrixone",
    "html_url": "https://github.com/matrixorigin/matrixone",
-   "stars": 1883,
+   "stars": 1884,
    "language": "Go",
    "topics": [
     "agents",
@@ -7153,7 +7198,7 @@
   {
    "full_name": "tisfeng/Easydict",
    "html_url": "https://github.com/tisfeng/Easydict",
-   "stars": 14482,
+   "stars": 14492,
    "language": "Swift",
    "topics": [
     "app",
@@ -7184,7 +7229,7 @@
   {
    "full_name": "alibaba/tengine",
    "html_url": "https://github.com/alibaba/tengine",
-   "stars": 13347,
+   "stars": 13348,
    "language": "C",
    "topics": [
     "forward-proxy",
@@ -7215,7 +7260,7 @@
   {
    "full_name": "lintsinghua/DeepAudit",
    "html_url": "https://github.com/lintsinghua/DeepAudit",
-   "stars": 6951,
+   "stars": 6955,
    "language": "Python",
    "topics": [
     "ai",
@@ -7248,7 +7293,7 @@
   {
    "full_name": "ahpxex/Aictionary",
    "html_url": "https://github.com/ahpxex/Aictionary",
-   "stars": 812,
+   "stars": 815,
    "language": "TypeScript",
    "topics": [
     "avalonia",
@@ -7299,7 +7344,7 @@
   {
    "full_name": "9001/copyparty",
    "html_url": "https://github.com/9001/copyparty",
-   "stars": 46514,
+   "stars": 46520,
    "language": "Python",
    "topics": [
     "copyparty",
@@ -7368,7 +7413,7 @@
   {
    "full_name": "Devolutions/UniGetUI",
    "html_url": "https://github.com/Devolutions/UniGetUI",
-   "stars": 25994,
+   "stars": 26005,
    "language": "C#",
    "topics": [
     "chocolatey",
@@ -7396,7 +7441,7 @@
   {
    "full_name": "ChromeDevTools/chrome-devtools-mcp",
    "html_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-   "stars": 50944,
+   "stars": 51079,
    "language": "TypeScript",
    "topics": [
     "browser",
@@ -7454,7 +7499,7 @@
   {
    "full_name": "anthropics/claude-agent-sdk-python",
    "html_url": "https://github.com/anthropics/claude-agent-sdk-python",
-   "stars": 8036,
+   "stars": 8039,
    "language": "Python",
    "topics": [],
    "description": null,
@@ -7519,7 +7564,7 @@
   {
    "full_name": "iOfficeAI/AionUi",
    "html_url": "https://github.com/iOfficeAI/AionUi",
-   "stars": 32576,
+   "stars": 32600,
    "language": "TypeScript",
    "topics": [
     "acp",
@@ -7555,7 +7600,7 @@
   {
    "full_name": "iChochy/NCE",
    "html_url": "https://github.com/iChochy/NCE",
-   "stars": 3477,
+   "stars": 3483,
    "language": "JavaScript",
    "topics": [
     "english",
@@ -7574,7 +7619,7 @@
   {
    "full_name": "GUI-for-Cores/GUI.for.SingBox",
    "html_url": "https://github.com/GUI-for-Cores/GUI.for.SingBox",
-   "stars": 8129,
+   "stars": 8132,
    "language": "Vue",
    "topics": [
     "gui",
@@ -7623,7 +7668,7 @@
   {
    "full_name": "Alibaba-NLP/DeepResearch",
    "html_url": "https://github.com/Alibaba-NLP/DeepResearch",
-   "stars": 19910,
+   "stars": 19913,
    "language": "Python",
    "topics": [
     "agent",
@@ -7648,7 +7693,7 @@
   {
    "full_name": "Gar-b-age/CookLikeHOC",
    "html_url": "https://github.com/Gar-b-age/CookLikeHOC",
-   "stars": 24588,
+   "stars": 24600,
    "language": "Dockerfile",
    "topics": [],
    "description": "🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
@@ -7663,7 +7708,7 @@
   {
    "full_name": "jd-opensource/joyagent-jdgenie",
    "html_url": "https://github.com/jd-opensource/joyagent-jdgenie",
-   "stars": 11897,
+   "stars": 11896,
    "language": "Java",
    "topics": [],
    "description": "开源的端到端产品级通用智能体",
@@ -7693,7 +7738,7 @@
   {
    "full_name": "uBlockOrigin/uAssets",
    "html_url": "https://github.com/uBlockOrigin/uAssets",
-   "stars": 5991,
+   "stars": 5992,
    "language": "Adblock Filter List",
    "topics": [],
    "description": "Filter lists for uBlock Origin & uBlock Origin Lite",
@@ -7708,7 +7753,7 @@
   {
    "full_name": "beekeeper-studio/beekeeper-studio",
    "html_url": "https://github.com/beekeeper-studio/beekeeper-studio",
-   "stars": 23548,
+   "stars": 23556,
    "language": "TypeScript",
    "topics": [
     "bigquery",
@@ -7774,7 +7819,7 @@
   {
    "full_name": "obgnail/typora_plugin",
    "html_url": "https://github.com/obgnail/typora_plugin",
-   "stars": 4568,
+   "stars": 4571,
    "language": "JavaScript",
    "topics": [
     "electron",
@@ -7799,7 +7844,7 @@
   {
    "full_name": "Auto-Plugin/milkup",
    "html_url": "https://github.com/Auto-Plugin/milkup",
-   "stars": 937,
+   "stars": 938,
    "language": "TypeScript",
    "topics": [
     "markdown",
@@ -7832,7 +7877,7 @@
   {
    "full_name": "KaringX/karing",
    "html_url": "https://github.com/KaringX/karing",
-   "stars": 14683,
+   "stars": 14704,
    "language": "Dart",
    "topics": [],
    "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
@@ -7847,7 +7892,7 @@
   {
    "full_name": "KaringX/clashmi",
    "html_url": "https://github.com/KaringX/clashmi",
-   "stars": 9121,
+   "stars": 9138,
    "language": "Dart",
    "topics": [
     "clash",
@@ -7929,7 +7974,7 @@
   {
    "full_name": "wshobson/agents",
    "html_url": "https://github.com/wshobson/agents",
-   "stars": 39426,
+   "stars": 39449,
    "language": "Python",
    "topics": [
     "agent-skills",
@@ -7965,7 +8010,7 @@
   {
    "full_name": "tw93/MiaoYan",
    "html_url": "https://github.com/tw93/MiaoYan",
-   "stars": 8626,
+   "stars": 8625,
    "language": "Swift",
    "topics": [
     "editor",
@@ -7988,7 +8033,7 @@
   {
    "full_name": "dair-ai/Prompt-Engineering-Guide",
    "html_url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-   "stars": 78020,
+   "stars": 78040,
    "language": "MDX",
    "topics": [
     "agent",
@@ -8015,7 +8060,7 @@
   {
    "full_name": "facebookresearch/faiss",
    "html_url": "https://github.com/facebookresearch/faiss",
-   "stars": 40853,
+   "stars": 40857,
    "language": "C++",
    "topics": [],
    "description": "A library for efficient similarity search and clustering of dense vectors.",
@@ -8030,7 +8075,7 @@
   {
    "full_name": "pocketbase/pocketbase",
    "html_url": "https://github.com/pocketbase/pocketbase",
-   "stars": 60948,
+   "stars": 60954,
    "language": "Go",
    "topics": [
     "authentication",
@@ -8050,7 +8095,7 @@
   {
    "full_name": "crewAIInc/crewAI",
    "html_url": "https://github.com/crewAIInc/crewAI",
-   "stars": 58095,
+   "stars": 58130,
    "language": "Python",
    "topics": [
     "agents",
@@ -8071,7 +8116,7 @@
   {
    "full_name": "eriklindernoren/ML-From-Scratch",
    "html_url": "https://github.com/eriklindernoren/ML-From-Scratch",
-   "stars": 32618,
+   "stars": 32664,
    "language": "Python",
    "topics": [
     "data-mining",
@@ -8094,7 +8139,7 @@
   {
    "full_name": "datawhalechina/happy-llm",
    "html_url": "https://github.com/datawhalechina/happy-llm",
-   "stars": 33508,
+   "stars": 33519,
    "language": "Jupyter Notebook",
    "topics": [
     "agent",
@@ -8113,7 +8158,7 @@
   {
    "full_name": "agentscope-ai/agentscope",
    "html_url": "https://github.com/agentscope-ai/agentscope",
-   "stars": 30698,
+   "stars": 30809,
    "language": "Python",
    "topics": [
     "agent",
@@ -8219,7 +8264,7 @@
   {
    "full_name": "fastapi/fastapi",
    "html_url": "https://github.com/fastapi/fastapi",
-   "stars": 102081,
+   "stars": 102102,
    "language": "Python",
    "topics": [
     "api",
@@ -8255,7 +8300,7 @@
   {
    "full_name": "gin-gonic/gin",
    "html_url": "https://github.com/gin-gonic/gin",
-   "stars": 89172,
+   "stars": 89171,
    "language": "Go",
    "topics": [
     "framework",
@@ -8278,7 +8323,7 @@
   {
    "full_name": "vitejs/vite",
    "html_url": "https://github.com/vitejs/vite",
-   "stars": 82685,
+   "stars": 82703,
    "language": "TypeScript",
    "topics": [
     "build-tool",
@@ -8314,7 +8359,7 @@
   {
    "full_name": "getzep/graphiti",
    "html_url": "https://github.com/getzep/graphiti",
-   "stars": 30598,
+   "stars": 30618,
    "language": "Python",
    "topics": [
     "agents",
@@ -8334,7 +8379,7 @@
   {
    "full_name": "datawhalechina/all-in-rag",
    "html_url": "https://github.com/datawhalechina/all-in-rag",
-   "stars": 10830,
+   "stars": 10842,
    "language": "Python",
    "topics": [
     "ai",
@@ -8362,7 +8407,7 @@
   {
    "full_name": "xuanli199/weekly",
    "html_url": "https://github.com/xuanli199/weekly",
-   "stars": 3755,
+   "stars": 3756,
    "language": "TypeScript",
    "topics": [],
    "description": "保存玄离199每周科技补全中提到的各种软件和项目",
@@ -8436,7 +8481,7 @@
   {
    "full_name": "2dust/v2rayNG",
    "html_url": "https://github.com/2dust/v2rayNG",
-   "stars": 62158,
+   "stars": 62212,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -8464,7 +8509,7 @@
   {
    "full_name": "LMCache/LMCache",
    "html_url": "https://github.com/LMCache/LMCache",
-   "stars": 11655,
+   "stars": 11669,
    "language": "Python",
    "topics": [
     "amd",
@@ -8491,7 +8536,7 @@
   {
    "full_name": "Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies",
    "html_url": "https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies",
-   "stars": 10972,
+   "stars": 10971,
    "language": null,
    "topics": [],
    "description": "This repository contains a curated collection of 300+ case studies from over 80 companies, detailing practical applications and insights into machine learning (ML) system design. The contents are organized to help you easily find relevant case studies based on industry or specific ML use cases. ",
@@ -8506,7 +8551,7 @@
   {
    "full_name": "firecrawl/open-lovable",
    "html_url": "https://github.com/firecrawl/open-lovable",
-   "stars": 28374,
+   "stars": 28373,
    "language": "TypeScript",
    "topics": [],
    "description": "🔥 Clone and recreate any website as a modern React app in seconds",
@@ -8521,7 +8566,7 @@
   {
    "full_name": "go-gitea/gitea",
    "html_url": "https://github.com/go-gitea/gitea",
-   "stars": 57828,
+   "stars": 57839,
    "language": "Go",
    "topics": [
     "bitbucket",
@@ -8603,7 +8648,7 @@
   {
    "full_name": "hoppscotch/hoppscotch",
    "html_url": "https://github.com/hoppscotch/hoppscotch",
-   "stars": 80204,
+   "stars": 80213,
    "language": "TypeScript",
    "topics": [
     "api",
@@ -8637,7 +8682,7 @@
   {
    "full_name": "rustfs/rustfs",
    "html_url": "https://github.com/rustfs/rustfs",
-   "stars": 31745,
+   "stars": 31761,
    "language": "Rust",
    "topics": [
     "ai-native",
@@ -8695,7 +8740,7 @@
   {
    "full_name": "laishulu/Sarasa-Term-SC-Nerd",
    "html_url": "https://github.com/laishulu/Sarasa-Term-SC-Nerd",
-   "stars": 1191,
+   "stars": 1192,
    "language": "Python",
    "topics": [],
    "description": "简体中文终端更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。 ",
@@ -8710,7 +8755,7 @@
   {
    "full_name": "openai/gpt-5-coding-examples",
    "html_url": "https://github.com/openai/gpt-5-coding-examples",
-   "stars": 1911,
+   "stars": 1910,
    "language": "HTML",
    "topics": [
     "codex",
@@ -8748,7 +8793,7 @@
   {
    "full_name": "mengxi-ream/read-frog",
    "html_url": "https://github.com/mengxi-ream/read-frog",
-   "stars": 9486,
+   "stars": 9496,
    "language": "TypeScript",
    "topics": [
     "browser-extension",
@@ -8828,7 +8873,7 @@
   {
    "full_name": "Maciek-roboblog/Claude-Code-Usage-Monitor",
    "html_url": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor",
-   "stars": 8675,
+   "stars": 8674,
    "language": "Python",
    "topics": [
     "ai",
@@ -8868,7 +8913,7 @@
   {
    "full_name": "LadybirdBrowser/ladybird",
    "html_url": "https://github.com/LadybirdBrowser/ladybird",
-   "stars": 66007,
+   "stars": 66028,
    "language": "C++",
    "topics": [
     "browser",
@@ -8886,7 +8931,7 @@
   {
    "full_name": "stellarlinkco/myclaude",
    "html_url": "https://github.com/stellarlinkco/myclaude",
-   "stars": 2747,
+   "stars": 2748,
    "language": "Go",
    "topics": [],
    "description": "Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode)",
@@ -8901,7 +8946,7 @@
   {
    "full_name": "charmbracelet/crush",
    "html_url": "https://github.com/charmbracelet/crush",
-   "stars": 27914,
+   "stars": 27925,
    "language": "Go",
    "topics": [
     "agentic-ai",
@@ -8921,7 +8966,7 @@
   {
    "full_name": "Delppine1024/TGreen",
    "html_url": "https://github.com/Delppine1024/TGreen",
-   "stars": 765,
+   "stars": 767,
    "language": null,
    "topics": [],
    "description": "Some files work well on T v1.1 (The latest support v1.9.5/1.9.2-dev), Powered by TC",
@@ -8936,7 +8981,7 @@
   {
    "full_name": "2dust/v2rayN",
    "html_url": "https://github.com/2dust/v2rayN",
-   "stars": 115452,
+   "stars": 115520,
    "language": "C#",
    "topics": [
     "proxy",
@@ -8963,7 +9008,7 @@
   {
    "full_name": "UfoMiao/zcf",
    "html_url": "https://github.com/UfoMiao/zcf",
-   "stars": 6083,
+   "stars": 6085,
    "language": "TypeScript",
    "topics": [
     "agent",
@@ -8999,7 +9044,7 @@
   {
    "full_name": "openai/codex",
    "html_url": "https://github.com/openai/codex",
-   "stars": 121580,
+   "stars": 121781,
    "language": "Rust",
    "topics": [],
    "description": "Lightweight coding agent that runs in your terminal",
@@ -9044,7 +9089,7 @@
   {
    "full_name": "tw93/Pake",
    "html_url": "https://github.com/tw93/Pake",
-   "stars": 61284,
+   "stars": 61302,
    "language": "Rust",
    "topics": [
     "chatgpt",
@@ -9088,7 +9133,7 @@
   {
    "full_name": "Jeric-X/SyncClipboard",
    "html_url": "https://github.com/Jeric-X/SyncClipboard",
-   "stars": 4967,
+   "stars": 4972,
    "language": "C#",
    "topics": [],
    "description": "跨平台剪贴板同步、历史记录管理工具 / Cross-platform cipboard syncing, history management tool",
@@ -9103,7 +9148,7 @@
   {
    "full_name": "QuantumNous/new-api",
    "html_url": "https://github.com/QuantumNous/new-api",
-   "stars": 47319,
+   "stars": 47379,
    "language": "Go",
    "topics": [
     "ai-gateway",
@@ -9126,7 +9171,7 @@
   {
    "full_name": "boson-ai/higgs-audio",
    "html_url": "https://github.com/boson-ai/higgs-audio",
-   "stars": 8343,
+   "stars": 8345,
    "language": "Python",
    "topics": [],
    "description": "Text-audio foundation model from Boson AI",
@@ -9156,7 +9201,7 @@
   {
    "full_name": "QwenLM/qwen-code",
    "html_url": "https://github.com/QwenLM/qwen-code",
-   "stars": 27658,
+   "stars": 27674,
    "language": "TypeScript",
    "topics": [
     "agentic",
@@ -9184,7 +9229,7 @@
   {
    "full_name": "TriliumNext/Trilium",
    "html_url": "https://github.com/TriliumNext/Trilium",
-   "stars": 37715,
+   "stars": 37732,
    "language": "TypeScript",
    "topics": [
     "electron",
@@ -9219,7 +9264,7 @@
   {
    "full_name": "BluePointLilac/ContextMenuManager",
    "html_url": "https://github.com/BluePointLilac/ContextMenuManager",
-   "stars": 19960,
+   "stars": 19962,
    "language": "C#",
    "topics": [],
    "description": "🖱️ 纯粹的Windows右键菜单管理程序",
@@ -9289,7 +9334,7 @@
   {
    "full_name": "BloopAI/vibe-kanban",
    "html_url": "https://github.com/BloopAI/vibe-kanban",
-   "stars": 28012,
+   "stars": 28020,
    "language": "Rust",
    "topics": [
     "agent",
@@ -9325,7 +9370,7 @@
   {
    "full_name": "containers/bubblewrap",
    "html_url": "https://github.com/containers/bubblewrap",
-   "stars": 8604,
+   "stars": 8606,
    "language": "C",
    "topics": [
     "linux-containers",
@@ -9343,7 +9388,7 @@
   {
    "full_name": "terryso/claude-auto-resume",
    "html_url": "https://github.com/terryso/claude-auto-resume",
-   "stars": 817,
+   "stars": 818,
    "language": "Shell",
    "topics": [
     "auto-resume",
@@ -9503,7 +9548,7 @@
   {
    "full_name": "coleam00/context-engineering-intro",
    "html_url": "https://github.com/coleam00/context-engineering-intro",
-   "stars": 13820,
+   "stars": 13821,
    "language": "Python",
    "topics": [],
    "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
@@ -9533,7 +9578,7 @@
   {
    "full_name": "nutstore/obsidian-nutstore-sync",
    "html_url": "https://github.com/nutstore/obsidian-nutstore-sync",
-   "stars": 600,
+   "stars": 601,
    "language": "TypeScript",
    "topics": [],
    "description": null,
@@ -9563,7 +9608,7 @@
   {
    "full_name": "geekgeekrun/geekgeekrun",
    "html_url": "https://github.com/geekgeekrun/geekgeekrun",
-   "stars": 2363,
+   "stars": 2366,
    "language": "Vue",
    "topics": [
     "automatic-control",
@@ -9634,7 +9679,7 @@
   {
    "full_name": "sligter/LandPPT",
    "html_url": "https://github.com/sligter/LandPPT",
-   "stars": 3584,
+   "stars": 3585,
    "language": "Python",
    "topics": [
     "ai",
@@ -9653,7 +9698,7 @@
   {
    "full_name": "freeCodeCamp/freeCodeCamp",
    "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
-   "stars": 455019,
+   "stars": 455066,
    "language": "TypeScript",
    "topics": [
     "careers",
@@ -9684,7 +9729,7 @@
   {
    "full_name": "OpenListTeam/OpenList",
    "html_url": "https://github.com/OpenListTeam/OpenList",
-   "stars": 24492,
+   "stars": 24515,
    "language": "Go",
    "topics": [
     "alist",
@@ -9704,7 +9749,7 @@
   {
    "full_name": "pickle-com/glass",
    "html_url": "https://github.com/pickle-com/glass",
-   "stars": 7596,
+   "stars": 7595,
    "language": "JavaScript",
    "topics": [
     "electron",
@@ -9742,7 +9787,7 @@
   {
    "full_name": "punkpeye/awesome-mcp-clients",
    "html_url": "https://github.com/punkpeye/awesome-mcp-clients",
-   "stars": 6577,
+   "stars": 6579,
    "language": null,
    "topics": [
     "clients",
@@ -9760,7 +9805,7 @@
   {
    "full_name": "punkpeye/awesome-mcp-servers",
    "html_url": "https://github.com/punkpeye/awesome-mcp-servers",
-   "stars": 94168,
+   "stars": 94345,
    "language": null,
    "topics": [
     "ai",
@@ -9817,7 +9862,7 @@
   {
    "full_name": "funstory-ai/BabelDOC",
    "html_url": "https://github.com/funstory-ai/BabelDOC",
-   "stars": 9471,
+   "stars": 9480,
    "language": "Python",
    "topics": [],
    "description": "Yet Another Document Translator",
@@ -9847,7 +9892,7 @@
   {
    "full_name": "xlite-dev/LeetCUDA",
    "html_url": "https://github.com/xlite-dev/LeetCUDA",
-   "stars": 11888,
+   "stars": 11889,
    "language": "Cuda",
    "topics": [
     "cuda",
@@ -9877,7 +9922,7 @@
   {
    "full_name": "SchedMD/slurm",
    "html_url": "https://github.com/SchedMD/slurm",
-   "stars": 4320,
+   "stars": 4323,
    "language": "C",
    "topics": [
     "slurm",
@@ -9947,7 +9992,7 @@
   {
    "full_name": "iamgio/quarkdown",
    "html_url": "https://github.com/iamgio/quarkdown",
-   "stars": 16070,
+   "stars": 16078,
    "language": "Kotlin",
    "topics": [
     "compiler",
@@ -9978,7 +10023,7 @@
   {
    "full_name": "typst/typst",
    "html_url": "https://github.com/typst/typst",
-   "stars": 55846,
+   "stars": 55862,
    "language": "Rust",
    "topics": [
     "compiler",
@@ -10028,7 +10073,7 @@
   {
    "full_name": "hotovo/aider-desk",
    "html_url": "https://github.com/hotovo/aider-desk",
-   "stars": 1416,
+   "stars": 1417,
    "language": "TypeScript",
    "topics": [
     "ai",
@@ -10051,7 +10096,7 @@
   {
    "full_name": "ArcSurge/Termius-Pro-zh_CN",
    "html_url": "https://github.com/ArcSurge/Termius-Pro-zh_CN",
-   "stars": 2749,
+   "stars": 2752,
    "language": "Python",
    "topics": [
     "android",
@@ -10127,7 +10172,7 @@
   {
    "full_name": "microsoft/edit",
    "html_url": "https://github.com/microsoft/edit",
-   "stars": 14539,
+   "stars": 14540,
    "language": "Rust",
    "topics": [
     "editor",
@@ -10147,7 +10192,7 @@
   {
    "full_name": "microsoft/WSL",
    "html_url": "https://github.com/microsoft/WSL",
-   "stars": 33617,
+   "stars": 33622,
    "language": "C++",
    "topics": [],
    "description": "Windows Subsystem for Linux",
@@ -10162,7 +10207,7 @@
   {
    "full_name": "oraios/serena",
    "html_url": "https://github.com/oraios/serena",
-   "stars": 28834,
+   "stars": 28883,
    "language": "Python",
    "topics": [
     "agent",
@@ -10190,7 +10235,7 @@
   {
    "full_name": "SuperClaude-Org/SuperClaude_Framework",
    "html_url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
-   "stars": 23870,
+   "stars": 23871,
    "language": "Python",
    "topics": [],
    "description": "A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.",
@@ -10205,7 +10250,7 @@
   {
    "full_name": "ccusage/ccusage",
    "html_url": "https://github.com/ccusage/ccusage",
-   "stars": 18368,
+   "stars": 18380,
    "language": "Rust",
    "topics": [],
    "description": "npx ccusage",
@@ -10220,7 +10265,7 @@
   {
    "full_name": "winfunc/opcode",
    "html_url": "https://github.com/winfunc/opcode",
-   "stars": 22394,
+   "stars": 22393,
    "language": "TypeScript",
    "topics": [
     "anthropic",
@@ -10251,7 +10296,7 @@
   {
    "full_name": "ttop32/MouseTooltipTranslator",
    "html_url": "https://github.com/ttop32/MouseTooltipTranslator",
-   "stars": 1307,
+   "stars": 1308,
    "language": "JavaScript",
    "topics": [
     "browser-extension",
@@ -10287,7 +10332,7 @@
   {
    "full_name": "google-gemini/gemini-cli",
    "html_url": "https://github.com/google-gemini/gemini-cli",
-   "stars": 106816,
+   "stars": 106823,
    "language": "TypeScript",
    "topics": [
     "ai",
@@ -10356,7 +10401,7 @@
   {
    "full_name": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
    "html_url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever",
-   "stars": 29867,
+   "stars": 29891,
    "language": null,
    "topics": [
     "adblock",
@@ -10407,7 +10452,7 @@
   {
    "full_name": "musistudio/claude-code-router",
    "html_url": "https://github.com/musistudio/claude-code-router",
-   "stars": 37083,
+   "stars": 37095,
    "language": "TypeScript",
    "topics": [],
    "description": "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.",
@@ -10422,7 +10467,7 @@
   {
    "full_name": "wonderwhy-er/DesktopCommanderMCP",
    "html_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-   "stars": 9486,
+   "stars": 9496,
    "language": "TypeScript",
    "topics": [
     "agent",
@@ -10447,7 +10492,7 @@
   {
    "full_name": "hesreallyhim/awesome-claude-code",
    "html_url": "https://github.com/hesreallyhim/awesome-claude-code",
-   "stars": 53527,
+   "stars": 53572,
    "language": "Python",
    "topics": [
     "agent-skills",
@@ -10482,7 +10527,7 @@
   {
    "full_name": "vibrantlabsai/ragas",
    "html_url": "https://github.com/vibrantlabsai/ragas",
-   "stars": 15623,
+   "stars": 15629,
    "language": "Python",
    "topics": [
     "evaluation",
@@ -10567,7 +10612,7 @@
   {
    "full_name": "veracrypt/VeraCrypt",
    "html_url": "https://github.com/veracrypt/VeraCrypt",
-   "stars": 11537,
+   "stars": 11543,
    "language": "C",
    "topics": [
     "encryption",
@@ -10615,7 +10660,7 @@
   {
    "full_name": "Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization",
    "html_url": "https://github.com/Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization",
-   "stars": 3311,
+   "stars": 3315,
    "language": "Jupyter Notebook",
    "topics": [
     "data-science",
@@ -10662,7 +10707,7 @@
   {
    "full_name": "spf13/cobra",
    "html_url": "https://github.com/spf13/cobra",
-   "stars": 44566,
+   "stars": 44574,
    "language": "Go",
    "topics": [
     "cli",
@@ -10694,7 +10739,7 @@
   {
    "full_name": "rs/zerolog",
    "html_url": "https://github.com/rs/zerolog",
-   "stars": 12499,
+   "stars": 12498,
    "language": "Go",
    "topics": [
     "golang",
@@ -10715,7 +10760,7 @@
   {
    "full_name": "junegunn/fzf",
    "html_url": "https://github.com/junegunn/fzf",
-   "stars": 82822,
+   "stars": 82831,
    "language": "Go",
    "topics": [
     "bash",
@@ -10741,7 +10786,7 @@
   {
    "full_name": "google/tcmalloc",
    "html_url": "https://github.com/google/tcmalloc",
-   "stars": 5341,
+   "stars": 5342,
    "language": "C++",
    "topics": [],
    "description": null,
@@ -10756,7 +10801,7 @@
   {
    "full_name": "google/flatbuffers",
    "html_url": "https://github.com/google/flatbuffers",
-   "stars": 26431,
+   "stars": 26435,
    "language": "C++",
    "topics": [
     "c",
@@ -10792,7 +10837,7 @@
   {
    "full_name": "protocolbuffers/protobuf",
    "html_url": "https://github.com/protocolbuffers/protobuf",
-   "stars": 71999,
+   "stars": 72000,
    "language": "C++",
    "topics": [
     "marshalling",
@@ -10816,7 +10861,7 @@
   {
    "full_name": "apache/brpc",
    "html_url": "https://github.com/apache/brpc",
-   "stars": 17595,
+   "stars": 17594,
    "language": "C++",
    "topics": [
     "rpc"
@@ -10833,7 +10878,7 @@
   {
    "full_name": "guoyww/AnimateDiff",
    "html_url": "https://github.com/guoyww/AnimateDiff",
-   "stars": 12236,
+   "stars": 12238,
    "language": "Python",
    "topics": [],
    "description": "Official implementation of AnimateDiff.",
@@ -10971,7 +11016,7 @@
   {
    "full_name": "coder2gwy/coder2gwy",
    "html_url": "https://github.com/coder2gwy/coder2gwy",
-   "stars": 27653,
+   "stars": 27655,
    "language": null,
    "topics": [],
    "description": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。",
@@ -10986,7 +11031,7 @@
   {
    "full_name": "bleedline/aimoneyhunter",
    "html_url": "https://github.com/bleedline/aimoneyhunter",
-   "stars": 18039,
+   "stars": 18043,
    "language": null,
    "topics": [],
    "description": "ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.",
@@ -11016,7 +11061,7 @@
   {
    "full_name": "microsoft/mcp-for-beginners",
    "html_url": "https://github.com/microsoft/mcp-for-beginners",
-   "stars": 17157,
+   "stars": 17159,
    "language": "Jupyter Notebook",
    "topics": [
     "csharp",
@@ -11061,7 +11106,7 @@
   {
    "full_name": "RawChat/RawChat",
    "html_url": "https://github.com/RawChat/RawChat",
-   "stars": 2144,
+   "stars": 2145,
    "language": null,
    "topics": [],
    "description": null,
@@ -11076,7 +11121,7 @@
   {
    "full_name": "google-gemini/gemini-fullstack-langgraph-quickstart",
    "html_url": "https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart",
-   "stars": 18328,
+   "stars": 18327,
    "language": "Jupyter Notebook",
    "topics": [
     "gemini",
@@ -11109,7 +11154,7 @@
   {
    "full_name": "upstash/context7",
    "html_url": "https://github.com/upstash/context7",
-   "stars": 61632,
+   "stars": 61674,
    "language": "TypeScript",
    "topics": [
     "llm",
@@ -11250,7 +11295,7 @@
   {
    "full_name": "d2l-ai/d2l-zh",
    "html_url": "https://github.com/d2l-ai/d2l-zh",
-   "stars": 80281,
+   "stars": 80317,
    "language": "Python",
    "topics": [
     "book",
@@ -11274,7 +11319,7 @@
   {
    "full_name": "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
    "html_url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
-   "stars": 12640,
+   "stars": 12641,
    "language": "Python",
    "topics": [
     "coding",
@@ -11333,7 +11378,7 @@
   {
    "full_name": "photoview/photoview",
    "html_url": "https://github.com/photoview/photoview",
-   "stars": 6523,
+   "stars": 6525,
    "language": "Go",
    "topics": [
     "docker",
@@ -11495,7 +11540,7 @@
   {
    "full_name": "Pintree-io/pintree",
    "html_url": "https://github.com/Pintree-io/pintree",
-   "stars": 2589,
+   "stars": 2590,
    "language": "TypeScript",
    "topics": [
     "bookmark",
@@ -11540,7 +11585,7 @@
   {
    "full_name": "SpotX-Official/SpotX",
    "html_url": "https://github.com/SpotX-Official/SpotX",
-   "stars": 22256,
+   "stars": 22261,
    "language": "PowerShell",
    "topics": [
     "adblock",
@@ -11569,7 +11614,7 @@
   {
    "full_name": "mrpond/BlockTheSpot",
    "html_url": "https://github.com/mrpond/BlockTheSpot",
-   "stars": 12489,
+   "stars": 12488,
    "language": "C++",
    "topics": [
     "adsblock",
@@ -11588,7 +11633,7 @@
   {
    "full_name": "caddyserver/caddy",
    "html_url": "https://github.com/caddyserver/caddy",
-   "stars": 75492,
+   "stars": 75511,
    "language": "Go",
    "topics": [
     "acme",
@@ -11634,7 +11679,7 @@
   {
    "full_name": "Google-Health/medgemma",
    "html_url": "https://github.com/Google-Health/medgemma",
-   "stars": 1582,
+   "stars": 1583,
    "language": "Jupyter Notebook",
    "topics": [],
    "description": null,
@@ -11649,7 +11694,7 @@
   {
    "full_name": "lobehub/lobehub",
    "html_url": "https://github.com/lobehub/lobehub",
-   "stars": 82246,
+   "stars": 82253,
    "language": "TypeScript",
    "topics": [
     "agent",
@@ -11683,7 +11728,7 @@
   {
    "full_name": "stagewise-io/stagewise",
    "html_url": "https://github.com/stagewise-io/stagewise",
-   "stars": 6802,
+   "stars": 6803,
    "language": "TypeScript",
    "topics": [
     "agent",
@@ -11738,7 +11783,7 @@
   {
    "full_name": "Richasy/Bili.Copilot",
    "html_url": "https://github.com/Richasy/Bili.Copilot",
-   "stars": 5229,
+   "stars": 5231,
    "language": "GLSL",
    "topics": [
     "bilibili",
@@ -11757,7 +11802,7 @@
   {
    "full_name": "bggRGjQaUbCoE/PiliPlus",
    "html_url": "https://github.com/bggRGjQaUbCoE/PiliPlus",
-   "stars": 18051,
+   "stars": 18095,
    "language": "Dart",
    "topics": [
     "android",
@@ -11779,7 +11824,7 @@
   {
    "full_name": "AsyncFuncAI/deepwiki-open",
    "html_url": "https://github.com/AsyncFuncAI/deepwiki-open",
-   "stars": 17884,
+   "stars": 17889,
    "language": "Python",
    "topics": [
     "ai",
@@ -11806,7 +11851,7 @@
   {
    "full_name": "rikkahub/rikkahub",
    "html_url": "https://github.com/rikkahub/rikkahub",
-   "stars": 7401,
+   "stars": 7420,
    "language": "Kotlin",
    "topics": [
     "agent",
@@ -11858,7 +11903,7 @@
   {
    "full_name": "ButTaiwan/gensen-font",
    "html_url": "https://github.com/ButTaiwan/gensen-font",
-   "stars": 851,
+   "stars": 852,
    "language": null,
    "topics": [],
    "description": "A free font family derived from Source Han Sans.",
@@ -11873,7 +11918,7 @@
   {
    "full_name": "nvm-windows/nvm",
    "html_url": "https://github.com/nvm-windows/nvm",
-   "stars": 47563,
+   "stars": 47577,
    "language": "Inno Setup",
    "topics": [
     "install",
@@ -11896,7 +11941,7 @@
   {
    "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
    "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-   "stars": 143363,
+   "stars": 143385,
    "language": null,
    "topics": [
     "ai",
@@ -11932,7 +11977,7 @@
   {
    "full_name": "jingyaogong/minimind",
    "html_url": "https://github.com/jingyaogong/minimind",
-   "stars": 58564,
+   "stars": 58832,
    "language": "Python",
    "topics": [
     "artificial-intelligence",
@@ -11950,7 +11995,7 @@
   {
    "full_name": "open-webui/open-webui",
    "html_url": "https://github.com/open-webui/open-webui",
-   "stars": 150966,
+   "stars": 151072,
    "language": "Python",
    "topics": [
     "ai",
@@ -11996,7 +12041,7 @@
   {
    "full_name": "Vinzent03/obsidian-git",
    "html_url": "https://github.com/Vinzent03/obsidian-git",
-   "stars": 11910,
+   "stars": 11918,
    "language": "TypeScript",
    "topics": [
     "git",
@@ -12016,7 +12061,7 @@
   {
    "full_name": "platers/obsidian-linter",
    "html_url": "https://github.com/platers/obsidian-linter",
-   "stars": 2051,
+   "stars": 2052,
    "language": "TypeScript",
    "topics": [
     "linter",
@@ -12035,7 +12080,7 @@
   {
    "full_name": "toeverything/AFFiNE",
    "html_url": "https://github.com/toeverything/AFFiNE",
-   "stars": 72195,
+   "stars": 72219,
    "language": "TypeScript",
    "topics": [
     "app",
@@ -12069,7 +12114,7 @@
   {
    "full_name": "HanaokaYuzu/Gemini-API",
    "html_url": "https://github.com/HanaokaYuzu/Gemini-API",
-   "stars": 3476,
+   "stars": 3479,
    "language": "Python",
    "topics": [
     "ai",
@@ -12176,7 +12221,7 @@
   {
    "full_name": "readest/readest",
    "html_url": "https://github.com/readest/readest",
-   "stars": 24074,
+   "stars": 24100,
    "language": "TypeScript",
    "topics": [
     "calibre",
@@ -12210,7 +12255,7 @@
   {
    "full_name": "u14app/deep-research",
    "html_url": "https://github.com/u14app/deep-research",
-   "stars": 4684,
+   "stars": 4682,
    "language": "JavaScript",
    "topics": [
     "anthropic",
@@ -12285,8 +12330,8 @@
    ]
   },
   {
-   "full_name": "Warma10032/VideoAdGuard",
-   "html_url": "https://github.com/Warma10032/VideoAdGuard",
+   "full_name": "ZeroTang05/VideoAdGuard",
+   "html_url": "https://github.com/ZeroTang05/VideoAdGuard",
    "stars": 751,
    "language": "TypeScript",
    "topics": [
@@ -12298,7 +12343,7 @@
     "llm"
    ],
    "description": "哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。",
-   "description_zh": "哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。",
+   "description_zh": null,
    "archived": false,
    "fork": false,
    "starred_at": "2025-04-24T17:18:07Z",
@@ -12309,7 +12354,7 @@
   {
    "full_name": "pocoproject/poco",
    "html_url": "https://github.com/pocoproject/poco",
-   "stars": 9485,
+   "stars": 9484,
    "language": "C++",
    "topics": [
     "c-plus-plus",
@@ -12339,7 +12384,7 @@
   {
    "full_name": "uxlfoundation/oneTBB",
    "html_url": "https://github.com/uxlfoundation/oneTBB",
-   "stars": 6739,
+   "stars": 6738,
    "language": "C++",
    "topics": [
     "composability",
@@ -12443,7 +12488,7 @@
   {
    "full_name": "0xJacky/nginx-ui",
    "html_url": "https://github.com/0xJacky/nginx-ui",
-   "stars": 11476,
+   "stars": 11477,
    "language": "Go",
    "topics": [
     "code-completion",
@@ -12474,7 +12519,7 @@
   {
    "full_name": "kekylin/debnas",
    "html_url": "https://github.com/kekylin/debnas",
-   "stars": 1183,
+   "stars": 1182,
    "language": "Shell",
    "topics": [
     "debian",
@@ -12502,7 +12547,7 @@
   {
    "full_name": "Aider-AI/aider",
    "html_url": "https://github.com/Aider-AI/aider",
-   "stars": 48749,
+   "stars": 48774,
    "language": "Python",
    "topics": [
     "anthropic",
@@ -12607,7 +12652,7 @@
   {
    "full_name": "LC044/WeChatMsg",
    "html_url": "https://github.com/LC044/WeChatMsg",
-   "stars": 42029,
+   "stars": 42031,
    "language": null,
    "topics": [
     "chatgpt",
@@ -12627,7 +12672,7 @@
   {
    "full_name": "pdm-project/pdm",
    "html_url": "https://github.com/pdm-project/pdm",
-   "stars": 8672,
+   "stars": 8673,
    "language": "Python",
    "topics": [
     "hacktoberfest",
@@ -12713,7 +12758,7 @@
   {
    "full_name": "karakeep-app/karakeep",
    "html_url": "https://github.com/karakeep-app/karakeep",
-   "stars": 28815,
+   "stars": 28841,
    "language": "TypeScript",
    "topics": [
     "bookmark-manager",
@@ -12755,7 +12800,7 @@
   {
    "full_name": "blinkospace/blinko",
    "html_url": "https://github.com/blinkospace/blinko",
-   "stars": 10987,
+   "stars": 10986,
    "language": "TypeScript",
    "topics": [
     "markdown",
@@ -12809,7 +12854,7 @@
   {
    "full_name": "tom-snow/wechat-windows-versions",
    "html_url": "https://github.com/tom-snow/wechat-windows-versions",
-   "stars": 3273,
+   "stars": 3274,
    "language": "Shell",
    "topics": [],
    "description": "保存微信历史版本",
@@ -12824,7 +12869,7 @@
   {
    "full_name": "DJB-Developer/wechat-android-history-versions",
    "html_url": "https://github.com/DJB-Developer/wechat-android-history-versions",
-   "stars": 756,
+   "stars": 759,
    "language": "JavaScript",
    "topics": [],
    "description": "微信Android 微信安卓版 微信安卓 历史版本 官方下载地址",
@@ -12839,7 +12884,7 @@
   {
    "full_name": "huiyadanli/RevokeMsgPatcher",
    "html_url": "https://github.com/huiyadanli/RevokeMsgPatcher",
-   "stars": 38686,
+   "stars": 38696,
    "language": "C#",
    "topics": [
     "hex-editor",
@@ -12865,7 +12910,7 @@
   {
    "full_name": "it-ebooks-0/geektime-books",
    "html_url": "https://github.com/it-ebooks-0/geektime-books",
-   "stars": 13335,
+   "stars": 13337,
    "language": null,
    "topics": [],
    "description": ":books: 极客时间电子书",
@@ -12896,7 +12941,7 @@
   {
    "full_name": "Mai-with-u/MaiBot",
    "html_url": "https://github.com/Mai-with-u/MaiBot",
-   "stars": 5882,
+   "stars": 5886,
    "language": "Python",
    "topics": [
     "agent",
@@ -12951,7 +12996,7 @@
   {
    "full_name": "molvqingtai/WebChat",
    "html_url": "https://github.com/molvqingtai/WebChat",
-   "stars": 2561,
+   "stars": 2562,
    "language": "TypeScript",
    "topics": [
     "browser-extension",
@@ -12995,7 +13040,7 @@
   {
    "full_name": "SpaceTimee/Fusion-JetBrainsMapleMono",
    "html_url": "https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono",
-   "stars": 2247,
+   "stars": 2249,
    "language": "Python",
    "topics": [
     "font",
@@ -13041,7 +13086,7 @@
   {
    "full_name": "LSPosed/MagiskOnWSALocal",
    "html_url": "https://github.com/LSPosed/MagiskOnWSALocal",
-   "stars": 10594,
+   "stars": 10593,
    "language": "Shell",
    "topics": [
     "android",
@@ -13063,7 +13108,7 @@
   {
    "full_name": "RooCodeInc/Roo-Code",
    "html_url": "https://github.com/RooCodeInc/Roo-Code",
-   "stars": 24311,
+   "stars": 24309,
    "language": "TypeScript",
    "topics": [],
    "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
@@ -13078,7 +13123,7 @@
   {
    "full_name": "xxnuo/MTranServer",
    "html_url": "https://github.com/xxnuo/MTranServer",
-   "stars": 4687,
+   "stars": 4688,
    "language": "C++",
    "topics": [],
    "description": "Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器",
@@ -13093,7 +13138,7 @@
   {
    "full_name": "chengazhen/cursor-auto-free",
    "html_url": "https://github.com/chengazhen/cursor-auto-free",
-   "stars": 9805,
+   "stars": 9804,
    "language": "Python",
    "topics": [],
    "description": "auto sign cursor",
@@ -13108,7 +13153,7 @@
   {
    "full_name": "anghunk/linuxdo-scripts",
    "html_url": "https://github.com/anghunk/linuxdo-scripts",
-   "stars": 2770,
+   "stars": 2774,
    "language": "Vue",
    "topics": [],
    "description": "LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me",
@@ -13123,7 +13168,7 @@
   {
    "full_name": "exelban/stats",
    "html_url": "https://github.com/exelban/stats",
-   "stars": 41612,
+   "stars": 41617,
    "language": "Swift",
    "topics": [
     "battery",
@@ -13179,7 +13224,7 @@
   {
    "full_name": "DaoCloud/public-image-mirror",
    "html_url": "https://github.com/DaoCloud/public-image-mirror",
-   "stars": 15011,
+   "stars": 15013,
    "language": "Shell",
    "topics": [
     "mirror",
@@ -13212,7 +13257,7 @@
   {
    "full_name": "VonChange/utao",
    "html_url": "https://github.com/VonChange/utao",
-   "stars": 4358,
+   "stars": 4359,
    "language": "JavaScript",
    "topics": [
     "android",
@@ -13233,7 +13278,7 @@
   {
    "full_name": "zkep/my-geektime",
    "html_url": "https://github.com/zkep/my-geektime",
-   "stars": 784,
+   "stars": 785,
    "language": "Go",
    "topics": [
     "downloader",
@@ -13342,7 +13387,7 @@
   {
    "full_name": "chubin/cheat.sh",
    "html_url": "https://github.com/chubin/cheat.sh",
-   "stars": 41720,
+   "stars": 41726,
    "language": "Python",
    "topics": [
     "cheatsheet",
@@ -13413,7 +13458,7 @@
   {
    "full_name": "nukeop/nuclear",
    "html_url": "https://github.com/nukeop/nuclear",
-   "stars": 18393,
+   "stars": 18398,
    "language": "TypeScript",
    "topics": [
     "agent",
@@ -13445,7 +13490,7 @@
   {
    "full_name": "wezterm/wezterm",
    "html_url": "https://github.com/wezterm/wezterm",
-   "stars": 28758,
+   "stars": 28769,
    "language": "Rust",
    "topics": [
     "rust",
@@ -13467,7 +13512,7 @@
   {
    "full_name": "anthropics/claude-code",
    "html_url": "https://github.com/anthropics/claude-code",
-   "stars": 144102,
+   "stars": 144190,
    "language": "Python",
    "topics": [],
    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
@@ -13482,7 +13527,7 @@
   {
    "full_name": "cline/cline",
    "html_url": "https://github.com/cline/cline",
-   "stars": 67490,
+   "stars": 67541,
    "language": "TypeScript",
    "topics": [],
    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
@@ -13600,7 +13645,7 @@
   {
    "full_name": "gedoor/legado",
    "html_url": "https://github.com/gedoor/legado",
-   "stars": 47073,
+   "stars": 47072,
    "language": "Kotlin",
    "topics": [],
    "description": "Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
@@ -13661,7 +13706,7 @@
   {
    "full_name": "microsoft/markitdown",
    "html_url": "https://github.com/microsoft/markitdown",
-   "stars": 178189,
+   "stars": 178362,
    "language": "Python",
    "topics": [
     "autogen",
@@ -13684,7 +13729,7 @@
   {
    "full_name": "lxgw/LxgwNeoZhiSong",
    "html_url": "https://github.com/lxgw/LxgwNeoZhiSong",
-   "stars": 1239,
+   "stars": 1240,
    "language": null,
    "topics": [
     "chinese-simplified",
@@ -13703,7 +13748,7 @@
   {
    "full_name": "Tyrrrz/LightBulb",
    "html_url": "https://github.com/Tyrrrz/LightBulb",
-   "stars": 2766,
+   "stars": 2767,
    "language": "C#",
    "topics": [
     "brightness",
@@ -13782,7 +13827,7 @@
   {
    "full_name": "tpn/pdfs",
    "html_url": "https://github.com/tpn/pdfs",
-   "stars": 10127,
+   "stars": 10129,
    "language": "HTML",
    "topics": [
     "archive",
@@ -13804,7 +13849,7 @@
   {
    "full_name": "google/deepvariant",
    "html_url": "https://github.com/google/deepvariant",
-   "stars": 3802,
+   "stars": 3803,
    "language": "Python",
    "topics": [
     "bioinformatics",
@@ -13876,7 +13921,7 @@
   {
    "full_name": "putyy/res-downloader",
    "html_url": "https://github.com/putyy/res-downloader",
-   "stars": 19693,
+   "stars": 19704,
    "language": "Go",
    "topics": [
     "douyin",
@@ -13898,7 +13943,7 @@
   {
    "full_name": "usememos/memos",
    "html_url": "https://github.com/usememos/memos",
-   "stars": 62772,
+   "stars": 62787,
    "language": "Go",
    "topics": [
     "docker",
@@ -13927,7 +13972,7 @@
   {
    "full_name": "PDFMathTranslate/PDFMathTranslate",
    "html_url": "https://github.com/PDFMathTranslate/PDFMathTranslate",
-   "stars": 36703,
+   "stars": 36724,
    "language": "Python",
    "topics": [
     "chinese",
@@ -14083,7 +14128,7 @@
   {
    "full_name": "HuolalaTech/page-spy-web",
    "html_url": "https://github.com/HuolalaTech/page-spy-web",
-   "stars": 5627,
+   "stars": 5628,
    "language": "TypeScript",
    "topics": [
     "console",
@@ -14127,7 +14172,7 @@
   {
    "full_name": "OdysseusYuan/LKY_OfficeTools",
    "html_url": "https://github.com/OdysseusYuan/LKY_OfficeTools",
-   "stars": 12614,
+   "stars": 12621,
    "language": "C#",
    "topics": [
     "access",
@@ -14238,7 +14283,7 @@
   {
    "full_name": "lh3/seqtk",
    "html_url": "https://github.com/lh3/seqtk",
-   "stars": 1558,
+   "stars": 1559,
    "language": "C",
    "topics": [
     "bioinformatics",
@@ -14371,7 +14416,7 @@
   {
    "full_name": "haripo/react-github-contribution-calendar",
    "html_url": "https://github.com/haripo/react-github-contribution-calendar",
-   "stars": 174,
+   "stars": 172,
    "language": "HTML",
    "topics": [
     "calendar",
@@ -14430,7 +14475,7 @@
   {
    "full_name": "rust-boom/rust-boom",
    "html_url": "https://github.com/rust-boom/rust-boom",
-   "stars": 1719,
+   "stars": 1720,
    "language": "Rust",
    "topics": [
     "awesome",
@@ -14450,7 +14495,7 @@
   {
    "full_name": "spf13/viper",
    "html_url": "https://github.com/spf13/viper",
-   "stars": 30453,
+   "stars": 30454,
    "language": "Go",
    "topics": [],
    "description": "Go configuration with fangs",
@@ -14483,7 +14528,7 @@
   {
    "full_name": "sunface/rust-course",
    "html_url": "https://github.com/sunface/rust-course",
-   "stars": 30872,
+   "stars": 30880,
    "language": "Rust",
    "topics": [
     "book",
@@ -14516,7 +14561,7 @@
   {
    "full_name": "origin-brain/rust-by-practice",
    "html_url": "https://github.com/origin-brain/rust-by-practice",
-   "stars": 14749,
+   "stars": 14754,
    "language": "Rust",
    "topics": [
     "example",
@@ -14574,7 +14619,7 @@
   {
    "full_name": "deepseek-ai/awesome-deepseek-integration",
    "html_url": "https://github.com/deepseek-ai/awesome-deepseek-integration",
-   "stars": 39027,
+   "stars": 39037,
    "language": null,
    "topics": [
     "awesome",
@@ -14592,7 +14637,7 @@
   {
    "full_name": "mihomo-party-org/clash-party",
    "html_url": "https://github.com/mihomo-party-org/clash-party",
-   "stars": 26260,
+   "stars": 26272,
    "language": "TypeScript",
    "topics": [
     "clash",
@@ -14612,7 +14657,7 @@
   {
    "full_name": "chen08209/FlClash",
    "html_url": "https://github.com/chen08209/FlClash",
-   "stars": 50948,
+   "stars": 51020,
    "language": "Dart",
    "topics": [
     "clash",
@@ -14637,7 +14682,7 @@
   {
    "full_name": "ossu/bioinformatics",
    "html_url": "https://github.com/ossu/bioinformatics",
-   "stars": 7086,
+   "stars": 7088,
    "language": null,
    "topics": [],
    "description": ":microscope: Path to a free self-taught education in Bioinformatics!",
@@ -14758,7 +14803,7 @@
   {
    "full_name": "521xueweihan/GitHub520",
    "html_url": "https://github.com/521xueweihan/GitHub520",
-   "stars": 29573,
+   "stars": 29589,
    "language": "Python",
    "topics": [
     "dns",
@@ -14777,7 +14822,7 @@
   {
    "full_name": "Sophia-Community/SophiApp",
    "html_url": "https://github.com/Sophia-Community/SophiApp",
-   "stars": 5160,
+   "stars": 5162,
    "language": "C#",
    "topics": [
     "22h2",
@@ -14848,7 +14893,7 @@
   {
    "full_name": "libre-tube/LibreTube",
    "html_url": "https://github.com/libre-tube/LibreTube",
-   "stars": 12603,
+   "stars": 12633,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -15040,7 +15085,7 @@
   {
    "full_name": "danielecook/Awesome-Bioinformatics",
    "html_url": "https://github.com/danielecook/Awesome-Bioinformatics",
-   "stars": 4264,
+   "stars": 4267,
    "language": null,
    "topics": [
     "awesome",
@@ -15086,7 +15131,7 @@
   {
    "full_name": "public-apis/public-apis",
    "html_url": "https://github.com/public-apis/public-apis",
-   "stars": 475355,
+   "stars": 475948,
    "language": "Python",
    "topics": [
     "api",
@@ -15115,7 +15160,7 @@
   {
    "full_name": "srwi/EverythingToolbar",
    "html_url": "https://github.com/srwi/EverythingToolbar",
-   "stars": 14692,
+   "stars": 14698,
    "language": "C",
    "topics": [
     "deskband",
@@ -15141,7 +15186,7 @@
   {
    "full_name": "subframe7536/maple-font",
    "html_url": "https://github.com/subframe7536/maple-font",
-   "stars": 28675,
+   "stars": 28693,
    "language": "Python",
    "topics": [
     "coding-font",
@@ -15228,7 +15273,7 @@
   {
    "full_name": "cooderl/wewe-rss",
    "html_url": "https://github.com/cooderl/wewe-rss",
-   "stars": 9672,
+   "stars": 9673,
    "language": "TypeScript",
    "topics": [
     "mysql",
@@ -15253,7 +15298,7 @@
   {
    "full_name": "Milkdown/milkdown",
    "html_url": "https://github.com/Milkdown/milkdown",
-   "stars": 11889,
+   "stars": 11893,
    "language": "TypeScript",
    "topics": [
     "editor",
@@ -15339,7 +15384,7 @@
   {
    "full_name": "gitpod-io/openvscode-server",
    "html_url": "https://github.com/gitpod-io/openvscode-server",
-   "stars": 6169,
+   "stars": 6170,
    "language": "TypeScript",
    "topics": [
     "ide",
@@ -15358,7 +15403,7 @@
   {
    "full_name": "coder/coder",
    "html_url": "https://github.com/coder/coder",
-   "stars": 14371,
+   "stars": 14379,
    "language": "Go",
    "topics": [
     "agents",
@@ -15384,7 +15429,7 @@
   {
    "full_name": "007revad/Synology_HDD_db",
    "html_url": "https://github.com/007revad/Synology_HDD_db",
-   "stars": 5824,
+   "stars": 5822,
    "language": "Shell",
    "topics": [
     "diskstation",
@@ -15452,7 +15497,7 @@
   {
    "full_name": "maotoumao/MusicFreeDesktop",
    "html_url": "https://github.com/maotoumao/MusicFreeDesktop",
-   "stars": 8788,
+   "stars": 8794,
    "language": "TypeScript",
    "topics": [
     "electron",
@@ -15474,7 +15519,7 @@
   {
    "full_name": "breezy-weather/breezy-weather",
    "html_url": "https://github.com/breezy-weather/breezy-weather",
-   "stars": 11296,
+   "stars": 11320,
    "language": "Kotlin",
    "topics": [],
    "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
@@ -15544,7 +15589,7 @@
   {
    "full_name": "RROrg/rr",
    "html_url": "https://github.com/RROrg/rr",
-   "stars": 8589,
+   "stars": 8593,
    "language": "Shell",
    "topics": [
     "bootloader",
@@ -15690,7 +15735,7 @@
   {
    "full_name": "2noise/ChatTTS",
    "html_url": "https://github.com/2noise/ChatTTS",
-   "stars": 39815,
+   "stars": 39812,
    "language": "Python",
    "topics": [
     "agent",
@@ -15769,7 +15814,7 @@
   {
    "full_name": "quickwit-oss/tantivy",
    "html_url": "https://github.com/quickwit-oss/tantivy",
-   "stars": 16040,
+   "stars": 16043,
    "language": "Rust",
    "topics": [
     "rust",
@@ -15979,7 +16024,7 @@
   {
    "full_name": "cohere-ai/cohere-toolkit",
    "html_url": "https://github.com/cohere-ai/cohere-toolkit",
-   "stars": 3177,
+   "stars": 3176,
    "language": "TypeScript",
    "topics": [],
    "description": "Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.",
@@ -16009,7 +16054,7 @@
   {
    "full_name": "janhq/jan",
    "html_url": "https://github.com/janhq/jan",
-   "stars": 44339,
+   "stars": 44366,
    "language": "TypeScript",
    "topics": [
     "chatgpt",
@@ -16034,7 +16079,7 @@
   {
    "full_name": "solidSpoon/DashPlayer",
    "html_url": "https://github.com/solidSpoon/DashPlayer",
-   "stars": 4345,
+   "stars": 4350,
    "language": "TypeScript",
    "topics": [
     "app",
@@ -16074,7 +16119,7 @@
   {
    "full_name": "songquanpeng/one-api",
    "html_url": "https://github.com/songquanpeng/one-api",
-   "stars": 36732,
+   "stars": 36750,
    "language": "JavaScript",
    "topics": [
     "api",
@@ -16116,7 +16161,7 @@
   {
    "full_name": "fishjar/kiss-translator",
    "html_url": "https://github.com/fishjar/kiss-translator",
-   "stars": 12352,
+   "stars": 12363,
    "language": "JavaScript",
    "topics": [
     "extension",
@@ -16138,7 +16183,7 @@
   {
    "full_name": "FluentRead/FluentRead",
    "html_url": "https://github.com/FluentRead/FluentRead",
-   "stars": 7609,
+   "stars": 7608,
    "language": "TypeScript",
    "topics": [],
    "description": "An open-source browser extension for bilingual webpages, instant selection translation, and flexible translation services. 一款开源浏览器翻译插件，提供网页双语阅读、即时划词翻译和灵活的翻译服务配置。",
@@ -16153,7 +16198,7 @@
   {
    "full_name": "zero-peak/ZeroOmega",
    "html_url": "https://github.com/zero-peak/ZeroOmega",
-   "stars": 7875,
+   "stars": 7877,
    "language": "CoffeeScript",
    "topics": [
     "proxy",
@@ -16269,7 +16314,7 @@
   {
    "full_name": "kusti8/proton-native",
    "html_url": "https://github.com/kusti8/proton-native",
-   "stars": 10881,
+   "stars": 10880,
    "language": "TypeScript",
    "topics": [
     "cross-platform",
@@ -16290,7 +16335,7 @@
   {
    "full_name": "dnote/dnote",
    "html_url": "https://github.com/dnote/dnote",
-   "stars": 3080,
+   "stars": 3079,
    "language": "Go",
    "topics": [
     "cli",
@@ -16313,7 +16358,7 @@
   {
    "full_name": "FoundationAgents/MetaGPT",
    "html_url": "https://github.com/FoundationAgents/MetaGPT",
-   "stars": 70223,
+   "stars": 70231,
    "language": "Python",
    "topics": [
     "agent",
@@ -16349,7 +16394,7 @@
   {
    "full_name": "scriptscat/scriptcat",
    "html_url": "https://github.com/scriptscat/scriptcat",
-   "stars": 5260,
+   "stars": 5268,
    "language": "TypeScript",
    "topics": [
     "chrome-extension",
@@ -16370,7 +16415,7 @@
   {
    "full_name": "langchain-ai/langchain",
    "html_url": "https://github.com/langchain-ai/langchain",
-   "stars": 145668,
+   "stars": 145726,
    "language": "Python",
    "topics": [
     "agents",
@@ -16406,7 +16451,7 @@
   {
    "full_name": "zhuima/awesome-cloudflare",
    "html_url": "https://github.com/zhuima/awesome-cloudflare",
-   "stars": 15179,
+   "stars": 15192,
    "language": null,
    "topics": [],
    "description": "⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.",
@@ -16421,7 +16466,7 @@
   {
    "full_name": "weijunext/landing-page-boilerplate",
    "html_url": "https://github.com/weijunext/landing-page-boilerplate",
-   "stars": 1348,
+   "stars": 1347,
    "language": "TypeScript",
    "topics": [],
    "description": "A versatile landing page boilerplate, ideal for various projects and marketing campaigns.",
@@ -16436,7 +16481,7 @@
   {
    "full_name": "OneUptime/oneuptime",
    "html_url": "https://github.com/OneUptime/oneuptime",
-   "stars": 7560,
+   "stars": 7562,
    "language": "TypeScript",
    "topics": [
     "devops",
@@ -16597,7 +16642,7 @@
   {
    "full_name": "openai/openai-cookbook",
    "html_url": "https://github.com/openai/openai-cookbook",
-   "stars": 75752,
+   "stars": 75768,
    "language": "Jupyter Notebook",
    "topics": [
     "chatgpt",
@@ -16617,7 +16662,7 @@
   {
    "full_name": "openai/whisper",
    "html_url": "https://github.com/openai/whisper",
-   "stars": 108449,
+   "stars": 108540,
    "language": "Python",
    "topics": [],
    "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
@@ -16690,7 +16735,7 @@
   {
    "full_name": "maboloshi/github-chinese",
    "html_url": "https://github.com/maboloshi/github-chinese",
-   "stars": 32203,
+   "stars": 32254,
    "language": "JavaScript",
    "topics": [
     "github",
@@ -16727,7 +16772,7 @@
   {
    "full_name": "sparanoid/chinese-copywriting-guidelines",
    "html_url": "https://github.com/sparanoid/chinese-copywriting-guidelines",
-   "stars": 15667,
+   "stars": 15668,
    "language": null,
    "topics": [
     "chinese",
@@ -16752,7 +16797,7 @@
   {
    "full_name": "yihong0618/bilingual_book_maker",
    "html_url": "https://github.com/yihong0618/bilingual_book_maker",
-   "stars": 9728,
+   "stars": 9758,
    "language": "Python",
    "topics": [],
    "description": "Make bilingual epub books Using AI translate",
@@ -16828,7 +16873,7 @@
   {
    "full_name": "HeyPuter/puter",
    "html_url": "https://github.com/HeyPuter/puter",
-   "stars": 43392,
+   "stars": 43410,
    "language": "TypeScript",
    "topics": [
     "cloud",
@@ -16864,7 +16909,7 @@
   {
    "full_name": "1c7/chinese-independent-developer",
    "html_url": "https://github.com/1c7/chinese-independent-developer",
-   "stars": 61244,
+   "stars": 61255,
    "language": "Python",
    "topics": [
     "china",
@@ -16883,7 +16928,7 @@
   {
    "full_name": "kingwrcy/moments",
    "html_url": "https://github.com/kingwrcy/moments",
-   "stars": 1899,
+   "stars": 1896,
    "language": "Go",
    "topics": [],
    "description": "极简朋友圈",
@@ -16913,7 +16958,7 @@
   {
    "full_name": "refined-github/refined-github",
    "html_url": "https://github.com/refined-github/refined-github",
-   "stars": 32059,
+   "stars": 32068,
    "language": "TypeScript",
    "topics": [
     "browser-extension",
@@ -16936,7 +16981,7 @@
   {
    "full_name": "ovity/octotree",
    "html_url": "https://github.com/ovity/octotree",
-   "stars": 23241,
+   "stars": 23247,
    "language": "JavaScript",
    "topics": [
     "browser-extension",
@@ -16962,7 +17007,7 @@
   {
    "full_name": "Anxcye/anx-reader",
    "html_url": "https://github.com/Anxcye/anx-reader",
-   "stars": 8820,
+   "stars": 8822,
    "language": "Dart",
    "topics": [
     "dart",
@@ -17006,7 +17051,7 @@
   {
    "full_name": "PKUFlyingPig/cs-self-learning",
    "html_url": "https://github.com/PKUFlyingPig/cs-self-learning",
-   "stars": 75381,
+   "stars": 75412,
    "language": "HTML",
    "topics": [],
    "description": "计算机自学指南",
@@ -17062,7 +17107,7 @@
   {
    "full_name": "pdf2htmlEX/pdf2htmlEX",
    "html_url": "https://github.com/pdf2htmlEX/pdf2htmlEX",
-   "stars": 5591,
+   "stars": 5592,
    "language": "HTML",
    "topics": [
     "html",
@@ -17082,7 +17127,7 @@
   {
    "full_name": "0voice/introduce_c-cpp_manual",
    "html_url": "https://github.com/0voice/introduce_c-cpp_manual",
-   "stars": 8247,
+   "stars": 8248,
    "language": "C++",
    "topics": [],
    "description": "一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。",
@@ -17125,7 +17170,7 @@
   {
    "full_name": "ollama/ollama",
    "html_url": "https://github.com/ollama/ollama",
-   "stars": 180172,
+   "stars": 180256,
    "language": "Go",
    "topics": [
     "deepseek",
@@ -17156,7 +17201,7 @@
   {
    "full_name": "liguodongiot/llm-action",
    "html_url": "https://github.com/liguodongiot/llm-action",
-   "stars": 25010,
+   "stars": 25012,
    "language": "HTML",
    "topics": [
     "llm",
@@ -17178,7 +17223,7 @@
   {
    "full_name": "Karmenzind/monaco-nerd-fonts",
    "html_url": "https://github.com/Karmenzind/monaco-nerd-fonts",
-   "stars": 417,
+   "stars": 416,
    "language": "Shell",
    "topics": [],
    "description": "monaco font patched with extra nerd glyphs",
@@ -17211,7 +17256,7 @@
   {
    "full_name": "waydabber/BetterDisplay",
    "html_url": "https://github.com/waydabber/BetterDisplay",
-   "stars": 33496,
+   "stars": 33508,
    "language": null,
    "topics": [
     "4k",
@@ -17269,7 +17314,7 @@
   {
    "full_name": "0voice/cpp_new_features",
    "html_url": "https://github.com/0voice/cpp_new_features",
-   "stars": 6420,
+   "stars": 6421,
    "language": "C++",
    "topics": [
     "cpp",
@@ -17292,7 +17337,7 @@
   {
    "full_name": "wong2/chatgpt-google-extension",
    "html_url": "https://github.com/wong2/chatgpt-google-extension",
-   "stars": 13050,
+   "stars": 13049,
    "language": "TypeScript",
    "topics": [
     "browser-extension",
@@ -17312,7 +17357,7 @@
   {
    "full_name": "xtekky/gpt4free",
    "html_url": "https://github.com/xtekky/gpt4free",
-   "stars": 66639,
+   "stars": 66641,
    "language": "Python",
    "topics": [
     "chatbot",
@@ -17348,7 +17393,7 @@
   {
    "full_name": "heyman/heynote",
    "html_url": "https://github.com/heyman/heynote",
-   "stars": 5365,
+   "stars": 5364,
    "language": "JavaScript",
    "topics": [
     "developer-tools",
@@ -17371,7 +17416,7 @@
   {
    "full_name": "Sanster/IOPaint",
    "html_url": "https://github.com/Sanster/IOPaint",
-   "stars": 23343,
+   "stars": 23338,
    "language": "Python",
    "topics": [
     "inpainting",
@@ -17394,7 +17439,7 @@
   {
    "full_name": "mzjdy/MobaXterm-Keygen",
    "html_url": "https://github.com/mzjdy/MobaXterm-Keygen",
-   "stars": 1028,
+   "stars": 1029,
    "language": "Python",
    "topics": [],
    "description": "MobaXterm Keygen Originally by DoubleLabyrinth",
@@ -17484,7 +17529,7 @@
   {
    "full_name": "MetaCubeX/ClashMetaForAndroid",
    "html_url": "https://github.com/MetaCubeX/ClashMetaForAndroid",
-   "stars": 45628,
+   "stars": 45684,
    "language": "Kotlin",
    "topics": [],
    "description": "A rule-based tunnel for Android.",
@@ -17499,7 +17544,7 @@
   {
    "full_name": "MatsuriDayo/NekoBoxForAndroid",
    "html_url": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
-   "stars": 22610,
+   "stars": 22623,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -17538,7 +17583,7 @@
   {
    "full_name": "clash-verge-rev/clash-verge-rev",
    "html_url": "https://github.com/clash-verge-rev/clash-verge-rev",
-   "stars": 142263,
+   "stars": 142472,
    "language": "TypeScript",
    "topics": [
     "clash",
@@ -17588,7 +17633,7 @@
   {
    "full_name": "massCodeIO/massCode",
    "html_url": "https://github.com/massCodeIO/massCode",
-   "stars": 6975,
+   "stars": 6977,
    "language": "TypeScript",
    "topics": [
     "api-client",
@@ -17621,7 +17666,7 @@
   {
    "full_name": "charlax/professional-programming",
    "html_url": "https://github.com/charlax/professional-programming",
-   "stars": 51488,
+   "stars": 51487,
    "language": "Python",
    "topics": [
     "architecture",
@@ -17650,7 +17695,7 @@
   {
    "full_name": "byoungd/up",
    "html_url": "https://github.com/byoungd/up",
-   "stars": 62301,
+   "stars": 62331,
    "language": "JavaScript",
    "topics": [
     "chinese",
@@ -17684,7 +17729,7 @@
   {
    "full_name": "rafaelmardojai/firefox-gnome-theme",
    "html_url": "https://github.com/rafaelmardojai/firefox-gnome-theme",
-   "stars": 3898,
+   "stars": 3896,
    "language": "CSS",
    "topics": [
     "css",
@@ -17706,7 +17751,7 @@
   {
    "full_name": "lapce/lapce",
    "html_url": "https://github.com/lapce/lapce",
-   "stars": 38821,
+   "stars": 38828,
    "language": "Rust",
    "topics": [
     "code-editor",
@@ -17727,7 +17772,7 @@
   {
    "full_name": "helix-editor/helix",
    "html_url": "https://github.com/helix-editor/helix",
-   "stars": 46086,
+   "stars": 46094,
    "language": "Rust",
    "topics": [
     "kakoune",
@@ -17747,7 +17792,7 @@
   {
    "full_name": "Pal3love/dream-han-cjk",
    "html_url": "https://github.com/Pal3love/dream-han-cjk",
-   "stars": 1285,
+   "stars": 1284,
    "language": "Shell",
    "topics": [
     "source-han-sans",
@@ -17801,7 +17846,7 @@
   {
    "full_name": "hellzerg/optimizer",
    "html_url": "https://github.com/hellzerg/optimizer",
-   "stars": 18290,
+   "stars": 18287,
    "language": "C#",
    "topics": [
     "cleanup",
@@ -17832,7 +17877,7 @@
   {
    "full_name": "ArtifexSoftware/pdf2docx",
    "html_url": "https://github.com/ArtifexSoftware/pdf2docx",
-   "stars": 3511,
+   "stars": 3512,
    "language": "Python",
    "topics": [
     "docx",
@@ -17871,7 +17916,7 @@
   {
    "full_name": "KRTirtho/spotube",
    "html_url": "https://github.com/KRTirtho/spotube",
-   "stars": 48912,
+   "stars": 48935,
    "language": "Dart",
    "topics": [
     "android",
@@ -17930,7 +17975,7 @@
   {
    "full_name": "vnmakarov/mir",
    "html_url": "https://github.com/vnmakarov/mir",
-   "stars": 2650,
+   "stars": 2649,
    "language": "C",
    "topics": [
     "aarch64",
@@ -18048,7 +18093,7 @@
   {
    "full_name": "Infrasys-AI/AISystem",
    "html_url": "https://github.com/Infrasys-AI/AISystem",
-   "stars": 17744,
+   "stars": 17755,
    "language": "Jupyter Notebook",
    "topics": [
     "ai",
@@ -18069,7 +18114,7 @@
   {
    "full_name": "ocornut/imgui",
    "html_url": "https://github.com/ocornut/imgui",
-   "stars": 76069,
+   "stars": 76086,
    "language": "C++",
    "topics": [
     "api",
@@ -18100,7 +18145,7 @@
   {
    "full_name": "Tiiny-AI/PowerInfer",
    "html_url": "https://github.com/Tiiny-AI/PowerInfer",
-   "stars": 9766,
+   "stars": 9767,
    "language": "C++",
    "topics": [
     "large-language-models",
@@ -18159,7 +18204,7 @@
   {
    "full_name": "blackmatrix7/ios_rule_script",
    "html_url": "https://github.com/blackmatrix7/ios_rule_script",
-   "stars": 27779,
+   "stars": 27788,
    "language": "JavaScript",
    "topics": [],
    "description": "分流规则、重写写规则及脚本。",
@@ -18174,7 +18219,7 @@
   {
    "full_name": "devcontainers/spec",
    "html_url": "https://github.com/devcontainers/spec",
-   "stars": 5699,
+   "stars": 5700,
    "language": null,
    "topics": [
     "containers",
@@ -18192,7 +18237,7 @@
   {
    "full_name": "Loyalsoldier/clash-rules",
    "html_url": "https://github.com/Loyalsoldier/clash-rules",
-   "stars": 28301,
+   "stars": 28316,
    "language": null,
    "topics": [
     "adblock",
@@ -18225,7 +18270,7 @@
   {
    "full_name": "microsoft/generative-ai-for-beginners",
    "html_url": "https://github.com/microsoft/generative-ai-for-beginners",
-   "stars": 119168,
+   "stars": 119213,
    "language": "Jupyter Notebook",
    "topics": [
     "ai",
@@ -18270,7 +18315,7 @@
   {
    "full_name": "Tencent/tquic",
    "html_url": "https://github.com/Tencent/tquic",
-   "stars": 1428,
+   "stars": 1429,
    "language": "Rust",
    "topics": [
     "cross-platform",
@@ -18294,7 +18339,7 @@
   {
    "full_name": "xaoyaoo/PyWxDump",
    "html_url": "https://github.com/xaoyaoo/PyWxDump",
-   "stars": 9679,
+   "stars": 9677,
    "language": null,
    "topics": [
     "pywxdump",
@@ -18313,7 +18358,7 @@
   {
    "full_name": "abi/screenshot-to-code",
    "html_url": "https://github.com/abi/screenshot-to-code",
-   "stars": 77704,
+   "stars": 77924,
    "language": "Python",
    "topics": [],
    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
@@ -18365,7 +18410,7 @@
   {
    "full_name": "fluentpython/example-code-2e",
    "html_url": "https://github.com/fluentpython/example-code-2e",
-   "stars": 4130,
+   "stars": 4132,
    "language": "Python",
    "topics": [
     "concurrency",
@@ -18387,7 +18432,7 @@
   {
    "full_name": "udlbook/udlbook",
    "html_url": "https://github.com/udlbook/udlbook",
-   "stars": 9850,
+   "stars": 9851,
    "language": "Jupyter Notebook",
    "topics": [],
    "description": "Understanding Deep Learning - Simon J.D. Prince",
@@ -18432,7 +18477,7 @@
   {
    "full_name": "dail8859/NotepadNext",
    "html_url": "https://github.com/dail8859/NotepadNext",
-   "stars": 14550,
+   "stars": 14555,
    "language": "C++",
    "topics": [
     "desktop",
@@ -18456,7 +18501,7 @@
   {
    "full_name": "tstack/lnav",
    "html_url": "https://github.com/tstack/lnav",
-   "stars": 10635,
+   "stars": 10636,
    "language": "C++",
    "topics": [
     "command-line-tool",
@@ -18485,7 +18530,7 @@
   {
    "full_name": "dracula/dracula-theme",
    "html_url": "https://github.com/dracula/dracula-theme",
-   "stars": 23578,
+   "stars": 23576,
    "language": null,
    "topics": [],
    "description": "🧛🏻‍♂️ One theme. All platforms.",
@@ -18500,7 +18545,7 @@
   {
    "full_name": "Planshit/ProjectEye",
    "html_url": "https://github.com/Planshit/ProjectEye",
-   "stars": 1251,
+   "stars": 1250,
    "language": "C#",
    "topics": [
     "20-20-20",
@@ -18520,7 +18565,7 @@
   {
    "full_name": "ryanoasis/nerd-fonts",
    "html_url": "https://github.com/ryanoasis/nerd-fonts",
-   "stars": 64516,
+   "stars": 64528,
    "language": "CSS",
    "topics": [
     "font",
@@ -18549,7 +18594,7 @@
   {
    "full_name": "analysis-tools-dev/static-analysis",
    "html_url": "https://github.com/analysis-tools-dev/static-analysis",
-   "stars": 14764,
+   "stars": 14765,
    "language": "Rust",
    "topics": [
     "analysis",
@@ -18574,7 +18619,7 @@
   {
    "full_name": "pot-app/pot-desktop",
    "html_url": "https://github.com/pot-app/pot-desktop",
-   "stars": 19431,
+   "stars": 19432,
    "language": "JavaScript",
    "topics": [
     "linux",
@@ -18601,7 +18646,7 @@
   {
    "full_name": "isocpp/CppCoreGuidelines",
    "html_url": "https://github.com/isocpp/CppCoreGuidelines",
-   "stars": 45300,
+   "stars": 45305,
    "language": "CSS",
    "topics": [],
    "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
@@ -18616,7 +18661,7 @@
   {
    "full_name": "yhirose/cpp-httplib",
    "html_url": "https://github.com/yhirose/cpp-httplib",
-   "stars": 16809,
+   "stars": 16808,
    "language": "C++",
    "topics": [
     "cpp",
@@ -18658,7 +18703,7 @@
   {
    "full_name": "codecrafters-io/build-your-own-x",
    "html_url": "https://github.com/codecrafters-io/build-your-own-x",
-   "stars": 545262,
+   "stars": 545458,
    "language": "Markdown",
    "topics": [
     "awesome-list",
@@ -18716,7 +18761,7 @@
   {
    "full_name": "NVIDIA/cuda-samples",
    "html_url": "https://github.com/NVIDIA/cuda-samples",
-   "stars": 9592,
+   "stars": 9595,
    "language": "C++",
    "topics": [
     "cuda",
@@ -18737,7 +18782,7 @@
   {
    "full_name": "leandromoreira/digital_video_introduction",
    "html_url": "https://github.com/leandromoreira/digital_video_introduction",
-   "stars": 16313,
+   "stars": 16316,
    "language": "Jupyter Notebook",
    "topics": [
     "adaptive-streaming",
@@ -18847,7 +18892,7 @@
   {
    "full_name": "easychen/lean-side-bussiness",
    "html_url": "https://github.com/easychen/lean-side-bussiness",
-   "stars": 12108,
+   "stars": 12110,
    "language": null,
    "topics": [],
    "description": "精益副业：程序员如何优雅地做副业",
@@ -18862,7 +18907,7 @@
   {
    "full_name": "facebookresearch/audiocraft",
    "html_url": "https://github.com/facebookresearch/audiocraft",
-   "stars": 23607,
+   "stars": 23609,
    "language": "Jupyter Notebook",
    "topics": [],
    "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.",
@@ -18877,7 +18922,7 @@
   {
    "full_name": "521xueweihan/HelloGitHub",
    "html_url": "https://github.com/521xueweihan/HelloGitHub",
-   "stars": 174758,
+   "stars": 174917,
    "language": "Python",
    "topics": [
     "awesome",
@@ -18919,7 +18964,7 @@
   {
    "full_name": "wangdoc/typescript-tutorial",
    "html_url": "https://github.com/wangdoc/typescript-tutorial",
-   "stars": 2790,
+   "stars": 2791,
    "language": null,
    "topics": [
     "tutorial",
@@ -18937,7 +18982,7 @@
   {
    "full_name": "senghoo/golang-design-pattern",
    "html_url": "https://github.com/senghoo/golang-design-pattern",
-   "stars": 9031,
+   "stars": 9030,
    "language": "Go",
    "topics": [],
    "description": "设计模式 Golang实现－《研磨设计模式》读书笔记",
@@ -18972,7 +19017,7 @@
   {
    "full_name": "AlDanial/cloc",
    "html_url": "https://github.com/AlDanial/cloc",
-   "stars": 23502,
+   "stars": 23503,
    "language": "Perl",
    "topics": [
     "cloc",
@@ -18991,7 +19036,7 @@
   {
    "full_name": "roboticcam/machine-learning-notes",
    "html_url": "https://github.com/roboticcam/machine-learning-notes",
-   "stars": 10353,
+   "stars": 10354,
    "language": "Jupyter Notebook",
    "topics": [],
    "description": "My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接",
@@ -19006,7 +19051,7 @@
   {
    "full_name": "XuehaiPan/nvitop",
    "html_url": "https://github.com/XuehaiPan/nvitop",
-   "stars": 7137,
+   "stars": 7138,
    "language": "Python",
    "topics": [
     "command-line-tool",
@@ -19042,7 +19087,7 @@
   {
    "full_name": "dunwu/linux-tutorial",
    "html_url": "https://github.com/dunwu/linux-tutorial",
-   "stars": 6942,
+   "stars": 6944,
    "language": "Shell",
    "topics": [
     "docker",
@@ -19064,7 +19109,7 @@
   {
    "full_name": "imthenachoman/How-To-Secure-A-Linux-Server",
    "html_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
-   "stars": 31236,
+   "stars": 31248,
    "language": null,
    "topics": [
     "cc-by-sa",
@@ -19126,7 +19171,7 @@
   {
    "full_name": "jax-ml/jax",
    "html_url": "https://github.com/jax-ml/jax",
-   "stars": 36255,
+   "stars": 36256,
    "language": "Python",
    "topics": [
     "jax"
@@ -19143,7 +19188,7 @@
   {
    "full_name": "ChatGPTNextWeb/NextChat",
    "html_url": "https://github.com/ChatGPTNextWeb/NextChat",
-   "stars": 88711,
+   "stars": 88713,
    "language": "TypeScript",
    "topics": [
     "calclaude",
@@ -19178,7 +19223,7 @@
   {
    "full_name": "PawanOsman/OpenCursor",
    "html_url": "https://github.com/PawanOsman/OpenCursor",
-   "stars": 6013,
+   "stars": 6012,
    "language": "TypeScript",
    "topics": [
     "agent",
@@ -19203,7 +19248,7 @@
   {
    "full_name": "transitive-bullshit/agentic",
    "html_url": "https://github.com/transitive-bullshit/agentic",
-   "stars": 18116,
+   "stars": 18115,
    "language": "TypeScript",
    "topics": [
     "agents",
@@ -19259,7 +19304,7 @@
   {
    "full_name": "ChatGPTBox-dev/chatGPTBox",
    "html_url": "https://github.com/ChatGPTBox-dev/chatGPTBox",
-   "stars": 10757,
+   "stars": 10756,
    "language": "JavaScript",
    "topics": [
     "browser-extension",
@@ -19282,7 +19327,7 @@
   {
    "full_name": "SnapDrop/snapdrop",
    "html_url": "https://github.com/SnapDrop/snapdrop",
-   "stars": 19702,
+   "stars": 19705,
    "language": "JavaScript",
    "topics": [
     "pwa",
@@ -19301,7 +19346,7 @@
   {
    "full_name": "localsend/localsend",
    "html_url": "https://github.com/localsend/localsend",
-   "stars": 90088,
+   "stars": 90152,
    "language": "Dart",
    "topics": [
     "dart",
@@ -19336,7 +19381,7 @@
   {
    "full_name": "coz-m/MPLUS_FONTS",
    "html_url": "https://github.com/coz-m/MPLUS_FONTS",
-   "stars": 1234,
+   "stars": 1235,
    "language": "Python",
    "topics": [],
    "description": "M+ FONTS",
@@ -19351,7 +19396,7 @@
   {
    "full_name": "massgravel/Microsoft-Activation-Scripts",
    "html_url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
-   "stars": 189388,
+   "stars": 189485,
    "language": "Batchfile",
    "topics": [
     "activator",
@@ -19424,7 +19469,7 @@
   {
    "full_name": "LearnPrompt/LearnPrompt",
    "html_url": "https://github.com/LearnPrompt/LearnPrompt",
-   "stars": 2611,
+   "stars": 2615,
    "language": "MDX",
    "topics": [
     "agent",
@@ -19484,7 +19529,7 @@
   {
    "full_name": "scottbez1/smartknob",
    "html_url": "https://github.com/scottbez1/smartknob",
-   "stars": 22110,
+   "stars": 22109,
    "language": "C++",
    "topics": [],
    "description": "Haptic input knob with software-defined endstops and virtual detents",
@@ -19499,7 +19544,7 @@
   {
    "full_name": "mawww/kakoune",
    "html_url": "https://github.com/mawww/kakoune",
-   "stars": 11045,
+   "stars": 11046,
    "language": "C++",
    "topics": [
     "c-plus-plus",
@@ -19521,7 +19566,7 @@
   {
    "full_name": "rswier/c4",
    "html_url": "https://github.com/rswier/c4",
-   "stars": 10795,
+   "stars": 10794,
    "language": "C",
    "topics": [],
    "description": "C in four functions",
@@ -19559,7 +19604,7 @@
   {
    "full_name": "TeamNewPipe/NewPipe",
    "html_url": "https://github.com/TeamNewPipe/NewPipe",
-   "stars": 39594,
+   "stars": 39609,
    "language": "Java",
    "topics": [
     "4k",
@@ -19612,7 +19657,7 @@
   {
    "full_name": "LiLittleCat/awesome-free-chatgpt",
    "html_url": "https://github.com/LiLittleCat/awesome-free-chatgpt",
-   "stars": 21250,
+   "stars": 21252,
    "language": "Python",
    "topics": [
     "awesome",
@@ -19649,7 +19694,7 @@
   {
    "full_name": "xcanwin/KeepChatGPT",
    "html_url": "https://github.com/xcanwin/KeepChatGPT",
-   "stars": 14900,
+   "stars": 14901,
    "language": "JavaScript",
    "topics": [
     "ai",
@@ -19714,7 +19759,7 @@
   {
    "full_name": "Significant-Gravitas/AutoGPT",
    "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
-   "stars": 187134,
+   "stars": 187162,
    "language": "Python",
    "topics": [
     "agentic-ai",
@@ -19784,7 +19829,7 @@
   {
    "full_name": "wowlusitong/awesome-education",
    "html_url": "https://github.com/wowlusitong/awesome-education",
-   "stars": 2130,
+   "stars": 2132,
    "language": null,
    "topics": [
     "awesome",
@@ -19804,7 +19849,7 @@
   {
    "full_name": "GMOogway/shadowrocket-rules",
    "html_url": "https://github.com/GMOogway/shadowrocket-rules",
-   "stars": 5312,
+   "stars": 5318,
    "language": null,
    "topics": [
     "adblock",
@@ -19908,7 +19953,7 @@
   {
    "full_name": "EmbraceAGI/awesome-chatgpt-zh",
    "html_url": "https://github.com/EmbraceAGI/awesome-chatgpt-zh",
-   "stars": 11676,
+   "stars": 11678,
    "language": "Python",
    "topics": [
     "agi",
@@ -19967,7 +20012,7 @@
   {
    "full_name": "ClementTsang/bottom",
    "html_url": "https://github.com/ClementTsang/bottom",
-   "stars": 13976,
+   "stars": 13978,
    "language": "Rust",
    "topics": [
     "bottom",
@@ -19992,7 +20037,7 @@
   {
    "full_name": "flashlight/flashlight",
    "html_url": "https://github.com/flashlight/flashlight",
-   "stars": 5468,
+   "stars": 5467,
    "language": "C++",
    "topics": [
     "autograd",
@@ -20066,7 +20111,7 @@
   {
    "full_name": "vadimcn/codelldb",
    "html_url": "https://github.com/vadimcn/codelldb",
-   "stars": 3292,
+   "stars": 3293,
    "language": "Rust",
    "topics": [
     "debugger",
@@ -20085,7 +20130,7 @@
   {
    "full_name": "StevenBlack/hosts",
    "html_url": "https://github.com/StevenBlack/hosts",
-   "stars": 30996,
+   "stars": 31002,
    "language": "Python",
    "topics": [
     "ad-blocker",
@@ -20117,7 +20162,7 @@
   {
    "full_name": "DIYgod/RSSHub",
    "html_url": "https://github.com/DIYgod/RSSHub",
-   "stars": 46024,
+   "stars": 46041,
    "language": "TypeScript",
    "topics": [
     "bilibili",
@@ -20151,7 +20196,7 @@
   {
    "full_name": "AZeC4/TelegramGroup",
    "html_url": "https://github.com/AZeC4/TelegramGroup",
-   "stars": 23119,
+   "stars": 23125,
    "language": null,
    "topics": [
     "telegram",
@@ -20189,7 +20234,7 @@
   {
    "full_name": "WSA-Community/WSAGAScript",
    "html_url": "https://github.com/WSA-Community/WSAGAScript",
-   "stars": 3612,
+   "stars": 3611,
    "language": "Shell",
    "topics": [
     "android",
@@ -20227,7 +20272,7 @@
   {
    "full_name": "yann0917/dedao-dl",
    "html_url": "https://github.com/yann0917/dedao-dl",
-   "stars": 881,
+   "stars": 883,
    "language": "Go",
    "topics": [
     "dedao",
@@ -20245,7 +20290,7 @@
   {
    "full_name": "muesli/duf",
    "html_url": "https://github.com/muesli/duf",
-   "stars": 15285,
+   "stars": 15286,
    "language": "Go",
    "topics": [
     "cli",
@@ -20275,7 +20320,7 @@
   {
    "full_name": "yzhang-gh/vscode-markdown",
    "html_url": "https://github.com/yzhang-gh/vscode-markdown",
-   "stars": 3282,
+   "stars": 3283,
    "language": "TypeScript",
    "topics": [
     "markdown",
@@ -20293,7 +20338,7 @@
   {
    "full_name": "oldratlee/translations",
    "html_url": "https://github.com/oldratlee/translations",
-   "stars": 6912,
+   "stars": 6911,
    "language": null,
    "topics": [
     "api",
@@ -20364,7 +20409,7 @@
   {
    "full_name": "julycoding/The-Art-Of-Programming-By-July-2nd",
    "html_url": "https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd",
-   "stars": 21501,
+   "stars": 21500,
    "language": "C",
    "topics": [],
    "description": "本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售",
@@ -20379,7 +20424,7 @@
   {
    "full_name": "jlevy/the-art-of-command-line",
    "html_url": "https://github.com/jlevy/the-art-of-command-line",
-   "stars": 162246,
+   "stars": 162261,
    "language": null,
    "topics": [
     "bash",
@@ -20418,7 +20463,7 @@
   {
    "full_name": "EbookFoundation/free-programming-books",
    "html_url": "https://github.com/EbookFoundation/free-programming-books",
-   "stars": 395987,
+   "stars": 396035,
    "language": "Python",
    "topics": [
     "books",
@@ -20439,7 +20484,7 @@
   {
    "full_name": "TheAlgorithms/C-Plus-Plus",
    "html_url": "https://github.com/TheAlgorithms/C-Plus-Plus",
-   "stars": 34630,
+   "stars": 34628,
    "language": "C++",
    "topics": [
     "algorithm",
@@ -20471,7 +20516,7 @@
   {
    "full_name": "abseil/abseil-cpp",
    "html_url": "https://github.com/abseil/abseil-cpp",
-   "stars": 18124,
+   "stars": 18123,
    "language": "C++",
    "topics": [],
    "description": "Abseil Common Libraries (C++)",
@@ -20512,7 +20557,7 @@
   {
    "full_name": "wulabing/Xray_onekey",
    "html_url": "https://github.com/wulabing/Xray_onekey",
-   "stars": 9250,
+   "stars": 9251,
    "language": "Shell",
    "topics": [
     "nginx",
@@ -20536,7 +20581,7 @@
   {
    "full_name": "mack-a/v2ray-agent",
    "html_url": "https://github.com/mack-a/v2ray-agent",
-   "stars": 21813,
+   "stars": 21817,
    "language": "Shell",
    "topics": [
     "cloudflare",
@@ -20591,7 +20636,7 @@
   {
    "full_name": "CompVis/stable-diffusion",
    "html_url": "https://github.com/CompVis/stable-diffusion",
-   "stars": 73375,
+   "stars": 73371,
    "language": "Jupyter Notebook",
    "topics": [],
    "description": "A latent text-to-image diffusion model",
@@ -20677,7 +20722,7 @@
   {
    "full_name": "amix/vimrc",
    "html_url": "https://github.com/amix/vimrc",
-   "stars": 31809,
+   "stars": 31810,
    "language": "Vim Script",
    "topics": [],
    "description": "The ultimate Vim configuration (vimrc)",
@@ -20692,7 +20737,7 @@
   {
    "full_name": "sharkdp/fd",
    "html_url": "https://github.com/sharkdp/fd",
-   "stars": 44311,
+   "stars": 44321,
    "language": "Rust",
    "topics": [
     "cli",
@@ -20717,7 +20762,7 @@
   {
    "full_name": "ogham/exa",
    "html_url": "https://github.com/ogham/exa",
-   "stars": 24442,
+   "stars": 24441,
    "language": "Rust",
    "topics": [
     "command-line",
@@ -20737,7 +20782,7 @@
   {
    "full_name": "nvbn/thefuck",
    "html_url": "https://github.com/nvbn/thefuck",
-   "stars": 97767,
+   "stars": 97768,
    "language": "Python",
    "topics": [
     "python",
@@ -20779,7 +20824,7 @@
   {
    "full_name": "tldr-pages/tldr",
    "html_url": "https://github.com/tldr-pages/tldr",
-   "stars": 63591,
+   "stars": 63597,
    "language": "Markdown",
    "topics": [
     "android",
@@ -20815,7 +20860,7 @@
   {
    "full_name": "jeffkaufman/icdiff",
    "html_url": "https://github.com/jeffkaufman/icdiff",
-   "stars": 4385,
+   "stars": 4386,
    "language": "Python",
    "topics": [],
    "description": "improved colored diff",
@@ -20830,7 +20875,7 @@
   {
    "full_name": "ggreer/the_silver_searcher",
    "html_url": "https://github.com/ggreer/the_silver_searcher",
-   "stars": 27118,
+   "stars": 27119,
    "language": "C",
    "topics": [
     "ag",
@@ -20948,7 +20993,7 @@
   {
    "full_name": "root-project/cling",
    "html_url": "https://github.com/root-project/cling",
-   "stars": 4189,
+   "stars": 4188,
    "language": "C++",
    "topics": [
     "c-plus-plus",
@@ -20969,7 +21014,7 @@
   {
    "full_name": "hzwer/shareOI",
    "html_url": "https://github.com/hzwer/shareOI",
-   "stars": 4477,
+   "stars": 4480,
    "language": null,
    "topics": [
     "acm-icpc",
@@ -20988,7 +21033,7 @@
   {
    "full_name": "jobbole/awesome-cpp-cn",
    "html_url": "https://github.com/jobbole/awesome-cpp-cn",
-   "stars": 11189,
+   "stars": 11188,
    "language": null,
    "topics": [
     "cpp"
@@ -21088,7 +21133,7 @@
   {
    "full_name": "google/googletest",
    "html_url": "https://github.com/google/googletest",
-   "stars": 39490,
+   "stars": 39491,
    "language": "C++",
    "topics": [],
    "description": "GoogleTest - Google Testing and Mocking Framework",
@@ -21103,7 +21148,7 @@
   {
    "full_name": "valinet/ExplorerPatcher",
    "html_url": "https://github.com/valinet/ExplorerPatcher",
-   "stars": 33793,
+   "stars": 33799,
    "language": "C",
    "topics": [],
    "description": "This project aims to enhance the working environment on Windows",
@@ -21150,7 +21195,7 @@
   {
    "full_name": "PowerShell/Win32-OpenSSH",
    "html_url": "https://github.com/PowerShell/Win32-OpenSSH",
-   "stars": 8265,
+   "stars": 8266,
    "language": null,
    "topics": [
     "c",
@@ -21190,7 +21235,7 @@
   {
    "full_name": "Ysurac/openmptcprouter",
    "html_url": "https://github.com/Ysurac/openmptcprouter",
-   "stars": 2485,
+   "stars": 2486,
    "language": "Makefile",
    "topics": [
     "4g",
@@ -21282,7 +21327,7 @@
   {
    "full_name": "bwa-mem2/bwa-mem2",
    "html_url": "https://github.com/bwa-mem2/bwa-mem2",
-   "stars": 860,
+   "stars": 861,
    "language": "C++",
    "topics": [
     "bioinformatics",
@@ -21321,7 +21366,7 @@
   {
    "full_name": "Alinshans/MyTinySTL",
    "html_url": "https://github.com/Alinshans/MyTinySTL",
-   "stars": 12480,
+   "stars": 12477,
    "language": "C++",
    "topics": [
     "algorithm",
@@ -21343,7 +21388,7 @@
   {
    "full_name": "Tencent/libco",
    "html_url": "https://github.com/Tencent/libco",
-   "stars": 8692,
+   "stars": 8693,
    "language": "C++",
    "topics": [],
    "description": "libco is a coroutine library which is widely used in wechat  back-end service. It has been running on tens of thousands of machines since 2013.",
@@ -21358,7 +21403,7 @@
   {
    "full_name": "gibsjose/cpp-cheat-sheet",
    "html_url": "https://github.com/gibsjose/cpp-cheat-sheet",
-   "stars": 5305,
+   "stars": 5306,
    "language": "C++",
    "topics": [],
    "description": "C++ Syntax, Data Structures, and Algorithms Cheat Sheet",
@@ -21404,7 +21449,7 @@
   {
    "full_name": "fmtlib/fmt",
    "html_url": "https://github.com/fmtlib/fmt",
-   "stars": 25483,
+   "stars": 25576,
    "language": "C++",
    "topics": [
     "c-plus-plus",
@@ -21432,7 +21477,7 @@
   {
    "full_name": "progschj/ThreadPool",
    "html_url": "https://github.com/progschj/ThreadPool",
-   "stars": 8798,
+   "stars": 8799,
    "language": "C++",
    "topics": [],
    "description": "A simple C++11 Thread Pool implementation",
@@ -21467,7 +21512,7 @@
   {
    "full_name": "AnthonyCalandra/modern-cpp-features",
    "html_url": "https://github.com/AnthonyCalandra/modern-cpp-features",
-   "stars": 21868,
+   "stars": 21871,
    "language": null,
    "topics": [
     "cpp",
@@ -21489,7 +21534,7 @@
   {
    "full_name": "drogonframework/drogon",
    "html_url": "https://github.com/drogonframework/drogon",
-   "stars": 14250,
+   "stars": 14255,
    "language": "C++",
    "topics": [
     "asynchronous-programming",
@@ -21512,7 +21557,7 @@
   {
    "full_name": "gabime/spdlog",
    "html_url": "https://github.com/gabime/spdlog",
-   "stars": 29572,
+   "stars": 29577,
    "language": "C++",
    "topics": [
     "cpp",
@@ -21533,7 +21578,7 @@
   {
    "full_name": "jwcpp/jwEngine",
    "html_url": "https://github.com/jwcpp/jwEngine",
-   "stars": 365,
+   "stars": 364,
    "language": "C",
    "topics": [
     "cpp17",
@@ -21565,7 +21610,7 @@
   {
    "full_name": "aristocratos/btop",
    "html_url": "https://github.com/aristocratos/btop",
-   "stars": 34407,
+   "stars": 34416,
    "language": "C++",
    "topics": [],
    "description": "A monitor of resources",
@@ -21634,7 +21679,7 @@
   {
    "full_name": "applenob/Cpp_Primer_Practice",
    "html_url": "https://github.com/applenob/Cpp_Primer_Practice",
-   "stars": 8755,
+   "stars": 8757,
    "language": "C++",
    "topics": [],
    "description": "搞定C++:punch:。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。",
@@ -21649,7 +21694,7 @@
   {
    "full_name": "brendangregg/FlameGraph",
    "html_url": "https://github.com/brendangregg/FlameGraph",
-   "stars": 19731,
+   "stars": 19732,
    "language": "Perl",
    "topics": [],
    "description": "Stack trace visualizer",
@@ -21738,7 +21783,7 @@
   {
    "full_name": "liuchengxu/space-vim",
    "html_url": "https://github.com/liuchengxu/space-vim",
-   "stars": 2852,
+   "stars": 2851,
    "language": "Vim Script",
    "topics": [
     "neovim",
@@ -21778,7 +21823,7 @@
   {
    "full_name": "iggredible/Learn-Vim",
    "html_url": "https://github.com/iggredible/Learn-Vim",
-   "stars": 15207,
+   "stars": 15210,
    "language": "Dockerfile",
    "topics": [
     "advanced",
@@ -21876,7 +21921,7 @@
   {
    "full_name": "chriskempson/tomorrow-theme",
    "html_url": "https://github.com/chriskempson/tomorrow-theme",
-   "stars": 13988,
+   "stars": 13986,
    "language": "CSS",
    "topics": [
     "color-scheme",
@@ -21931,7 +21976,7 @@
   {
    "full_name": "casdoor/casdoor",
    "html_url": "https://github.com/casdoor/casdoor",
-   "stars": 14343,
+   "stars": 14346,
    "language": "Go",
    "topics": [
     "agent",
@@ -21967,7 +22012,7 @@
   {
    "full_name": "mqyqingfeng/Blog",
    "html_url": "https://github.com/mqyqingfeng/Blog",
-   "stars": 31076,
+   "stars": 31074,
    "language": null,
    "topics": [
     "advanced",
@@ -22051,7 +22096,7 @@
   {
    "full_name": "liyupi/mianshiya",
    "html_url": "https://github.com/liyupi/mianshiya",
-   "stars": 5841,
+   "stars": 5843,
    "language": "TypeScript",
    "topics": [
     "ai",
@@ -22121,7 +22166,7 @@
   {
    "full_name": "Advanced-Frontend/Daily-Interview-Question",
    "html_url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
-   "stars": 27376,
+   "stars": 27377,
    "language": "JavaScript",
    "topics": [
     "css",
@@ -22161,7 +22206,7 @@
   {
    "full_name": "geekan/HowToLiveLonger",
    "html_url": "https://github.com/geekan/HowToLiveLonger",
-   "stars": 35097,
+   "stars": 35098,
    "language": null,
    "topics": [
     "livelonger",
@@ -22217,7 +22262,7 @@
   {
    "full_name": "ChenYilong/iOSInterviewQuestions",
    "html_url": "https://github.com/ChenYilong/iOSInterviewQuestions",
-   "stars": 9544,
+   "stars": 9543,
    "language": "Swift",
    "topics": [],
    "description": "iOS interview questions;iOS面试题集锦（附答案） ",
@@ -22247,7 +22292,7 @@
   {
    "full_name": "donnemartin/system-design-primer",
    "html_url": "https://github.com/donnemartin/system-design-primer",
-   "stars": 367989,
+   "stars": 368193,
    "language": "Python",
    "topics": [
     "design",
@@ -22276,7 +22321,7 @@
   {
    "full_name": "julienschmidt/httprouter",
    "html_url": "https://github.com/julienschmidt/httprouter",
-   "stars": 17129,
+   "stars": 17130,
    "language": "Go",
    "topics": [
     "go",
@@ -22328,7 +22373,7 @@
   {
    "full_name": "forthespada/CS-Books",
    "html_url": "https://github.com/forthespada/CS-Books",
-   "stars": 27234,
+   "stars": 27237,
    "language": null,
    "topics": [
     "algorithms",
@@ -22395,7 +22440,7 @@
   {
    "full_name": "lxgw/LxgwWenKai",
    "html_url": "https://github.com/lxgw/LxgwWenKai",
-   "stars": 25822,
+   "stars": 25838,
    "language": "Shell",
    "topics": [
     "cjk",
@@ -22414,7 +22459,7 @@
   {
    "full_name": "izackwu/TeachYourselfCS-CN",
    "html_url": "https://github.com/izackwu/TeachYourselfCS-CN",
-   "stars": 22170,
+   "stars": 22172,
    "language": null,
    "topics": [
     "chinese-translation",
@@ -22464,7 +22509,7 @@
   {
    "full_name": "bilibili/vim-vide",
    "html_url": "https://github.com/bilibili/vim-vide",
-   "stars": 787,
+   "stars": 786,
    "language": "Vim Script",
    "topics": [
     "airline",
@@ -22573,7 +22618,7 @@
   {
    "full_name": "pgkt04/defender-control",
    "html_url": "https://github.com/pgkt04/defender-control",
-   "stars": 1998,
+   "stars": 2001,
    "language": "C++",
    "topics": [
     "defender",
@@ -22726,7 +22771,7 @@
   {
    "full_name": "metowolf/vCards",
    "html_url": "https://github.com/metowolf/vCards",
-   "stars": 6390,
+   "stars": 6391,
    "language": "JavaScript",
    "topics": [
     "china",
@@ -22746,7 +22791,7 @@
   {
    "full_name": "chenyium/Microsoft-Yahei-Mono",
    "html_url": "https://github.com/chenyium/Microsoft-Yahei-Mono",
-   "stars": 218,
+   "stars": 219,
    "language": null,
    "topics": [],
    "description": "Microsoft Yahei Mono 字体",
@@ -22845,7 +22890,7 @@
   {
    "full_name": "imDazui/Tvlist-awesome-m3u-m3u8",
    "html_url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
-   "stars": 29933,
+   "stars": 29935,
    "language": null,
    "topics": [
     "awesome",
@@ -23003,7 +23048,7 @@
   {
    "full_name": "ruanyf/weekly",
    "html_url": "https://github.com/ruanyf/weekly",
-   "stars": 101989,
+   "stars": 102035,
    "language": null,
    "topics": [],
    "description": "科技爱好者周刊，每周五发布",
@@ -23071,7 +23116,7 @@
   {
    "full_name": "photoprism/photoprism",
    "html_url": "https://github.com/photoprism/photoprism",
-   "stars": 40141,
+   "stars": 40148,
    "language": "Go",
    "topics": [
     "ai",
@@ -23095,7 +23140,7 @@
   {
    "full_name": "EndlessCheng/codeforces-go",
    "html_url": "https://github.com/EndlessCheng/codeforces-go",
-   "stars": 8689,
+   "stars": 8690,
    "language": "Go",
    "topics": [
     "acm-icpc",
@@ -23127,7 +23172,7 @@
   {
    "full_name": "abhisheknaiidu/awesome-github-profile-readme",
    "html_url": "https://github.com/abhisheknaiidu/awesome-github-profile-readme",
-   "stars": 31002,
+   "stars": 31006,
    "language": null,
    "topics": [
     "awesome",
@@ -23191,7 +23236,7 @@
   {
    "full_name": "neovim/neovim",
    "html_url": "https://github.com/neovim/neovim",
-   "stars": 102124,
+   "stars": 102152,
    "language": "Vim Script",
    "topics": [
     "api",
@@ -23214,7 +23259,7 @@
   {
    "full_name": "MysteryVaibhav/leetcode_company_wise_questions",
    "html_url": "https://github.com/MysteryVaibhav/leetcode_company_wise_questions",
-   "stars": 7395,
+   "stars": 7396,
    "language": null,
    "topics": [],
    "description": "This is a repository containing the list of company wise questions available on leetcode premium",
@@ -23229,7 +23274,7 @@
   {
    "full_name": "skygragon/leetcode-cli",
    "html_url": "https://github.com/skygragon/leetcode-cli",
-   "stars": 3866,
+   "stars": 3867,
    "language": "JavaScript",
    "topics": [],
    "description": "A cli tool to enjoy leetcode!",
@@ -23263,7 +23308,7 @@
   {
    "full_name": "powerline/fonts",
    "html_url": "https://github.com/powerline/fonts",
-   "stars": 26319,
+   "stars": 26316,
    "language": "Shell",
    "topics": [],
    "description": "Patched fonts for Powerline users.",
@@ -23303,7 +23348,7 @@
   {
    "full_name": "sharkdp/bat",
    "html_url": "https://github.com/sharkdp/bat",
-   "stars": 60369,
+   "stars": 60375,
    "language": "Rust",
    "topics": [
     "cli",
@@ -23448,7 +23493,7 @@
   {
    "full_name": "Garvit244/Leetcode",
    "html_url": "https://github.com/Garvit244/Leetcode",
-   "stars": 1560,
+   "stars": 1561,
    "language": "Python",
    "topics": [
     "alogrithms",
@@ -23630,7 +23675,7 @@
   {
    "full_name": "doocs/leetcode",
    "html_url": "https://github.com/doocs/leetcode",
-   "stars": 36546,
+   "stars": 36550,
    "language": "Java",
    "topics": [
     "algorithms",
@@ -23654,7 +23699,7 @@
   {
    "full_name": "vnotex/vnote",
    "html_url": "https://github.com/vnotex/vnote",
-   "stars": 12937,
+   "stars": 12935,
    "language": "C++",
    "topics": [
     "editor",
@@ -23780,7 +23825,7 @@
   {
    "full_name": "microsoft/vcpkg",
    "html_url": "https://github.com/microsoft/vcpkg",
-   "stars": 27436,
+   "stars": 27438,
    "language": "CMake",
    "topics": [
     "c",
@@ -23806,7 +23851,7 @@
   {
    "full_name": "jerry-git/learn-python3",
    "html_url": "https://github.com/jerry-git/learn-python3",
-   "stars": 6858,
+   "stars": 6859,
    "language": "HTML",
    "topics": [
     "jupyter-notebook",
@@ -23827,7 +23872,7 @@
   {
    "full_name": "trekhleb/learn-python",
    "html_url": "https://github.com/trekhleb/learn-python",
-   "stars": 18255,
+   "stars": 18261,
    "language": "Python",
    "topics": [
     "learning",
@@ -23849,7 +23894,7 @@
   {
    "full_name": "zhiwehu/Python-programming-exercises",
    "html_url": "https://github.com/zhiwehu/Python-programming-exercises",
-   "stars": 29594,
+   "stars": 29598,
    "language": null,
    "topics": [],
    "description": "100+ Python challenging programming exercises",
@@ -23864,7 +23909,7 @@
   {
    "full_name": "practical-tutorials/project-based-learning",
    "html_url": "https://github.com/practical-tutorials/project-based-learning",
-   "stars": 282100,
+   "stars": 282232,
    "language": "Python",
    "topics": [
     "beginner-project",
@@ -23908,7 +23953,7 @@
   {
    "full_name": "vinta/awesome-python",
    "html_url": "https://github.com/vinta/awesome-python",
-   "stars": 318316,
+   "stars": 318564,
    "language": "Python",
    "topics": [
     "awesome",
@@ -23930,7 +23975,7 @@
   {
    "full_name": "TheAlgorithms/Python",
    "html_url": "https://github.com/TheAlgorithms/Python",
-   "stars": 224263,
+   "stars": 224292,
    "language": "Python",
    "topics": [
     "algorithm",
@@ -24065,7 +24110,7 @@
   {
    "full_name": "vuejs/vue",
    "html_url": "https://github.com/vuejs/vue",
-   "stars": 211628,
+   "stars": 211630,
    "language": "TypeScript",
    "topics": [
     "framework",
@@ -24085,7 +24130,7 @@
   {
    "full_name": "react/react",
    "html_url": "https://github.com/react/react",
-   "stars": 249080,
+   "stars": 249116,
    "language": "JavaScript",
    "topics": [
     "declarative",
@@ -24107,7 +24152,7 @@
   {
    "full_name": "Richasy/Bili.Uwp",
    "html_url": "https://github.com/Richasy/Bili.Uwp",
-   "stars": 8136,
+   "stars": 8137,
    "language": "C#",
    "topics": [
     "bilibili",
@@ -24125,7 +24170,7 @@
   {
    "full_name": "violet7pan/XYplorer_Help",
    "html_url": "https://github.com/violet7pan/XYplorer_Help",
-   "stars": 749,
+   "stars": 748,
    "language": null,
    "topics": [],
    "description": "XYplorer使用教程-原创",
@@ -24140,7 +24185,7 @@
   {
    "full_name": "elunez/eladmin",
    "html_url": "https://github.com/elunez/eladmin",
-   "stars": 21913,
+   "stars": 21912,
    "language": "Java",
    "topics": [
     "admin",
@@ -24166,7 +24211,7 @@
   {
    "full_name": "PanJiaChen/vue-admin-template",
    "html_url": "https://github.com/PanJiaChen/vue-admin-template",
-   "stars": 20379,
+   "stars": 20380,
    "language": "JavaScript",
    "topics": [
     "axios",
@@ -24190,7 +24235,7 @@
   {
    "full_name": "lin-xin/vue-manage-system",
    "html_url": "https://github.com/lin-xin/vue-manage-system",
-   "stars": 19622,
+   "stars": 19623,
    "language": "Vue",
    "topics": [
     "element-plus",
@@ -24290,7 +24335,7 @@
   {
    "full_name": "macrozheng/mall-admin-web",
    "html_url": "https://github.com/macrozheng/mall-admin-web",
-   "stars": 12614,
+   "stars": 12616,
    "language": "Vue",
    "topics": [
     "axios",
@@ -24312,7 +24357,7 @@
   {
    "full_name": "macrozheng/mall",
    "html_url": "https://github.com/macrozheng/mall",
-   "stars": 84711,
+   "stars": 84720,
    "language": "Java",
    "topics": [
     "docker",
@@ -24363,7 +24408,7 @@
   {
    "full_name": "vuejs/awesome-vue",
    "html_url": "https://github.com/vuejs/awesome-vue",
-   "stars": 73549,
+   "stars": 73550,
    "language": null,
    "topics": [],
    "description": "🎉 A curated list of awesome things related to Vue.js",
@@ -24438,7 +24483,7 @@
   {
    "full_name": "apache/echarts",
    "html_url": "https://github.com/apache/echarts",
-   "stars": 67244,
+   "stars": 67248,
    "language": "TypeScript",
    "topics": [
     "apache",
@@ -24484,7 +24529,7 @@
   {
    "full_name": "nginx/nginx",
    "html_url": "https://github.com/nginx/nginx",
-   "stars": 31574,
+   "stars": 31579,
    "language": "C",
    "topics": [
     "content-cache",
@@ -24515,7 +24560,7 @@
   {
    "full_name": "redis/redis",
    "html_url": "https://github.com/redis/redis",
-   "stars": 76194,
+   "stars": 76217,
    "language": "C",
    "topics": [
     "cache",
@@ -24680,7 +24725,7 @@
   {
    "full_name": "xiaobaiTech/golangFamily",
    "html_url": "https://github.com/xiaobaiTech/golangFamily",
-   "stars": 6964,
+   "stars": 6963,
    "language": "Go",
    "topics": [],
    "description": "【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集",
@@ -24695,7 +24740,7 @@
   {
    "full_name": "DopplerHQ/awesome-interview-questions",
    "html_url": "https://github.com/DopplerHQ/awesome-interview-questions",
-   "stars": 84352,
+   "stars": 84371,
    "language": null,
    "topics": [
     "android-interview-questions",
@@ -24844,7 +24889,7 @@
   {
    "full_name": "sogou/workflow",
    "html_url": "https://github.com/sogou/workflow",
-   "stars": 14418,
+   "stars": 14419,
    "language": "C++",
    "topics": [
     "consul",
@@ -24913,7 +24958,7 @@
   {
    "full_name": "greyireland/algorithm-pattern",
    "html_url": "https://github.com/greyireland/algorithm-pattern",
-   "stars": 15464,
+   "stars": 15462,
    "language": "Go",
    "topics": [
     "algo",
@@ -25020,7 +25065,7 @@
   {
    "full_name": "coder/code-server",
    "html_url": "https://github.com/coder/code-server",
-   "stars": 79189,
+   "stars": 79206,
    "language": "TypeScript",
    "topics": [
     "browser-ide",
@@ -25043,7 +25088,7 @@
   {
    "full_name": "devtron-labs/devtron",
    "html_url": "https://github.com/devtron-labs/devtron",
-   "stars": 5591,
+   "stars": 5592,
    "language": "Go",
    "topics": [
     "aks",
@@ -25079,7 +25124,7 @@
   {
    "full_name": "AllThingsSmitty/css-protips",
    "html_url": "https://github.com/AllThingsSmitty/css-protips",
-   "stars": 30263,
+   "stars": 30262,
    "language": null,
    "topics": [
     "accessibility",
@@ -25147,7 +25192,7 @@
   {
    "full_name": "SigNoz/signoz",
    "html_url": "https://github.com/SigNoz/signoz",
-   "stars": 32012,
+   "stars": 32020,
    "language": "TypeScript",
    "topics": [
     "apm",
@@ -25233,7 +25278,7 @@
   {
    "full_name": "bradtraversy/50projects50days",
    "html_url": "https://github.com/bradtraversy/50projects50days",
-   "stars": 40641,
+   "stars": 40640,
    "language": "CSS",
    "topics": [],
    "description": "50+ mini web projects using HTML, CSS & JS",
@@ -25402,7 +25447,7 @@
   {
    "full_name": "facebook/folly",
    "html_url": "https://github.com/facebook/folly",
-   "stars": 30528,
+   "stars": 30530,
    "language": "C++",
    "topics": [],
    "description": "An open-source C++ library developed and used at Facebook.",
@@ -25417,7 +25462,7 @@
   {
    "full_name": "cmderdev/cmder",
    "html_url": "https://github.com/cmderdev/cmder",
-   "stars": 27004,
+   "stars": 27001,
    "language": "PowerShell",
    "topics": [
     "c-plus-plus",
@@ -25444,7 +25489,7 @@
   {
    "full_name": "mypaint/mypaint",
    "html_url": "https://github.com/mypaint/mypaint",
-   "stars": 2969,
+   "stars": 2970,
    "language": "Python",
    "topics": [
     "art",
@@ -25471,7 +25516,7 @@
   {
    "full_name": "yakumioto/YaHei-Consolas-Hybrid-1.12",
    "html_url": "https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12",
-   "stars": 1513,
+   "stars": 1512,
    "language": "Shell",
    "topics": [],
    "description": "YaHei Consolas Hybrid 字体",
@@ -25642,7 +25687,7 @@
   {
    "full_name": "geektutu/7days-golang",
    "html_url": "https://github.com/geektutu/7days-golang",
-   "stars": 16991,
+   "stars": 16992,
    "language": "Go",
    "topics": [
     "golang",
@@ -25662,7 +25707,7 @@
   {
    "full_name": "flipped-aurora/gin-vue-admin",
    "html_url": "https://github.com/flipped-aurora/gin-vue-admin",
-   "stars": 24994,
+   "stars": 24996,
    "language": "Go",
    "topics": [
     "admin",
@@ -25698,7 +25743,7 @@
   {
    "full_name": "mmcgrana/gobyexample",
    "html_url": "https://github.com/mmcgrana/gobyexample",
-   "stars": 8202,
+   "stars": 8204,
    "language": "Go",
    "topics": [],
    "description": "Go by Example",
@@ -25728,7 +25773,7 @@
   {
    "full_name": "shockerli/go-awesome",
    "html_url": "https://github.com/shockerli/go-awesome",
-   "stars": 6604,
+   "stars": 6605,
    "language": null,
    "topics": [
     "awesome",
@@ -25748,7 +25793,7 @@
   {
    "full_name": "gfwlist/gfwlist",
    "html_url": "https://github.com/gfwlist/gfwlist",
-   "stars": 25583,
+   "stars": 25586,
    "language": null,
    "topics": [
     "anticensorship",
@@ -25769,7 +25814,7 @@
   {
    "full_name": "FelisCatus/SwitchyOmega",
    "html_url": "https://github.com/FelisCatus/SwitchyOmega",
-   "stars": 22605,
+   "stars": 22604,
    "language": "CoffeeScript",
    "topics": [],
    "description": "No longer maintained, see pinned issues",
@@ -25799,7 +25844,7 @@
   {
    "full_name": "AdguardTeam/AdguardBrowserExtension",
    "html_url": "https://github.com/AdguardTeam/AdguardBrowserExtension",
-   "stars": 4386,
+   "stars": 4392,
    "language": "TypeScript",
    "topics": [
     "adblock",
@@ -25906,7 +25951,7 @@
   {
    "full_name": "elliotchance/c2go",
    "html_url": "https://github.com/elliotchance/c2go",
-   "stars": 2184,
+   "stars": 2185,
    "language": "Go",
    "topics": [
     "c",
@@ -25940,7 +25985,7 @@
   {
    "full_name": "goplus/xgo",
    "html_url": "https://github.com/goplus/xgo",
-   "stars": 9456,
+   "stars": 9457,
    "language": "Go",
    "topics": [
     "ai-native",
@@ -26005,7 +26050,7 @@
   {
    "full_name": "iina/iina",
    "html_url": "https://github.com/iina/iina",
-   "stars": 46210,
+   "stars": 46222,
    "language": "Swift",
    "topics": [
     "hacktoberfest",
@@ -26085,7 +26130,7 @@
   {
    "full_name": "zxwk1998/vue-admin-better",
    "html_url": "https://github.com/zxwk1998/vue-admin-better",
-   "stars": 18922,
+   "stars": 18924,
    "language": "Vue",
    "topics": [
     "admin",
@@ -26121,7 +26166,7 @@
   {
    "full_name": "yarnpkg/yarn",
    "html_url": "https://github.com/yarnpkg/yarn",
-   "stars": 41483,
+   "stars": 41484,
    "language": "JavaScript",
    "topics": [
     "javascript",
@@ -26156,7 +26201,7 @@
   {
    "full_name": "ElemeFE/element",
    "html_url": "https://github.com/ElemeFE/element",
-   "stars": 54053,
+   "stars": 54052,
    "language": "Vue",
    "topics": [
     "components",
@@ -26215,7 +26260,7 @@
   {
    "full_name": "golang/go",
    "html_url": "https://github.com/golang/go",
-   "stars": 137512,
+   "stars": 137531,
    "language": "Go",
    "topics": [
     "go",
@@ -26378,7 +26423,7 @@
   {
    "full_name": "q191201771/lal",
    "html_url": "https://github.com/q191201771/lal",
-   "stars": 3027,
+   "stars": 3028,
    "language": "Go",
    "topics": [
     "aac",
@@ -26466,7 +26511,7 @@
   {
    "full_name": "geekcompany/ResumeSample",
    "html_url": "https://github.com/geekcompany/ResumeSample",
-   "stars": 28279,
+   "stars": 28280,
    "language": null,
    "topics": [],
    "description": "Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板",
@@ -26615,7 +26660,7 @@
   {
    "full_name": "youngyangyang04/leetcode-master",
    "html_url": "https://github.com/youngyangyang04/leetcode-master",
-   "stars": 62371,
+   "stars": 62384,
    "language": "Shell",
    "topics": [
     "algorithm",
@@ -26671,7 +26716,7 @@
   {
    "full_name": "microsoft/c9-python-getting-started",
    "html_url": "https://github.com/microsoft/c9-python-getting-started",
-   "stars": 8021,
+   "stars": 8022,
    "language": "Jupyter Notebook",
    "topics": [],
    "description": "Sample code for Channel 9 Python for Beginners course",
@@ -26701,7 +26746,7 @@
   {
    "full_name": "Wei-Xia/most-frequent-technology-english-words",
    "html_url": "https://github.com/Wei-Xia/most-frequent-technology-english-words",
-   "stars": 6105,
+   "stars": 6104,
    "language": "CSS",
    "topics": [
     "chinese",
@@ -26721,7 +26766,7 @@
   {
    "full_name": "TeamStuQ/skill-map",
    "html_url": "https://github.com/TeamStuQ/skill-map",
-   "stars": 21946,
+   "stars": 21948,
    "language": "HTML",
    "topics": [
     "programmer",
@@ -26808,7 +26853,7 @@
   {
    "full_name": "ShameCom/ShameCom",
    "html_url": "https://github.com/ShameCom/ShameCom",
-   "stars": 5601,
+   "stars": 5600,
    "language": null,
    "topics": [],
    "description": "收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！",
@@ -26875,7 +26920,7 @@
   {
    "full_name": "justjavac/free-programming-books-zh_CN",
    "html_url": "https://github.com/justjavac/free-programming-books-zh_CN",
-   "stars": 118681,
+   "stars": 118700,
    "language": null,
    "topics": [
     "android",
@@ -27058,7 +27103,7 @@
   {
    "full_name": "afatcoder/LeetcodeTop",
    "html_url": "https://github.com/afatcoder/LeetcodeTop",
-   "stars": 20029,
+   "stars": 20032,
    "language": null,
    "topics": [
     "interview",
@@ -27143,7 +27188,7 @@
   {
    "full_name": "MisterBooo/LeetCodeAnimation",
    "html_url": "https://github.com/MisterBooo/LeetCodeAnimation",
-   "stars": 76704,
+   "stars": 76705,
    "language": "Java",
    "topics": [
     "animation",
@@ -27297,7 +27342,7 @@
   {
    "full_name": "jackfrued/Python-100-Days",
    "html_url": "https://github.com/jackfrued/Python-100-Days",
-   "stars": 185938,
+   "stars": 185981,
    "language": "Jupyter Notebook",
    "topics": [],
    "description": "Python - 100天从新手到大师",
@@ -27312,7 +27357,7 @@
   {
    "full_name": "labuladong/fucking-algorithm",
    "html_url": "https://github.com/labuladong/fucking-algorithm",
-   "stars": 135629,
+   "stars": 135657,
    "language": "Markdown",
    "topics": [
     "algorithms",
@@ -27336,7 +27381,7 @@
   {
    "full_name": "jwasham/coding-interview-university",
    "html_url": "https://github.com/jwasham/coding-interview-university",
-   "stars": 360365,
+   "stars": 360414,
    "language": null,
    "topics": [
     "algorithm",
@@ -27385,7 +27430,7 @@
   {
    "full_name": "ScoopInstaller/Scoop",
    "html_url": "https://github.com/ScoopInstaller/Scoop",
-   "stars": 24628,
+   "stars": 24632,
    "language": "PowerShell",
    "topics": [
     "installer",
@@ -27405,7 +27450,7 @@
   {
    "full_name": "conan-io/conan",
    "html_url": "https://github.com/conan-io/conan",
-   "stars": 9503,
+   "stars": 9506,
    "language": "Python",
    "topics": [
     "c",
@@ -27428,7 +27473,7 @@
   {
    "full_name": "Vonng/ddia",
    "html_url": "https://github.com/Vonng/ddia",
-   "stars": 23442,
+   "stars": 23447,
    "language": "Python",
    "topics": [
     "book",
@@ -27448,7 +27493,7 @@
   {
    "full_name": "wuye9036/CppTemplateTutorial",
    "html_url": "https://github.com/wuye9036/CppTemplateTutorial",
-   "stars": 10586,
+   "stars": 10587,
    "language": "C++",
    "topics": [],
    "description": "中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)",
@@ -27506,7 +27551,7 @@
   {
    "full_name": "be5invis/Sarasa-Gothic",
    "html_url": "https://github.com/be5invis/Sarasa-Gothic",
-   "stars": 12723,
+   "stars": 12727,
    "language": "JavaScript",
    "topics": [
     "font",
@@ -27524,7 +27569,7 @@
   {
    "full_name": "CyC2018/CS-Notes",
    "html_url": "https://github.com/CyC2018/CS-Notes",
-   "stars": 185820,
+   "stars": 185843,
    "language": null,
    "topics": [
     "algorithm",
@@ -27605,7 +27650,7 @@
   {
    "full_name": "talkgo/read",
    "html_url": "https://github.com/talkgo/read",
-   "stars": 6190,
+   "stars": 6189,
    "language": "Go",
    "topics": [
     "article",
@@ -27686,7 +27731,7 @@
   {
    "full_name": "Light-City/CPlusPlusThings",
    "html_url": "https://github.com/Light-City/CPlusPlusThings",
-   "stars": 43415,
+   "stars": 43413,
    "language": "C++",
    "topics": [
     "cplusplus",
@@ -27706,7 +27751,7 @@
   {
    "full_name": "qinguoyi/TinyWebServer",
    "html_url": "https://github.com/qinguoyi/TinyWebServer",
-   "stars": 19674,
+   "stars": 19675,
    "language": "C++",
    "topics": [
     "cpp",
@@ -27780,7 +27825,7 @@
   {
    "full_name": "ageitgey/face_recognition",
    "html_url": "https://github.com/ageitgey/face_recognition",
-   "stars": 56708,
+   "stars": 56707,
    "language": "Python",
    "topics": [
     "face-detection",
@@ -27821,7 +27866,7 @@
   {
    "full_name": "Yixiaohan/show-me-the-code",
    "html_url": "https://github.com/Yixiaohan/show-me-the-code",
-   "stars": 13726,
+   "stars": 13725,
    "language": null,
    "topics": [
     "python",
@@ -27840,7 +27885,7 @@
   {
    "full_name": "HT524/500LineorLess_CN",
    "html_url": "https://github.com/HT524/500LineorLess_CN",
-   "stars": 4431,
+   "stars": 4432,
    "language": "Jupyter Notebook",
    "topics": [],
    "description": "500 line or less 中文翻译计划。",
@@ -27870,7 +27915,7 @@
   {
    "full_name": "yidao620c/python3-cookbook",
    "html_url": "https://github.com/yidao620c/python3-cookbook",
-   "stars": 12016,
+   "stars": 12017,
    "language": "Jupyter Notebook",
    "topics": [
     "python",
@@ -27905,7 +27950,7 @@
   {
    "full_name": "changkun/modern-cpp-tutorial",
    "html_url": "https://github.com/changkun/modern-cpp-tutorial",
-   "stars": 25795,
+   "stars": 25796,
    "language": "C++",
    "topics": [
     "cpp",
@@ -27943,7 +27988,7 @@
   {
    "full_name": "xingshaocheng/architect-awesome",
    "html_url": "https://github.com/xingshaocheng/architect-awesome",
-   "stars": 60847,
+   "stars": 60850,
    "language": null,
    "topics": [],
    "description": "后端架构师技术图谱",
@@ -27958,7 +28003,7 @@
   {
    "full_name": "nilbuild/developer-roadmap",
    "html_url": "https://github.com/nilbuild/developer-roadmap",
-   "stars": 366319,
+   "stars": 366382,
    "language": "TypeScript",
    "topics": [
     "angular-roadmap",
@@ -27992,7 +28037,7 @@
   {
    "full_name": "algorithm-visualizer/algorithm-visualizer",
    "html_url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
-   "stars": 48716,
+   "stars": 48722,
    "language": "JavaScript",
    "topics": [
     "algorithm",
@@ -28084,7 +28129,7 @@
   {
    "full_name": "HugoBlox/kit",
    "html_url": "https://github.com/HugoBlox/kit",
-   "stars": 9668,
+   "stars": 9670,
    "language": "HTML",
    "topics": [
     "academic",
@@ -28120,7 +28165,7 @@
   {
    "full_name": "files-community/Files",
    "html_url": "https://github.com/files-community/Files",
-   "stars": 44887,
+   "stars": 44902,
    "language": "C#",
    "topics": [
     "alternatives",
@@ -28197,7 +28242,7 @@
   {
    "full_name": "fffaraz/awesome-cpp",
    "html_url": "https://github.com/fffaraz/awesome-cpp",
-   "stars": 73127,
+   "stars": 73146,
    "language": null,
    "topics": [
     "awesome",
@@ -28240,7 +28285,7 @@
   {
    "full_name": "sindresorhus/awesome",
    "html_url": "https://github.com/sindresorhus/awesome",
-   "stars": 503056,
+   "stars": 503358,
    "language": null,
    "topics": [
     "awesome",
