@@ -20,7 +20,7 @@
 | [crazyhottommy/RNA-seq-analysis](https://github.com/crazyhottommy/RNA-seq-analysis) | ⭐ 1.1k | Python | Ming Tang的RNAseq分析笔记 |
 | [mikolmogorov/Flye](https://github.com/mikolmogorov/Flye) | ⭐ 950 | C | 基于重复图谱的单分子测序读段从头组装工具 |
 | [bwa-mem2/bwa-mem2](https://github.com/bwa-mem2/bwa-mem2) | ⭐ 861 | C++ | bwa-mem 的下一代版本 |
-| [openwdl/wdl](https://github.com/openwdl/wdl) | ⭐ 856 |  | 工作流描述语言（WDL）规范 |
+| [openwdl/wdl](https://github.com/openwdl/wdl) | ⭐ 857 |  | 工作流描述语言（WDL）规范 |
 | [crazyhottommy/scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes) | ⭐ 833 |  | Ming Tang 的单细胞 RNA 测序分析笔记 |
 | [mdozmorov/scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes) | ⭐ 814 | R | 单细胞RNA测序分析工具清单 |
 | [bebop/poly](https://github.com/bebop/poly) | ⭐ 737 | Go | 用于工程改造生物体的Go包 |
@@ -29,11 +29,11 @@
 | [10XGenomics/cellranger](https://github.com/10XGenomics/cellranger) | ⭐ 476 | Rust | 10x Genomics 单细胞分析 |
 | [openbiox/weekly](https://github.com/openbiox/weekly) | ⭐ 461 | HTML | 生信爱好者周刊（每周日发布） |
 | [seqan/seqan3](https://github.com/seqan/seqan3) | ⭐ 461 | C++ | 用于序列分析的现代C++库，包含该库的第3版本及API文档。 |
-| [gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) | ⭐ 395 |  |  |
+| [gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) | ⭐ 396 |  |  |
 | [Ming-Lian/NGS-analysis](https://github.com/Ming-Lian/NGS-analysis) | ⭐ 378 |  | 二代测序数据分析 |
 | [obophenotype/human-phenotype-ontology](https://github.com/obophenotype/human-phenotype-ontology) | ⭐ 372 | Makefile | 用于描述人类临床特征的本体 |
 | [brentp/goleft](https://github.com/brentp/goleft) | ⭐ 227 | Go | goleft 是遵循 MIT 许可证分发的生物信息学工具合集，打包为单个静态二进制文件 |
-| [PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition) | ⭐ 216 | Python | Python生物信息学 cookbook 第三版 |
+| [PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition) | ⭐ 217 | Python | Python生物信息学 cookbook 第三版 |
 | [BGI-HangzhouAI/Genos](https://github.com/BGI-HangzhouAI/Genos) | ⭐ 179 | Jupyter Notebook | 基因组基础大模型 |
 | [MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software](https://github.com/MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software) | ⭐ 160 | HTML | 用于灵活、高性能分析DNBelab C系列单细胞数据的官方流程。 |
 | [shubhamchandak94/Spring](https://github.com/shubhamchandak94/Spring) | ⭐ 160 | C | FASTQ 压缩 |

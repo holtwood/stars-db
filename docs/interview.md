@@ -6,7 +6,7 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) | ⭐ 45.9k |  | 学习如何设计大规模系统，备战系统设计面试 |
+| [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) | ⭐ 46.0k |  | 学习如何设计大规模系统，备战系统设计面试 |
 | [huihut/interview](https://github.com/huihut/interview) | ⭐ 38.2k | C++ | 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository… |
 | [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python) | ⭐ 17.4k | Shell | 关于Python的面试题 |
 | [andkret/Cookbook](https://github.com/andkret/Cookbook) | ⭐ 15.4k | Python | 数据工程实战手册 |

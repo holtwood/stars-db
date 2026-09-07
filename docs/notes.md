@@ -13,7 +13,7 @@
 | [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) | ⭐ 19.3k | Lua | 🌙 LunarVim 是面向 Neovim 的 IDE 功能层，完全免费且由社区驱动开发。 |
 | [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) | ⭐ 14.6k | C++ | Notepad++ 的跨平台重实现版本 |
 | [vnotex/vnote](https://github.com/vnotex/vnote) | ⭐ 12.9k | C++ | 使用原生C++打造的舒适笔记平台。 |
-| [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) | ⭐ 12.2k | TypeScript |  |
+| [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) | ⭐ 12.3k | TypeScript |  |
 | [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) | ⭐ 11.9k | TypeScript | 在 Obsidian.md 中集成 Git 版本控制，支持自动提交同步与其他高级功能 |
 | [Milkdown/milkdown](https://github.com/Milkdown/milkdown) | ⭐ 11.9k | TypeScript | 🍼 插件驱动的所见即所得 Markdown 编辑器框架。 |
 | [wsdjeg/vim-galore-zh_cn🟡](https://github.com/wsdjeg/vim-galore-zh_cn) | ⭐ 10.6k | Vim Script | Vim 从入门到精通 |
@@ -32,7 +32,7 @@
 | [platers/obsidian-linter](https://github.com/platers/obsidian-linter) | ⭐ 2.1k | TypeScript | 这是一款 Obsidian 插件，专注于可配置性与可扩展性，为你的笔记设置格式与样式。 |
 | [gcui-art/markdown-to-image](https://github.com/gcui-art/markdown-to-image) | ⭐ 2.0k | TypeScript | 此 React 组件可将 Markdown 渲染为精美海报图，支持复制为图片，支持将 Markdown 转换为海报/图片/引言卡片/社交卡片，适用于 Insta… |
 | [rohit-px2/nvui](https://github.com/rohit-px2/nvui) | ⭐ 1.7k | C++ | Neovim 的现代化前端界面 |
-| [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) | ⭐ 938 | TypeScript | A cross-platform, instant-rendering desktop Markdown editor 一个跨平台的、即时渲染桌面端 Markd… |
+| [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) | ⭐ 939 | TypeScript | A cross-platform, instant-rendering desktop Markdown editor 一个跨平台的、即时渲染桌面端 Markd… |
 | [MikeWang000000/vscode-server-centos7](https://github.com/MikeWang000000/vscode-server-centos7) | ⭐ 449 | C | 在 RHEL/CentOS 7 上运行最新版 vscode-server！ |
 | [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) | ⭐ 424 | Python |  |
 | [atian25/yuque-exporter](https://github.com/atian25/yuque-exporter) | ⭐ 367 | TypeScript | 将语雀导出为本地 Markdown 文件 |

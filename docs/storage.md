@@ -7,7 +7,7 @@
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
 | [macrozheng/mall](https://github.com/macrozheng/mall) | ⭐ 84.7k | Java | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门… |
-| [redis/redis](https://github.com/redis/redis) | ⭐ 76.2k | C | 对于构建实时数据驱动应用的开发者而言，Redis是首选的、性能最快、功能最丰富的缓存、数据结构服务器，以及文档与向量查询引擎。 |
+| [redis/redis](https://github.com/redis/redis) | ⭐ 76.3k | C | 对于构建实时数据驱动应用的开发者而言，Redis是首选的、性能最快、功能最丰富的缓存、数据结构服务器，以及文档与向量查询引擎。 |
 | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | ⭐ 23.6k | TypeScript | 适用于 MySQL、Postgres、SQLite、SQL Server 等更多数据库的现代化易用 SQL 客户端，支持 Linux、MacOS 和 Windo… |
 | [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) | ⭐ 23.1k | Java | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、… |
 | [elunez/eladmin](https://github.com/elunez/eladmin) | ⭐ 21.9k | Java | eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管… |

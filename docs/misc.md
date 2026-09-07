@@ -6,9 +6,9 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 242.1k | Python | The agent that grows with you |
-| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | ⭐ 91.0k | JavaScript | 酷炫的自托管监控工具 |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | ⭐ 49.6k | JavaScript | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 242.6k | Python | The agent that grows with you |
+| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | ⭐ 91.1k | JavaScript | 酷炫的自托管监控工具 |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | ⭐ 51.1k | JavaScript | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | ⭐ 44.9k | Python | 社区驱动的增强型文档管理系统：扫描、索引并归档您所有的文档 |
 | [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) | ⭐ 42.0k |  |  |
 | [ShareX/ShareX](https://github.com/ShareX/ShareX) | ⭐ 39.5k | C# | ShareX is a free and open-source application that enables users to capture or re… |
@@ -22,36 +22,36 @@
 | [Caldis/Mos](https://github.com/Caldis/Mos) | ⭐ 21.3k | Swift | 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to… |
 | [alibaba/zvec](https://github.com/alibaba/zvec) | ⭐ 15.8k | C++ | A lightweight, lightning-fast, in-process vector database |
 | [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) | ⭐ 13.3k |  | :books: 极客时间电子书 |
-| [sissbruecker/linkding](https://github.com/sissbruecker/linkding) | ⭐ 11.1k | Python | 可自托管的书签管理器，设计简约、运行快速，通过Docker即可轻松部署。 |
+| [sissbruecker/linkding](https://github.com/sissbruecker/linkding) | ⭐ 11.2k | Python | 可自托管的书签管理器，设计简约、运行快速，通过Docker即可轻松部署。 |
 | [openchamber/openchamber](https://github.com/openchamber/openchamber) | ⭐ 9.6k | TypeScript | Agentic Development Environment based on OpenCode AI agent |
 | [gopherchina/conference](https://github.com/gopherchina/conference) | ⭐ 7.6k |  |  |
 | [charmbracelet/freeze](https://github.com/charmbracelet/freeze) | ⭐ 4.8k | Go | Generate images of code and terminal output 📸 |
 | [yhan219/navicat_reset_mac🟡](https://github.com/yhan219/navicat_reset_mac) | ⭐ 2.4k |  | navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script |
 | [RawChat/RawChat](https://github.com/RawChat/RawChat) | ⭐ 2.1k |  |  |
 | [uaxe/geektime-docs](https://github.com/uaxe/geektime-docs) | ⭐ 1.4k | Python | 👏极客时间 pdf & markdown 文档 |
-| [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) | ⭐ 1.3k | Go | 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建 |
+| [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) | ⭐ 1.4k | Go | 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建 |
 | [AnnaSuSu/TechSpar](https://github.com/AnnaSuSu/TechSpar) | ⭐ 1.1k | TypeScript | 一个持续进化的面试训练系统。在线体验地址：https://techspar.cn |
 | [J3n5en/bye](https://github.com/J3n5en/bye) | ⭐ 1.0k |  |  |
 | [CometixSpace/CCursor](https://github.com/CometixSpace/CCursor) | ⭐ 1.0k | TypeScript | 为 Cursor IDE 自带密钥！ |
 | [nicoxiang/geektime-downloader](https://github.com/nicoxiang/geektime-downloader) | ⭐ 963 | Go | 极客时间课程下载器，支持下载极客时间专栏/视频课/每日一课/大厂实践/训练营视频 |
-| [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) | ⭐ 939 | Shell | Ally-Health 是一款智能医疗助手，它依托先进AI技术与医学专业知识革新个人健康管理。它通过自然语言交互帮助用户记录症状、管理用药、整理病历并获取多学科… |
-| [golangboy/wxocr](https://github.com/golangboy/wxocr) | ⭐ 898 |  | 无内容 |
-| [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 785 | Go | 👏 Make learning a lifelong habit. 学无止境 |
-| [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) | ⭐ 767 |  | 部分文件在 T v1.1 上可正常运行（最新支持版本为 v1.9.5/1.9.2-dev），基于 TC 开发 |
-| [OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | ⭐ 752 |  | 去AI味提示词-作家增强-SKILL |
-| [Kuddev/nebula](https://github.com/Kuddev/nebula) | ⭐ 659 | Rust | AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent se… |
+| [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) | ⭐ 940 | Shell | Ally-Health 是一款智能医疗助手，它依托先进AI技术与医学专业知识革新个人健康管理。它通过自然语言交互帮助用户记录症状、管理用药、整理病历并获取多学科… |
+| [golangboy/wxocr](https://github.com/golangboy/wxocr) | ⭐ 897 |  | 无内容 |
+| [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 786 | Go | 👏 Make learning a lifelong habit. 学无止境 |
+| [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) | ⭐ 770 |  | 部分文件在 T v1.1 上可正常运行（最新支持版本为 v1.9.5/1.9.2-dev），基于 TC 开发 |
+| [OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | ⭐ 755 |  | 去AI味提示词-作家增强-SKILL |
+| [Kuddev/nebula](https://github.com/Kuddev/nebula) | ⭐ 663 | Rust | AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent se… |
 | [uaxe/geektime-pdfs](https://github.com/uaxe/geektime-pdfs) | ⭐ 407 |  | 👏极客时间 pdf |
-| [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy) | ⭐ 304 | JavaScript | Command Code API → OpenAI 兼容接口的反代代理 |
+| [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy) | ⭐ 312 | JavaScript | Command Code API → OpenAI 兼容接口的反代代理 |
 | [soshial/xdxf_makedict](https://github.com/soshial/xdxf_makedict) | ⭐ 247 |  | XDXF 是开放免费的词典格式，以结构化语义化方式存储词条，是兼容性最强的可转换词典格式 |
 | [yyxyz/Book](https://github.com/yyxyz/Book) | ⭐ 227 |  |  |
 | [johnnynunez/Xiaomi-Notebook-Air-1Gen](https://github.com/johnnynunez/Xiaomi-Notebook-Air-1Gen) | ⭐ 177 | ASL | 小米笔记本Air 第一代 |
-| [wtsnwei/pdsp](https://github.com/wtsnwei/pdsp) | ⭐ 125 | TeX | 《Personal Development for Smart People》的中文自译版 |
+| [wtsnwei/pdsp](https://github.com/wtsnwei/pdsp) | ⭐ 126 | TeX | 《Personal Development for Smart People》的中文自译版 |
 | [ChinaSiro/PromPub.com](https://github.com/ChinaSiro/PromPub.com) | ⭐ 110 | Io |  |
 | [archibate/dotfiles-opencode](https://github.com/archibate/dotfiles-opencode) | ⭐ 106 | Python | Archibate 针对 OpenCode 的个人配置 |
 | [cpulxb/WSL-Image-Clipboard-Helper](https://github.com/cpulxb/WSL-Image-Clipboard-Helper) | ⭐ 93 | Rust | 该工具用于在 Windows 中配合 WSL 环境下的 Claude Code、CodeX、OpenCode等 AI 工具，快速保存剪贴板图片并将其转换为 WS… |
-| [chaun-yi7/Clay](https://github.com/chaun-yi7/Clay) | ⭐ 40 | CSS | Clay —— 一款仿 Claude 审美的 Typora 主题，暖纸质感、明暗双色，克制耐看。 |
+| [chaun-yi7/Clay](https://github.com/chaun-yi7/Clay) | ⭐ 41 | CSS | Clay —— 一款仿 Claude 审美的 Typora 主题，暖纸质感、明暗双色，克制耐看。 |
 | [Lucent-Snow/anti-default-output](https://github.com/Lucent-Snow/anti-default-output) | ⭐ 30 |  | 一项用于在创意任务中打破AI默认通用输出模式的技能。 |
-| [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games) | ⭐ 16 | HTML | GPT-6 Astra 的 One Shot 游戏测试，包含原始 Prompt 与可直接运行的单文件 HTML。 |
+| [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games) | ⭐ 18 | HTML | GPT-6 Astra 的 One Shot 游戏测试，包含原始 Prompt 与可直接运行的单文件 HTML。 |
 | [yyxyz/OSOperateSkills](https://github.com/yyxyz/OSOperateSkills) | ⭐ 4 |  |  |
 | [build-workbench/chat-stash](https://github.com/build-workbench/chat-stash) | ⭐ 1 | HTML | 基于大模型的聊天记录智能收纳与检索工具 | LLM-powered chat history organizer and search |
 | [holtwood/wb2api](https://github.com/holtwood/wb2api) | ⭐ 1 | Go |  |

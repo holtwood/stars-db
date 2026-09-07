@@ -2,7 +2,7 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1350-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--06-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1350-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--07-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
 > 📈 **1350** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
