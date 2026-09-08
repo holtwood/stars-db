@@ -14,7 +14,7 @@
 | [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) | ⭐ 6.4k | C++ | 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等 |
 | [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) | ⭐ 5.4k | Java | 📚 后端程序员应该掌握的主流数据库知识 |
 | [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) | ⭐ 4.8k | HTML | https://huyenchip.com/ml-interviews-book/ |
-| [javabuddy/best-system-design-resources](https://github.com/javabuddy/best-system-design-resources) | ⭐ 4.4k |  | 学习系统设计、软件架构以及准备系统设计面试的优质资源合集 |
+| [javabuddy/best-system-design-resources](https://github.com/javabuddy/best-system-design-resources) | ⭐ 4.5k |  | 学习系统设计、软件架构以及准备系统设计面试的优质资源合集 |
 | [0voice/Campus_recruitment_interview_questions](https://github.com/0voice/Campus_recruitment_interview_questions) | ⭐ 4.0k |  | 2025 最新校招面试题合集， 面向 2026 届应届生，全网最全整理！收录 1000+道真实面试题以及面经，涵盖阿里、腾讯、字节、美团、百度、华为、小米、英伟… |
 | [moabukar/tech-vault](https://github.com/moabukar/tech-vault) | ⭐ 3.6k | HCL | 科技领域众多面试题与真实行业挑战汇总 |
 | [genieincodebottle/generative-ai](https://github.com/genieincodebottle/generative-ai) | ⭐ 2.6k | Jupyter Notebook | 生成式AI综合资源库，包含详细路线图、项目、应用场景、面试准备与编程准备内容。 |

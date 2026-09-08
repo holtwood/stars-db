@@ -8,7 +8,7 @@
 |------|------|------|------|
 | [apache/echarts](https://github.com/apache/echarts) | ⭐ 67.3k | TypeScript | Apache ECharts 是一款功能强大、可交互的浏览器端图表与数据可视化库 |
 | [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | ⭐ 49.0k | Dart | 🎧 开源音乐流媒体应用！支持桌面端与移动端！ |
-| [iina/iina](https://github.com/iina/iina) | ⭐ 46.2k | Swift | 适用于 macOS 的现代化视频播放器。 |
+| [iina/iina](https://github.com/iina/iina) | ⭐ 46.3k | Swift | 适用于 macOS 的现代化视频播放器。 |
 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | ⭐ 39.6k | Java | 适用于 Android 的自由轻量级流媒体前端 |
 | [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | ⭐ 29.9k |  | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 |
 | [fanmingming/live](https://github.com/fanmingming/live) | ⭐ 28.4k | JavaScript | ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕 |

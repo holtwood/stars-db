@@ -2,12 +2,13 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1350-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--07-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1351-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--08-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
-> 📈 **1350** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
+> 📈 **1351** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
 ## 🔥 最近收藏
 
+- ⭐ [docmost/docmost](https://github.com/docmost/docmost) — Docmost is an open-source collaborative wiki and documentati… `2026-09-08`
 - ⭐ [Caldis/Mos](https://github.com/Caldis/Mos) — 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A light… `2026-09-05`
 - ⭐ [p0deje/Maccy](https://github.com/p0deje/Maccy) — Lightweight clipboard manager for macOS `2026-09-05`
 - ⭐ [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games) — GPT-6 Astra 的 One Shot 游戏测试，包含原始 Prompt 与可直接运行的单文件 HTML。 `2026-09-05`
@@ -17,12 +18,11 @@
 - ⭐ [charmbracelet/freeze](https://github.com/charmbracelet/freeze) — Generate images of code and terminal output 📸 `2026-09-03`
 - ⭐ [ShareX/ShareX](https://github.com/ShareX/ShareX) — ShareX is a free and open-source application that enables us… `2026-09-03`
 - ⭐ [zellij-org/zellij](https://github.com/zellij-org/zellij) — A terminal workspace with batteries included `2026-09-03`
-- ⭐ [Kuddev/nebula](https://github.com/Kuddev/nebula) — AI-native, GPU-accelerated terminal emulator for Windows wit… `2026-09-03`
+- ⭐ [Kuddev/pebrel](https://github.com/Kuddev/pebrel) — AI-native, GPU-accelerated terminal emulator for Windows wit… `2026-09-03`
 - ⭐ [holtwood/wb2api](https://github.com/holtwood/wb2api) —  `2026-09-02`
-- ⭐ [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy) — Command Code API → OpenAI 兼容接口的反代代理 `2026-09-02`
+- ⭐ [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy) — Command Code API 反代代理，兼容 OpenAI 与 Anthropic 接口 | Reverse pro… `2026-09-02`
 - ⭐ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — The agent that grows with you `2026-09-01`
 - ⭐ [tt-a1i/archify](https://github.com/tt-a1i/archify) — Agent skill for beautiful, verifiable architecture, workflow… `2026-09-01`
-- ⭐ [holtwood/agent-skills-kit](https://github.com/holtwood/agent-skills-kit) —  `2026-09-01`
 
 ## 📑 分类导航
 
@@ -46,11 +46,11 @@
 | 🧬 生物信息 | 51 | `█░░░░░░░░░░░░░░░` (4%) | [docs/bio.md](docs/bio.md) |
 | 📚 学习资源与清单 | 225 | `███░░░░░░░░░░░░░` (17%) | [docs/learning.md](docs/learning.md) |
 | 🎯 面试资料 | 15 | `█░░░░░░░░░░░░░░░` (1%) | [docs/interview.md](docs/interview.md) |
-| 📦 其他与杂项 | 53 | `█░░░░░░░░░░░░░░░` (4%) | [docs/misc.md](docs/misc.md) |
+| 📦 其他与杂项 | 54 | `█░░░░░░░░░░░░░░░` (4%) | [docs/misc.md](docs/misc.md) |
 
 ## 📊 快速入口
 
-- 📦 [全量索引(1350)](docs/all.md) — 所有项目按 ⭐ 排序
+- 📦 [全量索引(1351)](docs/all.md) — 所有项目按 ⭐ 排序
 - 🗣️ [按语言浏览](docs/by-language.md) — 语言分布一览
 
 ## 🔄 自动同步

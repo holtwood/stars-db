@@ -6,18 +6,18 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [react/react](https://github.com/react/react) | ⭐ 249.2k | JavaScript | 用于构建网页和原生用户界面的库。 |
-| [vuejs/vue](https://github.com/vuejs/vue) | ⭐ 211.6k | TypeScript | 这是 Vue 2 的仓库。Vue 3 请访问 https://github.com/vuejs/core |
-| [vitejs/vite](https://github.com/vitejs/vite) | ⭐ 82.7k | TypeScript | 下一代前端工具链，极速体验！ |
+| [react/react](https://github.com/react/react) | ⭐ 249.6k | JavaScript | 用于构建网页和原生用户界面的库。 |
+| [vuejs/vue](https://github.com/vuejs/vue) | ⭐ 212.1k | TypeScript | 这是 Vue 2 的仓库。Vue 3 请访问 https://github.com/vuejs/core |
+| [vitejs/vite](https://github.com/vitejs/vite) | ⭐ 82.8k | TypeScript | 下一代前端工具链，极速体验！ |
 | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | ⭐ 80.2k | TypeScript | 开源API开发生态系统 • https://hoppscotch.io • 支持离线、本地部署与云端 • 覆盖Web、桌面端与CLI • Postman、Ins… |
-| [ElemeFE/element](https://github.com/ElemeFE/element) | ⭐ 54.1k | Vue | 适用于Web的Vue.js 2.0 UI组件库 |
+| [ElemeFE/element](https://github.com/ElemeFE/element) | ⭐ 54.0k | Vue | 适用于Web的Vue.js 2.0 UI组件库 |
 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | ⭐ 46.1k | TypeScript | 🧡 一切皆可RSS |
 | [yarnpkg/yarn](https://github.com/yarnpkg/yarn) | ⭐ 41.5k | JavaScript | 1.x 分支已停止更新，新功能和错误修复现在都在 https://github.com/yarnpkg/berry 开发 |
 | [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) | ⭐ 40.6k | CSS | 50+ 基于 HTML、CSS 和 JS 的小型网页项目 |
 | [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) | ⭐ 31.1k |  | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 |
 | [aosabook/500lines](https://github.com/aosabook/500lines) | ⭐ 29.6k | JavaScript | 500行以内项目 |
 | [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) | ⭐ 28.4k | TypeScript | 几秒即可克隆复刻任意网站，生成现代化 React 应用 |
-| [readest/readest](https://github.com/readest/readest) | ⭐ 24.1k | TypeScript | Readest 是为深度阅读爱好者打造的现代化多功能电子书阅读器，可提供流畅跨平台访问、强大工具与直观界面，全方位提升你的阅读体验。 |
+| [readest/readest](https://github.com/readest/readest) | ⭐ 24.2k | TypeScript | Readest 是为深度阅读爱好者打造的现代化多功能电子书阅读器，可提供流畅跨平台访问、强大工具与直观界面，全方位提升你的阅读体验。 |
 | [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) | ⭐ 20.4k | JavaScript | 一个轻量的 Vue2.0 后台管理模板 |
 | [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) | ⭐ 19.7k | JavaScript | 用于本地文件共享的渐进式Web应用 |
 | [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) | ⭐ 19.6k | Vue | Vue3、Element Plus、typescript后台管理系统 |
@@ -56,7 +56,7 @@
 | [yenche123/liubai](https://github.com/yenche123/liubai) | ⭐ 864 | TypeScript | 赋能你自己！ |
 | [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 852 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
 | [o8oo8o/WebCurl](https://github.com/o8oo8o/WebCurl) | ⭐ 608 | HTML | 极简网页版API调试神器 |
-| [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 605 | TypeScript |  |
+| [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 606 | TypeScript |  |
 | [Paper-Dragon/mobaxterm-crack](https://github.com/Paper-Dragon/mobaxterm-crack) | ⭐ 575 | TypeScript | 破解MobaXterm的高级版，生成密钥，支持几乎所有版本。 |
 | [Sergei-Korneev/obsidian-local-images-plus](https://github.com/Sergei-Korneev/obsidian-local-images-plus) | ⭐ 563 | TypeScript | 本仓库是 obsidian-local-images 插件的重制项目，该插件的核心功能是将 Markdown 笔记中的图片下载到本地存储。 |
 | [lunar-landing/layui-vue](https://github.com/lunar-landing/layui-vue) | ⭐ 557 | Vue | 基于 Layui 和 Vue 的企业级 UI 组件库 |
