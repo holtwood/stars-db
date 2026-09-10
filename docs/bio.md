@@ -10,7 +10,7 @@
 | [google/deepvariant](https://github.com/google/deepvariant) | ⭐ 3.8k | Python | DeepVariant 是一款利用深度神经网络从下一代DNA测序数据中识别遗传变异的分析流程。 |
 | [alexdobin/STAR](https://github.com/alexdobin/STAR) | ⭐ 2.2k | C | RNA-seq 比对工具 |
 | [lh3/minimap2](https://github.com/lh3/minimap2) | ⭐ 2.2k | C | 适用于基因组和剪接核苷酸序列的通用双序列比对工具 |
-| [samtools/samtools](https://github.com/samtools/samtools) | ⭐ 1.9k | C | 使用htslib以C语言编写的、用于处理下一代测序数据的工具集 |
+| [samtools/samtools](https://github.com/samtools/samtools) | ⭐ 2.0k | C | 使用htslib以C语言编写的、用于处理下一代测序数据的工具集 |
 | [bioconda/bioconda-recipes](https://github.com/bioconda/bioconda-recipes) | ⭐ 1.9k | Shell | 用于 Bioconda 频道的 Conda 配置配方 |
 | [rust-bio/rust-bio](https://github.com/rust-bio/rust-bio) | ⭐ 1.8k | Rust | 此库提供了许多适用于生物信息学的算法和数据结构实现，所有实现都通过持续集成进行了严格测试。 |
 | [theislab/single-cell-tutorial](https://github.com/theislab/single-cell-tutorial) | ⭐ 1.6k | Jupyter Notebook | 对应论文《Luecken与Theis：单细胞RNA-seq分析当前最佳实践：教程》的单细胞分析最佳实践教程案例研究 |

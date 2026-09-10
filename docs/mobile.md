@@ -6,7 +6,7 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [localsend/localsend](https://github.com/localsend/localsend) | ⭐ 90.4k | Dart | AirDrop 的开源跨平台替代工具 |
+| [localsend/localsend](https://github.com/localsend/localsend) | ⭐ 90.5k | Dart | AirDrop 的开源跨平台替代工具 |
 | [CodeHubApp/CodeHub🟡](https://github.com/CodeHubApp/CodeHub) | ⭐ 22.6k | C# | CodeHub 是一款基于 Xamarin 开发的 iOS 应用程序 |
 | [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | ⭐ 18.2k | Dart | PiliPlus |
 | [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | ⭐ 17.8k | Kotlin | 一款可提升下载速度的下载管理器 |

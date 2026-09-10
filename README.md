@@ -2,12 +2,13 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1353-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--09-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1354-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--10-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
-> 📈 **1353** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
+> 📈 **1354** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
 ## 🔥 最近收藏
 
+- ⭐ [wechat-miniprogram/weui-miniprogram](https://github.com/wechat-miniprogram/weui-miniprogram) — 小程序WeUI组件库 `2026-09-09`
 - ⭐ [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) — MiniCPM5: SOTA on-device LLMs, small yet powerful. `2026-09-08`
 - ⭐ [almarklein/timetagger](https://github.com/almarklein/timetagger) — Tag your time, get the insight `2026-09-08`
 - ⭐ [docmost/docmost](https://github.com/docmost/docmost) — Docmost is an open-source collaborative wiki and documentati… `2026-09-08`
@@ -22,7 +23,6 @@
 - ⭐ [zellij-org/zellij](https://github.com/zellij-org/zellij) — A terminal workspace with batteries included `2026-09-03`
 - ⭐ [Kuddev/pebrel](https://github.com/Kuddev/pebrel) — AI-native, GPU-accelerated terminal emulator for Windows wit… `2026-09-03`
 - ⭐ [holtwood/wb2api](https://github.com/holtwood/wb2api) —  `2026-09-02`
-- ⭐ [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy) — Command Code API 反代代理，兼容 OpenAI 与 Anthropic 接口 | Reverse pro… `2026-09-02`
 
 ## 📑 分类导航
 
@@ -46,11 +46,11 @@
 | 🧬 生物信息 | 51 | `█░░░░░░░░░░░░░░░` (4%) | [docs/bio.md](docs/bio.md) |
 | 📚 学习资源与清单 | 225 | `███░░░░░░░░░░░░░` (17%) | [docs/learning.md](docs/learning.md) |
 | 🎯 面试资料 | 15 | `█░░░░░░░░░░░░░░░` (1%) | [docs/interview.md](docs/interview.md) |
-| 📦 其他与杂项 | 56 | `█░░░░░░░░░░░░░░░` (4%) | [docs/misc.md](docs/misc.md) |
+| 📦 其他与杂项 | 57 | `█░░░░░░░░░░░░░░░` (4%) | [docs/misc.md](docs/misc.md) |
 
 ## 📊 快速入口
 
-- 📦 [全量索引(1353)](docs/all.md) — 所有项目按 ⭐ 排序
+- 📦 [全量索引(1354)](docs/all.md) — 所有项目按 ⭐ 排序
 - 🗣️ [按语言浏览](docs/by-language.md) — 语言分布一览
 
 ## 🔄 自动同步
