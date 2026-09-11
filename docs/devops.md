@@ -29,8 +29,8 @@
 | [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) | ⭐ 134 | Dockerfile |  |
 | [shuguangnet/docker_backup_script](https://github.com/shuguangnet/docker_backup_script) | ⭐ 127 | Shell | 检测docker容器并自动备份挂载卷以及本地挂载目录 |
 | [Bioconductor/bioconductor_docker](https://github.com/Bioconductor/bioconductor_docker) | ⭐ 92 | Dockerfile | 适用于 Bioconductor 的 Docker 容器 |
-| [eniocarboni/docker-ubuntu-systemd](https://github.com/eniocarboni/docker-ubuntu-systemd) | ⭐ 35 | Dockerfile | 预装 systemd 的 Ubuntu LTS Docker 容器，适用于 Ansible 和 Molecule 测试 |
 | [robertdebock/docker-ubuntu-systemd](https://github.com/robertdebock/docker-ubuntu-systemd) | ⭐ 35 | Dockerfile | 用于测试 Ansible 角色的容器，支持使用 systemd 功能 |
+| [eniocarboni/docker-ubuntu-systemd](https://github.com/eniocarboni/docker-ubuntu-systemd) | ⭐ 34 | Dockerfile | 预装 systemd 的 Ubuntu LTS Docker 容器，适用于 Ansible 和 Molecule 测试 |
 | [spongehah/Openagent-Github-Bridge](https://github.com/spongehah/Openagent-Github-Bridge) | ⭐ 10 | Go | 用于AI修复Issue、开发规划、斜杠命令编码和PR评审、支持完整工作区控制的自托管GitHub转OpenCode桥接工具 |
 
 ---

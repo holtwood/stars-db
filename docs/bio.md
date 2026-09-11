@@ -35,7 +35,7 @@
 | [brentp/goleft](https://github.com/brentp/goleft) | ⭐ 227 | Go | goleft 是遵循 MIT 许可证分发的生物信息学工具合集，打包为单个静态二进制文件 |
 | [PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition) | ⭐ 217 | Python | Python生物信息学 cookbook 第三版 |
 | [BGI-HangzhouAI/Genos](https://github.com/BGI-HangzhouAI/Genos) | ⭐ 180 | Jupyter Notebook | 基因组基础大模型 |
-| [MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software](https://github.com/MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software) | ⭐ 160 | HTML | 用于灵活、高性能分析DNBelab C系列单细胞数据的官方流程。 |
+| [MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software](https://github.com/MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software) | ⭐ 161 | HTML | 用于灵活、高性能分析DNBelab C系列单细胞数据的官方流程。 |
 | [shubhamchandak94/Spring](https://github.com/shubhamchandak94/Spring) | ⭐ 160 | C | FASTQ 压缩 |
 | [OpenGene/repaq](https://github.com/OpenGene/repaq) | ⭐ 154 | C | 具备超高压缩比的高速无损FASTQ压缩器 |
 | [hbctraining/Intro-to-bulk-RNAseq](https://github.com/hbctraining/Intro-to-bulk-RNAseq) | ⭐ 151 | HTML | 批量RNA-seq入门 |
@@ -44,8 +44,8 @@
 | [BGI-flexlab/SOAPnuke](https://github.com/BGI-flexlab/SOAPnuke) | ⭐ 116 | C++ | 用于对FASTQ或BAM/CRAM文件进行整合质控与预处理的工具 |
 | [broadinstitute/genomics-in-the-cloud](https://github.com/broadinstitute/genomics-in-the-cloud) | ⭐ 102 | Jupyter Notebook | O'Reilly 图书的源代码及相关资料 |
 | [YeoLab/single-cell-bioinformatics🟡](https://github.com/YeoLab/single-cell-bioinformatics) | ⭐ 100 | Jupyter Notebook | 学习单细胞生物信息学方法的Notebook格式课程资料 |
+| [vertgenlab/gonomics](https://github.com/vertgenlab/gonomics) | ⭐ 91 | Go | 用 Go（golang）编写的一组基因组学软件工具集合 |
 | [Illumina/PlatinumGenomes🟡](https://github.com/Illumina/PlatinumGenomes) | ⭐ 90 |  | Platinum 基因组真集 |
-| [vertgenlab/gonomics](https://github.com/vertgenlab/gonomics) | ⭐ 90 | Go | 用 Go（golang）编写的一组基因组学软件工具集合 |
 | [grailbio/bio](https://github.com/grailbio/bio) | ⭐ 79 | Go | 生物信息学基础架构库 |
 | [godotgildor/fastq_compression_comparison](https://github.com/godotgildor/fastq_compression_comparison) | ⭐ 43 | Python | 创建用于协助对FASTQ压缩进行对比的简易Docker镜像 |
 | [microsoft/Genomics-Quickstart🟡](https://github.com/microsoft/Genomics-Quickstart) | ⭐ 25 |  |  |

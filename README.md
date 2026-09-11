@@ -2,7 +2,7 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1354-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--10-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1354-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--11-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
 > 📈 **1354** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
@@ -22,7 +22,7 @@
 - ⭐ [ShareX/ShareX](https://github.com/ShareX/ShareX) — ShareX is a free and open-source application that enables us… `2026-09-03`
 - ⭐ [zellij-org/zellij](https://github.com/zellij-org/zellij) — A terminal workspace with batteries included `2026-09-03`
 - ⭐ [Kuddev/pebrel](https://github.com/Kuddev/pebrel) — AI-native, GPU-accelerated terminal emulator for Windows wit… `2026-09-03`
-- ⭐ [holtwood/wb2api](https://github.com/holtwood/wb2api) —  `2026-09-02`
+- ⭐ [holtwood/wb2api](https://github.com/holtwood/wb2api) — Tencent CodeBuddy / WorkBuddy 非官方反代：把自有订阅包装为 OpenAI 兼容的本地 AP… `2026-09-02`
 
 ## 📑 分类导航
 

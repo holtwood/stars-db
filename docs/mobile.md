@@ -8,7 +8,7 @@
 |------|------|------|------|
 | [localsend/localsend](https://github.com/localsend/localsend) | ⭐ 90.5k | Dart | AirDrop 的开源跨平台替代工具 |
 | [CodeHubApp/CodeHub🟡](https://github.com/CodeHubApp/CodeHub) | ⭐ 22.6k | C# | CodeHub 是一款基于 Xamarin 开发的 iOS 应用程序 |
-| [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | ⭐ 18.2k | Dart | PiliPlus |
+| [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | ⭐ 18.3k | Dart | PiliPlus |
 | [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | ⭐ 17.8k | Kotlin | 一款可提升下载速度的下载管理器 |
 | [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) | ⭐ 12.7k | Kotlin | 适用于 Android 的第三方 YouTube 前端界面 |
 | [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | ⭐ 10.6k | Shell | 将 Magisk root 和 Google Apps 集成进 WSA（Windows Subsystem for Android） |
