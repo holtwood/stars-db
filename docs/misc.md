@@ -6,9 +6,9 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 244.3k | Python | The agent that grows with you |
-| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | ⭐ 91.2k | JavaScript | 酷炫的自托管监控工具 |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | ⭐ 57.6k | JavaScript | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 244.6k | Python | The agent that grows with you |
+| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | ⭐ 91.3k | JavaScript | 酷炫的自托管监控工具 |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | ⭐ 58.7k | JavaScript | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | ⭐ 45.0k | Python | 社区驱动的增强型文档管理系统：扫描、索引并归档您所有的文档 |
 | [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) | ⭐ 42.1k |  |  |
 | [ShareX/ShareX](https://github.com/ShareX/ShareX) | ⭐ 39.5k | C# | ShareX is a free and open-source application that enables users to capture or re… |
@@ -18,14 +18,14 @@
 | [henrygd/beszel](https://github.com/henrygd/beszel) | ⭐ 25.3k | Go | 轻量服务器监控，支持历史数据、Docker 统计和告警。 |
 | [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | ⭐ 24.6k | Dockerfile | 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告… |
 | [louislam/dockge](https://github.com/louislam/dockge) | ⭐ 24.3k | TypeScript | 美观易用且响应式的自托管 docker compose.yaml 面向栈管理器 |
-| [docmost/docmost](https://github.com/docmost/docmost) | ⭐ 21.6k | TypeScript | Docmost is an open-source collaborative wiki and documentation software. It is a… |
-| [p0deje/Maccy](https://github.com/p0deje/Maccy) | ⭐ 21.5k | Swift | Lightweight clipboard manager for macOS |
+| [docmost/docmost](https://github.com/docmost/docmost) | ⭐ 21.7k | TypeScript | Docmost is an open-source collaborative wiki and documentation software. It is a… |
+| [p0deje/Maccy](https://github.com/p0deje/Maccy) | ⭐ 21.6k | Swift | Lightweight clipboard manager for macOS |
 | [Caldis/Mos](https://github.com/Caldis/Mos) | ⭐ 21.4k | Swift | 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to… |
 | [alibaba/zvec](https://github.com/alibaba/zvec) | ⭐ 15.9k | C++ | A lightweight, lightning-fast, in-process vector database |
 | [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) | ⭐ 13.4k |  | :books: 极客时间电子书 |
 | [sissbruecker/linkding](https://github.com/sissbruecker/linkding) | ⭐ 11.2k | Python | 可自托管的书签管理器，设计简约、运行快速，通过Docker即可轻松部署。 |
-| [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) | ⭐ 10.8k | Jupyter Notebook | MiniCPM5: SOTA on-device LLMs, small yet powerful. |
-| [openchamber/openchamber](https://github.com/openchamber/openchamber) | ⭐ 9.7k | TypeScript | Agentic Development Environment based on OpenCode AI agent |
+| [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) | ⭐ 10.9k | Jupyter Notebook | MiniCPM5: SOTA on-device LLMs, small yet powerful. |
+| [openchamber/openchamber](https://github.com/openchamber/openchamber) | ⭐ 9.8k | TypeScript | Agentic Development Environment based on OpenCode AI agent |
 | [gopherchina/conference](https://github.com/gopherchina/conference) | ⭐ 7.6k |  |  |
 | [charmbracelet/freeze](https://github.com/charmbracelet/freeze) | ⭐ 4.8k | Go | Generate images of code and terminal output 📸 |
 | [wechat-miniprogram/weui-miniprogram](https://github.com/wechat-miniprogram/weui-miniprogram) | ⭐ 2.4k | TypeScript | 小程序WeUI组件库 |
@@ -38,14 +38,14 @@
 | [CometixSpace/CCursor](https://github.com/CometixSpace/CCursor) | ⭐ 1.1k | TypeScript | 为 Cursor IDE 自带密钥！ |
 | [J3n5en/bye](https://github.com/J3n5en/bye) | ⭐ 1.0k |  |  |
 | [nicoxiang/geektime-downloader](https://github.com/nicoxiang/geektime-downloader) | ⭐ 967 | Go | 极客时间课程下载器，支持下载极客时间专栏/视频课/每日一课/大厂实践/训练营视频 |
-| [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) | ⭐ 947 | Shell | Ally-Health 是一款智能医疗助手，它依托先进AI技术与医学专业知识革新个人健康管理。它通过自然语言交互帮助用户记录症状、管理用药、整理病历并获取多学科… |
-| [golangboy/wxocr](https://github.com/golangboy/wxocr) | ⭐ 896 |  | 无内容 |
-| [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 788 | Go | 👏 Make learning a lifelong habit. 学无止境 |
-| [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) | ⭐ 773 |  | 部分文件在 T v1.1 上可正常运行（最新支持版本为 v1.9.5/1.9.2-dev），基于 TC 开发 |
-| [OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | ⭐ 771 |  | 去AI味提示词-作家增强-SKILL |
-| [Kuddev/pebrel](https://github.com/Kuddev/pebrel) | ⭐ 724 | Rust | AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent se… |
-| [uaxe/geektime-pdfs](https://github.com/uaxe/geektime-pdfs) | ⭐ 408 |  | 👏极客时间 pdf |
-| [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy) | ⭐ 381 | JavaScript | Command Code API 反代代理，兼容 OpenAI 与 Anthropic 接口 | Reverse proxy exposing Command… |
+| [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) | ⭐ 948 | Shell | Ally-Health 是一款智能医疗助手，它依托先进AI技术与医学专业知识革新个人健康管理。它通过自然语言交互帮助用户记录症状、管理用药、整理病历并获取多学科… |
+| [golangboy/wxocr](https://github.com/golangboy/wxocr) | ⭐ 895 |  | 无内容 |
+| [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 789 | Go | 👏 Make learning a lifelong habit. 学无止境 |
+| [OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | ⭐ 775 |  | 去AI味提示词-作家增强-SKILL |
+| [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) | ⭐ 774 |  | 部分文件在 T v1.1 上可正常运行（最新支持版本为 v1.9.5/1.9.2-dev），基于 TC 开发 |
+| [Kuddev/pebrel](https://github.com/Kuddev/pebrel) | ⭐ 730 | Rust | AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent se… |
+| [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy) | ⭐ 428 | JavaScript | Command Code API 反代代理，兼容 OpenAI 与 Anthropic 接口 | Reverse proxy exposing Command… |
+| [uaxe/geektime-pdfs](https://github.com/uaxe/geektime-pdfs) | ⭐ 409 |  | 👏极客时间 pdf |
 | [soshial/xdxf_makedict](https://github.com/soshial/xdxf_makedict) | ⭐ 247 |  | XDXF 是开放免费的词典格式，以结构化语义化方式存储词条，是兼容性最强的可转换词典格式 |
 | [yyxyz/Book](https://github.com/yyxyz/Book) | ⭐ 227 |  |  |
 | [johnnynunez/Xiaomi-Notebook-Air-1Gen](https://github.com/johnnynunez/Xiaomi-Notebook-Air-1Gen) | ⭐ 178 | ASL | 小米笔记本Air 第一代 |
@@ -54,7 +54,7 @@
 | [archibate/dotfiles-opencode](https://github.com/archibate/dotfiles-opencode) | ⭐ 106 | Python | Archibate 针对 OpenCode 的个人配置 |
 | [cpulxb/WSL-Image-Clipboard-Helper](https://github.com/cpulxb/WSL-Image-Clipboard-Helper) | ⭐ 94 | Rust | 该工具用于在 Windows 中配合 WSL 环境下的 Claude Code、CodeX、OpenCode等 AI 工具，快速保存剪贴板图片并将其转换为 WS… |
 | [chaun-yi7/Clay](https://github.com/chaun-yi7/Clay) | ⭐ 41 | CSS | Clay —— 一款仿 Claude 审美的 Typora 主题，暖纸质感、明暗双色，克制耐看。 |
-| [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games) | ⭐ 32 | HTML | GPT-6 Astra 的 One Shot 游戏测试，包含原始 Prompt 与可直接运行的单文件 HTML。 |
+| [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games) | ⭐ 34 | HTML | GPT-6 Astra 的 One Shot 游戏测试，包含原始 Prompt 与可直接运行的单文件 HTML。 |
 | [Lucent-Snow/anti-default-output](https://github.com/Lucent-Snow/anti-default-output) | ⭐ 30 |  | 一项用于在创意任务中打破AI默认通用输出模式的技能。 |
 | [yyxyz/OSOperateSkills](https://github.com/yyxyz/OSOperateSkills) | ⭐ 4 |  |  |
 | [holtwood/wb2api](https://github.com/holtwood/wb2api) | ⭐ 2 | Go | Tencent CodeBuddy / WorkBuddy 非官方反代：把自有订阅包装为 OpenAI 兼容的本地 API 服务（Go） |
