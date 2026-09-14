@@ -7,7 +7,7 @@
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
 | [apache/echarts](https://github.com/apache/echarts) | ⭐ 67.3k | TypeScript | Apache ECharts 是一款功能强大、可交互的浏览器端图表与数据可视化库 |
-| [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | ⭐ 49.1k | Dart | 🎧 开源音乐流媒体应用！支持桌面端与移动端！ |
+| [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | ⭐ 49.2k | Dart | 🎧 开源音乐流媒体应用！支持桌面端与移动端！ |
 | [iina/iina](https://github.com/iina/iina) | ⭐ 46.3k | Swift | 适用于 macOS 的现代化视频播放器。 |
 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | ⭐ 39.7k | Java | 适用于 Android 的自由轻量级流媒体前端 |
 | [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | ⭐ 30.0k |  | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 |
