@@ -6,7 +6,7 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [neovim/neovim](https://github.com/neovim/neovim) | ⭐ 102.3k | Vim Script | 专注于可扩展性与易用性的 Vim 分支 |
+| [neovim/neovim](https://github.com/neovim/neovim) | ⭐ 102.4k | Vim Script | 专注于可扩展性与易用性的 Vim 分支 |
 | [coder/code-server](https://github.com/coder/code-server) | ⭐ 79.3k | TypeScript | 浏览器中的 VS Code |
 | [amix/vimrc](https://github.com/amix/vimrc) | ⭐ 31.8k | Vim Script | 终极 Vim 配置（vimrc） |
 | [wsdjeg/SpaceVim🟡](https://github.com/wsdjeg/SpaceVim) | ⭐ 20.2k | Vim Script | 模块化的 Vim 与 Neovim 配置 |

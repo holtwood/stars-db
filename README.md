@@ -2,14 +2,14 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1356-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--15-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1356-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--16-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
 > 📈 **1356** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
 ## 🔥 最近收藏
 
 - ⭐ [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) — ⌥ Coding agent with the IDE wired in `2026-09-15`
-- ⭐ [holtwood/cmdc-statusline](https://github.com/holtwood/cmdc-statusline) — Status line for Command Code (cmdc): model, gradient context… `2026-09-14`
+- ⭐ [holtwood/cmdc-statusline](https://github.com/holtwood/cmdc-statusline) — 📊 Status line for Command Code (cmdc) — model · gradient con… `2026-09-14`
 - ⭐ [wechat-miniprogram/weui-miniprogram](https://github.com/wechat-miniprogram/weui-miniprogram) — 小程序WeUI组件库 `2026-09-09`
 - ⭐ [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) — MiniCPM5: SOTA on-device LLMs, small yet powerful. `2026-09-08`
 - ⭐ [almarklein/timetagger](https://github.com/almarklein/timetagger) — Tag your time, get the insight `2026-09-08`
