@@ -1,165 +1,165 @@
 # 📦 全量索引
 
-> 全部 **1356** 个 Star 项目,按 ⭐ 排序
+> 全部 **1357** 个 Star 项目,按 ⭐ 排序
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ⭐ 547.5k | Markdown | 通过从零重写你喜爱的技术来精通编程。 |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | ⭐ 506.4k |  | 汇集各类趣味主题的超棒精选列表【注：在我处理完现有PR前，暂时关闭拉取请求提交】 |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | ⭐ 480.7k | Python | 免费API集合列表 |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ⭐ 455.5k | TypeScript | freeCodeCamp.org 的开源代码库与课程。免费学习数学、编程与计算机科学。 |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | ⭐ 396.9k | Python | :books: 免费开源编程书籍 |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 370.2k | Python | 学习如何设计大规模系统，备战系统设计面试，包含Anki闪卡。 |
-| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | ⭐ 367.3k | TypeScript | 助力开发者职业成长的交互式路线图、指南及其他教育内容。 |
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐ 361.0k |  | 一份成为软件工程师的完整计算机科学学习计划 |
-| [vinta/awesome-python](https://github.com/vinta/awesome-python) | ⭐ 320.9k | Python | 专门解答「我想用Python做X该用什么工具？」的权威工具清单 |
-| [obra/superpowers](https://github.com/obra/superpowers) | ⭐ 287.2k | Shell | 一套行之有效的智能体技能框架与软件开发方法论。 |
-| [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ⭐ 283.5k | Python | 精选基于项目的教程列表 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | ⭐ 263.0k | Shell | 真正工程师必备技能，直接来自我的.agents目录。 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⭐ 259.4k | JavaScript | 这是智能代理性能优化系统，为 Claude Code、Codex、Opencode、Cursor 及更多 AI 编码工具提供技能、本能、记忆、安全能力与研究优先… |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | ⭐ 547.8k | Markdown | 通过从零重写你喜爱的技术来精通编程。 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | ⭐ 506.8k |  | 汇集各类趣味主题的超棒精选列表【注：在我处理完现有PR前，暂时关闭拉取请求提交】 |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | ⭐ 481.0k | Python | 免费API集合列表 |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | ⭐ 455.6k | TypeScript | freeCodeCamp.org 的开源代码库与课程。免费学习数学、编程与计算机科学。 |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | ⭐ 397.0k | Python | :books: 免费开源编程书籍 |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 370.4k | Python | 学习如何设计大规模系统，备战系统设计面试，包含Anki闪卡。 |
+| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | ⭐ 367.5k | TypeScript | 助力开发者职业成长的交互式路线图、指南及其他教育内容。 |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐ 361.1k |  | 一份成为软件工程师的完整计算机科学学习计划 |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | ⭐ 321.1k | Python | 专门解答「我想用Python做X该用什么工具？」的权威工具清单 |
+| [obra/superpowers](https://github.com/obra/superpowers) | ⭐ 287.7k | Shell | 一套行之有效的智能体技能框架与软件开发方法论。 |
+| [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | ⭐ 283.6k | Python | 精选基于项目的教程列表 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | ⭐ 263.7k | Shell | 真正工程师必备技能，直接来自我的.agents目录。 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⭐ 260.4k | JavaScript | 这是智能代理性能优化系统，为 Claude Code、Codex、Opencode、Cursor 及更多 AI 编码工具提供技能、本能、记忆、安全能力与研究优先… |
 | [react/react](https://github.com/react/react) | ⭐ 250.5k | JavaScript | 用于构建网页和原生用户界面的库。 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 245.9k | Python | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ⭐ 225.6k | TypeScript | DeepSeek Harness：万物皆插件。 |
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ⭐ 224.6k | Python | 用Python实现的所有算法 |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐ 213.2k |  | 基于Andrej Karpathy对大语言模型编码陷阱的观察，通过单个CLAUDE.md文件优化Claude Code的行为。 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 246.2k | Python | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ⭐ 226.8k | TypeScript | DeepSeek Harness：万物皆插件。 |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ⭐ 224.7k | Python | 用Python实现的所有算法 |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐ 213.5k |  | 基于Andrej Karpathy对大语言模型编码陷阱的观察，通过单个CLAUDE.md文件优化Claude Code的行为。 |
 | [vuejs/vue](https://github.com/vuejs/vue) | ⭐ 212.8k | TypeScript | 这是 Vue 2 的仓库。Vue 3 请访问 https://github.com/vuejs/core |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | ⭐ 207.7k | TypeScript | 开源编码智能体 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | ⭐ 199.6k | Markdown | 为所有人提供免费域名注册与实用DNS学习资源 |
-| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐ 190.8k | Batchfile | 开源Windows和Office激活工具，支持HWID、Ohook、TSforge和在线KMS激活方式，同时具备高级故障排查功能 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | ⭐ 208.0k | TypeScript | 开源编码智能体 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | ⭐ 199.7k | Markdown | 为所有人提供免费域名注册与实用DNS学习资源 |
+| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐ 190.9k | Batchfile | 开源Windows和Office激活工具，支持HWID、Ohook、TSforge和在线KMS激活方式，同时具备高级故障排查功能 |
 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | ⭐ 187.4k | Python | AutoGPT 的愿景是让所有人都能便捷使用并基于它开发人工智能。我们的使命是提供工具，让你专注于真正重要的事。 |
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | ⭐ 186.5k | Jupyter Notebook | Python - 100天从新手到大师 |
 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | ⭐ 186.1k |  | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | ⭐ 184.5k | Python | 用于将文件和办公文档转换为 Markdown 的 Python 工具 |
-| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 181.1k | Go | 快速上手 Kimi-K2.6、GLM-5.2、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等各类大模型。 |
-| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | ⭐ 176.8k | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source proj… |
-| [anthropics/skills](https://github.com/anthropics/skills) | ⭐ 176.5k | Python | Agent 技能公开仓库 |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | ⭐ 184.9k | Python | 用于将文件和办公文档转换为 Markdown 的 Python 工具 |
+| [ollama/ollama](https://github.com/ollama/ollama) | ⭐ 181.2k | Go | 快速上手 Kimi-K2.6、GLM-5.2、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等各类大模型。 |
+| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | ⭐ 177.0k | Python | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source proj… |
+| [anthropics/skills](https://github.com/anthropics/skills) | ⭐ 176.7k | Python | Agent 技能公开仓库 |
 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | ⭐ 162.4k |  | 掌握命令行，只需一页 |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | ⭐ 152.2k | Python | 易用的 AI 界面（支持 Ollama、OpenAI API 等） |
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 146.4k | Python | 智能体工程开发平台 |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | ⭐ 145.2k | TypeScript | Claude Code 是一款可在终端内运行的智能编码工具，它能理解你的代码库，通过自然语言命令帮你完成例行任务、讲解复杂代码、处理 git 工作流，让你的编码… |
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ⭐ 144.7k | Rust | 基于 Tauri 构建的现代化图形界面客户端，支持在 Windows、macOS 和 Linux 运行，提供定制化代理体验 |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | ⭐ 152.3k | Python | 易用的 AI 界面（支持 Ollama、OpenAI API 等） |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐ 146.5k | Python | 智能体工程开发平台 |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | ⭐ 145.6k | TypeScript | Claude Code 是一款可在终端内运行的智能编码工具，它能理解你的代码库，通过自然语言命令帮你完成例行任务、讲解复杂代码、处理 git 工作流，让你的编码… |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ⭐ 145.0k | Rust | 基于 Tauri 构建的现代化图形界面客户端，支持在 Windows、macOS 和 Linux 运行，提供定制化代理体验 |
 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | ⭐ 143.7k |  | 包含FULL Augment Code、Claude Code、Cluely、CodeBuddy、Comet、Cursor、Devin AI、Junie、Kir… |
-| [golang/go](https://github.com/golang/go) | ⭐ 138.8k | Go | Go 编程语言 |
-| [github/spec-kit](https://github.com/github/spec-kit) | ⭐ 137.1k | Python | 用于帮助你上手规范驱动开发的工具套件 |
+| [golang/go](https://github.com/golang/go) | ⭐ 138.9k | Go | Go 编程语言 |
+| [github/spec-kit](https://github.com/github/spec-kit) | ⭐ 137.4k | Python | 用于帮助你上手规范驱动开发的工具套件 |
 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | ⭐ 135.9k | Markdown | 破解LeetCode，不仅要知其然，更要知其所以然。 |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | ⭐ 133.1k | Rust | 适用于 Claude Code、Codex、OpenCode、OpenClaw、Grok Build 与 Hermes Agent 的跨平台桌面一站式助手。唯一… |
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ⭐ 128.0k | Python | 一款可为多平台构建专业UI/UX提供设计智能支持的AI技能。 |
-| [openai/codex](https://github.com/openai/codex) | ⭐ 124.5k | Rust | 可在终端运行的轻量级编码智能体 |
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | ⭐ 119.8k | Jupyter Notebook | 21节课，从零开始构建生成式AI项目 |
-| [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | ⭐ 118.9k |  | :books: 免费的计算机编程类中文书籍，欢迎投稿 |
-| [2dust/v2rayN](https://github.com/2dust/v2rayN) | ⭐ 116.2k | C# | 支持Xray、sing-box等的多平台GUI客户端，兼容Windows、Linux与macOS |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | ⭐ 133.2k | Rust | 适用于 Claude Code、Codex、OpenCode、OpenClaw、Grok Build 与 Hermes Agent 的跨平台桌面一站式助手。唯一… |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ⭐ 128.2k | Python | 一款可为多平台构建专业UI/UX提供设计智能支持的AI技能。 |
+| [openai/codex](https://github.com/openai/codex) | ⭐ 124.8k | Rust | 可在终端运行的轻量级编码智能体 |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | ⭐ 119.9k | Jupyter Notebook | 21节课，从零开始构建生成式AI项目 |
+| [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | ⭐ 119.0k |  | :books: 免费的计算机编程类中文书籍，欢迎投稿 |
+| [2dust/v2rayN](https://github.com/2dust/v2rayN) | ⭐ 116.3k | C# | 支持Xray、sing-box等的多平台GUI客户端，兼容Windows、Linux与macOS |
 | [openai/whisper](https://github.com/openai/whisper) | ⭐ 109.2k | Python | 基于大规模弱监督的稳健语音识别 |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | ⭐ 107.0k | TypeScript | 一款可将 Gemini 的能力直接引入终端的开源 AI 智能体 |
-| [earendil-works/pi](https://github.com/earendil-works/pi) | ⭐ 105.8k | TypeScript | AI 智能体工具包：统一大语言模型API、智能体循环、终端用户界面、编程智能体命令行工具 |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | ⭐ 105.8k | Go | 🪨 能少用token干嘛用那么多——这是Claude Code技能，模仿原始人说话帮你砍掉65%的token用量 |
-| [ruanyf/weekly](https://github.com/ruanyf/weekly) | ⭐ 102.6k |  | 科技爱好者周刊，每周五发布 |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | ⭐ 106.4k | TypeScript | AI 智能体工具包：统一大语言模型API、智能体循环、终端用户界面、编程智能体命令行工具 |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | ⭐ 106.1k | Go | 🪨 能少用token干嘛用那么多——这是Claude Code技能，模仿原始人说话帮你砍掉65%的token用量 |
+| [ruanyf/weekly](https://github.com/ruanyf/weekly) | ⭐ 102.7k |  | 科技爱好者周刊，每周五发布 |
 | [neovim/neovim](https://github.com/neovim/neovim) | ⭐ 102.4k | Vim Script | 专注于可扩展性与易用性的 Vim 分支 |
 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | ⭐ 102.4k | Python | FastAPI 框架，高性能，易学习，编码快，可用于生产环境 |
 | [nvbn/thefuck](https://github.com/nvbn/thefuck) | ⭐ 97.9k | Python | 一款可以帮你修正上一条控制台命令的好用工具 |
 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | ⭐ 96.7k | Python | 仅需单张图片即可实现实时换脸与一键视频深度伪造 |
 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ⭐ 95.1k |  | MCP 服务器集合 |
 | [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ⭐ 92.0k |  |  |
-| [localsend/localsend](https://github.com/localsend/localsend) | ⭐ 91.7k | Dart | AirDrop 的开源跨平台替代工具 |
+| [localsend/localsend](https://github.com/localsend/localsend) | ⭐ 91.8k | Dart | AirDrop 的开源跨平台替代工具 |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | ⭐ 91.4k | JavaScript | 酷炫的自托管监控工具 |
 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | ⭐ 89.2k | Go | Gin 是一个用 Go 编写的高性能 HTTP 网络框架，它提供类似 Martini 的 API，并且借助 httprouter 实现了大幅提升的性能——最高快… |
 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ⭐ 88.8k | TypeScript | ✨ 轻量快捷的AI助手，支持：网页端 | iOS | MacOS | Android | Linux | Windows |
 | [macrozheng/mall](https://github.com/macrozheng/mall) | ⭐ 84.8k | Java | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门… |
-| [DopplerHQ/awesome-interview-questions🟡](https://github.com/DopplerHQ/awesome-interview-questions) | ⭐ 84.5k |  | :octocat: 精心整理的面试题清单合集，欢迎贡献！ :mortar_board: |
+| [DopplerHQ/awesome-interview-questions🟡](https://github.com/DopplerHQ/awesome-interview-questions) | ⭐ 84.6k |  | :octocat: 精心整理的面试题清单合集，欢迎贡献！ :mortar_board: |
 | [junegunn/fzf](https://github.com/junegunn/fzf) | ⭐ 83.0k | Go | :cherry_blossom: 命令行模糊查找器 |
-| [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | ⭐ 82.9k |  | 带你入门大语言模型（LLM）的课程，包含学习路线图与 Colab 笔记本。 |
+| [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | ⭐ 83.0k |  | 带你入门大语言模型（LLM）的课程，包含学习路线图与 Colab 笔记本。 |
 | [vitejs/vite](https://github.com/vitejs/vite) | ⭐ 82.8k | TypeScript | 下一代前端工具链，极速体验！ |
-| [lobehub/lobehub](https://github.com/lobehub/lobehub) | ⭐ 82.5k | TypeScript | 🤯 LobeHub 是你的智能体总运营官，可通过招聘、排程与全团队报表，将你的 AI 智能体组建成 7×24 不间断运作的团队。 |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ⭐ 82.5k | Python | 这是一个可完成调研、编码与创作的开源长周期SuperAgent框架。借助沙箱、记忆、工具、技能、子代理与消息网关，它能处理耗时数分钟到数小时的不同层级任务。 |
-| [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | ⭐ 80.7k | Python | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 |
-| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | ⭐ 80.6k | Rust | CLI 代理，可将常用开发命令的 LLM 令牌消耗降低 60-90%，单Rust二进制文件，零依赖 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ⭐ 82.6k | Python | 这是一个可完成调研、编码与创作的开源长周期SuperAgent框架。借助沙箱、记忆、工具、技能、子代理与消息网关，它能处理耗时数分钟到数小时的不同层级任务。 |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | ⭐ 80.8k | Rust | CLI 代理，可将常用开发命令的 LLM 令牌消耗降低 60-90%，单Rust二进制文件，零依赖 |
+| [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | ⭐ 80.8k | Python | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 |
 | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | ⭐ 80.3k | TypeScript | 开源API开发生态系统 • https://hoppscotch.io • 支持离线、本地部署与云端 • 覆盖Web、桌面端与CLI • Postman、Ins… |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | ⭐ 79.4k | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 | [coder/code-server](https://github.com/coder/code-server) | ⭐ 79.3k | TypeScript | 浏览器中的 VS Code |
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | ⭐ 79.2k | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 | [doocs/advanced-java](https://github.com/doocs/advanced-java) | ⭐ 79.1k | Java | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers |… |
-| [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | ⭐ 79.0k | Python | 上传截图，即可将其转换为整洁的代码（HTML/Tailwind/React/Vue） |
+| [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | ⭐ 79.1k | Python | 上传截图，即可将其转换为整洁的代码（HTML/Tailwind/React/Vue） |
 | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | ⭐ 78.4k | MDX | 用于提示工程、上下文工程、RAG 与 AI 智能体的指南、论文、教程、笔记与资源汇总 |
 | [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | ⭐ 76.7k | Java | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解Lee… |
 | [redis/redis](https://github.com/redis/redis) | ⭐ 76.4k | C | 对于构建实时数据驱动应用的开发者而言，Redis是首选的、性能最快、功能最丰富的缓存、数据结构服务器，以及文档与向量查询引擎。 |
 | [ocornut/imgui](https://github.com/ocornut/imgui) | ⭐ 76.2k | C++ | Dear ImGui：适用于C++的低依赖、无冗余图形用户界面 |
 | [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | ⭐ 76.0k | Jupyter Notebook | OpenAI API 使用示例与指南 |
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | ⭐ 75.8k | Go | 快速可扩展的多平台 HTTP/1-2-3 Web 服务器，自带自动 HTTPS |
-| [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | ⭐ 75.6k | HTML | 计算机自学指南 |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ⭐ 75.1k | Python | 精选的优质Claude技能、资源与工具列表，用于定制Claude AI工作流 |
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | ⭐ 75.9k | Go | 快速可扩展的多平台 HTTP/1-2-3 Web 服务器，自带自动 HTTPS |
+| [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | ⭐ 75.7k | HTML | 计算机自学指南 |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ⭐ 75.2k | Python | 精选的优质Claude技能、资源与工具列表，用于定制Claude AI工作流 |
 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | ⭐ 73.9k | Python | 「Python编程30天挑战是一份分步骤的Python语言学习指南，总学习时长可能超过100天，你可以按照自己的节奏学习。这些视频也可能对你有帮助：https:… |
 | [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) | ⭐ 73.5k |  | 精选 Vue.js 相关优质资源列表 |
 | [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) | ⭐ 73.4k | Jupyter Notebook | 潜在文本生成图像扩散模型 |
 | [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) | ⭐ 73.3k |  | 精选的优质 C++（及 C）框架、库、资源与趣味项目列表，灵感源自各类「awesome」清单项目。 |
-| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | ⭐ 72.6k | TypeScript | 不止有 Notion 和 Miro。AFFiNE（发音[ə‘fain]）是将规划、整理与创作整合为一体的下一代知识库。隐私优先、开源可定制，开箱即用。 |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | ⭐ 72.7k | TypeScript | 不止有 Notion 和 Miro。AFFiNE（发音[ə‘fain]）是将规划、整理与创作整合为一体的下一代知识库。隐私优先、开源可定制，开箱即用。 |
 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | ⭐ 72.0k | C++ | Protocol Buffers — Google 的数据交换格式 |
 | [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) | ⭐ 70.4k | Python | 🌟 多智能体框架：首个AI软件公司，向着自然语言编程前进 |
+| [stablyai/orca](https://github.com/stablyai/orca) | ⭐ 70.4k | TypeScript | Orca is the ADE for working with a fleet of parallel agents. Run any coding agen… |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | ⭐ 69.1k | TypeScript | omo/lazycodex：面向token优化者的编码智能体；唯一可驾驭复杂代码库的智能体框架。为你的Codex、为你的OpenCode打造 |
-| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | ⭐ 68.4k | TypeScript | 适用于 AI 编码助手的规范驱动开发（SDD）。 |
-| [cline/cline](https://github.com/cline/cline) | ⭐ 68.1k | TypeScript | 可作为 SDK、IDE 扩展或 CLI 助手使用的自主编码智能体 |
-| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | ⭐ 67.7k | Rust | 用 Rust 编写的非官方兼容 Bitwarden 的服务端，曾用名 bitwarden_rs |
-| [tw93/Mole](https://github.com/tw93/Mole) | ⭐ 67.4k | Shell | 🐹 清理、卸载、分析、优化与监控你的 Mac。免费开源命令行工具，另有原生 Mac 应用。 |
+| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | ⭐ 68.6k | TypeScript | 适用于 AI 编码助手的规范驱动开发（SDD）。 |
+| [cline/cline](https://github.com/cline/cline) | ⭐ 68.4k | TypeScript | 可作为 SDK、IDE 扩展或 CLI 助手使用的自主编码智能体 |
+| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | ⭐ 67.9k | Rust | 用 Rust 编写的非官方兼容 Bitwarden 的服务端，曾用名 bitwarden_rs |
+| [tw93/Mole](https://github.com/tw93/Mole) | ⭐ 67.5k | Shell | 🐹 清理、卸载、分析、优化与监控你的 Mac。免费开源命令行工具，另有原生 Mac 应用。 |
 | [apache/echarts](https://github.com/apache/echarts) | ⭐ 67.3k | TypeScript | Apache ECharts 是一款功能强大、可交互的浏览器端图表与数据可视化库 |
 | [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | ⭐ 66.7k | Python | 官方 gpt4free 仓库 | 汇集多种强大语言模型 | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3 |
 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | ⭐ 66.2k | C++ | 真正独立的网页浏览器 |
-| [warpdotdev/warp](https://github.com/warpdotdev/warp) | ⭐ 65.0k | Rust | Warp 是源自终端的智能体开发环境。 |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | ⭐ 65.1k | Rust | Warp 是源自终端的智能体开发环境。 |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | ⭐ 65.0k | JavaScript | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | ⭐ 64.6k | CSS | 标志性字体聚合器、合集与补丁工具，拥有3600+图标、50+已补丁字体：Hack、Source Code Pro等。字符合集包括：Font Awesome、Ma… |
 | [rust-lang/rustlings](https://github.com/rust-lang/rustlings) | ⭐ 64.2k | Rust | 帮助你习惯读写Rust代码的小练习 |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | ⭐ 63.8k | JavaScript | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
 | [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | ⭐ 63.7k | Markdown | 面向控制台命令的协作式速查表 📚 |
 | [usememos/memos](https://github.com/usememos/memos) | ⭐ 63.1k | Go | 开源自托管笔记工具，专为快速记笔记打造。原生支持Markdown，轻量省心，完全归你所有。 |
-| [byoungd/up](https://github.com/byoungd/up) | ⭐ 62.8k | JavaScript | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学… |
+| [byoungd/up](https://github.com/byoungd/up) | ⭐ 62.9k | JavaScript | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学… |
 | [2dust/v2rayNG](https://github.com/2dust/v2rayNG) | ⭐ 62.7k | Kotlin | 适用于 Android 的 V2Ray 客户端，支持 Xray 核心与 v2fly 核心 |
 | [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) | ⭐ 62.5k | Shell | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，G… |
 | [upstash/context7](https://github.com/upstash/context7) | ⭐ 62.1k | TypeScript | Context7 平台——为大语言模型和 AI 代码编辑器提供最新的代码文档 |
+| [tw93/Pake](https://github.com/tw93/Pake) | ⭐ 61.5k | Rust | 🤱🏻 一条命令即可把任意网页打包为桌面应用。 |
 | [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | ⭐ 61.5k |  | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
-| [tw93/Pake](https://github.com/tw93/Pake) | ⭐ 61.4k | Rust | 🤱🏻 一条命令即可把任意网页打包为桌面应用。 |
 | [minio/minio🟡](https://github.com/minio/minio) | ⭐ 61.4k | Go | MinIO 是一款高性能、兼容 S3 的对象存储，以 GNU AGPLv3 许可证开源。 |
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | ⭐ 61.2k | Python | 🧠 仅需2小时从零训练一个64M参数的LLM！ |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | ⭐ 61.4k | Python | 🧠 仅需2小时从零训练一个64M参数的LLM！ |
 | [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | ⭐ 61.2k | Zig | 👻 Ghostty 是一款快速、功能丰富的跨平台终端模拟器，采用平台原生 UI 与 GPU 加速。 |
-| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | ⭐ 61.0k | Go | 单文件开源实时后端 |
+| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | ⭐ 61.1k | Go | 单文件开源实时后端 |
 | [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) | ⭐ 60.9k |  | 后端架构师技术图谱 |
 | [sharkdp/bat](https://github.com/sharkdp/bat) | ⭐ 60.5k | Rust | 带翅膀的 cat(1) 克隆版 |
-| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 58.6k | Python | 用于编排角色扮演型自主AI智能体的框架。CrewAI 通过培养协作智能，赋能智能体无缝协作，处理复杂任务。 |
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐ 58.7k | Python | 用于编排角色扮演型自主AI智能体的框架。CrewAI 通过培养协作智能，赋能智能体无缝协作，处理复杂任务。 |
 | [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) | ⭐ 58.3k | Python | 没有堡垒，唯有纯粹的开阔之地。OpenManus，即将到来。 |
 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | ⭐ 58.1k | Python | 花一百美元能买到的顶级ChatGPT体验。 |
 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | ⭐ 58.0k | Go | 品茶般顺畅的Git体验！无痛一键自托管一体化软件开发服务，涵盖Git托管、代码评审、团队协作、软件包注册表与CI/CD |
 | [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | ⭐ 57.6k | JavaScript | 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余… |
-| [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) | ⭐ 56.7k | Python | 适用于 Python 和命令行的全球最简单人脸识别 API |
-| [typst/typst](https://github.com/typst/typst) | ⭐ 56.0k | Rust | 基于标记、功能强大且易于学习的排版系统 |
+| [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) | ⭐ 56.8k | Python | 适用于 Python 和命令行的全球最简单人脸识别 API |
+| [typst/typst](https://github.com/typst/typst) | ⭐ 56.1k | Rust | 基于标记、功能强大且易于学习的排版系统 |
 | [azl397985856/leetcode](https://github.com/azl397985856/leetcode) | ⭐ 55.7k | JavaScript | LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的lee… |
-| [aaif-goose/goose](https://github.com/aaif-goose/goose) | ⭐ 54.3k | Rust | 开源可扩展AI agent，不止提供代码建议——可搭配任意LLM完成安装、执行、编辑与测试 |
-| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ⭐ 54.1k | Python | 这里精选了适用于 Claude Code 的优质资源，Claude Code 是 Anthropic PBC 开发的公认最强编码助手。这个集合展示了顶尖技能、双… |
+| [aaif-goose/goose](https://github.com/aaif-goose/goose) | ⭐ 54.4k | Rust | 开源可扩展AI agent，不止提供代码建议——可搭配任意LLM完成安装、执行、编辑与测试 |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ⭐ 54.2k | Python | 这里精选了适用于 Claude Code 的优质资源，Claude Code 是 Anthropic PBC 开发的公认最强编码助手。这个集合展示了顶尖技能、双… |
 | [ElemeFE/element](https://github.com/ElemeFE/element) | ⭐ 54.0k | Vue | 适用于Web的Vue.js 2.0 UI组件库 |
 | [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | ⭐ 53.1k | Python | 敏捷AI驱动开发的突破性方法 |
 | [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) | ⭐ 52.9k | Shell | 在 Docker 中运行 macOS 虚拟机！在 Docker 中运行接近原生性能的 OSX-KVM！支持 X11 转发！适用于 OS X 安全研究的 CI/C… |
-| [chen08209/FlClash](https://github.com/chen08209/FlClash) | ⭐ 52.3k | Dart | 基于 ClashMeta 的多平台代理客户端，简洁易用，开源无广告。 |
+| [chen08209/FlClash](https://github.com/chen08209/FlClash) | ⭐ 52.4k | Dart | 基于 ClashMeta 的多平台代理客户端，简洁易用，开源无广告。 |
 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | ⭐ 52.1k | TypeScript | 面向编程代理的 Chrome DevTools |
 | [charlax/professional-programming](https://github.com/charlax/professional-programming) | ⭐ 51.5k | Python | 供求知的软件工程师使用的学习资源合集 |
 | [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | ⭐ 49.2k | Dart | 🎧 开源音乐流媒体应用！支持桌面端与移动端！ |
 | [Aider-AI/aider](https://github.com/Aider-AI/aider) | ⭐ 49.0k | Python | aider 是你终端里的 AI 结对编程工具 |
 | [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | ⭐ 48.7k | JavaScript | 烟花样式标识：可根据代码生成算法可视化的交互式在线平台 |
-| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | ⭐ 48.2k | Go | 一个用于聚合与分发的统一AI模型 hub，支持将各类大语言模型转换为兼容OpenAI、Claude或Gemini的格式，是供个人与企业进行模型管理的集中网关。 |
+| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | ⭐ 48.3k | Go | 一个用于聚合与分发的统一AI模型 hub，支持将各类大语言模型转换为兼容OpenAI、Claude或Gemini的格式，是供个人与企业进行模型管理的集中网关。 |
 | [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | ⭐ 47.9k |  | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects o… |
 | [nvm-windows/nvm](https://github.com/nvm-windows/nvm) | ⭐ 47.7k | Inno Setup | 适用于 Windows 的 Node.js 版本管理器。 |
 | [gedoor/legado](https://github.com/gedoor/legado) | ⭐ 47.1k | Kotlin | Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定… |
 | [9001/copyparty](https://github.com/9001/copyparty) | ⭐ 46.7k | Python | 一体化便携文件服务器，支持断点续传加速、去重、WebDAV、SFTP、FTP、TFTP、零配置、媒体索引、缩略图生成，所有功能集成于单个文件 |
 | [iina/iina](https://github.com/iina/iina) | ⭐ 46.4k | Swift | 适用于 macOS 的现代化视频播放器。 |
-| [docker/awesome-compose](https://github.com/docker/awesome-compose) | ⭐ 46.3k | HTML | 精选 Docker Compose 示例 |
+| [docker/awesome-compose](https://github.com/docker/awesome-compose) | ⭐ 46.4k | HTML | 精选 Docker Compose 示例 |
+| [MetaCubeX/ClashMetaForAndroid🔀](https://github.com/MetaCubeX/ClashMetaForAndroid) | ⭐ 46.3k | Kotlin | 适用于 Android 的基于规则的隧道工具 |
 | [helix-editor/helix](https://github.com/helix-editor/helix) | ⭐ 46.2k | Rust | 后现代模态文本编辑器。 |
-| [MetaCubeX/ClashMetaForAndroid🔀](https://github.com/MetaCubeX/ClashMetaForAndroid) | ⭐ 46.2k | Kotlin | 适用于 Android 的基于规则的隧道工具 |
 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | ⭐ 46.2k | TypeScript | 🧡 一切皆可RSS |
 | [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) | ⭐ 46.1k |  | 学习如何设计大规模系统，备战系统设计面试 |
-| [files-community/Files](https://github.com/files-community/Files) | ⭐ 45.4k | C# | 一款可帮助用户整理文件与文件夹的现代化文件管理器 |
+| [files-community/Files](https://github.com/files-community/Files) | ⭐ 45.5k | C# | 一款可帮助用户整理文件与文件夹的现代化文件管理器 |
 | [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | ⭐ 45.3k | CSS | C++ Core Guidelines 是一套经过实践验证的 C++ 编码指南、规则与最佳实践合集。 |
 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | ⭐ 45.2k | Python | 社区驱动的增强型文档管理系统：扫描、索引并归档您所有的文档 |
 | [spf13/cobra](https://github.com/spf13/cobra) | ⭐ 44.6k | Go | 现代 Go CLI 交互的命令框架 |
+| [sharkdp/fd](https://github.com/sharkdp/fd) | ⭐ 44.5k | Rust | find 的简单、快速、易用替代工具 |
 | [janhq/jan](https://github.com/janhq/jan) | ⭐ 44.5k | TypeScript | Jan 是可 100% 在你电脑本地离线运行的开源 ChatGPT 替代方案。 |
-| [sharkdp/fd](https://github.com/sharkdp/fd) | ⭐ 44.4k | Rust | find 的简单、快速、易用替代工具 |
 | [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | ⭐ 44.1k | Jupyter Notebook | 此仓库汇集了所有你学习数据工程会用到的资源链接 |
 | [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | ⭐ 43.9k | Go | 一本介绍如何用Go构建Web的Go语言电子书 |
 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | ⭐ 43.5k | TypeScript | 🌐 Internet Computer！免费开源，可自行托管。 |
 | [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) | ⭐ 43.5k | C++ | C++那些事 |
 | [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) | ⭐ 42.1k |  |  |
-| [exelban/stats](https://github.com/exelban/stats) | ⭐ 41.8k | Swift | 常驻菜单栏的 macOS 系统监视器 |
+| [exelban/stats](https://github.com/exelban/stats) | ⭐ 41.9k | Swift | 常驻菜单栏的 macOS 系统监视器 |
 | [chubin/cheat.sh](https://github.com/chubin/cheat.sh) | ⭐ 41.7k | Python | 你唯一需要的 cheatsheat |
 | [yarnpkg/yarn](https://github.com/yarnpkg/yarn) | ⭐ 41.5k | JavaScript | 1.x 分支已停止更新，新功能和错误修复现在都在 https://github.com/yarnpkg/berry 开发 |
 | [facebookresearch/faiss](https://github.com/facebookresearch/faiss) | ⭐ 40.9k | C++ | 用于高效稠密向量相似度搜索与聚类的库 |
@@ -167,19 +167,19 @@
 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | ⭐ 40.3k | C++ | 1位大语言模型的官方推理框架 |
 | [photoprism/photoprism](https://github.com/photoprism/photoprism) | ⭐ 40.2k | Go | AI驱动的照片应用 |
 | [2noise/ChatTTS](https://github.com/2noise/ChatTTS) | ⭐ 39.8k | Python | 面向日常对话的生成式语音模型 |
-| [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | ⭐ 39.7k | Java | 适用于 Android 的自由轻量级流媒体前端 |
 | [wshobson/agents](https://github.com/wshobson/agents) | ⭐ 39.7k | Python | 适用于 Claude Code、Codex、Cursor、OpenCode、GitHub Copilot 和 Google Antigravity 的多线束智能… |
+| [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | ⭐ 39.7k | Java | 适用于 Android 的自由轻量级流媒体前端 |
 | [ShareX/ShareX](https://github.com/ShareX/ShareX) | ⭐ 39.6k | C# | ShareX is a free and open-source application that enables users to capture or re… |
 | [google/googletest](https://github.com/google/googletest) | ⭐ 39.5k | C++ | GoogleTest —— Google 开发的测试与 Mock 框架 |
 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | ⭐ 39.2k | TypeScript | 面向Teams的Claude Code多智能体编排工具 |
-| [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | ⭐ 39.1k |  | 将DeepSeek API集成到常用软件中 |
+| [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | ⭐ 39.2k |  | 将DeepSeek API集成到常用软件中 |
 | [lapce/lapce](https://github.com/lapce/lapce) | ⭐ 38.8k | Rust | 用Rust编写的极速高性能代码编辑器 |
 | [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | ⭐ 38.8k | C# | :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） |
 | [huihut/interview](https://github.com/huihut/interview) | ⭐ 38.2k | C++ | 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository… |
 | [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) | ⭐ 37.9k | TypeScript | 使用 Trilium Notes 构建你的个人知识库 |
 | [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) | ⭐ 37.5k | TeX | 《深度学习》一书中文译本 |
 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | ⭐ 37.3k | TypeScript | 为每个AI代理提供统一本地控制平面：跨模型路由、融合新能力、编排工具，全程完全自主掌控。 |
-| [searxng/searxng](https://github.com/searxng/searxng) | ⭐ 37.2k | Python | SearXNG 是一款免费的互联网元搜索引擎，可聚合来自多种搜索服务与数据库的搜索结果。它不会追踪用户，也不会为用户建立画像。 |
+| [searxng/searxng](https://github.com/searxng/searxng) | ⭐ 37.3k | Python | SearXNG 是一款免费的互联网元搜索引擎，可聚合来自多种搜索服务与数据库的搜索结果。它不会追踪用户，也不会为用户建立画像。 |
 | [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | ⭐ 37.0k | Python | [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 A… |
 | [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | ⭐ 36.9k | JavaScript | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、C… |
 | [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) | ⭐ 36.9k | Markdown | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux |
@@ -187,7 +187,7 @@
 | [open-guides/og-aws](https://github.com/open-guides/og-aws) | ⭐ 36.5k | Shell | 📙 Amazon Web Services 实用指南 |
 | [jax-ml/jax](https://github.com/jax-ml/jax) | ⭐ 36.3k | Python | 针对Python+NumPy程序的可组合转换：支持自动微分、向量化、GPU/TPU即时编译等功能 |
 | [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) | ⭐ 36.1k | Java | 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹… |
-| [sgl-project/sglang](https://github.com/sgl-project/sglang) | ⭐ 36.0k | Python | SGLang 是面向大语言模型和多模态模型的高性能服务框架。 |
+| [sgl-project/sglang](https://github.com/sgl-project/sglang) | ⭐ 36.1k | Python | SGLang 是面向大语言模型和多模态模型的高性能服务框架。 |
 | [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | ⭐ 35.9k | TypeScript | 这是集成了AI能力与draw.io图表的next.js网页应用，支持你通过自然语言指令和AI辅助可视化来创建、修改与优化图表。 |
 | [zellij-org/zellij](https://github.com/zellij-org/zellij) | ⭐ 35.4k | Rust | A terminal workspace with batteries included |
 | [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | ⭐ 35.1k |  | 程序员延寿指南 | A programmer's guide to live longer |
@@ -195,31 +195,31 @@
 | [aristocratos/btop](https://github.com/aristocratos/btop) | ⭐ 34.6k | C++ | 资源监控器 |
 | [xitu/gold-miner](https://github.com/xitu/gold-miner) | ⭐ 34.3k |  | 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台： |
 | [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | ⭐ 33.9k | C | 本项目旨在优化 Windows 平台的工作环境 |
-| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | ⭐ 33.8k | Jupyter Notebook | 📚 从零开始构建大模型 |
+| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | ⭐ 33.9k | Jupyter Notebook | 📚 从零开始构建大模型 |
 | [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | ⭐ 33.8k | Go | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode… |
 | [microsoft/WSL](https://github.com/microsoft/WSL) | ⭐ 33.7k | C++ | 适用于 Linux 的 Windows 子系统 |
 | [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) | ⭐ 33.7k |  | 解锁你的 Mac 显示器！支持灵活的 HiDPI 缩放、XDR/HDR 额外亮度、虚拟屏幕、DDC 控制、深度调光、画中画/投屏、EDID 覆盖等更多功能！ |
-| [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) | ⭐ 32.9k | JavaScript | GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese) |
+| [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) | ⭐ 33.0k | JavaScript | GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese) |
 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | ⭐ 32.9k | TypeScript | 适配 OpenClaw、Hermes、Claude Code、Codex、OpenCode 等二十余种 CLI 智能代理的开源全天候协作应用，支持自定义助手、组… |
 | [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | ⭐ 32.9k | Python | 从零开始学机器学习。用NumPy实现极简的机器学习模型与算法，主打通俗易懂，覆盖范围从线性回归到深度学习一应俱全。 |
 | [gethomepage/homepage](https://github.com/gethomepage/homepage) | ⭐ 32.7k | JavaScript | 支持Docker和服务API集成的高度可自定义主页（起始页/应用仪表盘） |
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | ⭐ 32.3k | Rust | 处理4KB对象载荷时，速度比MinIO快2.3倍。RustFS是开源的S3兼容高性能对象存储系统，支持与MinIO、Ceph等其他兼容S3的平台迁移共存。 |
+| [rustfs/rustfs](https://github.com/rustfs/rustfs) | ⭐ 32.6k | Rust | 处理4KB对象载荷时，速度比MinIO快2.3倍。RustFS是开源的S3兼容高性能对象存储系统，支持与MinIO、Ceph等其他兼容S3的平台迁移共存。 |
 | [refined-github/refined-github](https://github.com/refined-github/refined-github) | ⭐ 32.2k | TypeScript | :octocat: 一款简化 GitHub 界面并新增实用功能的浏览器扩展 |
 | [SigNoz/signoz](https://github.com/SigNoz/signoz) | ⭐ 32.1k | TypeScript | SigNoz 是面向团队及其 AI 代理的开源 OpenTelemetry 原生可观测性平台。在单一工具中获取日志、指标与追踪，提供 APM、分布式追踪、日志管… |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | ⭐ 31.8k | Python | 构建并运行你看得见、摸得透、信得过的智能体。 |
 | [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) | ⭐ 31.8k | Python | 120余道Python算法与数据结构交互式编程面试题，附带Anki闪卡。 |
 | [amix/vimrc](https://github.com/amix/vimrc) | ⭐ 31.8k | Vim Script | 终极 Vim 配置（vimrc） |
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | ⭐ 31.8k | Python | 构建并运行你看得见、摸得透、信得过的智能体。 |
 | [nginx/nginx](https://github.com/nginx/nginx) | ⭐ 31.7k | C | NGINX 开源版官方仓库。 |
+| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | ⭐ 31.5k | TypeScript | ⌥ Coding agent with the IDE wired in |
 | [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | ⭐ 31.4k |  | 一份不断更新的Linux服务器安全防护实操指南 |
 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | ⭐ 31.4k | Rust | Professional Antigravity Account Manager & Switcher. One-click seamless account… |
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | ⭐ 31.3k | TypeScript | ⌥ Coding agent with the IDE wired in |
-| [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | ⭐ 31.2k | JavaScript | Vercel 官方智能体技能合集 |
-| [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) | ⭐ 31.1k |  | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 |
-| [StevenBlack/hosts](https://github.com/StevenBlack/hosts) | ⭐ 31.1k | Python | 🔒 整合并扩展来自多个精选来源的 hosts 文件，可按需选择 porn、社交媒体等类别的扩展规则。 |
+| [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | ⭐ 31.3k | JavaScript | Vercel 官方智能体技能合集 |
 | [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | ⭐ 31.1k |  | 😎 一份精心整理的优质 GitHub 个人主页合集，支持实时更新 |
-| [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | ⭐ 31.0k | Rust | An enhanced tool for CodexApp, striving to make Codex better to use and more com… |
-| [sunface/rust-course](https://github.com/sunface/rust-course) | ⭐ 30.9k | Rust | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这… |
+| [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) | ⭐ 31.1k |  | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 |
+| [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | ⭐ 31.1k | Rust | An enhanced tool for CodexApp, striving to make Codex better to use and more com… |
+| [StevenBlack/hosts](https://github.com/StevenBlack/hosts) | ⭐ 31.1k | Python | 🔒 整合并扩展来自多个精选来源的 hosts 文件，可按需选择 porn、社交媒体等类别的扩展规则。 |
 | [getzep/graphiti](https://github.com/getzep/graphiti) | ⭐ 30.9k | Python | 为 AI 代理构建实时知识图谱 |
+| [sunface/rust-course](https://github.com/sunface/rust-course) | ⭐ 30.9k | Rust | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这… |
 | [facebook/folly](https://github.com/facebook/folly) | ⭐ 30.5k | C++ | 由 Facebook 开发并使用的开源 C++ 库。 |
 | [spf13/viper](https://github.com/spf13/viper) | ⭐ 30.5k | Go | 带强大功能的 Go 配置库 |
 | [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) | ⭐ 30.3k |  | 帮助你把CSS技能练到专业级的技巧合集 |
@@ -230,15 +230,15 @@
 | [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) | ⭐ 29.6k |  | 100+ Python 挑战性编程练习 |
 | [gabime/spdlog](https://github.com/gabime/spdlog) | ⭐ 29.6k | C++ | 极速C++日志库 |
 | [aosabook/500lines](https://github.com/aosabook/500lines) | ⭐ 29.6k | JavaScript | 500行以内项目 |
+| [oraios/serena](https://github.com/oraios/serena) | ⭐ 29.5k | Python | 面向编码开发的强大 MCP 工具包，提供语义检索与编辑能力——它是智能体的专属IDE |
 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | ⭐ 29.4k | HTML | 生成式AI研究动态、面试资料、Notebook等资源的一站式仓库 |
-| [oraios/serena](https://github.com/oraios/serena) | ⭐ 29.4k | Python | 面向编码开发的强大 MCP 工具包，提供语义检索与编辑能力——它是智能体的专属IDE |
 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | ⭐ 29.1k | TypeScript | 支持自托管的全类型书签应用，可收纳链接、笔记与图片，带AI自动 tagging 和全文搜索 |
 | [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | ⭐ 28.9k |  | 精选优质深度学习教程、项目与社区资源列表 |
 | [wezterm/wezterm](https://github.com/wezterm/wezterm) | ⭐ 28.9k | Rust | 由 @wez 使用 Rust 开发的GPU加速跨平台终端模拟器与多路复用器 |
 | [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | ⭐ 28.9k | Python | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Fon… |
 | [mongodb/mongo](https://github.com/mongodb/mongo) | ⭐ 28.6k | C++ | MongoDB 数据库 |
-| [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | ⭐ 28.4k |  | 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Pre… |
 | [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) | ⭐ 28.4k | TypeScript | 几秒即可克隆复刻任意网站，生成现代化 React 应用 |
+| [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | ⭐ 28.4k |  | 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Pre… |
 | [fanmingming/live](https://github.com/fanmingming/live) | ⭐ 28.4k | JavaScript | ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕 |
 | [yamadashy/repomix](https://github.com/yamadashy/repomix) | ⭐ 28.4k | TypeScript | 📦 Repomix 是一款强大工具，可将整个代码仓库打包为单个对 AI 友好的文件。非常适合需要把代码库喂给大语言模型（LLM）或 Claude、ChatGPT… |
 | [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) | ⭐ 28.3k |  | Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Andr… |
@@ -250,7 +250,7 @@
 | [microsoft/vcpkg](https://github.com/microsoft/vcpkg) | ⭐ 27.5k | CMake | 适用于 Windows、Linux 和 MacOS 的 C++ 库管理器 |
 | [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) | ⭐ 27.4k | JavaScript | 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 |
 | [forthespada/CS-Books](https://github.com/forthespada/CS-Books) | ⭐ 27.3k |  | 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算… |
-| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | ⭐ 27.1k | Swift | 基于 Ghostty 开源改造的 macOS 终端，支持垂直标签页与 AI 编码代理通知，专为多任务处理、有序组织与可编程性打造。 |
+| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | ⭐ 27.2k | Swift | 基于 Ghostty 开源改造的 macOS 终端，支持垂直标签页与 AI 编码代理通知，专为多任务处理、有序组织与可编程性打造。 |
 | [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | ⭐ 27.1k | C | 一款类似 ack 的代码搜索工具，速度更快。 |
 | [cmderdev/cmder](https://github.com/cmderdev/cmder) | ⭐ 27.0k | PowerShell | 适用于 Windows 的精美控制台模拟包 |
 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | ⭐ 26.9k | Shell | 为 AI 编码智能体与长时任务提供持久化文件化规划。防崩溃 markdown 规划，支持/clear清理后会话恢复与压缩，每轮重新注入应对上下文漂移，确定性完成… |
@@ -276,14 +276,14 @@
 | [karpathy/minGPT](https://github.com/karpathy/minGPT) | ⭐ 24.9k | Python | OpenAI GPT（生成式预训练Transformer）训练的极简PyTorch复现 |
 | [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) | ⭐ 24.7k | PowerShell | 适用于 Windows 的命令行安装程序 |
 | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | ⭐ 24.7k | C | 一款持续维护、功能丰富、侧重性能的类 neofetch 系统信息工具。 |
-| [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | ⭐ 24.6k | Go | 专为应对Trust Crisis的全新AList分支 |
+| [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | ⭐ 24.7k | Go | 专为应对Trust Crisis的全新AList分支 |
 | [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | ⭐ 24.6k | Dockerfile | 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告… |
 | [ogham/exa](https://github.com/ogham/exa) | ⭐ 24.4k | Rust | `ls` 的现代替代工具 |
 | [readest/readest](https://github.com/readest/readest) | ⭐ 24.4k | TypeScript | Readest 是为深度阅读爱好者打造的现代化多功能电子书阅读器，可提供流畅跨平台访问、强大工具与直观界面，全方位提升你的阅读体验。 |
 | [louislam/dockge](https://github.com/louislam/dockge) | ⭐ 24.4k | TypeScript | 美观易用且响应式的自托管 docker compose.yaml 面向栈管理器 |
 | [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | ⭐ 24.3k | Python | 适用于Model Context Protocol服务端与客户端的官方Python SDK |
 | [RooCodeInc/Roo-Code🟡](https://github.com/RooCodeInc/Roo-Code) | ⭐ 24.3k | TypeScript | Roo Code 为你的代码编辑器带来一整支由 AI 智能体组成的开发团队。 |
-| [uutils/coreutils](https://github.com/uutils/coreutils) | ⭐ 24.1k | Rust | GNU coreutils 的跨平台 Rust 重写实现 |
+| [uutils/coreutils](https://github.com/uutils/coreutils) | ⭐ 24.2k | Rust | GNU coreutils 的跨平台 Rust 重写实现 |
 | [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) | ⭐ 23.9k | Python | 一个为 Claude Code 增强了专用命令、认知 persona 和开发方法的配置框架 |
 | [Vonng/ddia](https://github.com/Vonng/ddia) | ⭐ 23.7k | Python | 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译 |
 | [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) | ⭐ 23.6k | Jupyter Notebook | Audiocraft 是一个用于深度学习音频处理与生成的库，它包含最先进的 EnCodec 音频压缩器/分词器，以及支持文本与旋律条件输入、简单可控的音乐生成语… |
@@ -306,7 +306,7 @@
 | [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) | ⭐ 22.0k | HTML | 程序员技能图谱 |
 | [elunez/eladmin](https://github.com/elunez/eladmin) | ⭐ 21.9k | Java | eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管… |
 | [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) | ⭐ 21.9k |  | 现代C++语言与库功能速查表 |
-| [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | ⭐ 21.8k | Shell | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 |
+| [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | ⭐ 21.9k | Shell | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 |
 | [docmost/docmost](https://github.com/docmost/docmost) | ⭐ 21.7k | TypeScript | Docmost is an open-source collaborative wiki and documentation software. It is a… |
 | [twpayne/chezmoi](https://github.com/twpayne/chezmoi) | ⭐ 21.6k | Go | 跨不同设备安全管理你的dotfiles。 |
 | [p0deje/Maccy](https://github.com/p0deje/Maccy) | ⭐ 21.6k | Swift | Lightweight clipboard manager for macOS |
@@ -318,9 +318,9 @@
 | [wsdjeg/SpaceVim🟡](https://github.com/wsdjeg/SpaceVim) | ⭐ 20.2k | Vim Script | 模块化的 Vim 与 Neovim 配置 |
 | [triton-lang/triton](https://github.com/triton-lang/triton) | ⭐ 20.2k | MLIR | Triton 语言和编译器的开发仓库 |
 | [inancgumus/learngo](https://github.com/inancgumus/learngo) | ⭐ 20.1k | Go | ❤️ 1000+ 个手工整理的 Go 示例、习题与测验。🚀 通过修复上千个微型程序来学习 Go。 |
-| [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | ⭐ 20.0k | C# | 🖱️ 纯粹的Windows右键菜单管理程序 |
+| [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | ⭐ 20.1k | C# | 🖱️ 纯粹的Windows右键菜单管理程序 |
 | [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) | ⭐ 20.0k |  | 汇总各大互联网公司容易考察的高频leetcode题🔥 |
-| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | ⭐ 19.9k | Python | 通义深度研究，领先的开源深度研究智能体 |
+| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | ⭐ 20.0k | Python | 通义深度研究，领先的开源深度研究智能体 |
 | [putyy/res-downloader](https://github.com/putyy/res-downloader) | ⭐ 19.9k | Go | 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! |
 | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) | ⭐ 19.8k | TypeScript | 😸 为活力满满者打造的舒缓 pastel 主题！ |
 | [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) | ⭐ 19.8k | Perl | 调用栈可视化工具 |
@@ -335,8 +335,8 @@
 | [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | ⭐ 18.9k | Shell | 可用于生产环境、容器化运行、功能完整却轻量简单的邮件服务器，支持SMTP、IMAP、LDAP、反垃圾邮件、杀毒等功能。 |
 | [ccusage/ccusage](https://github.com/ccusage/ccusage) | ⭐ 18.6k | Rust | 运行 npx ccusage |
 | [nukeop/nuclear](https://github.com/nukeop/nuclear) | ⭐ 18.5k | TypeScript | 可帮你查找免费音乐的流媒体音乐播放器 |
-| [darius-khll/golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) | ⭐ 18.4k |  | 2020年Go开发者成长路线图 |
 | [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | ⭐ 18.4k | Dart | PiliPlus |
+| [darius-khll/golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) | ⭐ 18.4k |  | 2020年Go开发者成长路线图 |
 | [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) | ⭐ 18.3k | Jupyter Notebook | 开始使用 Gemini 2.5 和 LangGraph 构建全栈智能体 |
 | [hellzerg/optimizer🟡](https://github.com/hellzerg/optimizer) | ⭐ 18.3k | C# | 顶级 Windows 优化工具 |
 | [trekhleb/learn-python](https://github.com/trekhleb/learn-python) | ⭐ 18.3k | Python | 📚 Python学习 playground 与速查表，这是按主题分类整理的Python脚本集合，包含带说明的代码示例。 |
@@ -346,10 +346,10 @@
 | [haoel/leetcode](https://github.com/haoel/leetcode) | ⭐ 18.1k | C++ | LeetCode 题解 |
 | [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | ⭐ 18.0k | Python | 面向上下文工程、多智能体架构与生产级智能体系统的全面智能体技能集合。适用于构建、优化或调试需要高效上下文管理的智能体系统。 |
 | [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) | ⭐ 18.0k | Python | 开源 DeepWiki：适用于 GitHub/Gitlab/Bitbucket 仓库的 AI 驱动 Wiki 生成工具。加入我们的 discord：https:… |
-| [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | ⭐ 17.9k | Kotlin | 一款可提升下载速度的下载管理器 |
+| [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | ⭐ 18.0k | Kotlin | 一款可提升下载速度的下载管理器 |
 | [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) | ⭐ 17.9k |  | 一本学习LLM基础的书 |
 | [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem) | ⭐ 17.8k | Jupyter Notebook | AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术 |
-| [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) | ⭐ 17.7k | Rust | 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / C… |
+| [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) | ⭐ 17.8k | Rust | 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / C… |
 | [apache/brpc](https://github.com/apache/brpc) | ⭐ 17.6k | C++ | brpc 是一款采用 C++ 开发的工业级 RPC 框架，常用于搜索、存储、机器学习、广告、推荐等高性能系统。"brpc" 的含义是 "更好的 RPC"。 |
 | [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python) | ⭐ 17.4k | Shell | 关于Python的面试题 |
 | [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) | ⭐ 17.2k |  | 收集整理 GitHub 上高质量、有趣的开源项目。 |
@@ -362,33 +362,33 @@
 | [fatih/vim-go](https://github.com/fatih/vim-go) | ⭐ 16.2k | Vim Script | 适用于 Vim 的 Go 开发插件 |
 | [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | ⭐ 16.1k | Kotlin | 🪐 拥有超能力的 Markdown：从想法出发，搞定论文、演示文稿、网站、书籍和知识库。 |
 | [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) | ⭐ 16.1k | Rust | Tantivy 是一款受 Apache Lucene 启发、用 Rust 编写的全文搜索引擎库 |
-| [alibaba/zvec](https://github.com/alibaba/zvec) | ⭐ 15.9k | C++ | A lightweight, lightning-fast, in-process vector database |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | ⭐ 16.0k | C++ | A lightweight, lightning-fast, in-process vector database |
 | [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) | ⭐ 15.9k |  | :trollface:Git的奇技淫巧 |
-| [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | ⭐ 15.7k | Python | 为你的大语言模型应用评估赋能加速🚀 |
+| [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | ⭐ 15.8k | Python | 为你的大语言模型应用评估赋能加速🚀 |
 | [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) | ⭐ 15.7k |  | Chinese copywriting guidelines for better written communication／中文文案排版指北 |
 | [mindverse/Second-Me](https://github.com/mindverse/Second-Me) | ⭐ 15.7k | Python | 训练你的AI自我，赋能你我，连接世界 |
 | [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) | ⭐ 15.6k | Go | Project V 的网页图形界面客户端，支持 VMess、VLESS、SS、SSR、Trojan、Tuic 与 Juicity 协议。 |
 | [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) | ⭐ 15.5k |  | 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等 |
 | [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) | ⭐ 15.5k | Python | 在任意 GitHub URL 中将 `hub` 替换为 `ingest`，即可获取适配大模型提示词的代码库提取内容 |
-| [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) | ⭐ 15.5k | Go | Algorithm Patterns — the most scientific way to practice, the fastest path to an… |
 | [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | ⭐ 15.5k | Python | Nano vLLM |
+| [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) | ⭐ 15.5k | Go | Algorithm Patterns — the most scientific way to practice, the fastest path to an… |
 | [andkret/Cookbook](https://github.com/andkret/Cookbook) | ⭐ 15.4k | Python | 数据工程实战手册 |
 | [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) | ⭐ 15.4k |  | ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools,… |
 | [MatsuriDayo/nekoray🟡](https://github.com/MatsuriDayo/nekoray) | ⭐ 15.4k | C++ | 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: si… |
 | [muesli/duf](https://github.com/muesli/duf) | ⭐ 15.3k | Go | 磁盘使用率/剩余空间工具——更好的df替代品 |
 | [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) | ⭐ 15.2k | Dockerfile | 学习Vim和Vimscript并不难，这就是你一直在找的入门指南📖 |
 | [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | ⭐ 15.1k | Shell | 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。 |
-| [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | ⭐ 14.9k | JavaScript | 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大… |
 | [KaringX/karing](https://github.com/KaringX/karing) | ⭐ 14.9k | Dart | 简单强大的代理工具，支持 clash/sing-box 路由规则 |
+| [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | ⭐ 14.9k | JavaScript | 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大… |
 | [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) | ⭐ 14.8k | Rust | ⚙️ 一份精选的静态分析（SAST）工具与代码检查器列表，涵盖所有编程语言、配置文件、构建工具及更多领域，聚焦于提升代码质量的工具。 |
 | [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) | ⭐ 14.8k | Rust | 《Rust By Practice》将会演进为 Origin。 |
 | [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | ⭐ 14.8k | C | 为 Windows 任务栏提供全方面整合。 |
 | [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) | ⭐ 14.7k |  | 国内低代码平台从业者交流 |
-| [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) | ⭐ 14.6k | TypeScript | 最出色的智能代理开发工具框架 |
+| [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) | ⭐ 14.7k | TypeScript | 最出色的智能代理开发工具框架 |
 | [tisfeng/Easydict](https://github.com/tisfeng/Easydict) | ⭐ 14.6k | Swift | 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，De… |
+| [coder/coder](https://github.com/coder/coder) | ⭐ 14.6k | Go | 为开发者及其智能代理提供安全环境 |
 | [microsoft/edit](https://github.com/microsoft/edit) | ⭐ 14.6k | Rust | 我们皆可编辑。 |
 | [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) | ⭐ 14.6k | C++ | Notepad++ 的跨平台重实现版本 |
-| [coder/coder](https://github.com/coder/coder) | ⭐ 14.5k | Go | 为开发者及其智能代理提供安全环境 |
 | [sogou/workflow](https://github.com/sogou/workflow) | ⭐ 14.4k | C++ | C++ 并行计算与异步网络框架 |
 | [casdoor/casdoor](https://github.com/casdoor/casdoor) | ⭐ 14.4k | Go | 开源的优先面向Agent的身份与访问管理（IAM）/大语言模型MCP与Agent网关及认证服务，附带网页界面，支持OpenClaw、MCP、OAuth、OIDC… |
 | [drogonframework/drogon](https://github.com/drogonframework/drogon) | ⭐ 14.3k | C++ | Drogon：一个支持C++14/17/20、可运行在Linux/macOS/Unix/Windows上的HTTP Web应用框架 |
@@ -398,7 +398,7 @@
 | [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) | ⭐ 13.8k | Python | 上下文工程是新一代氛围编程——它是真正让AI编码助手发挥作用的方法。Claude Code最适配这套方案，因此本仓库围绕它搭建，但这套策略也可以用在任何AI编码… |
 | [Yixiaohan/show-me-the-code](https://github.com/Yixiaohan/show-me-the-code) | ⭐ 13.7k |  | Python 练习册，每天一个小程序 |
 | [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) | ⭐ 13.7k |  | 程序员应该访问的最佳网站中文版 |
-| [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) | ⭐ 13.6k | Python | CVPR 2025  Spotlight论文《Structured 3D Latents for Scalable and Versatile 3D Gener… |
+| [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) | ⭐ 13.7k | Python | CVPR 2025  Spotlight论文《Structured 3D Latents for Scalable and Versatile 3D Gener… |
 | [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage) | ⭐ 13.6k | Vue | A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + el… |
 | [Tencent/secguide](https://github.com/Tencent/secguide) | ⭐ 13.5k |  | 面向开发人员梳理的代码安全指南 |
 | [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) | ⭐ 13.4k |  | :books: 极客时间电子书 |
@@ -445,12 +445,12 @@
 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | ⭐ 11.4k | Python | Kimi Code CLI 是你的下一代 CLI 智能体。 |
 | [soulmachine/leetcode](https://github.com/soulmachine/leetcode) | ⭐ 11.3k | TeX | LeetCode题解，151道题完整版。 |
 | [DeathKing/Learning-SICP](https://github.com/DeathKing/Learning-SICP) | ⭐ 11.3k | Ruby | MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。 |
-| [jobbole/awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) | ⭐ 11.2k |  | C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。 |
 | [sissbruecker/linkding](https://github.com/sissbruecker/linkding) | ⭐ 11.2k | Python | 可自托管的书签管理器，设计简约、运行快速，通过Docker即可轻松部署。 |
+| [jobbole/awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) | ⭐ 11.2k |  | C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。 |
 | [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) | ⭐ 11.1k | Python | 🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/ |
 | [mawww/kakoune](https://github.com/mawww/kakoune) | ⭐ 11.1k | C++ | mawww 打造更优代码编辑器的实验项目 |
-| [blinkospace/blinko](https://github.com/blinkospace/blinko) | ⭐ 11.0k | TypeScript | 一款使用 TypeScript 构建、注重隐私保护的开源自托管个人 AI 笔记工具 |
 | [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) | ⭐ 11.0k | Jupyter Notebook | MiniCPM5: SOTA on-device LLMs, small yet powerful. |
+| [blinkospace/blinko](https://github.com/blinkospace/blinko) | ⭐ 11.0k | TypeScript | 一款使用 TypeScript 构建、注重隐私保护的开源自托管个人 AI 笔记工具 |
 | [Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies) | ⭐ 11.0k |  | 本仓库精选整理了80余家公司的300余份案例研究，详细介绍了机器学习（ML）系统设计的实际应用与洞见，内容按行业与具体ML用例分类，方便你快速找到相关案例。 |
 | [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) | ⭐ 11.0k | TypeScript | 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform |
 | [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) | ⭐ 10.9k | JavaScript | 计算机速成课（播放量 509 万） （共40集，每一集 10 分钟）2018 年完成翻译。评论区有大量好评 |
@@ -459,16 +459,16 @@
 | [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) | ⭐ 10.8k | JavaScript | 深度将ChatGPT集成到你的浏览器中，你所需的一切尽在此处 |
 | [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base) | ⭐ 10.7k |  | 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com |
 | [tstack/lnav](https://github.com/tstack/lnav) | ⭐ 10.7k | C++ | 日志文件导航器 |
-| [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | ⭐ 10.6k | Shell | 将 Magisk root 和 Google Apps 集成进 WSA（Windows Subsystem for Android） |
 | [wsdjeg/vim-galore-zh_cn🟡](https://github.com/wsdjeg/vim-galore-zh_cn) | ⭐ 10.6k | Vim Script | Vim 从入门到精通 |
+| [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | ⭐ 10.6k | Shell | 将 Magisk root 和 Google Apps 集成进 WSA（Windows Subsystem for Android） |
 | [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) | ⭐ 10.6k | C++ | 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助… |
 | [sigoden/aichat](https://github.com/sigoden/aichat) | ⭐ 10.4k | Rust | 一体化大语言模型命令行工具，支持Shell助手、交互式聊天REPL、RAG、AI工具与智能代理，兼容OpenAI、Claude、Gemini、Ollama、Gr… |
 | [roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes) | ⭐ 10.4k | Jupyter Notebook | My continuously updated Machine Learning, Probabilistic Models and Deep Learning… |
 | [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) | ⭐ 10.3k | JavaScript | 💻 让代码片段管理人人可用（支持macOS/Win/Linux） |
 | [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) | ⭐ 10.3k | C++ | 适用于 Linux 的高级追踪语言 |
 | [tpn/pdfs](https://github.com/tpn/pdfs) | ⭐ 10.2k | HTML | 面向技术人员的PDF合集（论文、规范、幻灯片、手册等）——可前往 tpn.github.io/pdfs 浏览搜索 |
+| [openchamber/openchamber](https://github.com/openchamber/openchamber) | ⭐ 10.0k | TypeScript | Agentic Development Environment based on OpenCode AI agent |
 | [udlbook/udlbook](https://github.com/udlbook/udlbook) | ⭐ 9.9k | Jupyter Notebook | 《理解深度学习》——Simon J.D. Prince |
-| [openchamber/openchamber](https://github.com/openchamber/openchamber) | ⭐ 9.9k | TypeScript | Agentic Development Environment based on OpenCode AI agent |
 | [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) | ⭐ 9.8k | C++ | 面向本地部署的高速大语言模型服务 |
 | [chengazhen/cursor-auto-free🟡](https://github.com/chengazhen/cursor-auto-free) | ⭐ 9.8k | Python | 自动标记光标 |
 | [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) | ⭐ 9.8k | Python | 使用AI翻译生成双语epub电子书 |
@@ -478,10 +478,10 @@
 | [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) | ⭐ 9.7k |  | 删库 |
 | [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples) | ⭐ 9.6k | C++ | 面向 CUDA 开发者的示例，演示 CUDA Toolkit 的各项功能 |
 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | ⭐ 9.6k | TypeScript | 这是面向Claude的MCP服务器，可为其提供终端控制、文件系统搜索和差异文件编辑能力。 |
+| [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) | ⭐ 9.5k | Python | 又一个文档翻译工具 |
 | [ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) | ⭐ 9.5k | Swift | iOS interview questions;iOS面试题集锦（附答案） |
 | [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | ⭐ 9.5k | Go | Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。 |
 | [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) | ⭐ 9.5k | TypeScript | 让AI智能体浏览网页。面向浏览器端AI智能体的自主工具包。 |
-| [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) | ⭐ 9.5k | Python | 又一个文档翻译工具 |
 | [conan-io/conan](https://github.com/conan-io/conan) | ⭐ 9.5k | Python | Conan - 开源 C/C++ 包管理器 |
 | [pocoproject/poco](https://github.com/pocoproject/poco) | ⭐ 9.5k | C++ | POCO C++ 库是功能强大的跨平台 C++ 库，用于构建可运行在桌面、服务器、移动设备、物联网和嵌入式系统上的网络与互联网应用。 |
 | [goplus/xgo](https://github.com/goplus/xgo) | ⭐ 9.5k | Go | XGo 是读起来与自然英语无异的编程语言，同时具备超强扩展性：它支持你调用 C/C++、Go、Python 以及 JavaScript/TypeScript 的… |
@@ -509,15 +509,15 @@
 | [Mooophy/Cpp-Primer](https://github.com/Mooophy/Cpp-Primer) | ⭐ 8.3k | C++ | C++ Primer 第五版 习题解答 |
 | [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) | ⭐ 8.3k |  | OpenSSH 的 Win32 移植版 |
 | [0voice/introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual) | ⭐ 8.3k | C++ | 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。 |
-| [linyacool/WebServer](https://github.com/linyacool/WebServer) | ⭐ 8.2k | C++ | 一个C++高性能Web服务器 |
 | [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) | ⭐ 8.2k | Go | 硬盘S.M.A.R.T监控、历史趋势分析与实际故障阈值检测 |
+| [linyacool/WebServer](https://github.com/linyacool/WebServer) | ⭐ 8.2k | C++ | 一个C++高性能Web服务器 |
 | [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) | ⭐ 8.2k | Go | Go 示例入门 |
 | [xxjwxc/uber_go_guide_cn](https://github.com/xxjwxc/uber_go_guide_cn) | ⭐ 8.2k |  | Uber Go 语言编码规范中文版. The Uber Go Style Guide . |
 | [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) | ⭐ 8.2k | Vue | 基于 Wails (Go) 和 Vue 3 构建的现代化轻量桌面应用，高效跨平台，启动运行迅速。 |
 | [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) | ⭐ 8.1k | JavaScript | 由GPT-4o与gpt-image-1生成的优质精选图像与提示词合集，探索ChatGPT和Sora创作的AI生成视觉内容，展示OpenAI先进的图像生成能力。 |
 | [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) | ⭐ 8.1k | Go | 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt |
-| [Richasy/Bili.Uwp🟡](https://github.com/Richasy/Bili.Uwp) | ⭐ 8.1k | C# | 适用于新系统UI的哔哩 |
 | [FluentRead/FluentRead](https://github.com/FluentRead/FluentRead) | ⭐ 8.1k | TypeScript | An open-source browser extension for bilingual webpages, instant selection trans… |
+| [Richasy/Bili.Uwp🟡](https://github.com/Richasy/Bili.Uwp) | ⭐ 8.1k | C# | 适用于新系统UI的哔哩 |
 | [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) | ⭐ 8.1k | Python | 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见  https://ai-jupyter.com |
 | [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) | ⭐ 8.1k | Java | 1️⃣🐝🏎️ 十亿行挑战——用Java探索文本文件中10亿行数据的聚合速度的趣味项目 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | ⭐ 8.1k | Python |  |
@@ -528,7 +528,7 @@
 | [zero-peak/ZeroOmega🔀](https://github.com/zero-peak/ZeroOmega) | ⭐ 7.9k | CoffeeScript | 快速便捷地管理并切换多个代理。 |
 | [aceld/zinx](https://github.com/aceld/zinx) | ⭐ 7.8k | Go | 基于Golang的轻量级并发服务器框架 |
 | [CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) | ⭐ 7.7k |  | :ant:前端面试复习笔记 |
-| [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) | ⭐ 7.6k | Kotlin | RikkaHub 是一款支持多个大语言模型服务商的 Android 应用 |
+| [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) | ⭐ 7.7k | Kotlin | RikkaHub 是一款支持多个大语言模型服务商的 Android 应用 |
 | [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) | ⭐ 7.6k | Rust | 支持 Claude、GPT、O 系列、Grok、Deepseek、Gemini 等 300 多个模型的 AI 结对编程工具 |
 | [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) | ⭐ 7.6k | TypeScript | 全功能开源监控与可观测性平台 |
 | [pickle-com/glass](https://github.com/pickle-com/glass) | ⭐ 7.6k | JavaScript | 数字思维扩展 |
@@ -536,21 +536,21 @@
 | [Mailu/Mailu](https://github.com/Mailu/Mailu) | ⭐ 7.5k | Python | 隔离式邮件分发——作为 Docker 镜像的邮件服务器 |
 | [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) | ⭐ 7.5k |  | 我终于能用谷歌搜中文了…… |
 | [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) | ⭐ 7.4k | C# | 用于移除Windows 11各处广告的图形界面工具 |
-| [jbaysolutions/vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) | ⭐ 7.4k | JavaScript | 适用于 Vue.js 的可拖拽、可调整大小的网格布局 |
 | [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) | ⭐ 7.4k | TypeScript | Kimi Code CLI  —  下一代智能体的起点 |
+| [jbaysolutions/vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) | ⭐ 7.4k | JavaScript | 适用于 Vue.js 的可拖拽、可调整大小的网格布局 |
 | [MysteryVaibhav/leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) | ⭐ 7.4k |  | 本仓库收录了 LeetCode Premium 中按公司分类的题目列表 |
 | [jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn) | ⭐ 7.4k |  | Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（… |
 | [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) | ⭐ 7.3k | Jupyter Notebook | 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈 |
 | [eddycjy/go-gin-example](https://github.com/eddycjy/go-gin-example) | ⭐ 7.2k | Go | Gin 使用示例 |
 | [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) | ⭐ 7.2k | JavaScript | dsh-routing-suite — 注入器+路由标准工具包：先安装运行时注入器，再安装任务感知推理模式路由预设（已测试P1-P23）。 |
-| [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) | ⭐ 7.1k | Python | 交互式 NVIDIA-GPU 进程查看器，更是GPU进程管理的一站式解决方案。 |
+| [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) | ⭐ 7.2k | Python | 交互式 NVIDIA-GPU 进程查看器，更是GPU进程管理的一站式解决方案。 |
 | [ossu/bioinformatics🟡](https://github.com/ossu/bioinformatics) | ⭐ 7.1k |  | 🔬 自学生物信息学免费入门指南！ |
 | [microsoft/winfile🟡](https://github.com/microsoft/winfile) | ⭐ 7.1k | C | 带增强功能的原始 Windows 文件管理器（winfile） |
 | [instillai/machine-learning-course](https://github.com/instillai/machine-learning-course) | ⭐ 7.0k | Python | 💬 Python 机器学习课程 |
 | [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) | ⭐ 7.0k | Python | DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 Po… |
 | [massCodeIO/massCode](https://github.com/massCodeIO/massCode) | ⭐ 7.0k | TypeScript | 免费开源开发者工作区，集代码片段、笔记、HTTP 请求、计算与开发工具于一身的本地优先应用。 |
-| [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) | ⭐ 7.0k | Go | 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(m… |
 | [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) | ⭐ 7.0k | Shell | :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本 |
+| [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) | ⭐ 7.0k | Go | 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(m… |
 | [oldratlee/translations](https://github.com/oldratlee/translations) | ⭐ 6.9k |  | 🐼 经典软件开发资源的中文翻译 |
 | [jerry-git/learn-python3](https://github.com/jerry-git/learn-python3) | ⭐ 6.9k | HTML | 用于学习和教学Python 3的Jupyter notebooks |
 | [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) | ⭐ 6.8k | TypeScript | 开源智能代理IDE，可创建和编排编码代理、预览应用、运行git工作流，支持接入所有服务商的任意大模型。 |
@@ -568,8 +568,8 @@
 | [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) | ⭐ 6.4k | C++ | 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等 |
 | [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) | ⭐ 6.4k |  |  |
 | [metowolf/vCards](https://github.com/metowolf/vCards) | ⭐ 6.4k | TypeScript | 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验 |
-| [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) | ⭐ 6.3k | Python | PDF craft 可将PDF文件转换为多种其他格式，本项目主攻处理扫描书籍的PDF文件。 |
 | [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) | ⭐ 6.3k | Java | Jetbrains Claude Code 与 Codex GUI 插件 |
+| [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) | ⭐ 6.3k | Python | PDF craft 可将PDF文件转换为多种其他格式，本项目主攻处理扫描书籍的PDF文件。 |
 | [talkgo/read🔀](https://github.com/talkgo/read) | ⭐ 6.2k | Go | Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频） |
 | [gitpod-io/openvscode-server🔀](https://github.com/gitpod-io/openvscode-server) | ⭐ 6.2k | TypeScript | 在远程机器运行上游 VS Code，可从任意设备、任意地点通过现代浏览器访问使用。 |
 | [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) | ⭐ 6.1k | CSS | 程序员工作中常见的英语词汇 |
@@ -577,13 +577,13 @@
 | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) | ⭐ 6.1k | TypeScript | 适用于 Claude code 与 Codex 的零配置代码工作流 |
 | [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) | ⭐ 6.1k | C++ | Taskwarrior - 命令行任务管理工具 |
 | [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) | ⭐ 6.0k | Smarty | Golang - 100天从新手到大师 |
+| [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | ⭐ 6.0k | TypeScript | 集SSH工作区、SFTP和终端于一体 |
 | [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) | ⭐ 6.0k | TypeScript | 适用于 VS Code 的开源类 Cursor AI 编码智能体——支持智能体聊天、多提供商大语言模型（OpenAI、Ollama、llama.cpp）、语义搜… |
 | [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) | ⭐ 6.0k | Adblock Filter List | 适用于 uBlock Origin 和 uBlock Origin Lite 的过滤列表 |
-| [binaricat/Netcatty](https://github.com/binaricat/Netcatty) | ⭐ 6.0k | TypeScript | 集SSH工作区、SFTP和终端于一体 |
-| [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) | ⭐ 6.0k | Go | 在 Go 中处理百万级 WebSocket 连接 |
 | [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) | ⭐ 6.0k | JavaScript | 使用Google、Bing或Yandex实时翻译你的页面 |
-| [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) | ⭐ 6.0k | Python | 让Cursor/Windsurf拥有Devin 90%能力的魔法工具 |
+| [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) | ⭐ 6.0k | Go | 在 Go 中处理百万级 WebSocket 连接 |
 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | ⭐ 6.0k | Python | 基于LLM的智能体MaiSaka是一个致力于理解你、以真人风格与你互动的数字生命。她不追求完美，也不追求效率，看重的是温暖、真诚与真挚的联结。 |
+| [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) | ⭐ 6.0k | Python | 让Cursor/Windsurf拥有Devin 90%能力的魔法工具 |
 | [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) | ⭐ 6.0k | HTML | 用于AI驱动软件开发的多智能体系统。它结合大语言模型与DevOps工具，可将自然语言需求转化为可运行软件，支持任意开发语言，还能扩展现有的代码。 |
 | [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) | ⭐ 6.0k | SCSS | 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into C… |
 | [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) | ⭐ 5.9k | C++ | 🏋️ 全部4033道LeetCode题的Python / 现代C++题解（每周更新） |
@@ -596,22 +596,22 @@
 | [steipete/agent-rules🟡](https://github.com/steipete/agent-rules) | ⭐ 5.7k | Shell | 帮助你更好使用 Claude Code、Cursor 这类智能代理的规则与知识 |
 | [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) | ⭐ 5.7k | Swift | 就像Mac上的TextEdit，只不过专为Markdown打造。 |
 | [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) | ⭐ 5.6k | TypeScript | 一个定会让你觉得好用的远程调试平台，轻量、跨平台、开箱即用的调试工具 |
-| [pedrommcarrasco/Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) | ⭐ 5.6k | Swift | 灵感源自苹果2018年10月30日发布会的屏幕保护程序 |
 | [DetachHead/rebased🔀](https://github.com/DetachHead/rebased) | ⭐ 5.6k | Java | 基于 IntelliJ 平台的 Git 客户端 |
+| [pedrommcarrasco/Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) | ⭐ 5.6k | Swift | 灵感源自苹果2018年10月30日发布会的屏幕保护程序 |
 | [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) | ⭐ 5.6k |  | 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！ |
-| [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) | ⭐ 5.6k | HTML | 转换 PDF 为 HTML，不丢失文本与格式。 |
 | [devtron-labs/devtron](https://github.com/devtron-labs/devtron) | ⭐ 5.6k | Go | 你所需的唯一 Kubernetes 仪表盘 |
-| [lifei6671/interview-go](https://github.com/lifei6671/interview-go) | ⭐ 5.6k | Go | golang面试题集合https://interview.disign.me/ |
+| [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) | ⭐ 5.6k | HTML | 转换 PDF 为 HTML，不丢失文本与格式。 |
 | [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) | ⭐ 5.6k | HTML | 针对2026年AI工程面试作业、带回家完成的挑战项目与招聘实践的研究 |
+| [lifei6671/interview-go](https://github.com/lifei6671/interview-go) | ⭐ 5.6k | Go | golang面试题集合https://interview.disign.me/ |
 | [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) | ⭐ 5.6k | MDX | @kognise 编写的技术讲解：介绍你的电脑从头到尾如何运行程序 |
 | [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) | ⭐ 5.5k | Batchfile | 通过可执行文件或批处理脚本卸载 Microsoft Edge |
 | [flashlight/flashlight](https://github.com/flashlight/flashlight) | ⭐ 5.5k | C++ | 用于机器学习的独立 C++ 库 |
+| [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | ⭐ 5.5k | Rust | 🛰️ 在终端追踪所有AI编码代理的令牌使用量。🏅 全球排行榜已累计追踪数万亿美元令牌。 |
 | [GMOogway/shadowrocket-rules](https://github.com/GMOogway/shadowrocket-rules) | ⭐ 5.5k |  | 小火箭规则🚀，小火箭模块，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（DIRECT）、代理（PROXY）、屏蔽… |
-| [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | ⭐ 5.4k | Rust | 🛰️ 在终端追踪所有AI编码代理的令牌使用量。🏅 全球排行榜已累计追踪数万亿美元令牌。 |
 | [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) | ⭐ 5.4k | Java | 📚 后端程序员应该掌握的主流数据库知识 |
 | [heyman/heynote](https://github.com/heyman/heynote) | ⭐ 5.4k | JavaScript | 面向高级用户的专用临时笔记板 |
 | [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) | ⭐ 5.4k | Rust | 一款高性能大语言模型推理API与聊天界面，可将DeepSeek R1的思维链推理轨迹与Anthropic Claude模型集成。 |
-| [google/tcmalloc](https://github.com/google/tcmalloc) | ⭐ 5.3k | C++ |  |
+| [google/tcmalloc](https://github.com/google/tcmalloc) | ⭐ 5.4k | C++ |  |
 | [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) | ⭐ 5.3k | TypeScript | ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展 |
 | [gibsjose/cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) | ⭐ 5.3k | C++ | C++ 语法、数据结构与算法速查表 |
 | [qiyuangong/leetcode](https://github.com/qiyuangong/leetcode) | ⭐ 5.3k | Python | Leetcode 题解，包含 Python 和 Java 实现 |
@@ -639,8 +639,8 @@
 | [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation) | ⭐ 4.5k |  | 海外技术求职一站式指南 |
 | [lennylxx/ipv6-hosts🟡](https://github.com/lennylxx/ipv6-hosts) | ⭐ 4.5k | Python | 这是 https://code.google.com/archive/p/ipv6-hosts/ 的分支，专注于实现自动化 |
 | [hzwer/shareOI](https://github.com/hzwer/shareOI) | ⭐ 4.5k |  | 算法竞赛课件分享 |
-| [javabuddy/best-system-design-resources](https://github.com/javabuddy/best-system-design-resources) | ⭐ 4.5k |  | 学习系统设计、软件架构以及准备系统设计面试的优质资源合集 |
 | [xai-org/grok-prompts](https://github.com/xai-org/grok-prompts) | ⭐ 4.5k | Jinja | 适用于我们的Grok聊天助手和X平台`@grok`机器人的提示词。 |
+| [javabuddy/best-system-design-resources](https://github.com/javabuddy/best-system-design-resources) | ⭐ 4.5k |  | 学习系统设计、软件架构以及准备系统设计面试的优质资源合集 |
 | [dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions) | ⭐ 4.4k |  | Grokking 编程面试：编程题题型 替代方案 |
 | [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) | ⭐ 4.4k |  | Web 攻击备忘单 |
 | [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) | ⭐ 4.4k | C++ | 轻量级 C++ AI 工具包：支持 MNN、ORT、TRT，包含 100+ 模型，覆盖检测、分割、Stable-Diffusion、Face-Fusion。 |
@@ -660,8 +660,8 @@
 | [parallel101/course](https://github.com/parallel101/course) | ⭐ 4.2k | C++ | 高性能并行编程与优化 - 课件 |
 | [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) | ⭐ 4.2k | Python | ⚡️SwanLab — 一款开源、设计现代的AI训练跟踪与可视化工具，支持云端/自建部署，可集成 PyTorch、Transformers、verl、LLaMA… |
 | [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) | ⭐ 4.2k | TypeScript | 基于Tauri构建的多引擎AI编码桌面客户端，在一个GUI中集成Claude Code、Codex、Gemini、OpenCode、DeepSeek Harne… |
-| [vasanthv/ahey🟡](https://github.com/vasanthv/ahey) | ⭐ 4.2k | JavaScript | 适用于网页的免费群组视频通话。无需注册，无需下载。 |
 | [root-project/cling](https://github.com/root-project/cling) | ⭐ 4.2k | C++ | Cling C++ 解释器 |
+| [vasanthv/ahey🟡](https://github.com/vasanthv/ahey) | ⭐ 4.2k | JavaScript | 适用于网页的免费群组视频通话。无需注册，无需下载。 |
 | [fluentpython/example-code-2e](https://github.com/fluentpython/example-code-2e) | ⭐ 4.1k | Python | 《流畅的Python》第二版 示例代码（O'Reilly 2022） |
 | [yuaotian/antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) | ⭐ 4.1k | C++ | 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TU… |
 | [Jack-Lee-Hiter/AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython) | ⭐ 4.1k | Python | 算法/数据结构/Python/剑指offer/机器学习/leetcode |
@@ -707,12 +707,12 @@
 | [ArtifexSoftware/pdf2docx](https://github.com/ArtifexSoftware/pdf2docx) | ⭐ 3.5k | Python | 用于将 PDF 转换为 DOCX 的开源 Python 库 |
 | [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) | ⭐ 3.5k | Python | ✨ 面向Google Gemini网页应用的逆向工程Python API |
 | [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) | ⭐ 3.5k | Python | 可视化多智能体命令行工作区，可整合 Codex、Claude、Gemini、Kimi、Qwen、Cursor、Copilot、Pi、OpenCode 及其他 A… |
-| [alexkirsz/dispatch-proxy🟡](https://github.com/alexkirsz/dispatch-proxy) | ⭐ 3.5k | CoffeeScript | 合并多个网络连接，提升下载速度 |
-| [billryan/algorithm-exercise](https://github.com/billryan/algorithm-exercise) | ⭐ 3.5k | Python | Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/ |
 | [psmux/psmux](https://github.com/psmux/psmux) | ⭐ 3.5k | PowerShell | Windows PowerShell 上的 Tmux — 适用于 PowerShell、Windows Terminal、cmd.exe 的 tmux。包含 p… |
+| [billryan/algorithm-exercise](https://github.com/billryan/algorithm-exercise) | ⭐ 3.5k | Python | Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/ |
+| [alexkirsz/dispatch-proxy🟡](https://github.com/alexkirsz/dispatch-proxy) | ⭐ 3.5k | CoffeeScript | 合并多个网络连接，提升下载速度 |
 | [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) | ⭐ 3.5k | Rust | 用 Rust 编写的 Claude Code 状态栏工具 |
 | [billie66/TLCL](https://github.com/billie66/TLCL) | ⭐ 3.5k | CSS | 《快乐的 Linux 命令行》 |
-| [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) | ⭐ 3.4k | HTML | ⭐️ Markdown 简历模版 |
+| [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) | ⭐ 3.5k | HTML | ⭐️ Markdown 简历模版 |
 | [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) | ⭐ 3.4k | Python | 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。 |
 | [xcc3641/SeeWeather🟡](https://github.com/xcc3641/SeeWeather) | ⭐ 3.4k | Java | [@Deprecated] 基于RxJava+RxBus+Retrofit+Glide+Material Design的天气App |
 | [DevAgentForge/Open-Claude-Cowork](https://github.com/DevAgentForge/Open-Claude-Cowork) | ⭐ 3.4k | TypeScript | 开源 Claude 协作桌面工具，一款桌面AI助手，可协助编程、文件管理及任何你能描述的任务。 |
@@ -735,12 +735,12 @@
 | [aQuaYi/LeetCode-in-Go🟡](https://github.com/aQuaYi/LeetCode-in-Go) | ⭐ 3.1k | Go | 基于Go的LeetCode算法题题解，覆盖100%题目。 |
 | [Ewenwan/ShiYanLou](https://github.com/Ewenwan/ShiYanLou) | ⭐ 3.1k | C | 学习C & C++ & python&汇编语言 LLVM编译器 数据结构 算法 操作系统 单片机  linux  面试 |
 | [singgel/Study-Floder](https://github.com/singgel/Study-Floder) | ⭐ 3.1k |  | 相当不错的图书，例如《数学之美》《提问的智慧》《软件工程可靠性》《时间简史》《毛泽东选集【全四卷】》《浪潮之巅》《金字塔原理》《TCP/IP卷一/卷二/卷三》《… |
-| [dnote/dnote](https://github.com/dnote/dnote) | ⭐ 3.1k | Go | 一个简单的命令行笔记本 |
 | [amitshekhariitbhu/ai-engineering-interview-questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) | ⭐ 3.1k | Markdown | AI 工程面试 cheat sheet——面试问答汇总 |
+| [dnote/dnote](https://github.com/dnote/dnote) | ⭐ 3.1k | Go | 一个简单的命令行笔记本 |
 | [bvaisvil/zenith](https://github.com/bvaisvil/zenith) | ⭐ 3.1k | Rust | Zenith——类似top或htop的系统监控工具，支持可缩放图表，可展示CPU、GPU、网络和磁盘占用 |
 | [odygrd/quill](https://github.com/odygrd/quill) | ⭐ 3.0k | C++ | 面向性能关键型应用的超低延迟异步C++17日志与指标库 |
-| [q191201771/lal](https://github.com/q191201771/lal) | ⭐ 3.0k | Go | 🔥 Golang audio/video live streaming lib/client/server. support RTMP, RTSP(RTP/RT… |
 | [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) | ⭐ 3.0k | Python | 这是一个简洁专业的单智能体演示项目，展示了智能体的核心执行流程与生产级特性。 |
+| [q191201771/lal](https://github.com/q191201771/lal) | ⭐ 3.0k | Go | 🔥 Golang audio/video live streaming lib/client/server. support RTMP, RTSP(RTP/RT… |
 | [haierkeys/obsidian-fast-note-sync](https://github.com/haierkeys/obsidian-fast-note-sync) | ⭐ 3.0k | JavaScript | Can be privately deployed, focusing on providing Obsidian users with a seamless,… |
 | [mypaint/mypaint](https://github.com/mypaint/mypaint) | ⭐ 3.0k | Python | MyPaint 是一款简洁的绘图绘画程序，兼容 Wacom 类绘图板。 |
 | [madler/pigz](https://github.com/madler/pigz) | ⭐ 3.0k | C | 适用于现代多处理器、多核机器的 gzip 并行实现 |
@@ -752,25 +752,25 @@
 | [chyyuu/os_course_info](https://github.com/chyyuu/os_course_info) | ⭐ 2.9k |  | 清华大学计算机系 2022 年春季操作系统课程 |
 | [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) | ⭐ 2.8k |  | 绝妙的个人生产力（Awesome Productivity - Chinese version） |
 | [wangdoc/typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) | ⭐ 2.8k |  | TypeScript 教程 |
-| [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) | ⭐ 2.8k | C# | 根据当前时间调整屏幕伽马值，缓解眼睛疲劳 |
 | [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) | ⭐ 2.8k | Vue | LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https:/… |
-| [szcf-weiya/ESL-CN](https://github.com/szcf-weiya/ESL-CN) | ⭐ 2.8k | Jupyter Notebook | The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答。 |
+| [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) | ⭐ 2.8k | C# | 根据当前时间调整屏幕伽马值，缓解眼睛疲劳 |
 | [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) | ⭐ 2.8k | Python | Termius 汉化 |
-| [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude) | ⭐ 2.8k | Go | 多智能体编排工作流（支持 Claude Code、Codex、Gemini、OpenCode） |
+| [szcf-weiya/ESL-CN](https://github.com/szcf-weiya/ESL-CN) | ⭐ 2.8k | Jupyter Notebook | The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答。 |
+| [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude) | ⭐ 2.7k | Go | 多智能体编排工作流（支持 Claude Code、Codex、Gemini、OpenCode） |
 | [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) | ⭐ 2.7k | TypeScript | 导出并分享你的 ChatGPT 对话记录 |
 | [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) | ⭐ 2.7k | TypeScript | 适用于 Firefox/Chrome 的浏览器扩展。SmartProxy 可根据可自定义规则，为你访问的网站自动开启/关闭代理。 |
 | [liyupi/code-nav](https://github.com/liyupi/code-nav) | ⭐ 2.7k | JavaScript | 💎 程序员一站式编程学习交流社区，免费的编程学习路线、入门教程、原创项目教程、程序员bug修复手册、保姆级写简历技巧，帮你学好编程、做出项目、拿到满意的 Off… |
 | [liuyubobobo/Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode) | ⭐ 2.7k | C++ | My Solutions to Leetcode problems. All solutions support C++ language, some supp… |
-| [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) | ⭐ 2.7k | Go | trzsz-ssh（简称 tssh）是一款可直接替代 openssh 客户端的 SSH 客户端。它目标是完全兼容 openssh、复刻其全部功能，同时额外提供诸… |
 | [huihongxiao/MIT6.S081](https://github.com/huihongxiao/MIT6.S081) | ⭐ 2.7k |  |  |
+| [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) | ⭐ 2.7k | Go | trzsz-ssh（简称 tssh）是一款可直接替代 openssh 客户端的 SSH 客户端。它目标是完全兼容 openssh、复刻其全部功能，同时额外提供诸… |
 | [Haleclipse/CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) | ⭐ 2.7k | JavaScript | Codex 桌面应用——跨平台重构项目 |
 | [akira-cn/moyu](https://github.com/akira-cn/moyu) | ⭐ 2.7k |  | Github 摸鱼大全！ |
 | [0voice/campus_recruitmen_questions](https://github.com/0voice/campus_recruitmen_questions) | ⭐ 2.7k |  | 2021年最新整理，5000道秋招/提前批/春招/常用面试题（含答案），包括leetcode，校招笔试题，面试题，算法题，语法题。 |
 | [yzhu798/CodingInterviewsNotes](https://github.com/yzhu798/CodingInterviewsNotes) | ⭐ 2.7k | HTML | 涵盖C++ Primer 5th、 effective C++ 、 STL api和demos C++ 基础知识与理论、 智能指针、C++11、 Git教程 L… |
 | [gocn/knowledge](https://github.com/gocn/knowledge) | ⭐ 2.7k |  | Go社区的知识图谱，Knowledge Graph |
 | [vnmakarov/mir](https://github.com/vnmakarov/mir) | ⭐ 2.7k | C | 基于MIR（Medium Internal Representation，中型中间表示）的轻量级JIT编译器，以及基于MIR的C11 JIT编译器与解释器 |
-| [lydrainbowcat/tedukuri](https://github.com/lydrainbowcat/tedukuri) | ⭐ 2.6k | Roff | 《算法竞赛进阶指南》资源社区 |
 | [genieincodebottle/generative-ai](https://github.com/genieincodebottle/generative-ai) | ⭐ 2.6k | Jupyter Notebook | 生成式AI综合资源库，包含详细路线图、项目、应用场景、面试准备与编程准备内容。 |
+| [lydrainbowcat/tedukuri](https://github.com/lydrainbowcat/tedukuri) | ⭐ 2.6k | Roff | 《算法竞赛进阶指南》资源社区 |
 | [LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt) | ⭐ 2.6k | MDX | 永久免费开源的 AIGC 课程, 目前已支持Claude Code，Codex，Hermes，OpenClaw，Obsidian，Prompt Engineer… |
 | [mhx/dwarfs](https://github.com/mhx/dwarfs) | ⭐ 2.6k | C++ | 适用于 Linux、FreeBSD、macOS 和 Windows 的快速高压缩比只读文件系统 |
 | [Pintree-io/pintree](https://github.com/Pintree-io/pintree) | ⭐ 2.6k | TypeScript | Pintree：轻松将你的浏览器书签转换为目录网站，数分钟即可开始变现。 |
@@ -788,19 +788,19 @@
 | [geekgeekrun/geekgeekrun](https://github.com/geekgeekrun/geekgeekrun) | ⭐ 2.4k | Vue | 牛人快跑 - GeekGeekRun，求职找工作自动化工具，基于 Puppeteer、Electron。界面友好，简单易用！开源，免费！快速海投、自动开聊、已读… |
 | [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) | ⭐ 2.4k | JavaScript | 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly  数据打标请… |
 | [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) | ⭐ 2.4k | Python | 无需代码生成，即可在运行时将任意 MCP、OpenAPI 或 GraphQL 服务器转换为 CLI |
-| [yhan219/navicat_reset_mac🟡](https://github.com/yhan219/navicat_reset_mac) | ⭐ 2.4k |  | navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script |
 | [LigphiDonk/academic-figure-generator](https://github.com/LigphiDonk/academic-figure-generator) | ⭐ 2.4k | Python | AI 驱动的学术论文配图生成平台。上传论文 → AI 分析内容生成 Prompt → 一键生成高质量科研配图，还有配套的skill可在主流agent中使用 |
+| [yhan219/navicat_reset_mac🟡](https://github.com/yhan219/navicat_reset_mac) | ⭐ 2.4k |  | navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script |
 | [mpitutorial/mpitutorial](https://github.com/mpitutorial/mpitutorial) | ⭐ 2.3k | C | 基于C语言的MPI编程教程及可执行代码示例 |
-| [xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019🟡](https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019) | ⭐ 2.3k |  | :book: 作为对《C++ Concurrency in Action - SECOND EDITION》的中文翻译。 |
 | [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) | ⭐ 2.3k | TeX |  |
+| [xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019🟡](https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019) | ⭐ 2.3k |  | :book: 作为对《C++ Concurrency in Action - SECOND EDITION》的中文翻译。 |
 | [llitfkitfk/go-best-practice](https://github.com/llitfkitfk/go-best-practice) | ⭐ 2.3k |  | Go语言实战:  编写可维护Go语言代码建议 |
 | [wzpan/cmake-demo](https://github.com/wzpan/cmake-demo) | ⭐ 2.3k | CMake | 《CMake入门实战》源码 |
 | [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) | ⭐ 2.3k | Python | JetBrains Maple Mono：融合 JetBrains Mono 与 Maple Mono 的免费开源字体 |
 | [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) | ⭐ 2.3k | TypeScript | Google Antigravity AI模型配额监控插件 (Antigravity AI Model Quota Watching) |
 | [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice) | ⭐ 2.3k |  | 简历警察 🕵️‍♂️ 疯狂逮捕 |
 | [polaris1119/golangweekly](https://github.com/polaris1119/golangweekly) | ⭐ 2.2k |  | Go语言爱好者周刊，每周日发布 |
-| [bilibili/overlord](https://github.com/bilibili/overlord) | ⭐ 2.2k | Go | Overlord是哔哩哔哩基于Go语言编写的memcache和redis&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。 |
 | [alexdobin/STAR](https://github.com/alexdobin/STAR) | ⭐ 2.2k | C | RNA-seq 比对工具 |
+| [bilibili/overlord](https://github.com/bilibili/overlord) | ⭐ 2.2k | Go | Overlord是哔哩哔哩基于Go语言编写的memcache和redis&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。 |
 | [lh3/minimap2](https://github.com/lh3/minimap2) | ⭐ 2.2k | C | 适用于基因组和剪接核苷酸序列的通用双序列比对工具 |
 | [selfboot/CS_Offer](https://github.com/selfboot/CS_Offer) | ⭐ 2.2k | C++ | 计算机学科基础知识和主流编程语言相关内容的总结 |
 | [reubeno/brush](https://github.com/reubeno/brush) | ⭐ 2.2k | Rust | 用Rust编写的兼容bash/POSIX的Shell |
@@ -812,8 +812,8 @@
 | [praetorian-inc/gokart🟡](https://github.com/praetorian-inc/gokart) | ⭐ 2.2k | Go | 用于保障Go代码安全的静态分析工具 |
 | [RawChat/RawChat](https://github.com/RawChat/RawChat) | ⭐ 2.2k |  |  |
 | [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) | ⭐ 2.1k | TypeScript | PasteBar - 适用于 Mac 和 Windows 的无限制免费剪贴板管理器 |
-| [Tw1ddle/geometrize](https://github.com/Tw1ddle/geometrize) | ⭐ 2.1k | C++ | :white_square_button: Geometrize 是一款可将图像重构为几何基元的桌面应用 |
 | [lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen) | ⭐ 2.1k |  | 适用于屏幕阅读的霞鹜文楷 |
+| [Tw1ddle/geometrize](https://github.com/Tw1ddle/geometrize) | ⭐ 2.1k | C++ | :white_square_button: Geometrize 是一款可将图像重构为几何基元的桌面应用 |
 | [wowlusitong/awesome-education](https://github.com/wowlusitong/awesome-education) | ⭐ 2.1k |  | 学生福利-收集支持教育优惠的软件与服务 |
 | [csujedihy/lc-all-solutions](https://github.com/csujedihy/lc-all-solutions) | ⭐ 2.1k | Python | 本人用Python编写的LeetCode题解 |
 | [xiaoweiChen/Cpp_Concurrency_In_Action🟡](https://github.com/xiaoweiChen/Cpp_Concurrency_In_Action) | ⭐ 2.1k |  | :book: 作为对《C++ Concurrency in Action》英文版的中文翻译。 |
@@ -833,8 +833,8 @@
 | [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) | ⭐ 2.0k | JavaScript | Use the browser's online image format converter, no need to upload files, you ca… |
 | [pgkt04/defender-control](https://github.com/pgkt04/defender-control) | ⭐ 2.0k | C++ | 一款开源的 Windows Defender 管理器，可让你永久禁用 Windows Defender。 |
 | [gcui-art/markdown-to-image](https://github.com/gcui-art/markdown-to-image) | ⭐ 2.0k | TypeScript | 此 React 组件可将 Markdown 渲染为精美海报图，支持复制为图片，支持将 Markdown 转换为海报/图片/引言卡片/社交卡片，适用于 Insta… |
-| [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) | ⭐ 2.0k | Rust | 在终端获得智能代理对话体验，用自然语言构建应用。 |
 | [NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub) | ⭐ 2.0k | Jupyter Notebook | NVIDIA 精心整理的通用 GPU 编程相关教育资源合集。 |
+| [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) | ⭐ 2.0k | Rust | 在终端获得智能代理对话体验，用自然语言构建应用。 |
 | [LingyiChen-AI/JadeAI](https://github.com/LingyiChen-AI/JadeAI) | ⭐ 2.0k | TypeScript | AI驱动智能简历生成工具——50+专业模板、PDF/图片解析、AI优化、岗位匹配分析、多格式导出。开源免费，支持一键Docker部署。 |
 | [tiger1103/gfast](https://github.com/tiger1103/gfast) | ⭐ 2.0k | Go | 基于GF(Go Frame)的后台管理系统 |
 | [welai/glow-sans🟡](https://github.com/welai/glow-sans) | ⭐ 2.0k | JavaScript | SHSans-derived CJK font family with a more concise & modern look. 未来荧黑·未來熒黑·ヒカリ角… |
@@ -868,13 +868,13 @@
 | [noopstudios/interactive-feedback-mcp](https://github.com/noopstudios/interactive-feedback-mcp) | ⭐ 1.7k | Python | 交互式用户反馈 MCP |
 | [ssbc/ssb-server](https://github.com/ssbc/ssb-server) | ⭐ 1.7k | JavaScript | Secure Scuttlebutt（分布式社交网络）的 gossip 协议与复制服务器 |
 | [AgibotTech/agibot_x1_train](https://github.com/AgibotTech/agibot_x1_train) | ⭐ 1.7k | Python | AgiBot X1 的强化学习训练代码。 |
+| [Kuddev/pebrel](https://github.com/Kuddev/pebrel) | ⭐ 1.7k | Rust | AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent se… |
 | [shayne/go-wsl2-host](https://github.com/shayne/go-wsl2-host) | ⭐ 1.7k | Go | 使用 WSL2 VM IP 地址自动更新你的 Windows hosts 文件 |
 | [trustmaster/goflow](https://github.com/trustmaster/goflow) | ⭐ 1.7k | Go | 面向 Go（golang）的基于流的数据流编程库 |
 | [LLM-Red-Team/kimi-cc](https://github.com/LLM-Red-Team/kimi-cc) | ⭐ 1.7k | Shell | 使用 Kimi 最新模型（kimi-k2-0711-preview）驱动你的 Claude Code。 |
-| [arxiv-vanity/arxiv-vanity](https://github.com/arxiv-vanity/arxiv-vanity) | ⭐ 1.6k | Python | 将 arXiv 的论文渲染为响应式网页，不用再眯着眼睛看 PDF 了。 |
 | [wozulong/fuclaude](https://github.com/wozulong/fuclaude) | ⭐ 1.6k |  | 法克劳德，啥也不是。 |
+| [arxiv-vanity/arxiv-vanity](https://github.com/arxiv-vanity/arxiv-vanity) | ⭐ 1.6k | Python | 将 arXiv 的论文渲染为响应式网页，不用再眯着眼睛看 PDF 了。 |
 | [Veloera/Veloera](https://github.com/Veloera/Veloera) | ⭐ 1.6k | Go |  |
-| [Kuddev/pebrel](https://github.com/Kuddev/pebrel) | ⭐ 1.6k | Rust | AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent se… |
 | [Google-Health/medgemma](https://github.com/Google-Health/medgemma) | ⭐ 1.6k | Jupyter Notebook |  |
 | [theislab/single-cell-tutorial](https://github.com/theislab/single-cell-tutorial) | ⭐ 1.6k | Jupyter Notebook | 对应论文《Luecken与Theis：单细胞RNA-seq分析当前最佳实践：教程》的单细胞分析最佳实践教程案例研究 |
 | [Xatta-Trone/medium-parser-extension](https://github.com/Xatta-Trone/medium-parser-extension) | ⭐ 1.6k | JavaScript | 通过 Google 网页缓存阅读 medium.com 及基于 Medium 的文章 |
@@ -887,11 +887,11 @@
 | [mengxiong10/vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) | ⭐ 1.5k | JavaScript | 适用于 Vue2 的日期选择器/日期时间选择器组件 |
 | [yakumioto/YaHei-Consolas-Hybrid-1.12](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12) | ⭐ 1.5k | Shell | YaHei Consolas Hybrid 字体 |
 | [Nuzair46/BlockTheSpot-Mac🟡](https://github.com/Nuzair46/BlockTheSpot-Mac) | ⭐ 1.5k | Shell | 适用于 MacOS 的 Spotify 广告拦截器 |
-| [microsoft/ai-dev-gallery](https://github.com/microsoft/ai-dev-gallery) | ⭐ 1.5k | C# | 面向 Windows 开发者的开源项目，用于学习如何借助本地模型和 API 给 Windows 应用添加 AI 功能。 |
 | [aoaostar/toolbox](https://github.com/aoaostar/toolbox) | ⭐ 1.5k | PHP | 🚀傲星工具箱，一个在线工具箱 |
+| [microsoft/ai-dev-gallery](https://github.com/microsoft/ai-dev-gallery) | ⭐ 1.5k | C# | 面向 Windows 开发者的开源项目，用于学习如何借助本地模型和 API 给 Windows 应用添加 AI 功能。 |
 | [greyireland/awesome-programming-books-1](https://github.com/greyireland/awesome-programming-books-1) | ⭐ 1.5k |  | 计算机经典书籍📚，保留书单 |
-| [huiyadanli/PasteEx](https://github.com/huiyadanli/PasteEx) | ⭐ 1.5k | C# | :clipboard: Paste As File 把剪贴板的内容直接粘贴为文件 |
 | [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) | ⭐ 1.5k | Go | 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建 |
+| [huiyadanli/PasteEx](https://github.com/huiyadanli/PasteEx) | ⭐ 1.5k | C# | :clipboard: Paste As File 把剪贴板的内容直接粘贴为文件 |
 | [chakhsu/pinghsu](https://github.com/chakhsu/pinghsu) | ⭐ 1.5k | PHP | Pinghsu，一款Typecho主题 |
 | [xiaoweiChen/CMake-Cookbook🟡](https://github.com/xiaoweiChen/CMake-Cookbook) | ⭐ 1.5k |  | :book: 作为对《CMake Cookbook》的中文翻译。 |
 | [fawney19/Aether](https://github.com/fawney19/Aether) | ⭐ 1.5k | Rust |  |
@@ -900,8 +900,8 @@
 | [devcontainers/templates](https://github.com/devcontainers/templates) | ⭐ 1.4k | Shell | 由 Dev Container 规范维护者管理的 Dev Container 模板仓库。前往 https://github.com/devcontainers/… |
 | [Tencent/tquic](https://github.com/Tencent/tquic) | ⭐ 1.4k | Rust | 高性能、轻量级跨平台 QUIC 库 |
 | [lvwzhen/medicine](https://github.com/lvwzhen/medicine) | ⭐ 1.4k | Vue | 原研药列表 |
-| [facontidavide/CPP_Optimizations_Diary](https://github.com/facontidavide/CPP_Optimizations_Diary) | ⭐ 1.4k | C++ | 优化C++代码的实用技巧 |
 | [hotovo/aider-desk](https://github.com/hotovo/aider-desk) | ⭐ 1.4k | TypeScript | 面向 AI 赋能的软件工程师的开发平台 |
+| [facontidavide/CPP_Optimizations_Diary](https://github.com/facontidavide/CPP_Optimizations_Diary) | ⭐ 1.4k | C++ | 优化C++代码的实用技巧 |
 | [uaxe/geektime-docs](https://github.com/uaxe/geektime-docs) | ⭐ 1.4k | Python | 👏极客时间 pdf & markdown 文档 |
 | [crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) | ⭐ 1.4k | Shell | 用于基因组学与数据科学的Unix、R和Python工具集 |
 | [eatmoreduck/boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper) | ⭐ 1.4k | Python | Boss直聘爬虫 / BOSS直聘职位数据抓取工具，基于 Chrome CDP 协议复用真实登录态，绕过字体反爬，输出明文薪资 JSON/CSV + 薪资技能分… |
@@ -928,21 +928,21 @@
 | [coz-m/MPLUS_FONTS](https://github.com/coz-m/MPLUS_FONTS) | ⭐ 1.2k | Python | M+ 字体 |
 | [pr0g/cmake-examples](https://github.com/pr0g/cmake-examples) | ⭐ 1.2k | CMake | 一系列尽可能简洁的现代化 CMake 项目 |
 | [laishulu/Sarasa-Term-SC-Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd) | ⭐ 1.2k | Python | 简体中文终端更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。 |
+| [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) | ⭐ 1.2k | Python | 让AI编程代理具备架构感知能力：先做基线、验证证据、检查漂移，在长任务中全程保障安全。 |
 | [mobinsheng/books](https://github.com/mobinsheng/books) | ⭐ 1.2k | C | 技术书籍 |
 | [SilenceDut/KnowWeather](https://github.com/SilenceDut/KnowWeather) | ⭐ 1.2k | Java | 一款美观、实用的天气app。实践了模块化架构 和 Android Architecture Components |
-| [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) | ⭐ 1.2k | Python | 让AI编程代理具备架构感知能力：先做基线、验证证据、检查漂移，在长任务中全程保障安全。 |
 | [dulikaifazr/Cougar-CLI](https://github.com/dulikaifazr/Cougar-CLI) | ⭐ 1.2k | TypeScript | Cougar CLI — 命令行的 AI 编程代理 |
 | [uhub/awesome-python](https://github.com/uhub/awesome-python) | ⭐ 1.2k |  | 精选优质 Python 框架、库与软件列表 |
-| [yzy1996/English-Writing](https://github.com/yzy1996/English-Writing) | ⭐ 1.2k |  | Enhance Your English Writing for Science Research 写论文英语素材 |
 | [linux-do/override](https://github.com/linux-do/override) | ⭐ 1.2k | Go | 啥也不是 |
+| [yzy1996/English-Writing](https://github.com/yzy1996/English-Writing) | ⭐ 1.2k |  | Enhance Your English Writing for Science Research 写论文英语素材 |
 | [kekylin/debnas](https://github.com/kekylin/debnas) | ⭐ 1.2k | Shell | 一个将Debian快速配置成准NAS系统的脚本。 |
 | [1943time/inkdown](https://github.com/1943time/inkdown) | ⭐ 1.2k | TypeScript | Inkdown 是一款所见即所得编辑器兼大语言模型对话工具，完全兼容 GitHub Flavored Markdown 规范。 |
 | [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) | ⭐ 1.2k | Kotlin | 一款帮你记录想法与灵感的应用 |
 | [0voice/awesome_audio_video_learning](https://github.com/0voice/awesome_audio_video_learning) | ⭐ 1.2k |  | 2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！ |
 | [BiFangKNT/mtga](https://github.com/BiFangKNT/mtga) | ⭐ 1.2k | Python | 基于本地代理的方式，绕过 IDE 的固定模型服务商限制 |
 | [AlibabaCloudDocs/aliyun_acp_learning](https://github.com/AlibabaCloudDocs/aliyun_acp_learning) | ⭐ 1.2k | Jupyter Notebook |  |
-| [ztx888/HaloWebUI](https://github.com/ztx888/HaloWebUI) | ⭐ 1.2k | Python | 基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计 |
 | [shenwei356/csvtk](https://github.com/shenwei356/csvtk) | ⭐ 1.2k | Go | 基于Golang开发的跨平台高效实用CSV/TSV工具包 |
+| [ztx888/HaloWebUI](https://github.com/ztx888/HaloWebUI) | ⭐ 1.2k | Python | 基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计 |
 | [Gisto/Gisto](https://github.com/Gisto/Gisto) | ⭐ 1.2k | TypeScript | Gisto 是一款跨平台代码片段管理应用，可让你和/或你的团队快速便捷地共享代码片段。它基于 GitHub Gists 或 GitLab snippets 基础… |
 | [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) | ⭐ 1.2k | JavaScript | 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。 |
 | [geektutu/interview-questions](https://github.com/geektutu/interview-questions) | ⭐ 1.2k | Jupyter Notebook | 机器学习/深度学习/Python/Go语言面试题笔试题(Machine learning Deep Learning Python and Golang Int… |
@@ -954,8 +954,8 @@
 | [makejavas/EasyCode](https://github.com/makejavas/EasyCode) | ⭐ 1.1k | Java | 基于IntelliJ IDEA开发的代码生成插件，支持自定义任意模板（Java，html，js，xml）。只要是与数据库相关的代码都可以通过自定义模板来生成。支… |
 | [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) | ⭐ 1.1k | HTML | 使用 LaTeXML 将 LaTeX 文档转换为美观的响应式网页。 |
 | [PharMolix/OpenBioMed](https://github.com/PharMolix/OpenBioMed) | ⭐ 1.1k | Python |  |
-| [crazyhottommy/RNA-seq-analysis](https://github.com/crazyhottommy/RNA-seq-analysis) | ⭐ 1.1k | Python | Ming Tang的RNAseq分析笔记 |
 | [CometixSpace/CCursor](https://github.com/CometixSpace/CCursor) | ⭐ 1.1k | TypeScript | 为 Cursor IDE 自带密钥！ |
+| [crazyhottommy/RNA-seq-analysis](https://github.com/crazyhottommy/RNA-seq-analysis) | ⭐ 1.1k | Python | Ming Tang的RNAseq分析笔记 |
 | [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) | ⭐ 1.1k | TypeScript | 使用 Playwright 无头浏览器获取网页内容的 MCP 服务器 |
 | [AnnaSuSu/TechSpar](https://github.com/AnnaSuSu/TechSpar) | ⭐ 1.1k | TypeScript | 一个持续进化的面试训练系统。在线体验地址：https://techspar.cn |
 | [KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub) | ⭐ 1.1k |  | 100+道带答案的大语言模型面试题 |
@@ -973,22 +973,23 @@
 | [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) | ⭐ 952 | Shell | Ally-Health 是一款智能医疗助手，它依托先进AI技术与医学专业知识革新个人健康管理。它通过自然语言交互帮助用户记录症状、管理用药、整理病历并获取多学科… |
 | [mikolmogorov/Flye](https://github.com/mikolmogorov/Flye) | ⭐ 950 | C | 基于重复图谱的单分子测序读段从头组装工具 |
 | [Buernia/Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) | ⭐ 950 |  | 煮豆黑体，Noto 风格中日韩标点符号字体。A font family for CJK symbols and punctuation, derived fro… |
-| [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) | ⭐ 948 | TypeScript | A cross-platform, instant-rendering desktop Markdown editor 一个跨平台的、即时渲染桌面端 Markd… |
+| [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) | ⭐ 949 | TypeScript | A cross-platform, instant-rendering desktop Markdown editor 一个跨平台的、即时渲染桌面端 Markd… |
 | [chronolaw/cpp_study](https://github.com/chronolaw/cpp_study) | ⭐ 948 | C++ | 跟我一起学现代C++ |
-| [CaoZ/JD-Coin](https://github.com/CaoZ/JD-Coin) | ⭐ 920 | Python | 自动登录京东，打卡领钢镚，签到领京豆 |
+| [markhorn-dev/astro-nano](https://github.com/markhorn-dev/astro-nano) | ⭐ 939 | Astro | Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and bl… |
+| [CaoZ/JD-Coin](https://github.com/CaoZ/JD-Coin) | ⭐ 921 | Python | 自动登录京东，打卡领钢镚，签到领京豆 |
 | [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) | ⭐ 905 | Svelte | 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI… |
 | [aceld/libevent](https://github.com/aceld/libevent) | ⭐ 901 |  | <Libevent深入浅出>本书要求有一定的服务并发编程基础，了解select和epoll等多路I/O复用机制。 |
-| [sunbigfly/ppt-agent-skills](https://github.com/sunbigfly/ppt-agent-skills) | ⭐ 895 | Python | A code-driven presentation generation framework. 像构建软件工程一样生成演示文稿。 |
+| [sunbigfly/ppt-agent-skills](https://github.com/sunbigfly/ppt-agent-skills) | ⭐ 898 | Python | A code-driven presentation generation framework. 像构建软件工程一样生成演示文稿。 |
 | [golangboy/wxocr](https://github.com/golangboy/wxocr) | ⭐ 895 |  | 无内容 |
-| [rmyorston/busybox-w32](https://github.com/rmyorston/busybox-w32) | ⭐ 887 | C | BusyBox 的 WIN32 原生移植版。 |
-| [yann0917/dedao-dl](https://github.com/yann0917/dedao-dl) | ⭐ 886 | Go | 得到 APP 课程下载工具，可在终端查看文章内容，可生成 PDF，音频文件，markdown 文稿，可下载电子书。可结合 openclaw +skill 等使用 |
+| [rmyorston/busybox-w32](https://github.com/rmyorston/busybox-w32) | ⭐ 888 | C | BusyBox 的 WIN32 原生移植版。 |
+| [yann0917/dedao-dl](https://github.com/yann0917/dedao-dl) | ⭐ 887 | Go | 得到 APP 课程下载工具，可在终端查看文章内容，可生成 PDF，音频文件，markdown 文稿，可下载电子书。可结合 openclaw +skill 等使用 |
 | [jalammar/jalammar.github.io🔀](https://github.com/jalammar/jalammar.github.io) | ⭐ 879 | HTML | 无需触碰命令行，数分钟即可搭建Jekyll博客 |
 | [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh) | ⭐ 866 | Shell | 计算机公开课推荐 |
 | [yenche123/liubai](https://github.com/yenche123/liubai) | ⭐ 864 | TypeScript | 赋能你自己！ |
 | [bwa-mem2/bwa-mem2](https://github.com/bwa-mem2/bwa-mem2) | ⭐ 860 | C++ | bwa-mem 的下一代版本 |
 | [openwdl/wdl](https://github.com/openwdl/wdl) | ⭐ 857 |  | 工作流描述语言（WDL）规范 |
-| [ButTaiwan/gensen-font](https://github.com/ButTaiwan/gensen-font) | ⭐ 854 |  | 源自Source Han Sans的免费字体系列。 |
-| [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 852 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
+| [ButTaiwan/gensen-font](https://github.com/ButTaiwan/gensen-font) | ⭐ 855 |  | 源自Source Han Sans的免费字体系列。 |
+| [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 853 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
 | [crazyhottommy/scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes) | ⭐ 841 |  | Ming Tang 的单细胞 RNA 测序分析笔记 |
 | [jingtian11/EasyOffer](https://github.com/jingtian11/EasyOffer) | ⭐ 822 | Jupyter Notebook | 《EasyOffer》（<大模型面经合集>）是针对LLM宝宝们量身打造的大模型暑期实习Offer指南，主要记录大模型暑期实习和秋招准备的一些常见大厂手撕代码、大… |
 | [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) | ⭐ 822 | Shell | 一款可在使用限额解除后自动恢复 Claude CLI 任务的 shell 脚本工具 |
@@ -999,15 +1000,15 @@
 | [Iamshankhadeep/ccseva](https://github.com/Iamshankhadeep/ccseva) | ⭐ 807 | TypeScript | 一款美观的 macOS 菜单栏应用，可实时追踪你的 Claude Code 使用量。 |
 | [intel/optimization-manual🟡](https://github.com/intel/optimization-manual) | ⭐ 807 | Assembly | 包含《英特尔® 64 位与 IA-32 架构优化参考手册》中介绍的源代码示例 |
 | [aliyun/ossfs](https://github.com/aliyun/ossfs) | ⭐ 806 | C++ | 用于将OSS存储桶挂载为本地文件系统的高性能文件客户端。 |
-| [qy527145/acemcp](https://github.com/qy527145/acemcp) | ⭐ 804 | Python | 一个将ACE(Augment Context Engine) 做成MCP的项目 |
+| [qy527145/acemcp](https://github.com/qy527145/acemcp) | ⭐ 803 | Python | 一个将ACE(Augment Context Engine) 做成MCP的项目 |
+| [WakeUp-Jin/Practical-Guide-to-Context-Engineering](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering) | ⭐ 802 |  | 大模型应用开发的方向，上下文工程是设计原则，Agent Harness 是构建目标，本项目的目标，是为开发者和研究者提供一份大模型应用开发的骨架思路 |
 | [lcomplete/TechShare](https://github.com/lcomplete/TechShare) | ⭐ 799 | Vue | 🌟 分享效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和有趣内容 😄。💌 当有重要的事情需要分享时会发送 newsletter。 |
-| [WakeUp-Jin/Practical-Guide-to-Context-Engineering](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering) | ⭐ 796 |  | 大模型应用开发的方向，上下文工程是设计原则，Agent Harness 是构建目标，本项目的目标，是为开发者和研究者提供一份大模型应用开发的骨架思路 |
-| [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 791 | Go | 👏 Make learning a lifelong habit. 学无止境 |
+| [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 792 | Go | 👏 Make learning a lifelong habit. 学无止境 |
+| [OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | ⭐ 791 |  | 去AI味提示词-作家增强-SKILL |
 | [findmover/wxread](https://github.com/findmover/wxread) | ⭐ 788 | Python | 微信读书刷时长助你成为霸榜“大佬” |
-| [OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | ⭐ 786 |  | 去AI味提示词-作家增强-SKILL |
 | [bilibili/vim-vide](https://github.com/bilibili/vim-vide) | ⭐ 786 | Vim Script | Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！ |
-| [huangguang1999/ccstatusline-zh](https://github.com/huangguang1999/ccstatusline-zh) | ⭐ 778 | TypeScript | ccstatusline 的中文汉化版 - Claude Code CLI 可定制状态栏格式化工具 |
-| [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) | ⭐ 776 |  | 部分文件在 T v1.1 上可正常运行（最新支持版本为 v1.9.5/1.9.2-dev），基于 TC 开发 |
+| [huangguang1999/ccstatusline-zh](https://github.com/huangguang1999/ccstatusline-zh) | ⭐ 779 | TypeScript | ccstatusline 的中文汉化版 - Claude Code CLI 可定制状态栏格式化工具 |
+| [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) | ⭐ 778 |  | 部分文件在 T v1.1 上可正常运行（最新支持版本为 v1.9.5/1.9.2-dev），基于 TC 开发 |
 | [DJB-Developer/wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions) | ⭐ 767 | JavaScript | 微信Android 微信安卓版 微信安卓 历史版本 官方下载地址 |
 | [Ran-Mewo/augment-vip](https://github.com/Ran-Mewo/augment-vip) | ⭐ 755 |  | 移除 AugmentCode 免费试用账户限制，支持全操作系统与所有 IDE（IntelliJ、VSCode、全 JetBrains IDE、所有 VSCode… |
 | [ZeroTang05/VideoAdGuard](https://github.com/ZeroTang05/VideoAdGuard) | ⭐ 751 | TypeScript | 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。 |
@@ -1031,34 +1032,34 @@
 | [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) | ⭐ 623 | Rust | 合并多个网络连接，提升你的下载速度 |
 | [BartVandewoestyne/Effective-Modern-Cpp](https://github.com/BartVandewoestyne/Effective-Modern-Cpp) | ⭐ 618 | C++ | Scott Meyers所著《Effective Modern C++》的示例代码 |
 | [bbruceyuan/AI-Interview-Code](https://github.com/bbruceyuan/AI-Interview-Code) | ⭐ 614 | Jupyter Notebook | LLM大模型（重点）以及搜广推等 AI 算法中手写的面试题，（非 LeetCode），比如 Self-Attention, AUC等，一般比 LeetCode… |
-| [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 613 | TypeScript |  |
+| [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 614 | TypeScript |  |
 | [neolee/pilot](https://github.com/neolee/pilot) | ⭐ 613 | Jupyter Notebook | 进入编程世界的第一课 |
 | [cnlinxi/book-text-to-speech](https://github.com/cnlinxi/book-text-to-speech) | ⭐ 612 | TeX | 一本关于中文文本转语音（TTS）的书。 |
 | [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) | ⭐ 610 |  | 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟 |
 | [o8oo8o/WebCurl](https://github.com/o8oo8o/WebCurl) | ⭐ 609 | HTML | 极简网页版API调试神器 |
+| [Mercurygram/Mercurygram🔀](https://github.com/Mercurygram/Mercurygram) | ⭐ 596 | Java | Android 版官方 Telegram 客户端的非官方、对自由开源软件友好的分支 |
 | [r-smith/vmPing](https://github.com/r-smith/vmPing) | ⭐ 595 | C# | 可视化多Ping，用于监控多台主机的色标编码Ping工具 |
 | [lylehust/Chinese-IPTV](https://github.com/lylehust/Chinese-IPTV) | ⭐ 595 |  | 中国电视频道列表（IPV6） |
-| [Mercurygram/Mercurygram🔀](https://github.com/Mercurygram/Mercurygram) | ⭐ 594 | Java | Android 版官方 Telegram 客户端的非官方、对自由开源软件友好的分支 |
 | [MoonshotAI/K2-Vendor-Verifier](https://github.com/MoonshotAI/K2-Vendor-Verifier) | ⭐ 593 | Python | 验证所有提供 Kimi K2 API 厂商的精度 |
+| [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy) | ⭐ 587 | JavaScript | Command Code API 反代代理，兼容 OpenAI 与 Anthropic 接口 | Reverse proxy exposing Command… |
 | [ZMGID/kivio](https://github.com/ZMGID/kivio) | ⭐ 584 | Rust |  |
+| [CyanoHao/Resource-Han-Rounded](https://github.com/CyanoHao/Resource-Han-Rounded) | ⭐ 583 | JavaScript | Resource Han Rounded，一款源自Source Han Sans的圆角字体家族。 |
 | [Paper-Dragon/mobaxterm-crack](https://github.com/Paper-Dragon/mobaxterm-crack) | ⭐ 582 | TypeScript | 破解MobaXterm的高级版，生成密钥，支持几乎所有版本。 |
 | [OysterQAQ/ACG2vec](https://github.com/OysterQAQ/ACG2vec) | ⭐ 582 |  | ACG2vec (Anime Comics Games to vector) are committed to creating a playground th… |
-| [CyanoHao/Resource-Han-Rounded](https://github.com/CyanoHao/Resource-Han-Rounded) | ⭐ 582 | JavaScript | Resource Han Rounded，一款源自Source Han Sans的圆角字体家族。 |
 | [WoJiSama/skill-based-architecture](https://github.com/WoJiSama/skill-based-architecture) | ⭐ 579 | Shell | 这是一项可以生成技能的元技能：指向任意代码库后，它就能把项目的规则、工作流与经验教训提取出来，整理存入专用的`skills/<项目名>/`目录中——这个项目技能… |
 | [ccpopy/antissh](https://github.com/ccpopy/antissh) | ⭐ 578 | Shell | 反重力Agent代理一键脚本，支持WSL、SSH远程 |
 | [Waleon/DesignPatterns](https://github.com/Waleon/DesignPatterns) | ⭐ 575 | C++ | 趣味设计模式，小朋友也能学得会！ |
+| [wzsx150/MobaXterm_CN](https://github.com/wzsx150/MobaXterm_CN) | ⭐ 574 |  | MobaXterm 综合远程工具 汉化版 |
 | [Jskeaaa/cursor_pro](https://github.com/Jskeaaa/cursor_pro) | ⭐ 573 |  | (项目已失效）白嫖cursor突破claude-4max的限制，仅供学习，给个星星 |
-| [wzsx150/MobaXterm_CN](https://github.com/wzsx150/MobaXterm_CN) | ⭐ 572 |  | MobaXterm 综合远程工具 汉化版 |
-| [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) | ⭐ 568 | Python | 一个用于在NVIDIA GPU和昆仑芯XPU上训练大语言模型、视觉语言模型、扩散模型以及具身智能模型的高性能框架 |
+| [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) | ⭐ 569 | Python | 一个用于在NVIDIA GPU和昆仑芯XPU上训练大语言模型、视觉语言模型、扩散模型以及具身智能模型的高性能框架 |
 | [carlvellotti/claude-code-everyone-course](https://github.com/carlvellotti/claude-code-everyone-course) | ⭐ 568 | MDX | 人人可用的 Claude Code —— 在 Claude Code 中学习 Claude Code |
 | [Lularible/storage-book](https://github.com/Lularible/storage-book) | ⭐ 566 | C | 一本关于存储技术与文件系统的开源书籍。从绳结记事到Flash物理特性，从FAT到LittleFS —— 还附带教学级日志结构嵌入式文件系统KnotFS（约840… |
 | [Sergei-Korneev/obsidian-local-images-plus](https://github.com/Sergei-Korneev/obsidian-local-images-plus) | ⭐ 565 | TypeScript | 本仓库是 obsidian-local-images 插件的重制项目，该插件的核心功能是将 Markdown 笔记中的图片下载到本地存储。 |
 | [ahmetsait/toolgit](https://github.com/ahmetsait/toolgit) | ⭐ 563 | Python | Git 生产力工具集 |
 | [wdecoster/NanoPlot](https://github.com/wdecoster/NanoPlot) | ⭐ 560 | HTML | 用于长读长测序数据的绘图脚本 |
-| [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy) | ⭐ 559 | JavaScript | Command Code API 反代代理，兼容 OpenAI 与 Anthropic 接口 | Reverse proxy exposing Command… |
 | [lunar-landing/layui-vue](https://github.com/lunar-landing/layui-vue) | ⭐ 557 | Vue | 基于 Layui 和 Vue 的企业级 UI 组件库 |
-| [Haleclipse/codex🔀](https://github.com/Haleclipse/codex) | ⭐ 555 | Rust | 可在终端运行的轻量级编程代理 |
 | [vannvan/yuque-tools](https://github.com/vannvan/yuque-tools) | ⭐ 555 | TypeScript | 🧰 玩转语雀-朴实无华的语雀资源导出工具，语雀知识库+团队资源批量导出/备份工具(无需Token) |
+| [Haleclipse/codex🔀](https://github.com/Haleclipse/codex) | ⭐ 554 | Rust | 可在终端运行的轻量级编程代理 |
 | [xujiangjiang/Easy-Cat-Timer](https://github.com/xujiangjiang/Easy-Cat-Timer) | ⭐ 553 | C# | This is a very simple cat timer, made using WPF（这是一个非常简单的猫咪计时器，使用WPF制作） |
 | [catlog22/maestro-flow](https://github.com/catlog22/maestro-flow) | ⭐ 552 | TypeScript | 面向多智能体AI开发的意图驱动工作流编排——适配Claude Code、Gemini、Codex等工具的自适应生命周期引擎、自强化知识图谱与可视化仪表盘 |
 | [hooke007/mpv.net_CM🟡](https://github.com/hooke007/mpv.net_CM) | ⭐ 550 |  | 🎞 mpv.net_CM 是中文分支模组 |
@@ -1066,7 +1067,7 @@
 | [imelnyk/ArxivPapers](https://github.com/imelnyk/ArxivPapers) | ⭐ 544 | Python | Arxiv 论文的配套代码 |
 | [foxyproxy/firefox-extension](https://github.com/foxyproxy/firefox-extension) | ⭐ 540 | JavaScript | 适用于 Firefox 57（Quantum）及以上版本的 Firefox 扩展 FoxyProxy |
 | [hitnology/snoopy](https://github.com/hitnology/snoopy) | ⭐ 536 | Objective-C | macOS 版本史努比屏幕保护 |
-| [azrilaiman2003/augment-vip](https://github.com/azrilaiman2003/augment-vip) | ⭐ 530 | Python | 移除 AugmentCode 免费试用账户限制 |
+| [azrilaiman2003/augment-vip](https://github.com/azrilaiman2003/augment-vip) | ⭐ 529 | Python | 移除 AugmentCode 免费试用账户限制 |
 | [evanhu1/talk2arxiv](https://github.com/evanhu1/talk2arxiv) | ⭐ 529 | TypeScript | 基于ChatGPT和任意ArXiv论文对话 |
 | [jxnu-liguobin/cs-summary-reflection🟡](https://github.com/jxnu-liguobin/cs-summary-reflection) | ⭐ 520 | Java | :bulb: 没啥用的仓库，别看了。关注 https://github.com/bitlap/zim |
 | [dbkangaroo/kangaroo](https://github.com/dbkangaroo/kangaroo) | ⭐ 518 | TSQL | Kangaroo 是一款适配 Windows/MacOS/Linux 平台，面向主流数据库（MariaDB/MySQL/Oracle/PostgreSQL/Re… |
@@ -1081,26 +1082,26 @@
 | [mxyhi/ok-skills](https://github.com/mxyhi/ok-skills) | ⭐ 489 | HTML | 为 Codex、Claude Code、Cursor、OpenClaw 及其他兼容 SKILL.md 的工具整理精选 AI 编码代理技能与 AGENTS.md… |
 | [chengazhen/gitlens-pro](https://github.com/chengazhen/gitlens-pro) | ⭐ 488 | Go | 一个用于激活 GitLens Pro 的工具。 |
 | [EdisonLeeeee/Awesome-Learning-Resource](https://github.com/EdisonLeeeee/Awesome-Learning-Resource) | ⭐ 482 |  | 精心整理的各类学习资源合集，涵盖博客、书籍、视频等内容 |
+| [10XGenomics/cellranger](https://github.com/10XGenomics/cellranger) | ⭐ 477 | Rust | 10x Genomics 单细胞分析 |
 | [nakabonne/gosivy](https://github.com/nakabonne/gosivy) | ⭐ 477 | Go | 用于Go进程指标的实时可视化工具 |
-| [10XGenomics/cellranger](https://github.com/10XGenomics/cellranger) | ⭐ 476 | Rust | 10x Genomics 单细胞分析 |
 | [oncework/Codeexpander](https://github.com/oncework/Codeexpander) | ⭐ 475 | JavaScript | 跨平台文本扩展工具，可通过缩写快速插入代码片段、代码模板和动态内容，内置截图标注与剪贴板管理器，为开发者、创作者及日常工作流提升生产力。 |
-| [hantmac/Python-Interview-Customs-Collection](https://github.com/hantmac/Python-Interview-Customs-Collection) | ⭐ 464 |  | Python面试通关宝典，秋招、春招的小伙伴✿✿ヽ(°▽°)ノ✿），有面Python开发方向的，看这一个repo就够啦😘 |
+| [hantmac/Python-Interview-Customs-Collection](https://github.com/hantmac/Python-Interview-Customs-Collection) | ⭐ 465 |  | Python面试通关宝典，秋招、春招的小伙伴✿✿ヽ(°▽°)ノ✿），有面Python开发方向的，看这一个repo就够啦😘 |
 | [hmarr/vitals](https://github.com/hmarr/vitals) | ⭐ 464 | Swift | 📊 轻量macOS进程监视器 |
 | [maxsky/Yahei-Monaco-Hybrid-Font](https://github.com/maxsky/Yahei-Monaco-Hybrid-Font) | ⭐ 464 |  | Microsoft Yahei UI Regular & Apple Monaco Hybrid. 微软雅黑和 Monaco 字体混合版【禁止他用】 |
 | [seqan/seqan3](https://github.com/seqan/seqan3) | ⭐ 463 | C++ | 用于序列分析的现代C++库，包含该库的第3版本及API文档。 |
 | [openbiox/weekly](https://github.com/openbiox/weekly) | ⭐ 461 | HTML | 生信爱好者周刊（每周日发布） |
 | [ChengShiest/LAST-ViT](https://github.com/ChengShiest/LAST-ViT) | ⭐ 460 | Python | [CVPR 2026] 论文《Vision Transformer Needs More Than Registers》的官方PyTorch实现 |
 | [Laumss/loominary](https://github.com/Laumss/loominary) | ⭐ 460 | JavaScript | 对话不应该只存在于滚动条里。Loominary 为你的 Claude 和 SillyTavern 对话提供了容身之所——所有对话的本地存档，完全由你留存。即将推… |
-| [DoooReyn/WxRead-WebAutoReader](https://github.com/DoooReyn/WxRead-WebAutoReader) | ⭐ 459 |  | 微信读书自动阅读器，全自动刷阅读时长，轻轻松松冲顶霸榜，您的微读挂机好帮手 |
+| [DoooReyn/WxRead-WebAutoReader](https://github.com/DoooReyn/WxRead-WebAutoReader) | ⭐ 457 |  | 微信读书自动阅读器，全自动刷阅读时长，轻轻松松冲顶霸榜，您的微读挂机好帮手 |
 | [YatSenOS/YatSenOS-Tutorial-Volume-1](https://github.com/YatSenOS/YatSenOS-Tutorial-Volume-1) | ⭐ 456 | C++ | 一个简单的32位操作系统实验教程。 |
 | [RethinkFun/DeepLearning](https://github.com/RethinkFun/DeepLearning) | ⭐ 455 | Python |  |
-| [MikeWang000000/vscode-server-centos7](https://github.com/MikeWang000000/vscode-server-centos7) | ⭐ 451 | C | 在 RHEL/CentOS 7 上运行最新版 vscode-server！ |
+| [MikeWang000000/vscode-server-centos7](https://github.com/MikeWang000000/vscode-server-centos7) | ⭐ 452 | C | 在 RHEL/CentOS 7 上运行最新版 vscode-server！ |
 | [hitzzc/go-leetcode](https://github.com/hitzzc/go-leetcode) | ⭐ 451 | Go | 基于Golang的LeetCode题解 |
 | [lzskyline/VocabMeld](https://github.com/lzskyline/VocabMeld) | ⭐ 448 | JavaScript | 智能替换网页词汇，创造沉浸式双语学习环境，在日常浏览中自然习得语言。 |
 | [hbctraining/In-depth-NGS-Data-Analysis-Course🟡](https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course) | ⭐ 448 | HTML |  |
 | [vss2sn/path_planning](https://github.com/vss2sn/path_planning) | ⭐ 448 | C++ | 本仓库包含基于网格搜索的C++路径规划算法。 |
 | [xiaoweihan/Books](https://github.com/xiaoweihan/Books) | ⭐ 448 |  |  |
-| [cocojojo5213/phonics-app](https://github.com/cocojojo5213/phonics-app) | ⭐ 443 | JavaScript | 真正从基础开始学英语 - 自然拼读练习应用 |
+| [cocojojo5213/phonics-app](https://github.com/cocojojo5213/phonics-app) | ⭐ 442 | JavaScript | 真正从基础开始学英语 - 自然拼读练习应用 |
 | [MetaCubeX/clash-verge🟡](https://github.com/MetaCubeX/clash-verge) | ⭐ 441 | TypeScript | 基于 Tauri 构建的 Clash 图形界面，支持 Windows、macOS 和 Linux。 |
 | [MistRipple/ace-tool](https://github.com/MistRipple/ace-tool) | ⭐ 433 | TypeScript |  |
 | [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) | ⭐ 425 | Python |  |
@@ -1112,10 +1113,10 @@
 | [wzdnzd/resume](https://github.com/wzdnzd/resume) | ⭐ 403 | TypeScript | 功能丰富、支持灵活自定义的简历生成工具 |
 | [cloudanum/50Algorithms](https://github.com/cloudanum/50Algorithms) | ⭐ 399 | Jupyter Notebook | Code for 50 Algorithms Every Programmer Should Know, Second Edition (Packt) by I… |
 | [gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) | ⭐ 396 |  |  |
-| [datawhalechina/awesome-compression](https://github.com/datawhalechina/awesome-compression) | ⭐ 384 |  | 模型压缩的小白入门教程，PDF下载地址 https://github.com/datawhalechina/awesome-compression/releas… |
+| [datawhalechina/awesome-compression](https://github.com/datawhalechina/awesome-compression) | ⭐ 385 |  | 模型压缩的小白入门教程，PDF下载地址 https://github.com/datawhalechina/awesome-compression/releas… |
 | [jenniferlu717/KrakenTools](https://github.com/jenniferlu717/KrakenTools) | ⭐ 384 | Python | KrakenTools 提供用于分析 Kraken/Kraken2/Bracken/KrakenUniq 输出文件的独立脚本 |
 | [jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) | ⭐ 384 | TeX | x86-64 Linux 系统编程速查表 |
-| [rashidazarang/chatgpt-chat-exporter](https://github.com/rashidazarang/chatgpt-chat-exporter) | ⭐ 382 | JavaScript | 一款轻量级浏览器端工具，可将你的ChatGPT对话导出为美观的Markdown或PDF格式。 |
+| [rashidazarang/chatgpt-chat-exporter](https://github.com/rashidazarang/chatgpt-chat-exporter) | ⭐ 383 | JavaScript | 一款轻量级浏览器端工具，可将你的ChatGPT对话导出为美观的Markdown或PDF格式。 |
 | [Ming-Lian/NGS-analysis](https://github.com/Ming-Lian/NGS-analysis) | ⭐ 378 |  | 二代测序数据分析 |
 | [obophenotype/human-phenotype-ontology](https://github.com/obophenotype/human-phenotype-ontology) | ⭐ 373 | Makefile | 用于描述人类临床特征的本体 |
 | [liangdabiao/Claude-Code-Stock-Deep-Research-Agent](https://github.com/liangdabiao/Claude-Code-Stock-Deep-Research-Agent) | ⭐ 372 |  | 本研究基于 Claude Code Deep Research 系统：  方法论: 8阶段股票投资尽调框架 智能体: 28个并行研究智能体 工具: WebSea… |
@@ -1129,7 +1130,7 @@
 | [funny-vibes/agent-vibes](https://github.com/funny-vibes/agent-vibes) | ⭐ 360 | TypeScript | 统一代理网关 — 让 Claude Code CLI 和 Cursor IDE 通过协议转换使用免费 AI 后端（Antigravity、Codex） |
 | [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) | ⭐ 359 | JavaScript | GitHub Freshness 在线文档 |
 | [yjh051108/dsh-router-standard🟡](https://github.com/yjh051108/dsh-router-standard) | ⭐ 358 | JavaScript | 已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 githu… |
-| [Devinterview-io/pytorch-interview-questions](https://github.com/Devinterview-io/pytorch-interview-questions) | ⭐ 354 |  | 🟣 用于帮你准备2026年机器学习与数据科学面试的PyTorch面试题及答案合集 |
+| [Devinterview-io/pytorch-interview-questions](https://github.com/Devinterview-io/pytorch-interview-questions) | ⭐ 355 |  | 🟣 用于帮你准备2026年机器学习与数据科学面试的PyTorch面试题及答案合集 |
 | [NiuTrans/ABigSurveyOfLLMs](https://github.com/NiuTrans/ABigSurveyOfLLMs) | ⭐ 353 |  | 150+份大语言模型相关调研的合集 |
 | [upupming/algorithm](https://github.com/upupming/algorithm) | ⭐ 344 | C++ | acwing, leetcode, kickstart, 算法模板, PAT 等等 |
 | [AnkRoot/Augment-BYOK](https://github.com/AnkRoot/Augment-BYOK) | ⭐ 342 | JavaScript |  |
@@ -1143,8 +1144,8 @@
 | [sailist/chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension) | ⭐ 328 | TypeScript | 一款提升你的ChatGPT使用体验的全能插件！ |
 | [andrewkchan/deepseek.cpp](https://github.com/andrewkchan/deepseek.cpp) | ⭐ 324 | C++ | 基于 C++ 的 DeepSeek 系列大语言模型 CPU 推理 |
 | [zoicware/RepairBadTweaks](https://github.com/zoicware/RepairBadTweaks) | ⭐ 311 | PowerShell | 修复常用Windows优化调整项 |
-| [Baseult/NetLimiterCrack](https://github.com/Baseult/NetLimiterCrack) | ⭐ 306 | C# | 一个用于免费获取 NetLimiter Premium 的简单补丁程序 |
 | [TopChina/proxy-list](https://github.com/TopChina/proxy-list) | ⭐ 306 |  | 免费代理列表，含HTTP、Socks4与Socks5开放代理 |
+| [Baseult/NetLimiterCrack](https://github.com/Baseult/NetLimiterCrack) | ⭐ 305 | C# | 一个用于免费获取 NetLimiter Premium 的简单补丁程序 |
 | [GcsSloop/TinyPng](https://github.com/GcsSloop/TinyPng) | ⭐ 303 | Python | 图片批量压缩脚本(Python) |
 | [WangQrkkk/PaperQuay](https://github.com/WangQrkkk/PaperQuay) | ⭐ 302 | TypeScript | 优先适配桌面端的文献管理工具，支持PDF阅读、翻译、论文概览与AI智能体工作流。 |
 | [Lin-jun-xiang/awesome-vscode-extensions](https://github.com/Lin-jun-xiang/awesome-vscode-extensions) | ⭐ 301 | PowerShell | :gem:热门 VSCode 扩展精选 |
@@ -1155,9 +1156,9 @@
 | [dstdev/awesome-hpc](https://github.com/dstdev/awesome-hpc) | ⭐ 272 |  | 精选HPC优秀软件与工具合集 |
 | [numba/nvidia-cuda-tutorial](https://github.com/numba/nvidia-cuda-tutorial) | ⭐ 269 | Jupyter Notebook | 英伟达贡献了面向Numba的CUDA教程 |
 | [016/Antigravity-Better](https://github.com/016/Antigravity-Better) | ⭐ 260 | HTML | Customize your Antigravity AI chat panel. Your IDE, your rules. 自定义你的 Antigravit… |
-| [dxxzst/mml-book-chinese](https://github.com/dxxzst/mml-book-chinese) | ⭐ 259 | Python | mml-book-chinese《Mathematics For Machine Learning》机器学习中的数学 中文版 |
+| [dxxzst/mml-book-chinese](https://github.com/dxxzst/mml-book-chinese) | ⭐ 260 | Python | mml-book-chinese《Mathematics For Machine Learning》机器学习中的数学 中文版 |
 | [llnl/HPC-Tutorials](https://github.com/llnl/HPC-Tutorials) | ⭐ 257 | C | hpc-tutorials.llnl.gov 的未来建站地址 |
-| [PGshen/mini-clipboard](https://github.com/PGshen/mini-clipboard) | ⭐ 254 | Swift | 开源项目，专注于简洁美观、流畅顺滑的使用体验。 |
+| [PGshen/mini-clipboard](https://github.com/PGshen/mini-clipboard) | ⭐ 253 | Swift | 开源项目，专注于简洁美观、流畅顺滑的使用体验。 |
 | [AhJo53589/leetcode-cn](https://github.com/AhJo53589/leetcode-cn) | ⭐ 253 | C++ |  |
 | [MaskRay/Config](https://github.com/MaskRay/Config) | ⭐ 252 | Shell | 我存放的 Gentoo Linux、xmonad、vim、emacs、git、mutt、newsbeuter、tmux、pentadactyl、npm、ides… |
 | [falahati/NetworkAdapterSelector](https://github.com/falahati/NetworkAdapterSelector) | ⭐ 252 | C# | 可强制将程序绑定到指定网络适配器的简易解决方案 |
@@ -1167,7 +1168,7 @@
 | [Tianji95/effective-cpp-note](https://github.com/Tianji95/effective-cpp-note) | ⭐ 243 |  | 《Effective C++》、《More Effective C++》与《Effective Modern C++》笔记 |
 | [lx-s/WinMute](https://github.com/lx-s/WinMute) | ⭐ 243 | C++ | WinMute 可让你在特定事件（例如屏保启动、工作站锁定、关机等）发生时自动静音你的 PC 音量。 |
 | [Contextualist/acp](https://github.com/Contextualist/acp) | ⭐ 241 | Go | 让终端个人文件传输像`cp`一样简单 |
-| [holtwood/awesome-cursorrules-zh](https://github.com/holtwood/awesome-cursorrules-zh) | ⭐ 236 | JavaScript | Cursor AI 编程规则精选集 | 132+ 规则，覆盖前端/后端/AI/DevOps 等 32 个领域 |
+| [holtwood/awesome-cursorrules-zh](https://github.com/holtwood/awesome-cursorrules-zh) | ⭐ 235 | JavaScript | Cursor AI 编程规则精选集 | 132+ 规则，覆盖前端/后端/AI/DevOps 等 32 个领域 |
 | [bkhtmltopdf/bkhtmltopdf](https://github.com/bkhtmltopdf/bkhtmltopdf) | ⭐ 234 | Java | 使用Blink（Chromium）将HTML转换为PDF |
 | [zhugezifang/ai_timeline](https://github.com/zhugezifang/ai_timeline) | ⭐ 233 | HTML | AI时间线，产品地址：http://www.ai-timeline.top |
 | [oldratlee/software-practice-thoughts](https://github.com/oldratlee/software-practice-thoughts) | ⭐ 232 | Jupyter Notebook | 📚 🐣 软件实践文集。主题不限，思考讨论有趣有料就好，包含如 系统的模型分析/量化分析、开源漫游者指南、软件可靠性设计实践、平台产品的逻辑与执行… 🥤 |
@@ -1195,7 +1196,7 @@
 | [haripo/react-github-contribution-calendar](https://github.com/haripo/react-github-contribution-calendar) | ⭐ 172 | HTML | 用于实现 GitHub 风格热力图日历的 React 组件 |
 | [scottbedard/svelte-heatmap](https://github.com/scottbedard/svelte-heatmap) | ⭐ 167 | JavaScript | GitHub 贡献图的轻量可定制版本 |
 | [MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software](https://github.com/MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software) | ⭐ 163 | HTML | 用于灵活、高性能分析DNBelab C系列单细胞数据的官方流程。 |
-| [dimenwarper/awesome-bayes](https://github.com/dimenwarper/awesome-bayes) | ⭐ 161 |  | 贝叶斯推理资源列表 |
+| [dimenwarper/awesome-bayes](https://github.com/dimenwarper/awesome-bayes) | ⭐ 162 |  | 贝叶斯推理资源列表 |
 | [shubhamchandak94/Spring](https://github.com/shubhamchandak94/Spring) | ⭐ 160 | C | FASTQ 压缩 |
 | [gally16/LLM-Jailbreaking-Guide](https://github.com/gally16/LLM-Jailbreaking-Guide) | ⭐ 157 |  | LLM Jailbreaking Guide主流大语言模型越狱指南 |
 | [OpenGene/repaq](https://github.com/OpenGene/repaq) | ⭐ 154 | C | 具备超高压缩比的高速无损FASTQ压缩器 |
@@ -1204,12 +1205,12 @@
 | [HuTianQi/CoolWeather](https://github.com/HuTianQi/CoolWeather) | ⭐ 147 | Java | 本人完全自主设计与开发的一款轻量级简约好用的天气App，无广告，无烦人的通知栏，定位精准，天气信息数据准确，还支持更换背景皮肤哦，颜值爆表 |
 | [touwaeriol/claude-code-plus](https://github.com/touwaeriol/claude-code-plus) | ⭐ 144 | JavaScript | JetBrains IDE 中适用于 Claude Code / Codex CLI / Gemini CLI 的图形界面插件，让你通过美观的可视化界面运行 A… |
 | [fushall/cosmicpython-book🔀](https://github.com/fushall/cosmicpython-book) | ⭐ 141 | Python | 一本关于使用 Pythonic 的应用架构模式来管理复杂性的书。你看，宇宙（Cosmos）是混乱（Chaos）的反面。不过，O'Reilly 实际上不允许我们把… |
-| [Haleclipse/Claudex🟡](https://github.com/Haleclipse/Claudex) | ⭐ 139 | Vue |  |
-| [ahpxex/open-dictionary](https://github.com/ahpxex/open-dictionary) | ⭐ 135 | Python | 基于维基词典构建、借助大语言模型丰富释义的真正开放词典 |
+| [Haleclipse/Claudex🟡](https://github.com/Haleclipse/Claudex) | ⭐ 138 | Vue |  |
+| [ahpxex/open-dictionary](https://github.com/ahpxex/open-dictionary) | ⭐ 136 | Python | 基于维基词典构建、借助大语言模型丰富释义的真正开放词典 |
 | [NoEdgeAI/Doc2XAPITranslate](https://github.com/NoEdgeAI/Doc2XAPITranslate) | ⭐ 135 | Python | 文档全文翻译器：英文PDF/MD论文 → (PDF Doc2X识别) → 翻译（GPT deepseek ollama google deepL deepLX）… |
 | [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) | ⭐ 134 | Dockerfile |  |
+| [shuguangnet/docker_backup_script](https://github.com/shuguangnet/docker_backup_script) | ⭐ 134 | Shell | 检测docker容器并自动备份挂载卷以及本地挂载目录 |
 | [w77996/Weather](https://github.com/w77996/Weather) | ⭐ 134 | Java | 本人的毕业设计，多知天气~ |
-| [shuguangnet/docker_backup_script](https://github.com/shuguangnet/docker_backup_script) | ⭐ 132 | Shell | 检测docker容器并自动备份挂载卷以及本地挂载目录 |
 | [billziss-gh/imap](https://github.com/billziss-gh/imap) | ⭐ 132 | C | 整数映射数据结构 |
 | [openwdl/learn-wdl🟡](https://github.com/openwdl/learn-wdl) | ⭐ 129 | WDL | 用于学习WDL的教学资料 |
 | [grimmlab/MicrobiomeBestPracticeReview](https://github.com/grimmlab/MicrobiomeBestPracticeReview) | ⭐ 129 | Shell | 基于扩增子和宏基因组测序的微生物组分析当前挑战与最佳实践方案 |
@@ -1233,18 +1234,18 @@
 | [YeoLab/single-cell-bioinformatics🟡](https://github.com/YeoLab/single-cell-bioinformatics) | ⭐ 100 | Jupyter Notebook | 学习单细胞生物信息学方法的Notebook格式课程资料 |
 | [Hurricane0698/zot](https://github.com/Hurricane0698/zot) | ⭐ 99 | Shell | 可供人类与AI代理协同工作的现代化终端环境 |
 | [lxdao-official/lx-scale](https://github.com/lxdao-official/lx-scale) | ⭐ 97 | TypeScript | 专业心理健康自测工具，帮助你了解自身精神状态 |
+| [cpulxb/WSL-Image-Clipboard-Helper](https://github.com/cpulxb/WSL-Image-Clipboard-Helper) | ⭐ 96 | Rust | 该工具用于在 Windows 中配合 WSL 环境下的 Claude Code、CodeX、OpenCode等 AI 工具，快速保存剪贴板图片并将其转换为 WS… |
 | [whtiehack/XiaoMi-Air](https://github.com/whtiehack/XiaoMi-Air) | ⭐ 96 | ASL | 适用于 macOS High Sierra、Sierra 和 Big Sur 的小米笔记本 Air 驱动配置 |
-| [cpulxb/WSL-Image-Clipboard-Helper](https://github.com/cpulxb/WSL-Image-Clipboard-Helper) | ⭐ 95 | Rust | 该工具用于在 Windows 中配合 WSL 环境下的 Claude Code、CodeX、OpenCode等 AI 工具，快速保存剪贴板图片并将其转换为 WS… |
+| [breaker505/resumify](https://github.com/breaker505/resumify) | ⭐ 94 |  | Resumify — 别再说“我只是做了测试”。让AI帮你讲出漂亮的经历故事。✨ |
 | [thustorage/RoundPipe](https://github.com/thustorage/RoundPipe) | ⭐ 94 | Python | 面向消费级GPU的大型深度神经网络训练框架 |
 | [BryceWG/Blinko-Extention](https://github.com/BryceWG/Blinko-Extention) | ⭐ 94 | JavaScript | 这是面向 Blinko 的基于 AI 的 Chrome 网页内容提取与总结扩展，支持网页一键总结、选词保存、快速记录等功能，内容可同步至 Blinko 服务器。 |
-| [breaker505/resumify](https://github.com/breaker505/resumify) | ⭐ 93 |  | Resumify — 别再说“我只是做了测试”。让AI帮你讲出漂亮的经历故事。✨ |
 | [pawaovo/interactive-feedback-mcp🔀](https://github.com/pawaovo/interactive-feedback-mcp) | ⭐ 93 | Python | 交互式用户反馈 MCP |
 | [vertgenlab/gonomics](https://github.com/vertgenlab/gonomics) | ⭐ 93 | Go | 用 Go（golang）编写的一组基因组学软件工具集合 |
 | [Bioconductor/bioconductor_docker](https://github.com/Bioconductor/bioconductor_docker) | ⭐ 92 | Dockerfile | 适用于 Bioconductor 的 Docker 容器 |
 | [tylerelyt/LLM-Workshop](https://github.com/tylerelyt/LLM-Workshop) | ⭐ 90 | Python | 通过动手项目和真实实现学习大语言模型开发 |
 | [Illumina/PlatinumGenomes🟡](https://github.com/Illumina/PlatinumGenomes) | ⭐ 90 |  | Platinum 基因组真集 |
+| [lvbibir/JetBrainsLxgwNerdMono](https://github.com/lvbibir/JetBrainsLxgwNerdMono) | ⭐ 82 | Python | JetBrains Mono NerdFont 加霞鹜文楷，就是自带NerdFont图标的完美2:1比例CJK等宽字体 |
 | [Blushyes/reef](https://github.com/Blushyes/reef) | ⭐ 81 | Rust | AI编码时代的极简开发终端——AI写代码，你在Reef中审阅代码。 |
-| [lvbibir/JetBrainsLxgwNerdMono](https://github.com/lvbibir/JetBrainsLxgwNerdMono) | ⭐ 81 | Python | JetBrains Mono NerdFont 加霞鹜文楷，就是自带NerdFont图标的完美2:1比例CJK等宽字体 |
 | [JuchiaLu/Multi-Supplier-MT-Plugin](https://github.com/JuchiaLu/Multi-Supplier-MT-Plugin) | ⭐ 80 | C# | memoQ multi supplier machine translation plugin.（memoQ 多提供商机器翻译插件。） |
 | [mikeroyal/CUDA-Guide](https://github.com/mikeroyal/CUDA-Guide) | ⭐ 79 | Cuda | CUDA 指南 |
 | [grailbio/bio](https://github.com/grailbio/bio) | ⭐ 79 | Go | 生物信息学基础架构库 |
@@ -1268,8 +1269,8 @@
 | [wyhnihaook/Healer_Weather](https://github.com/wyhnihaook/Healer_Weather) | ⭐ 57 | Java | Healer天气预报，希望大家喜欢 |
 | [sublimehq/mmap-example](https://github.com/sublimehq/mmap-example) | ⭐ 55 | C++ |  |
 | [gorkys/youshu](https://github.com/gorkys/youshu) | ⭐ 54 | Kotlin | 🗂一个由AI开发的家庭物品管理的安卓App |
+| [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games) | ⭐ 52 | HTML | GPT-6 Astra 的 One Shot 游戏测试，包含原始 Prompt 与可直接运行的单文件 HTML。 |
 | [AkiChase/Starter](https://github.com/AkiChase/Starter) | ⭐ 52 | AutoHotkey | Starter 是一款AHK编写的极简效率工具，旨在智能、快捷地启动文件和插件应用，提供便利和高效的使用体验。 |
-| [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games) | ⭐ 51 | HTML | GPT-6 Astra 的 One Shot 游戏测试，包含原始 Prompt 与可直接运行的单文件 HTML。 |
 | [gp0119/Taby](https://github.com/gp0119/Taby) | ⭐ 49 | Vue | 一款简易的新标签页扩展程序 |
 | [c-z-chen/contribution-heatmap](https://github.com/c-z-chen/contribution-heatmap) | ⭐ 49 | TypeScript | React 贡献热力图日历组件 |
 | [webkong/Dell-7070-mff-hackintosh](https://github.com/webkong/Dell-7070-mff-hackintosh) | ⭐ 49 | C++ | 戴尔Micro Optiplex 7070黑苹果EFI |
@@ -1284,8 +1285,8 @@
 | [oasis-proxy/oasis-proxy-archive](https://github.com/oasis-proxy/oasis-proxy-archive) | ⭐ 44 | Vue | 适配 Manifest v3 的 SwitchOmega 替代工具 |
 | [godotgildor/fastq_compression_comparison](https://github.com/godotgildor/fastq_compression_comparison) | ⭐ 43 | Python | 创建用于协助对FASTQ压缩进行对比的简易Docker镜像 |
 | [chaun-yi7/Clay](https://github.com/chaun-yi7/Clay) | ⭐ 42 | CSS | Clay —— 一款仿 Claude 审美的 Typora 主题，暖纸质感、明暗双色，克制耐看。 |
+| [KingYeon-Zoo/antigravity-auto-retry](https://github.com/KingYeon-Zoo/antigravity-auto-retry) | ⭐ 37 | Python | Patch Antigravity to auto-retry transient agent errors once, reducing manual Ret… |
 | [CY-Christin/CY-Christin-Blog](https://github.com/CY-Christin/CY-Christin-Blog) | ⭐ 37 | TypeScript | 偏 Code，偶尔写写随笔。 |
-| [KingYeon-Zoo/antigravity-auto-retry](https://github.com/KingYeon-Zoo/antigravity-auto-retry) | ⭐ 36 | Python | Patch Antigravity to auto-retry transient agent errors once, reducing manual Ret… |
 | [sathariels/context-engineering-intro-GeminiCLI🔀](https://github.com/sathariels/context-engineering-intro-GeminiCLI) | ⭐ 36 |  | 上下文工程是新式高效编码范式——它才是让AI编码助手真正可用的方法。Gemini CLI最适合这项工作，本仓库基于为Claude Code打造的coleam00… |
 | [ZhaoXingPeng/DBJavaGenix](https://github.com/ZhaoXingPeng/DBJavaGenix) | ⭐ 35 | Python | 智能数据库代码生成工具基于MCP架构，支持MySQL等多种数据库，自动生成Entity、DAO、Service及Controller等完整分层代码，大幅提升开发… |
 | [robertdebock/docker-ubuntu-systemd](https://github.com/robertdebock/docker-ubuntu-systemd) | ⭐ 35 | Dockerfile | 用于测试 Ansible 角色的容器，支持使用 systemd 功能 |
@@ -1332,33 +1333,33 @@
 | [ArcticMicrobialEcology/Kilpisjarvi-MAGs](https://github.com/ArcticMicrobialEcology/Kilpisjarvi-MAGs) | ⭐ 8 |  |  |
 | [zhaodahai/An-English-Guide-for-Programmers🔀](https://github.com/zhaodahai/An-English-Guide-for-Programmers) | ⭐ 8 |  | 专为程序员编写的英语学习指南。v1.0 |
 | [microbiome-immunity-project/metagenome_assembly](https://github.com/microbiome-immunity-project/metagenome_assembly) | ⭐ 7 | Roff | 用于宏基因组组装的WDL工作流 |
+| [holtwood/cmdc-statusline](https://github.com/holtwood/cmdc-statusline) | ⭐ 6 | TypeScript | 📊 Command Code 状态栏 — 模型 · 渐变上下文进度条 · 缓存命中率 · 会话花费 · 输出速度 · 子代理用量 · 会话名 · git 状态 |
 | [hpc-workbench/cpp-high-performance-guide](https://github.com/hpc-workbench/cpp-high-performance-guide) | ⭐ 6 | C++ | 可运行的 C++20 性能工程指南：示例、基准测试与 VitePress 文档站 |
 | [TideTree/awesome-zh](https://github.com/TideTree/awesome-zh) | ⭐ 6 |  | 📚 awesome 技术资源精选，优质项目与文章导航中文版 |
 | [alexpacheco/hpc-training](https://github.com/alexpacheco/hpc-training) | ⭐ 6 | HTML | 用于存储本人HPC培训的演示文稿、TeX和PDF文件的仓库。 |
 | [Hao-Zou-lab/Deep-scSTAR](https://github.com/Hao-Zou-lab/Deep-scSTAR) | ⭐ 6 | Jupyter Notebook |  |
 | [unclemcz/wodict](https://github.com/unclemcz/wodict) | ⭐ 6 | JavaScript | wodict是一个基于electron开发的网络环境下泛用型翻译（词典）工具，支持通过配置的方式接入百度翻译开放平台、网易有道翻译等。支持的语言由翻译引擎决定，… |
-| [holtwood/cmdc-statusline](https://github.com/holtwood/cmdc-statusline) | ⭐ 5 | TypeScript | 📊 Status line for Command Code (cmdc) — model · gradient context bar · cache hit… |
 | [wesleyel/opendict-apple](https://github.com/wesleyel/opendict-apple) | ⭐ 5 | Python | 把 ahpxex/open-dictionary 的 84,212 条英汉学习词条装进 macOS 自带的「词典.app」，Spotlight、三指查词、 右键… |
-| [open-infra-ai/trifuse](https://github.com/open-infra-ai/trifuse) | ⭐ 5 | Python | 面向 Transformer 推理的可验证 Triton 融合算子与 torch.library 集成 |
 | [shrektan/shrektan_blog](https://github.com/shrektan/shrektan_blog) | ⭐ 5 | HTML | 我的个人博客 |
 | [open-genomics/fastq-tools](https://github.com/open-genomics/fastq-tools) | ⭐ 4 | C++ | 高性能 FASTQ 质控工具（统计/过滤）；零拷贝 I/O、TBB 流水线、C++23 |
 | [open-genomics/fq-compressor](https://github.com/open-genomics/fq-compressor) | ⭐ 4 | C++ | FASTQ 专用压缩归档：列式分离 + 2-bit 碱基打包 + Zstd，三层 XXH64 校验，内存有界。C++23 并发流水线。 |
-| [holtwood/LessUp](https://github.com/holtwood/LessUp) | ⭐ 4 |  | Personal Project Hub: AI Infrastructure & High-Performance Computing Engineering… |
+| [open-infra-ai/trifuse](https://github.com/open-infra-ai/trifuse) | ⭐ 4 | Python | 面向 Transformer 推理的可验证 Triton 融合算子与 torch.library 集成 |
 | [yyxyz/OSOperateSkills](https://github.com/yyxyz/OSOperateSkills) | ⭐ 4 |  |  |
 | [hpc-workbench/bitcal](https://github.com/hpc-workbench/bitcal) | ⭐ 3 | C++ | 纯头文件 C++23 位运算练习库，x86-64 + AVX2，实验性 |
 | [open-genomics/awesome-bioinfo-algorithms](https://github.com/open-genomics/awesome-bioinfo-algorithms) | ⭐ 3 | Python | 精选生物信息学算法知识库，含复杂度分析、CLI 维护工具与双语文档。 |
 | [TideTree/awesome-python-zh](https://github.com/TideTree/awesome-python-zh) | ⭐ 3 | Python | 🧠 Awesome-Python 精选Python教程资源中文版 |
+| [holtwood/LessUp](https://github.com/holtwood/LessUp) | ⭐ 3 |  | Personal Project Hub: AI Infrastructure & High-Performance Computing Engineering… |
 | [cr-zhichen/vscode-diagnostics-dumper🔀](https://github.com/cr-zhichen/vscode-diagnostics-dumper) | ⭐ 3 | TypeScript |  |
 | [wtsnwei/TeachYourselfCS-CN🔀](https://github.com/wtsnwei/TeachYourselfCS-CN) | ⭐ 3 |  | TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS |
-| [holtwood/wb2api](https://github.com/holtwood/wb2api) | ⭐ 2 | Go | Tencent CodeBuddy / WorkBuddy 非官方反代：把自有订阅包装为 OpenAI 兼容的本地 API 服务（Go） |
-| [holtwood/agent-skills-kit](https://github.com/holtwood/agent-skills-kit) | ⭐ 2 | JavaScript | 自用 Agent Skills 集合：截图捕获、截图装框、架构图生成、GitHub Pages 配置等，兼容 Claude Code / opencode |
-| [open-infra-ai/paged-serving](https://github.com/open-infra-ai/paged-serving) | ⭐ 2 | Rust | Rust LLM Serving 控制面：Paged KV、continuous batching、OpenAI SSE、C ABI 后端与可信压测 |
 | [TideTree/claude-code-agents-zh](https://github.com/TideTree/claude-code-agents-zh) | ⭐ 2 |  | 🤖Claude Code Agents rules 中文版，指导多工具协作、代码理解与自动化辅助等。 |
 | [Roick-Leo/Freesia](https://github.com/Roick-Leo/Freesia) | ⭐ 2 |  | SNV 检测工具 |
 | [build-workbench/chat-stash](https://github.com/build-workbench/chat-stash) | ⭐ 1 | HTML | 基于大模型的聊天记录智能收纳与检索工具 | LLM-powered chat history organizer and search |
+| [holtwood/wb2api](https://github.com/holtwood/wb2api) | ⭐ 1 | Go | Tencent CodeBuddy / WorkBuddy 非官方反代：把自有订阅包装为 OpenAI 兼容的本地 API 服务（Go） |
+| [holtwood/agent-skills-kit](https://github.com/holtwood/agent-skills-kit) | ⭐ 1 | JavaScript | 自用 Agent Skills 集合：截图捕获、截图装框、架构图生成、GitHub Pages 配置等，兼容 Claude Code / opencode |
 | [build-workbench/bookmarks-cleaner](https://github.com/build-workbench/bookmarks-cleaner) | ⭐ 1 | Python | 离线书签自动分类引擎:规则优先 · ML 辅助 · LLM 可选 | Offline bookmark auto-classification engine:… |
 | [build-workbench/yolo-toys](https://github.com/build-workbench/yolo-toys) | ⭐ 1 | Python | 多模型视觉推理服务 - YOLOv8 / DETR / OWL-ViT / Grounding DINO / BLIP 统一 FastAPI 接口 | Unif… |
 | [build-workbench/meta-human](https://github.com/build-workbench/meta-human) | ⭐ 1 | TypeScript | 浏览器原生 3D 数字人引擎,集成语音与对话 | Browser-native 3D digital human engine with speech and… |
+| [open-infra-ai/paged-serving](https://github.com/open-infra-ai/paged-serving) | ⭐ 1 | Rust | Rust LLM Serving 控制面：Paged KV、continuous batching、OpenAI SSE、C ABI 后端与可信压测 |
 | [build-workbench/awesome-compression](https://github.com/build-workbench/awesome-compression) | ⭐ 1 |  | 精选数据压缩（无损）算法、库、工具与学习资源，面向中文社区 | Curated list of lossless data compression resour… |
 
 ---

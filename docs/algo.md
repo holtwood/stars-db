@@ -6,9 +6,9 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 370.2k | Python | 学习如何设计大规模系统，备战系统设计面试，包含Anki闪卡。 |
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐ 361.0k |  | 一份成为软件工程师的完整计算机科学学习计划 |
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ⭐ 224.6k | Python | 用Python实现的所有算法 |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 370.4k | Python | 学习如何设计大规模系统，备战系统设计面试，包含Anki闪卡。 |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐ 361.1k |  | 一份成为软件工程师的完整计算机科学学习计划 |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ⭐ 224.7k | Python | 用Python实现的所有算法 |
 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | ⭐ 186.1k |  | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | ⭐ 135.9k | Markdown | 破解LeetCode，不仅要知其然，更要知其所以然。 |
 | [doocs/advanced-java](https://github.com/doocs/advanced-java) | ⭐ 79.1k | Java | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers |… |
@@ -40,8 +40,8 @@
 | [MysteryVaibhav/leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) | ⭐ 7.4k |  | 本仓库收录了 LeetCode Premium 中按公司分类的题目列表 |
 | [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) | ⭐ 6.6k |  | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等） |
 | [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) | ⭐ 5.9k | C++ | 🏋️ 全部4033道LeetCode题的Python / 现代C++题解（每周更新） |
-| [lifei6671/interview-go](https://github.com/lifei6671/interview-go) | ⭐ 5.6k | Go | golang面试题集合https://interview.disign.me/ |
 | [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) | ⭐ 5.6k | HTML | 针对2026年AI工程面试作业、带回家完成的挑战项目与招聘实践的研究 |
+| [lifei6671/interview-go](https://github.com/lifei6671/interview-go) | ⭐ 5.6k | Go | golang面试题集合https://interview.disign.me/ |
 | [qiyuangong/leetcode](https://github.com/qiyuangong/leetcode) | ⭐ 5.3k | Python | Leetcode 题解，包含 Python 和 Java 实现 |
 | [rosedblabs/rosedb](https://github.com/rosedblabs/rosedb) | ⭐ 4.9k | Go | 基于Bitcask的轻量、快速且可靠的键值存储引擎 |
 | [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) | ⭐ 4.8k | HTML | https://huyenchip.com/ml-interviews-book/ |
@@ -76,14 +76,14 @@
 | [linuxkerneltravel/linux_kernel_wiki🔀](https://github.com/linuxkerneltravel/linux_kernel_wiki) | ⭐ 635 |  | linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频 |
 | [jxnu-liguobin/cs-summary-reflection🟡](https://github.com/jxnu-liguobin/cs-summary-reflection) | ⭐ 520 | Java | :bulb: 没啥用的仓库，别看了。关注 https://github.com/bitlap/zim |
 | [shichao-an/leetcode-python](https://github.com/shichao-an/leetcode-python) | ⭐ 498 | Python | 用 Python 求解 LeetCode 题目 |
-| [hantmac/Python-Interview-Customs-Collection](https://github.com/hantmac/Python-Interview-Customs-Collection) | ⭐ 464 |  | Python面试通关宝典，秋招、春招的小伙伴✿✿ヽ(°▽°)ノ✿），有面Python开发方向的，看这一个repo就够啦😘 |
+| [hantmac/Python-Interview-Customs-Collection](https://github.com/hantmac/Python-Interview-Customs-Collection) | ⭐ 465 |  | Python面试通关宝典，秋招、春招的小伙伴✿✿ヽ(°▽°)ノ✿），有面Python开发方向的，看这一个repo就够啦😘 |
 | [hitzzc/go-leetcode](https://github.com/hitzzc/go-leetcode) | ⭐ 451 | Go | 基于Golang的LeetCode题解 |
 | [upupming/algorithm](https://github.com/upupming/algorithm) | ⭐ 344 | C++ | acwing, leetcode, kickstart, 算法模板, PAT 等等 |
 | [awesee/leetcode](https://github.com/awesee/leetcode) | ⭐ 294 | Go | LeetCode 题解 |
 | [SamZhangQingChuan/Editorials](https://github.com/SamZhangQingChuan/Editorials) | ⭐ 280 | TeX | 算法题解& 教程 |
 | [AhJo53589/leetcode-cn](https://github.com/AhJo53589/leetcode-cn) | ⭐ 253 | C++ |  |
 | [asdf2014/algorithm](https://github.com/asdf2014/algorithm) | ⭐ 215 | Java | 组队一起在LeetCode上解决问题 |
-| [breaker505/resumify](https://github.com/breaker505/resumify) | ⭐ 93 |  | Resumify — 别再说“我只是做了测试”。让AI帮你讲出漂亮的经历故事。✨ |
+| [breaker505/resumify](https://github.com/breaker505/resumify) | ⭐ 94 |  | Resumify — 别再说“我只是做了测试”。让AI帮你讲出漂亮的经历故事。✨ |
 | [downdemo/LeetCode-Solutions-in-Cpp17](https://github.com/downdemo/LeetCode-Solutions-in-Cpp17) | ⭐ 63 | C++ | 200道LeetCode面试高频题：涵盖简单/中等/困难难度的最优题解带详细解析，助你拿下编程面试 |
 | [mohuishou/go-algorithm](https://github.com/mohuishou/go-algorithm) | ⭐ 24 | Go | 【更新中】Go 数据结构与算法系列文章，本系列文章主要会包括常见的数据结构与算法实现，同时会包括 Go 标准库代码的分析理解，讲到对应章节的时候优先学习分析 G… |
 

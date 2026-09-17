@@ -26,7 +26,7 @@
 | [bebop/poly](https://github.com/bebop/poly) | ⭐ 737 | Go | 用于工程改造生物体的Go包 |
 | [OysterQAQ/ACG2vec](https://github.com/OysterQAQ/ACG2vec) | ⭐ 582 |  | ACG2vec (Anime Comics Games to vector) are committed to creating a playground th… |
 | [wdecoster/NanoPlot](https://github.com/wdecoster/NanoPlot) | ⭐ 560 | HTML | 用于长读长测序数据的绘图脚本 |
-| [10XGenomics/cellranger](https://github.com/10XGenomics/cellranger) | ⭐ 476 | Rust | 10x Genomics 单细胞分析 |
+| [10XGenomics/cellranger](https://github.com/10XGenomics/cellranger) | ⭐ 477 | Rust | 10x Genomics 单细胞分析 |
 | [seqan/seqan3](https://github.com/seqan/seqan3) | ⭐ 463 | C++ | 用于序列分析的现代C++库，包含该库的第3版本及API文档。 |
 | [openbiox/weekly](https://github.com/openbiox/weekly) | ⭐ 461 | HTML | 生信爱好者周刊（每周日发布） |
 | [gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) | ⭐ 396 |  |  |

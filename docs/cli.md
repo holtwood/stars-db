@@ -6,19 +6,19 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | ⭐ 263.0k | Shell | 真正工程师必备技能，直接来自我的.agents目录。 |
-| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐ 190.8k | Batchfile | 开源Windows和Office激活工具，支持HWID、Ohook、TSforge和在线KMS激活方式，同时具备高级故障排查功能 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | ⭐ 263.7k | Shell | 真正工程师必备技能，直接来自我的.agents目录。 |
+| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐ 190.9k | Batchfile | 开源Windows和Office激活工具，支持HWID、Ohook、TSforge和在线KMS激活方式，同时具备高级故障排查功能 |
 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | ⭐ 162.4k |  | 掌握命令行，只需一页 |
-| [tw93/Mole](https://github.com/tw93/Mole) | ⭐ 67.4k | Shell | 🐹 清理、卸载、分析、优化与监控你的 Mac。免费开源命令行工具，另有原生 Mac 应用。 |
+| [tw93/Mole](https://github.com/tw93/Mole) | ⭐ 67.5k | Shell | 🐹 清理、卸载、分析、优化与监控你的 Mac。免费开源命令行工具，另有原生 Mac 应用。 |
 | [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | ⭐ 61.2k | Zig | 👻 Ghostty 是一款快速、功能丰富的跨平台终端模拟器，采用平台原生 UI 与 GPU 加速。 |
-| [files-community/Files](https://github.com/files-community/Files) | ⭐ 45.4k | C# | 一款可帮助用户整理文件与文件夹的现代化文件管理器 |
+| [files-community/Files](https://github.com/files-community/Files) | ⭐ 45.5k | C# | 一款可帮助用户整理文件与文件夹的现代化文件管理器 |
 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | ⭐ 43.5k | TypeScript | 🌐 Internet Computer！免费开源，可自行托管。 |
-| [exelban/stats](https://github.com/exelban/stats) | ⭐ 41.8k | Swift | 常驻菜单栏的 macOS 系统监视器 |
+| [exelban/stats](https://github.com/exelban/stats) | ⭐ 41.9k | Swift | 常驻菜单栏的 macOS 系统监视器 |
 | [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | ⭐ 38.8k | C# | :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） |
 | [microsoft/WSL](https://github.com/microsoft/WSL) | ⭐ 33.7k | C++ | 适用于 Linux 的 Windows 子系统 |
 | [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) | ⭐ 33.7k |  | 解锁你的 Mac 显示器！支持灵活的 HiDPI 缩放、XDR/HDR 额外亮度、虚拟屏幕、DDC 控制、深度调光、画中画/投屏、EDID 覆盖等更多功能！ |
 | [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | ⭐ 28.9k | Python | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Fon… |
-| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | ⭐ 27.1k | Swift | 基于 Ghostty 开源改造的 macOS 终端，支持垂直标签页与 AI 编码代理通知，专为多任务处理、有序组织与可编程性打造。 |
+| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | ⭐ 27.2k | Swift | 基于 Ghostty 开源改造的 macOS 终端，支持垂直标签页与 AI 编码代理通知，专为多任务处理、有序组织与可编程性打造。 |
 | [microsoft/winget-cli](https://github.com/microsoft/winget-cli) | ⭐ 26.4k | C++ | WinGet 是 Windows 包管理器。本项目包含 CLI（命令行界面）、PowerShell 模块以及 COM（组件对象模型）API（应用程序编程接口）。 |
 | [powerline/fonts](https://github.com/powerline/fonts) | ⭐ 26.3k | Shell | 适用于 Powerline 用户的补全补丁字体。 |
 | [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) | ⭐ 26.1k | C# | UniGetUI：你的包管理器图形界面。可以夸张地说，它是用来管理多个包管理器的「包管理器的管理器」。 |
@@ -102,17 +102,17 @@
 | [xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane) | ⭐ 974 | CSS | 适用于 Hugo 的简洁易读主题，提供多种配色方案可选，易于自定义，自 2018 年起稳定运行。 |
 | [Buernia/Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) | ⭐ 950 |  | 煮豆黑体，Noto 风格中日韩标点符号字体。A font family for CJK symbols and punctuation, derived fro… |
 | [jalammar/jalammar.github.io🔀](https://github.com/jalammar/jalammar.github.io) | ⭐ 879 | HTML | 无需触碰命令行，数分钟即可搭建Jekyll博客 |
-| [ButTaiwan/gensen-font](https://github.com/ButTaiwan/gensen-font) | ⭐ 854 |  | 源自Source Han Sans的免费字体系列。 |
+| [ButTaiwan/gensen-font](https://github.com/ButTaiwan/gensen-font) | ⭐ 855 |  | 源自Source Han Sans的免费字体系列。 |
 | [ahpxex/Aictionary](https://github.com/ahpxex/Aictionary) | ⭐ 821 | TypeScript | 另一款桌面词典，但速度快得多，释义更丰富，助你真正通晓语言。 |
 | [dracula/jetbrains](https://github.com/dracula/jetbrains) | ⭐ 810 | Kotlin | 适用于 JetBrains IDEs 的深色主题 |
 | [lcomplete/TechShare](https://github.com/lcomplete/TechShare) | ⭐ 799 | Vue | 🌟 分享效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和有趣内容 😄。💌 当有重要的事情需要分享时会发送 newsletter。 |
 | [DJB-Developer/wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions) | ⭐ 767 | JavaScript | 微信Android 微信安卓版 微信安卓 历史版本 官方下载地址 |
 | [mhartington/dotfiles](https://github.com/mhartington/dotfiles) | ⭐ 625 | Lua |  |
-| [CyanoHao/Resource-Han-Rounded](https://github.com/CyanoHao/Resource-Han-Rounded) | ⭐ 582 | JavaScript | Resource Han Rounded，一款源自Source Han Sans的圆角字体家族。 |
-| [wzsx150/MobaXterm_CN](https://github.com/wzsx150/MobaXterm_CN) | ⭐ 572 |  | MobaXterm 综合远程工具 汉化版 |
+| [CyanoHao/Resource-Han-Rounded](https://github.com/CyanoHao/Resource-Han-Rounded) | ⭐ 583 | JavaScript | Resource Han Rounded，一款源自Source Han Sans的圆角字体家族。 |
+| [wzsx150/MobaXterm_CN](https://github.com/wzsx150/MobaXterm_CN) | ⭐ 574 |  | MobaXterm 综合远程工具 汉化版 |
 | [vannvan/yuque-tools](https://github.com/vannvan/yuque-tools) | ⭐ 555 | TypeScript | 🧰 玩转语雀-朴实无华的语雀资源导出工具，语雀知识库+团队资源批量导出/备份工具(无需Token) |
 | [maxsky/Yahei-Monaco-Hybrid-Font](https://github.com/maxsky/Yahei-Monaco-Hybrid-Font) | ⭐ 464 |  | Microsoft Yahei UI Regular & Apple Monaco Hybrid. 微软雅黑和 Monaco 字体混合版【禁止他用】 |
-| [DoooReyn/WxRead-WebAutoReader](https://github.com/DoooReyn/WxRead-WebAutoReader) | ⭐ 459 |  | 微信读书自动阅读器，全自动刷阅读时长，轻轻松松冲顶霸榜，您的微读挂机好帮手 |
+| [DoooReyn/WxRead-WebAutoReader](https://github.com/DoooReyn/WxRead-WebAutoReader) | ⭐ 457 |  | 微信读书自动阅读器，全自动刷阅读时长，轻轻松松冲顶霸榜，您的微读挂机好帮手 |
 | [zyyzyykk/kkTerminal](https://github.com/zyyzyykk/kkTerminal) | ⭐ 416 | Vue | 用于 Web SSH 连接的终端 |
 | [Karmenzind/monaco-nerd-fonts](https://github.com/Karmenzind/monaco-nerd-fonts) | ⭐ 416 | Shell | patched 了额外 Nerd 字形的 Monaco 字体 |
 | [DoooReyn/WxReader](https://github.com/DoooReyn/WxReader) | ⭐ 336 | Python | 基于PySide6的微信读书自动阅读器 |
@@ -126,7 +126,7 @@
 | [sergiye/winUpdateMiniTool](https://github.com/sergiye/winUpdateMiniTool) | ⭐ 206 | C# | Windows Update Mini Tool 是一款用于在 Windows 操作系统上管理 Microsoft 产品更新的工具 |
 | [FarseaSH/hugo-theme-moments](https://github.com/FarseaSH/hugo-theme-moments) | ⭐ 181 | HTML | A Hugo theme designed for micro-blogging. 专为动态发布设计的Hugo主题 |
 | [whtiehack/XiaoMi-Air](https://github.com/whtiehack/XiaoMi-Air) | ⭐ 96 | ASL | 适用于 macOS High Sierra、Sierra 和 Big Sur 的小米笔记本 Air 驱动配置 |
-| [lvbibir/JetBrainsLxgwNerdMono](https://github.com/lvbibir/JetBrainsLxgwNerdMono) | ⭐ 81 | Python | JetBrains Mono NerdFont 加霞鹜文楷，就是自带NerdFont图标的完美2:1比例CJK等宽字体 |
+| [lvbibir/JetBrainsLxgwNerdMono](https://github.com/lvbibir/JetBrainsLxgwNerdMono) | ⭐ 82 | Python | JetBrains Mono NerdFont 加霞鹜文楷，就是自带NerdFont图标的完美2:1比例CJK等宽字体 |
 | [sakoula/XiaoMi-Air-6200U](https://github.com/sakoula/XiaoMi-Air-6200U) | ⭐ 68 | ASL | 适用于 macOS Catalina、Mojave 及 High Sierra 的2016款小米Air 13.3 Skylake-U 黑苹果 |
 | [maboroshin/Notepad3ColorTheme](https://github.com/maboroshin/Notepad3ColorTheme) | ⭐ 66 |  | Notepad3 的 19 款颜色主题。 |
 | [AkiChase/Starter](https://github.com/AkiChase/Starter) | ⭐ 52 | AutoHotkey | Starter 是一款AHK编写的极简效率工具，旨在智能、快捷地启动文件和插件应用，提供便利和高效的使用体验。 |

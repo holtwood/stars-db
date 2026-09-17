@@ -6,12 +6,12 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ⭐ 144.7k | Rust | 基于 Tauri 构建的现代化图形界面客户端，支持在 Windows、macOS 和 Linux 运行，提供定制化代理体验 |
-| [2dust/v2rayN](https://github.com/2dust/v2rayN) | ⭐ 116.2k | C# | 支持Xray、sing-box等的多平台GUI客户端，兼容Windows、Linux与macOS |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ⭐ 145.0k | Rust | 基于 Tauri 构建的现代化图形界面客户端，支持在 Windows、macOS 和 Linux 运行，提供定制化代理体验 |
+| [2dust/v2rayN](https://github.com/2dust/v2rayN) | ⭐ 116.3k | C# | 支持Xray、sing-box等的多平台GUI客户端，兼容Windows、Linux与macOS |
 | [2dust/v2rayNG](https://github.com/2dust/v2rayNG) | ⭐ 62.7k | Kotlin | 适用于 Android 的 V2Ray 客户端，支持 Xray 核心与 v2fly 核心 |
-| [chen08209/FlClash](https://github.com/chen08209/FlClash) | ⭐ 52.3k | Dart | 基于 ClashMeta 的多平台代理客户端，简洁易用，开源无广告。 |
-| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | ⭐ 48.2k | Go | 一个用于聚合与分发的统一AI模型 hub，支持将各类大语言模型转换为兼容OpenAI、Claude或Gemini的格式，是供个人与企业进行模型管理的集中网关。 |
-| [MetaCubeX/ClashMetaForAndroid🔀](https://github.com/MetaCubeX/ClashMetaForAndroid) | ⭐ 46.2k | Kotlin | 适用于 Android 的基于规则的隧道工具 |
+| [chen08209/FlClash](https://github.com/chen08209/FlClash) | ⭐ 52.4k | Dart | 基于 ClashMeta 的多平台代理客户端，简洁易用，开源无广告。 |
+| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | ⭐ 48.3k | Go | 一个用于聚合与分发的统一AI模型 hub，支持将各类大语言模型转换为兼容OpenAI、Claude或Gemini的格式，是供个人与企业进行模型管理的集中网关。 |
+| [MetaCubeX/ClashMetaForAndroid🔀](https://github.com/MetaCubeX/ClashMetaForAndroid) | ⭐ 46.3k | Kotlin | 适用于 Android 的基于规则的隧道工具 |
 | [StevenBlack/hosts](https://github.com/StevenBlack/hosts) | ⭐ 31.1k | Python | 🔒 整合并扩展来自多个精选来源的 hosts 文件，可按需选择 porn、社交媒体等类别的扩展规则。 |
 | [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) | ⭐ 30.2k |  | 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。 |
 | [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | ⭐ 28.4k |  | 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Pre… |
@@ -20,7 +20,7 @@
 | [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) | ⭐ 25.6k |  | 这里独一份的 gfwlist |
 | [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) | ⭐ 22.8k | Kotlin | Android 版 NekoBox / sing-box / Android 通用代理工具链 |
 | [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | ⭐ 22.6k | CoffeeScript | 不再维护，详情见置顶 issue |
-| [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | ⭐ 21.8k | Shell | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 |
+| [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | ⭐ 21.9k | Shell | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 |
 | [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) | ⭐ 20.7k |  | 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、m… |
 | [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) | ⭐ 15.6k | Go | Project V 的网页图形界面客户端，支持 VMess、VLESS、SS、SSR、Trojan、Tuic 与 Juicity 协议。 |
 | [MatsuriDayo/nekoray🟡](https://github.com/MatsuriDayo/nekoray) | ⭐ 15.4k | C++ | 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: si… |
