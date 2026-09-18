@@ -2,12 +2,16 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1357-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--17-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1362-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--18-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
-> 📈 **1357** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
+> 📈 **1362** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
 ## 🔥 最近收藏
 
+- ⭐ [trevortylerlee/astro-micro](https://github.com/trevortylerlee/astro-micro) — Blog theme for Astro with search and comments built-in. Zero… `2026-09-17`
+- ⭐ [yihui/hugo-prose](https://github.com/yihui/hugo-prose) — A Hugo theme derived from the XMin theme, and inspired by Wo… `2026-09-17`
+- ⭐ [nezhahq/nezha](https://github.com/nezhahq/nezha) — :trollface: Self-hosted, lightweight server and website moni… `2026-09-17`
+- ⭐ [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) — A minimalist, open source online pastebin where the server h… `2026-09-17`
 - ⭐ [markhorn-dev/astro-nano](https://github.com/markhorn-dev/astro-nano) — Astro Nano is a static, minimalist, lightweight, lightning f… `2026-09-17`
 - ⭐ [stablyai/orca](https://github.com/stablyai/orca) — Orca is the ADE for working with a fleet of parallel agents.… `2026-09-16`
 - ⭐ [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) — ⌥ Coding agent with the IDE wired in `2026-09-15`
@@ -19,38 +23,34 @@
 - ⭐ [Caldis/Mos](https://github.com/Caldis/Mos) — 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A light… `2026-09-05`
 - ⭐ [p0deje/Maccy](https://github.com/p0deje/Maccy) — Lightweight clipboard manager for macOS `2026-09-05`
 - ⭐ [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games) — GPT-6 Astra 的 One Shot 游戏测试，包含原始 Prompt 与可直接运行的单文件 HTML。 `2026-09-05`
-- ⭐ [openchamber/openchamber](https://github.com/openchamber/openchamber) — Agentic Development Environment based on OpenCode AI agent `2026-09-04`
-- ⭐ [alibaba/zvec](https://github.com/alibaba/zvec) — A lightweight, lightning-fast, in-process vector database `2026-09-03`
-- ⭐ [build-workbench/chat-stash](https://github.com/build-workbench/chat-stash) — 基于大模型的聊天记录智能收纳与检索工具 | LLM-powered chat history organizer and… `2026-09-03`
-- ⭐ [charmbracelet/freeze](https://github.com/charmbracelet/freeze) — Generate images of code and terminal output 📸 `2026-09-03`
 
 ## 📑 分类导航
 
 | 分类 | 项目数 | 占比 | 文档 |
 |------|--------|------|------|
-| 🤖 AI 与 LLM | 307 | `████░░░░░░░░░░░░` (23%) | [docs/ai.md](docs/ai.md) |
+| 🤖 AI 与 LLM | 308 | `████░░░░░░░░░░░░` (23%) | [docs/ai.md](docs/ai.md) |
 | ☁️ DevOps 与云原生 | 26 | `█░░░░░░░░░░░░░░░` (2%) | [docs/devops.md](docs/devops.md) |
 | 🧩 语言生态 | 259 | `███░░░░░░░░░░░░░` (19%) | [docs/lang.md](docs/lang.md) |
 | 🎨 前端与 Web | 86 | `█░░░░░░░░░░░░░░░` (6%) | [docs/frontend.md](docs/frontend.md) |
-| ⌨️ CLI 与终端 | 129 | `██░░░░░░░░░░░░░░` (10%) | [docs/cli.md](docs/cli.md) |
+| ⌨️ CLI 与终端 | 129 | `██░░░░░░░░░░░░░░` (9%) | [docs/cli.md](docs/cli.md) |
 | 🗄️ 数据库与存储 | 13 | `█░░░░░░░░░░░░░░░` (1%) | [docs/storage.md](docs/storage.md) |
 | 🔐 安全与逆向 | 3 | `█░░░░░░░░░░░░░░░` (0%) | [docs/security.md](docs/security.md) |
 | 🌐 网络与代理 | 40 | `█░░░░░░░░░░░░░░░` (3%) | [docs/net.md](docs/net.md) |
 | 🎬 图形与音视频 | 20 | `█░░░░░░░░░░░░░░░` (1%) | [docs/multimedia.md](docs/multimedia.md) |
 | 🧩 浏览器扩展 | 11 | `█░░░░░░░░░░░░░░░` (1%) | [docs/browser.md](docs/browser.md) |
 | 📱 移动开发 | 12 | `█░░░░░░░░░░░░░░░` (1%) | [docs/mobile.md](docs/mobile.md) |
-| 📝 编辑器与文档笔记 | 34 | `█░░░░░░░░░░░░░░░` (3%) | [docs/notes.md](docs/notes.md) |
+| 📝 编辑器与文档笔记 | 34 | `█░░░░░░░░░░░░░░░` (2%) | [docs/notes.md](docs/notes.md) |
 | 🧮 算法与面试 | 80 | `█░░░░░░░░░░░░░░░` (6%) | [docs/algo.md](docs/algo.md) |
 | ⚡ 高性能计算 | 5 | `█░░░░░░░░░░░░░░░` (0%) | [docs/hpc.md](docs/hpc.md) |
 | 🗜️ 压缩与编码 | 3 | `█░░░░░░░░░░░░░░░` (0%) | [docs/compression.md](docs/compression.md) |
 | 🧬 生物信息 | 51 | `█░░░░░░░░░░░░░░░` (4%) | [docs/bio.md](docs/bio.md) |
 | 📚 学习资源与清单 | 225 | `███░░░░░░░░░░░░░` (17%) | [docs/learning.md](docs/learning.md) |
 | 🎯 面试资料 | 15 | `█░░░░░░░░░░░░░░░` (1%) | [docs/interview.md](docs/interview.md) |
-| 📦 其他与杂项 | 61 | `█░░░░░░░░░░░░░░░` (4%) | [docs/misc.md](docs/misc.md) |
+| 📦 其他与杂项 | 65 | `█░░░░░░░░░░░░░░░` (5%) | [docs/misc.md](docs/misc.md) |
 
 ## 📊 快速入口
 
-- 📦 [全量索引(1357)](docs/all.md) — 所有项目按 ⭐ 排序
+- 📦 [全量索引(1362)](docs/all.md) — 所有项目按 ⭐ 排序
 - 🗣️ [按语言浏览](docs/by-language.md) — 语言分布一览
 
 ## 🔄 自动同步
