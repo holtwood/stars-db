@@ -6,17 +6,17 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 246.6k | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 246.9k | Python | The agent that grows with you |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | ⭐ 91.5k | JavaScript | 酷炫的自托管监控工具 |
-| [stablyai/orca](https://github.com/stablyai/orca) | ⭐ 71.2k | TypeScript | Orca is the ADE for working with a fleet of parallel agents. Run any coding agen… |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | ⭐ 66.0k | JavaScript | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
+| [stablyai/orca](https://github.com/stablyai/orca) | ⭐ 72.0k | TypeScript | Orca is the ADE for working with a fleet of parallel agents. Run any coding agen… |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | ⭐ 66.9k | JavaScript | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | ⭐ 45.3k | Python | 社区驱动的增强型文档管理系统：扫描、索引并归档您所有的文档 |
 | [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) | ⭐ 42.1k |  |  |
 | [ShareX/ShareX](https://github.com/ShareX/ShareX) | ⭐ 39.6k | C# | ShareX is a free and open-source application that enables users to capture or re… |
 | [searxng/searxng](https://github.com/searxng/searxng) | ⭐ 37.3k | Python | SearXNG 是一款免费的互联网元搜索引擎，可聚合来自多种搜索服务与数据库的搜索结果。它不会追踪用户，也不会为用户建立画像。 |
-| [zellij-org/zellij](https://github.com/zellij-org/zellij) | ⭐ 35.4k | Rust | A terminal workspace with batteries included |
+| [zellij-org/zellij](https://github.com/zellij-org/zellij) | ⭐ 35.5k | Rust | A terminal workspace with batteries included |
 | [gethomepage/homepage](https://github.com/gethomepage/homepage) | ⭐ 32.7k | JavaScript | 支持Docker和服务API集成的高度可自定义主页（起始页/应用仪表盘） |
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | ⭐ 31.7k | TypeScript | ⌥ Coding agent with the IDE wired in |
+| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | ⭐ 31.8k | TypeScript | ⌥ Coding agent with the IDE wired in |
 | [henrygd/beszel](https://github.com/henrygd/beszel) | ⭐ 25.5k | Go | 轻量服务器监控，支持历史数据、Docker 统计和告警。 |
 | [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | ⭐ 24.6k | Dockerfile | 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告… |
 | [louislam/dockge](https://github.com/louislam/dockge) | ⭐ 24.4k | TypeScript | 美观易用且响应式的自托管 docker compose.yaml 面向栈管理器 |
@@ -28,14 +28,14 @@
 | [sissbruecker/linkding](https://github.com/sissbruecker/linkding) | ⭐ 11.2k | Python | 可自托管的书签管理器，设计简约、运行快速，通过Docker即可轻松部署。 |
 | [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) | ⭐ 11.1k | Jupyter Notebook | MiniCPM5: SOTA on-device LLMs, small yet powerful. |
 | [nezhahq/nezha](https://github.com/nezhahq/nezha) | ⭐ 10.3k | Go | :trollface: Self-hosted, lightweight server and website monitoring and O&M tool |
-| [openchamber/openchamber](https://github.com/openchamber/openchamber) | ⭐ 10.0k | TypeScript | Agentic Development Environment based on OpenCode AI agent |
+| [openchamber/openchamber](https://github.com/openchamber/openchamber) | ⭐ 10.1k | TypeScript | Agentic Development Environment based on OpenCode AI agent |
 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | ⭐ 8.6k | PHP | A minimalist, open source online pastebin where the server has zero knowledge of… |
 | [gopherchina/conference](https://github.com/gopherchina/conference) | ⭐ 7.6k |  |  |
 | [charmbracelet/freeze](https://github.com/charmbracelet/freeze) | ⭐ 4.8k | Go | Generate images of code and terminal output 📸 |
 | [wechat-miniprogram/weui-miniprogram](https://github.com/wechat-miniprogram/weui-miniprogram) | ⭐ 2.4k | TypeScript | 小程序WeUI组件库 |
 | [yhan219/navicat_reset_mac🟡](https://github.com/yhan219/navicat_reset_mac) | ⭐ 2.4k |  | navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script |
 | [RawChat/RawChat](https://github.com/RawChat/RawChat) | ⭐ 2.2k |  |  |
-| [Kuddev/pebrel](https://github.com/Kuddev/pebrel) | ⭐ 1.8k | Rust | AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent se… |
+| [Kuddev/pebrel](https://github.com/Kuddev/pebrel) | ⭐ 1.9k | Rust | AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent se… |
 | [almarklein/timetagger](https://github.com/almarklein/timetagger) | ⭐ 1.8k | Python | Tag your time, get the insight |
 | [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) | ⭐ 1.5k | Go | 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建 |
 | [uaxe/geektime-docs](https://github.com/uaxe/geektime-docs) | ⭐ 1.4k | Python | 👏极客时间 pdf & markdown 文档 |
@@ -46,10 +46,10 @@
 | [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) | ⭐ 952 | Shell | Ally-Health 是一款智能医疗助手，它依托先进AI技术与医学专业知识革新个人健康管理。它通过自然语言交互帮助用户记录症状、管理用药、整理病历并获取多学科… |
 | [markhorn-dev/astro-nano](https://github.com/markhorn-dev/astro-nano) | ⭐ 938 | Astro | Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and bl… |
 | [golangboy/wxocr](https://github.com/golangboy/wxocr) | ⭐ 895 |  | 无内容 |
-| [OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | ⭐ 797 |  | 去AI味提示词-作家增强-SKILL |
+| [OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | ⭐ 802 |  | 去AI味提示词-作家增强-SKILL |
 | [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 792 | Go | 👏 Make learning a lifelong habit. 学无止境 |
-| [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) | ⭐ 780 |  | 部分文件在 T v1.1 上可正常运行（最新支持版本为 v1.9.5/1.9.2-dev），基于 TC 开发 |
-| [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy) | ⭐ 609 | JavaScript | Command Code API 反代代理，兼容 OpenAI 与 Anthropic 接口 | Reverse proxy exposing Command… |
+| [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) | ⭐ 779 |  | 部分文件在 T v1.1 上可正常运行（最新支持版本为 v1.9.5/1.9.2-dev），基于 TC 开发 |
+| [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy) | ⭐ 634 | JavaScript | Command Code API 反代代理，兼容 OpenAI 与 Anthropic 接口 | Reverse proxy exposing Command… |
 | [trevortylerlee/astro-micro](https://github.com/trevortylerlee/astro-micro) | ⭐ 533 | Astro | Blog theme for Astro with search and comments built-in. Zero frameworks. |
 | [uaxe/geektime-pdfs](https://github.com/uaxe/geektime-pdfs) | ⭐ 409 |  | 👏极客时间 pdf |
 | [soshial/xdxf_makedict](https://github.com/soshial/xdxf_makedict) | ⭐ 247 |  | XDXF 是开放免费的词典格式，以结构化语义化方式存储词条，是兼容性最强的可转换词典格式 |

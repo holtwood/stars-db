@@ -9,7 +9,7 @@
 | [react/react](https://github.com/react/react) | ⭐ 250.6k | JavaScript | 用于构建网页和原生用户界面的库。 |
 | [vuejs/vue](https://github.com/vuejs/vue) | ⭐ 212.8k | TypeScript | 这是 Vue 2 的仓库。Vue 3 请访问 https://github.com/vuejs/core |
 | [vitejs/vite](https://github.com/vitejs/vite) | ⭐ 82.9k | TypeScript | 下一代前端工具链，极速体验！ |
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | ⭐ 80.3k | TypeScript | 开源API开发生态系统 • https://hoppscotch.io • 支持离线、本地部署与云端 • 覆盖Web、桌面端与CLI • Postman、Ins… |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | ⭐ 80.4k | TypeScript | 开源API开发生态系统 • https://hoppscotch.io • 支持离线、本地部署与云端 • 覆盖Web、桌面端与CLI • Postman、Ins… |
 | [ElemeFE/element](https://github.com/ElemeFE/element) | ⭐ 54.0k | Vue | 适用于Web的Vue.js 2.0 UI组件库 |
 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | ⭐ 46.2k | TypeScript | 🧡 一切皆可RSS |
 | [yarnpkg/yarn](https://github.com/yarnpkg/yarn) | ⭐ 41.5k | JavaScript | 1.x 分支已停止更新，新功能和错误修复现在都在 https://github.com/yarnpkg/berry 开发 |
@@ -55,7 +55,7 @@
 | [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) | ⭐ 905 | Svelte | 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI… |
 | [yenche123/liubai](https://github.com/yenche123/liubai) | ⭐ 864 | TypeScript | 赋能你自己！ |
 | [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 853 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
-| [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 614 | TypeScript |  |
+| [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 617 | TypeScript |  |
 | [o8oo8o/WebCurl](https://github.com/o8oo8o/WebCurl) | ⭐ 609 | HTML | 极简网页版API调试神器 |
 | [Paper-Dragon/mobaxterm-crack](https://github.com/Paper-Dragon/mobaxterm-crack) | ⭐ 582 | TypeScript | 破解MobaXterm的高级版，生成密钥，支持几乎所有版本。 |
 | [Sergei-Korneev/obsidian-local-images-plus](https://github.com/Sergei-Korneev/obsidian-local-images-plus) | ⭐ 565 | TypeScript | 本仓库是 obsidian-local-images 插件的重制项目，该插件的核心功能是将 Markdown 笔记中的图片下载到本地存储。 |
@@ -66,14 +66,14 @@
 | [MistRipple/ace-tool](https://github.com/MistRipple/ace-tool) | ⭐ 433 | TypeScript |  |
 | [wzdnzd/resume](https://github.com/wzdnzd/resume) | ⭐ 404 | TypeScript | 功能丰富、支持灵活自定义的简历生成工具 |
 | [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) | ⭐ 370 | JavaScript | 一款广受欢迎的纯CSS文字肖像生成工具，用来送给你爱的人。 |
-| [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) | ⭐ 358 | JavaScript | GitHub Freshness 在线文档 |
-| [AnkRoot/Augment-BYOK](https://github.com/AnkRoot/Augment-BYOK) | ⭐ 342 | JavaScript |  |
+| [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) | ⭐ 359 | JavaScript | GitHub Freshness 在线文档 |
+| [AnkRoot/Augment-BYOK](https://github.com/AnkRoot/Augment-BYOK) | ⭐ 343 | JavaScript |  |
 | [dongshuyan/PromptHelper](https://github.com/dongshuyan/PromptHelper) | ⭐ 332 | JavaScript | 帮你管理提示词模板 |
 | [zhugezifang/ai_timeline](https://github.com/zhugezifang/ai_timeline) | ⭐ 233 | HTML | AI时间线，产品地址：http://www.ai-timeline.top |
 | [summertime-wu/make_cnblogs_better](https://github.com/summertime-wu/make_cnblogs_better) | ⭐ 217 | HTML | 博客园样式美化、自定义博客园样式 |
 | [haripo/react-github-contribution-calendar](https://github.com/haripo/react-github-contribution-calendar) | ⭐ 172 | HTML | 用于实现 GitHub 风格热力图日历的 React 组件 |
 | [scottbedard/svelte-heatmap](https://github.com/scottbedard/svelte-heatmap) | ⭐ 167 | JavaScript | GitHub 贡献图的轻量可定制版本 |
-| [happyhope/GitCracken](https://github.com/happyhope/GitCracken) | ⭐ 115 |  |  |
+| [happyhope/GitCracken](https://github.com/happyhope/GitCracken) | ⭐ 114 |  |  |
 | [struy-cn/Y-TOC](https://github.com/struy-cn/Y-TOC) | ⭐ 105 | Vue |  |
 | [lxdao-official/lx-scale](https://github.com/lxdao-official/lx-scale) | ⭐ 97 | TypeScript | 专业心理健康自测工具，帮助你了解自身精神状态 |
 | [BryceWG/Blinko-Extention](https://github.com/BryceWG/Blinko-Extention) | ⭐ 94 | JavaScript | 这是面向 Blinko 的基于 AI 的 Chrome 网页内容提取与总结扩展，支持网页一键总结、选词保存、快速记录等功能，内容可同步至 Blinko 服务器。 |
