@@ -11,13 +11,13 @@
 | [vitejs/vite](https://github.com/vitejs/vite) | ⭐ 82.9k | TypeScript | 下一代前端工具链，极速体验！ |
 | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | ⭐ 80.4k | TypeScript | 开源API开发生态系统 • https://hoppscotch.io • 支持离线、本地部署与云端 • 覆盖Web、桌面端与CLI • Postman、Ins… |
 | [ElemeFE/element](https://github.com/ElemeFE/element) | ⭐ 54.0k | Vue | 适用于Web的Vue.js 2.0 UI组件库 |
-| [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | ⭐ 46.2k | TypeScript | 🧡 一切皆可RSS |
+| [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | ⭐ 46.3k | TypeScript | 🧡 一切皆可RSS |
 | [yarnpkg/yarn](https://github.com/yarnpkg/yarn) | ⭐ 41.5k | JavaScript | 1.x 分支已停止更新，新功能和错误修复现在都在 https://github.com/yarnpkg/berry 开发 |
 | [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) | ⭐ 40.6k | CSS | 50+ 基于 HTML、CSS 和 JS 的小型网页项目 |
 | [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) | ⭐ 31.1k |  | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 |
 | [aosabook/500lines](https://github.com/aosabook/500lines) | ⭐ 29.6k | JavaScript | 500行以内项目 |
 | [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) | ⭐ 28.5k | TypeScript | 几秒即可克隆复刻任意网站，生成现代化 React 应用 |
-| [readest/readest](https://github.com/readest/readest) | ⭐ 24.4k | TypeScript | Readest 是为深度阅读爱好者打造的现代化多功能电子书阅读器，可提供流畅跨平台访问、强大工具与直观界面，全方位提升你的阅读体验。 |
+| [readest/readest](https://github.com/readest/readest) | ⭐ 24.5k | TypeScript | Readest 是为深度阅读爱好者打造的现代化多功能电子书阅读器，可提供流畅跨平台访问、强大工具与直观界面，全方位提升你的阅读体验。 |
 | [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) | ⭐ 20.4k | JavaScript | 一个轻量的 Vue2.0 后台管理模板 |
 | [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) | ⭐ 19.7k | JavaScript | 用于本地文件共享的渐进式Web应用 |
 | [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) | ⭐ 19.6k | Vue | Vue3、Element Plus、typescript后台管理系统 |
@@ -65,7 +65,7 @@
 | [hbctraining/In-depth-NGS-Data-Analysis-Course🟡](https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course) | ⭐ 448 | HTML |  |
 | [MistRipple/ace-tool](https://github.com/MistRipple/ace-tool) | ⭐ 433 | TypeScript |  |
 | [wzdnzd/resume](https://github.com/wzdnzd/resume) | ⭐ 404 | TypeScript | 功能丰富、支持灵活自定义的简历生成工具 |
-| [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) | ⭐ 370 | JavaScript | 一款广受欢迎的纯CSS文字肖像生成工具，用来送给你爱的人。 |
+| [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) | ⭐ 371 | JavaScript | 一款广受欢迎的纯CSS文字肖像生成工具，用来送给你爱的人。 |
 | [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) | ⭐ 359 | JavaScript | GitHub Freshness 在线文档 |
 | [AnkRoot/Augment-BYOK](https://github.com/AnkRoot/Augment-BYOK) | ⭐ 343 | JavaScript |  |
 | [dongshuyan/PromptHelper](https://github.com/dongshuyan/PromptHelper) | ⭐ 332 | JavaScript | 帮你管理提示词模板 |
@@ -86,7 +86,7 @@
 | [wefantasy/collector](https://github.com/wefantasy/collector) | ⭐ 30 | Svelte | Collector 是一个简约个人导航站点，帮助您高效管理和分类收藏的网站。 |
 | [madlifer/BentoGrid-Html-Slide](https://github.com/madlifer/BentoGrid-Html-Slide) | ⭐ 26 | HTML | 便当网格风格幻灯片模板 |
 | [morehardy/vue-steps](https://github.com/morehardy/vue-steps) | ⭐ 26 | JavaScript | 基于 vue 的步骤条插件 |
-| [konbakuyomu/vscode-diagnostics-dumper](https://github.com/konbakuyomu/vscode-diagnostics-dumper) | ⭐ 22 | TypeScript |  |
+| [konbakuyomu/vscode-diagnostics-dumper](https://github.com/konbakuyomu/vscode-diagnostics-dumper) | ⭐ 21 | TypeScript |  |
 | [huggingface/prettier-plugin-vertical-align](https://github.com/huggingface/prettier-plugin-vertical-align) | ⭐ 16 | TypeScript | 为 JS/TS 代码垂直对齐对象属性和接口成员 |
 | [vancur2021/newsnow🔀](https://github.com/vancur2021/newsnow) | ⭐ 11 | TypeScript | 优雅阅读实时热点资讯 |
 | [alexpacheco/hpc-training](https://github.com/alexpacheco/hpc-training) | ⭐ 6 | HTML | 用于存储本人HPC培训的演示文稿、TeX和PDF文件的仓库。 |
