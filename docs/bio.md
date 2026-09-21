@@ -26,7 +26,7 @@
 | [bebop/poly](https://github.com/bebop/poly) | ⭐ 737 | Go | 用于工程改造生物体的Go包 |
 | [OysterQAQ/ACG2vec](https://github.com/OysterQAQ/ACG2vec) | ⭐ 582 |  | ACG2vec (Anime Comics Games to vector) are committed to creating a playground th… |
 | [wdecoster/NanoPlot](https://github.com/wdecoster/NanoPlot) | ⭐ 560 | HTML | 用于长读长测序数据的绘图脚本 |
-| [10XGenomics/cellranger](https://github.com/10XGenomics/cellranger) | ⭐ 477 | Rust | 10x Genomics 单细胞分析 |
+| [10XGenomics/cellranger](https://github.com/10XGenomics/cellranger) | ⭐ 479 | Rust | 10x Genomics 单细胞分析 |
 | [seqan/seqan3](https://github.com/seqan/seqan3) | ⭐ 463 | C++ | 用于序列分析的现代C++库，包含该库的第3版本及API文档。 |
 | [openbiox/weekly](https://github.com/openbiox/weekly) | ⭐ 461 | HTML | 生信爱好者周刊（每周日发布） |
 | [gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) | ⭐ 396 |  |  |
@@ -44,7 +44,7 @@
 | [BGI-flexlab/SOAPnuke](https://github.com/BGI-flexlab/SOAPnuke) | ⭐ 116 | C++ | 用于对FASTQ或BAM/CRAM文件进行整合质控与预处理的工具 |
 | [broadinstitute/genomics-in-the-cloud](https://github.com/broadinstitute/genomics-in-the-cloud) | ⭐ 103 | Jupyter Notebook | O'Reilly 图书的源代码及相关资料 |
 | [YeoLab/single-cell-bioinformatics🟡](https://github.com/YeoLab/single-cell-bioinformatics) | ⭐ 100 | Jupyter Notebook | 学习单细胞生物信息学方法的Notebook格式课程资料 |
-| [vertgenlab/gonomics](https://github.com/vertgenlab/gonomics) | ⭐ 93 | Go | 用 Go（golang）编写的一组基因组学软件工具集合 |
+| [vertgenlab/gonomics](https://github.com/vertgenlab/gonomics) | ⭐ 95 | Go | 用 Go（golang）编写的一组基因组学软件工具集合 |
 | [Illumina/PlatinumGenomes🟡](https://github.com/Illumina/PlatinumGenomes) | ⭐ 89 |  | Platinum 基因组真集 |
 | [grailbio/bio](https://github.com/grailbio/bio) | ⭐ 79 | Go | 生物信息学基础架构库 |
 | [godotgildor/fastq_compression_comparison](https://github.com/godotgildor/fastq_compression_comparison) | ⭐ 43 | Python | 创建用于协助对FASTQ压缩进行对比的简易Docker镜像 |

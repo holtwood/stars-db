@@ -33,8 +33,8 @@
 | [doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn) | ⭐ 4.2k | TypeScript | 🇨🇳 《JavaScript 二十年》中文版 |
 | [vasanthv/ahey🟡](https://github.com/vasanthv/ahey) | ⭐ 4.2k | JavaScript | 适用于网页的免费群组视频通话。无需注册，无需下载。 |
 | [cita-777/metapi](https://github.com/cita-777/metapi) | ⭐ 3.3k | TypeScript | 把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站… |
-| [meetqy/aspoem](https://github.com/meetqy/aspoem) | ⭐ 2.9k | TypeScript | 通过AsPoem.com学习中国诗词 |
 | [Y-Research-SBU/QuantHarness](https://github.com/Y-Research-SBU/QuantHarness) | ⭐ 2.9k | HTML | QuantHarness 官方仓库 |
+| [meetqy/aspoem](https://github.com/meetqy/aspoem) | ⭐ 2.9k | TypeScript | 通过AsPoem.com学习中国诗词 |
 | [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) | ⭐ 2.8k | Vue | LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https:/… |
 | [Pintree-io/pintree](https://github.com/Pintree-io/pintree) | ⭐ 2.6k | TypeScript | Pintree：轻松将你的浏览器书签转换为目录网站，数分钟即可开始变现。 |
 | [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) | ⭐ 2.3k | TypeScript | Google Antigravity AI模型配额监控插件 (Antigravity AI Model Quota Watching) |
@@ -52,13 +52,13 @@
 | [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) | ⭐ 1.2k | JavaScript | 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。 |
 | [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) | ⭐ 1.1k | HTML | 使用 LaTeXML 将 LaTeX 文档转换为美观的响应式网页。 |
 | [dishait/tov-template](https://github.com/dishait/tov-template) | ⭐ 972 | TypeScript | vite + vue3 + ts 开箱即用现代开发模板 | vite + vue3 + ts out-of-the-box modern development… |
-| [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) | ⭐ 905 | Svelte | 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI… |
+| [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) | ⭐ 906 | Svelte | 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI… |
 | [yenche123/liubai](https://github.com/yenche123/liubai) | ⭐ 864 | TypeScript | 赋能你自己！ |
-| [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 853 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
+| [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 854 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
 | [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 617 | TypeScript |  |
 | [o8oo8o/WebCurl](https://github.com/o8oo8o/WebCurl) | ⭐ 609 | HTML | 极简网页版API调试神器 |
-| [Paper-Dragon/mobaxterm-crack](https://github.com/Paper-Dragon/mobaxterm-crack) | ⭐ 582 | TypeScript | 破解MobaXterm的高级版，生成密钥，支持几乎所有版本。 |
-| [Sergei-Korneev/obsidian-local-images-plus](https://github.com/Sergei-Korneev/obsidian-local-images-plus) | ⭐ 565 | TypeScript | 本仓库是 obsidian-local-images 插件的重制项目，该插件的核心功能是将 Markdown 笔记中的图片下载到本地存储。 |
+| [Paper-Dragon/mobaxterm-crack](https://github.com/Paper-Dragon/mobaxterm-crack) | ⭐ 584 | TypeScript | 破解MobaXterm的高级版，生成密钥，支持几乎所有版本。 |
+| [Sergei-Korneev/obsidian-local-images-plus](https://github.com/Sergei-Korneev/obsidian-local-images-plus) | ⭐ 566 | TypeScript | 本仓库是 obsidian-local-images 插件的重制项目，该插件的核心功能是将 Markdown 笔记中的图片下载到本地存储。 |
 | [lunar-landing/layui-vue](https://github.com/lunar-landing/layui-vue) | ⭐ 557 | Vue | 基于 Layui 和 Vue 的企业级 UI 组件库 |
 | [ButaiKirin/MicrosoftHostsPicker](https://github.com/ButaiKirin/MicrosoftHostsPicker) | ⭐ 509 | CSS | 用于筛选Microsoft服务最快IP的轻量Python脚本 |
 | [oncework/Codeexpander](https://github.com/oncework/Codeexpander) | ⭐ 475 | JavaScript | 跨平台文本扩展工具，可通过缩写快速插入代码片段、代码模板和动态内容，内置截图标注与剪贴板管理器，为开发者、创作者及日常工作流提升生产力。 |

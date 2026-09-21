@@ -20,7 +20,7 @@
 | [photoview/photoview](https://github.com/photoview/photoview) | ⭐ 6.5k | Go | 适用于自托管个人服务器的相册 |
 | [devcontainers/spec](https://github.com/devcontainers/spec) | ⭐ 5.7k |  | Development Containers：使用容器作为全功能开发环境。 |
 | [devtron-labs/devtron](https://github.com/devtron-labs/devtron) | ⭐ 5.6k | Go | 你所需的唯一 Kubernetes 仪表盘 |
-| [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) | ⭐ 4.0k | Dart | 用于快速管理你的 WSL2 实例的图形界面工具 |
+| [bostrot/wslmanager](https://github.com/bostrot/wslmanager) | ⭐ 4.0k | Dart | GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Ins… |
 | [devcontainers/images](https://github.com/devcontainers/images) | ⭐ 2.1k | Shell | 预构建开发容器镜像仓库，发布于 mcr.microsoft.com/devcontainers |
 | [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) | ⭐ 1.9k | Shell | 通过 rclone 备份 vaultwarden（原 bitwarden_rs）的 SQLite3/PostgreSQL/MySQL/MariaDB 数据库，支… |
 | [devcontainers/templates](https://github.com/devcontainers/templates) | ⭐ 1.4k | Shell | 由 Dev Container 规范维护者管理的 Dev Container 模板仓库。前往 https://github.com/devcontainers/… |

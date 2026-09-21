@@ -15,7 +15,7 @@
 | [microsoft/garnet](https://github.com/microsoft/garnet) | ⭐ 12.0k | C# | Garnet 是 Microsoft Research 推出的远程缓存存储，兼具出色的性能（吞吐量与延迟表现）、可扩展性、存储、恢复、集群分片、键迁移和复制功能… |
 | [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) | ⭐ 11.8k | TypeScript | 阿里云盘小白羊版  阿里云盘PC版 aliyundriver |
 | [cooderl/wewe-rss🟡](https://github.com/cooderl/wewe-rss) | ⭐ 9.7k | TypeScript | 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书） |
-| [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) | ⭐ 5.8k | Shell | 将你的 HDD、SSD 和 NVMe 驱动器添加到 Synology 兼容驱动数据库，还可实现更多功能 |
+| [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) | ⭐ 5.9k | Shell | 将你的 HDD、SSD 和 NVMe 驱动器添加到 Synology 兼容驱动数据库，还可实现更多功能 |
 | [geekgeekrun/geekgeekrun](https://github.com/geekgeekrun/geekgeekrun) | ⭐ 2.5k | Vue | 牛人快跑 - GeekGeekRun，求职找工作自动化工具，基于 Puppeteer、Electron。界面友好，简单易用！开源，免费！快速海投、自动开聊、已读… |
 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | ⭐ 1.9k | Go | 原生AI HTAP数据库，内置Git-for-Data与向量搜索，是智能体与应用的数据与内存骨干 |
 | [Rabithua/Rote](https://github.com/Rabithua/Rote) | ⭐ 1.0k | TypeScript | 一个外观与众不同的个人笔记仓库 |

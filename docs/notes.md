@@ -19,7 +19,7 @@
 | [wsdjeg/vim-galore-zh_cn🟡](https://github.com/wsdjeg/vim-galore-zh_cn) | ⭐ 10.6k | Vim Script | Vim 从入门到精通 |
 | [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) | ⭐ 10.3k | JavaScript | 💻 让代码片段管理人人可用（支持macOS/Win/Linux） |
 | [HugoBlox/kit](https://github.com/HugoBlox/kit) | ⭐ 9.7k | HTML | 🧱 描述你的网站，AI生成内容，你得到纯Markdown自有文件。像玩乐高一样拼接Tailwind模块——可做落地页、博客、作品集、文档等更多类型。没有AI垃圾… |
-| [tw93/MiaoYan](https://github.com/tw93/MiaoYan) | ⭐ 8.6k | Swift | ⛷ 一款轻量Markdown应用，助你写出流畅出众的语句。 |
+| [tw93/MiaoYan](https://github.com/tw93/MiaoYan) | ⭐ 8.7k | Swift | ⛷ 一款轻量Markdown应用，助你写出流畅出众的语句。 |
 | [massCodeIO/massCode](https://github.com/massCodeIO/massCode) | ⭐ 7.0k | TypeScript | 免费开源开发者工作区，集代码片段、笔记、HTTP 请求、计算与开发工具于一身的本地优先应用。 |
 | [gitpod-io/openvscode-server🔀](https://github.com/gitpod-io/openvscode-server) | ⭐ 6.2k | TypeScript | 在远程机器运行上游 VS Code，可从任意设备、任意地点通过现代浏览器访问使用。 |
 | [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) | ⭐ 5.7k | Swift | 就像Mac上的TextEdit，只不过专为Markdown打造。 |
@@ -32,10 +32,10 @@
 | [platers/obsidian-linter](https://github.com/platers/obsidian-linter) | ⭐ 2.1k | TypeScript | 这是一款 Obsidian 插件，专注于可配置性与可扩展性，为你的笔记设置格式与样式。 |
 | [gcui-art/markdown-to-image](https://github.com/gcui-art/markdown-to-image) | ⭐ 2.0k | TypeScript | 此 React 组件可将 Markdown 渲染为精美海报图，支持复制为图片，支持将 Markdown 转换为海报/图片/引言卡片/社交卡片，适用于 Insta… |
 | [rohit-px2/nvui](https://github.com/rohit-px2/nvui) | ⭐ 1.7k | C++ | Neovim 的现代化前端界面 |
-| [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) | ⭐ 951 | TypeScript | A cross-platform, instant-rendering desktop Markdown editor 一个跨平台的、即时渲染桌面端 Markd… |
+| [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) | ⭐ 953 | TypeScript | A cross-platform, instant-rendering desktop Markdown editor 一个跨平台的、即时渲染桌面端 Markd… |
 | [MikeWang000000/vscode-server-centos7](https://github.com/MikeWang000000/vscode-server-centos7) | ⭐ 452 | C | 在 RHEL/CentOS 7 上运行最新版 vscode-server！ |
 | [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) | ⭐ 425 | Python |  |
-| [atian25/yuque-exporter](https://github.com/atian25/yuque-exporter) | ⭐ 367 | TypeScript | 将语雀导出为本地 Markdown 文件 |
+| [atian25/yuque-exporter](https://github.com/atian25/yuque-exporter) | ⭐ 368 | TypeScript | 将语雀导出为本地 Markdown 文件 |
 | [dracula/notepad-plus-plus](https://github.com/dracula/notepad-plus-plus) | ⭐ 366 | TypeScript | 适用于 Notepad++ 的深色主题 |
 | [renyunkang/yuque-exporter](https://github.com/renyunkang/yuque-exporter) | ⭐ 334 | JavaScript | 用于将语雀文档导出为Markdown的工具。 |
 | [zhangguixu/window-vim](https://github.com/zhangguixu/window-vim) | ⭐ 68 | Vim script | 在windows环境下折腾vim，搭建前端开发环境，不定期更新 |
