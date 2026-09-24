@@ -6,8 +6,8 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 371.3k | Python | 学习如何设计大规模系统，备战系统设计面试，包含Anki闪卡。 |
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐ 361.7k |  | 一份成为软件工程师的完整计算机科学学习计划 |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 371.5k | Python | 学习如何设计大规模系统，备战系统设计面试，包含Anki闪卡。 |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐ 361.8k |  | 一份成为软件工程师的完整计算机科学学习计划 |
 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ⭐ 224.9k | Python | 用Python实现的所有算法 |
 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | ⭐ 186.2k |  | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | ⭐ 136.0k | Markdown | 破解LeetCode，不仅要知其然，更要知其所以然。 |
@@ -21,7 +21,7 @@
 | [doocs/leetcode](https://github.com/doocs/leetcode) | ⭐ 36.6k | Java | 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第… |
 | [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) | ⭐ 36.1k | Java | 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹… |
 | [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | ⭐ 33.8k | Go | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode… |
-| [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) | ⭐ 31.8k | Python | 120余道Python算法与数据结构交互式编程面试题，附带Anki闪卡。 |
+| [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) | ⭐ 31.9k | Python | 120余道Python算法与数据结构交互式编程面试题，附带Anki闪卡。 |
 | [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) | ⭐ 30.3k |  | 按公司分类的题目列表。companies 目录下每个 csv 文件对应特定公司根据 LeetCode 公司标签整理的 Leetcode 题目列表，更新至 202… |
 | [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) | ⭐ 27.4k | JavaScript | 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 |
 | [forthespada/CS-Books](https://github.com/forthespada/CS-Books) | ⭐ 27.4k |  | 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算… |
@@ -71,7 +71,7 @@
 | [Garvit244/Leetcode](https://github.com/Garvit244/Leetcode) | ⭐ 1.6k | Python | 🎓用Python编写的Leetcode题解 📚 |
 | [wuduhren/leetcode-python](https://github.com/wuduhren/leetcode-python) | ⭐ 1.5k | Python | Leetcode Python 题解与讲解，同时也是软件工程师面试备考指南。 |
 | [flycash/interview-baguwen](https://github.com/flycash/interview-baguwen) | ⭐ 1.3k |  | 面试八股文 |
-| [rachitiitr/modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) | ⭐ 719 |  | 常用于编码面试和竞赛编程的现代C++实用技巧 |
+| [rachitiitr/modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) | ⭐ 720 |  | 常用于编码面试和竞赛编程的现代C++实用技巧 |
 | [F8F-1BearCat/CtCI-6th-Edition-CN](https://github.com/F8F-1BearCat/CtCI-6th-Edition-CN) | ⭐ 694 |  | 《Cracking the Coding Interview, 6th Edition》CtCI中文翻译 |
 | [linuxkerneltravel/linux_kernel_wiki🔀](https://github.com/linuxkerneltravel/linux_kernel_wiki) | ⭐ 635 |  | linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频 |
 | [jxnu-liguobin/cs-summary-reflection🟡](https://github.com/jxnu-liguobin/cs-summary-reflection) | ⭐ 520 | Java | :bulb: 没啥用的仓库，别看了。关注 https://github.com/bitlap/zim |

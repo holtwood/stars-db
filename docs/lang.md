@@ -6,9 +6,9 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [anthropics/skills](https://github.com/anthropics/skills) | ⭐ 177.7k | Python | Agent 技能公开仓库 |
+| [anthropics/skills](https://github.com/anthropics/skills) | ⭐ 177.8k | Python | Agent 技能公开仓库 |
 | [golang/go](https://github.com/golang/go) | ⭐ 139.0k | Go | Go 编程语言 |
-| [fastapi/fastapi](https://github.com/fastapi/fastapi) | ⭐ 102.5k | Python | FastAPI 框架，高性能，易学习，编码快，可用于生产环境 |
+| [fastapi/fastapi](https://github.com/fastapi/fastapi) | ⭐ 102.6k | Python | FastAPI 框架，高性能，易学习，编码快，可用于生产环境 |
 | [nvbn/thefuck](https://github.com/nvbn/thefuck) | ⭐ 97.9k | Python | 一款可以帮你修正上一条控制台命令的好用工具 |
 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | ⭐ 89.2k | Go | Gin 是一个用 Go 编写的高性能 HTTP 网络框架，它提供类似 Martini 的 API，并且借助 httprouter 实现了大幅提升的性能——最高快… |
 | [junegunn/fzf](https://github.com/junegunn/fzf) | ⭐ 83.2k | Go | :cherry_blossom: 命令行模糊查找器 |
@@ -21,7 +21,7 @@
 | [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | ⭐ 61.5k |  | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
 | [minio/minio🟡](https://github.com/minio/minio) | ⭐ 61.4k | Go | MinIO 是一款高性能、兼容 S3 的对象存储，以 GNU AGPLv3 许可证开源。 |
 | [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | ⭐ 61.1k | Go | 单文件开源实时后端 |
-| [sharkdp/bat](https://github.com/sharkdp/bat) | ⭐ 60.5k | Rust | 带翅膀的 cat(1) 克隆版 |
+| [sharkdp/bat](https://github.com/sharkdp/bat) | ⭐ 60.6k | Rust | 带翅膀的 cat(1) 克隆版 |
 | [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) | ⭐ 58.4k | Python | 没有堡垒，唯有纯粹的开阔之地。OpenManus，即将到来。 |
 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | ⭐ 58.2k | Python | 花一百美元能买到的顶级ChatGPT体验。 |
 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | ⭐ 58.1k | Go | 品茶般顺畅的Git体验！无痛一键自托管一体化软件开发服务，涵盖Git托管、代码评审、团队协作、软件包注册表与CI/CD |
@@ -42,7 +42,7 @@
 | [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | ⭐ 34.0k | C | 本项目旨在优化 Windows 平台的工作环境 |
 | [rustfs/rustfs](https://github.com/rustfs/rustfs) | ⭐ 33.7k | Rust | 处理4KB对象载荷时，速度比MinIO快2.3倍。RustFS是开源的S3兼容高性能对象存储系统，支持与MinIO、Ceph等其他兼容S3的平台迁移共存。 |
 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | ⭐ 31.7k | Rust | Professional Antigravity Account Manager & Switcher. One-click seamless account… |
-| [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | ⭐ 31.4k | Rust | An enhanced tool for CodexApp, striving to make Codex better to use and more com… |
+| [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | ⭐ 31.5k | Rust | An enhanced tool for CodexApp, striving to make Codex better to use and more com… |
 | [facebook/folly](https://github.com/facebook/folly) | ⭐ 30.5k | C++ | 由 Facebook 开发并使用的开源 C++ 库。 |
 | [spf13/viper](https://github.com/spf13/viper) | ⭐ 30.5k | Go | 带强大功能的 Go 配置库 |
 | [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) | ⭐ 29.8k | Python | :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装） |
@@ -55,7 +55,7 @@
 | [google/flatbuffers](https://github.com/google/flatbuffers) | ⭐ 26.5k | C++ | FlatBuffers：内存高效的序列化库 |
 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | ⭐ 25.8k | C++ | 现代格式化库 |
 | [sirupsen/logrus](https://github.com/sirupsen/logrus) | ⭐ 25.8k | Go | 适用于 Go 的结构化可插拔日志库 |
-| [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | ⭐ 24.7k | Go | 专为应对Trust Crisis的全新AList分支 |
+| [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | ⭐ 24.8k | Go | 专为应对Trust Crisis的全新AList分支 |
 | [ogham/exa](https://github.com/ogham/exa) | ⭐ 24.4k | Rust | `ls` 的现代替代工具 |
 | [uutils/coreutils](https://github.com/uutils/coreutils) | ⭐ 24.2k | Rust | GNU coreutils 的跨平台 Rust 重写实现 |
 | [AlDanial/cloc](https://github.com/AlDanial/cloc) | ⭐ 23.6k | Perl | cloc 可统计多种编程语言的空白行、注释行与源代码物理行数。 |
@@ -69,7 +69,7 @@
 | [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | ⭐ 18.1k | C++ | Abseil 通用 C++ 库 |
 | [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) | ⭐ 17.1k | Go | 可扩展的高性能HTTP请求路由器 |
 | [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) | ⭐ 16.9k | C++ | 仅头文件形式的 C++ HTTP/HTTPS 服务端与客户端库 |
-| [coder/coder](https://github.com/coder/coder) | ⭐ 16.6k | Go | 为开发者及其智能代理提供安全环境 |
+| [coder/coder](https://github.com/coder/coder) | ⭐ 16.7k | Go | 为开发者及其智能代理提供安全环境 |
 | [flarum/flarum](https://github.com/flarum/flarum) | ⭐ 16.4k | PHP | 用于构建优质社区的轻量论坛程序 |
 | [fatih/vim-go](https://github.com/fatih/vim-go) | ⭐ 16.2k | Vim Script | 适用于 Vim 的 Go 开发插件 |
 | [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) | ⭐ 16.1k | Rust | Tantivy 是一款受 Apache Lucene 启发、用 Rust 编写的全文搜索引擎库 |
@@ -96,8 +96,8 @@
 | [pocoproject/poco](https://github.com/pocoproject/poco) | ⭐ 9.5k | C++ | POCO C++ 库是功能强大的跨平台 C++ 库，用于构建可运行在桌面、服务器、移动设备、物联网和嵌入式系统上的网络与互联网应用。 |
 | [goplus/xgo](https://github.com/goplus/xgo) | ⭐ 9.5k | Go | XGo 是读起来与自然英语无异的编程语言，同时具备超强扩展性：它支持你调用 C/C++、Go、Python 以及 JavaScript/TypeScript 的… |
 | [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) | ⭐ 9.0k | Go | 设计模式 Golang实现－《研磨设计模式》读书笔记 |
-| [progschj/ThreadPool](https://github.com/progschj/ThreadPool) | ⭐ 8.8k | C++ | 一个简易的 C++11 线程池实现 |
 | [containers/bubblewrap](https://github.com/containers/bubblewrap) | ⭐ 8.8k | C | 被 Flatpak 及同类项目使用的低级非特权沙箱工具 |
+| [progschj/ThreadPool](https://github.com/progschj/ThreadPool) | ⭐ 8.8k | C++ | 一个简易的 C++11 线程池实现 |
 | [pdm-project/pdm](https://github.com/pdm-project/pdm) | ⭐ 8.7k | Python | 支持最新PEP标准的现代Python包与依赖管理器 |
 | [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) | ⭐ 8.6k | C# | Git Extensions 是一款用于管理 git 仓库的独立UI工具，同时支持集成 Windows 资源管理器与 Microsoft Visual Stud… |
 | [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) | ⭐ 8.4k | Python | Boson AI 推出的文本-音频基础模型 |
@@ -105,7 +105,7 @@
 | [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) | ⭐ 8.2k | Go | 硬盘S.M.A.R.T监控、历史趋势分析与实际故障阈值检测 |
 | [linyacool/WebServer](https://github.com/linyacool/WebServer) | ⭐ 8.2k | C++ | 一个C++高性能Web服务器 |
 | [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) | ⭐ 8.2k | Go | Go 示例入门 |
-| [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | ⭐ 8.1k | Rust | 数据中心级分布式推理服务框架 |
+| [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | ⭐ 8.2k | Rust | 数据中心级分布式推理服务框架 |
 | [Richasy/Bili.Uwp🟡](https://github.com/Richasy/Bili.Uwp) | ⭐ 8.1k | C# | 适用于新系统UI的哔哩 |
 | [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) | ⭐ 8.1k | Java | 1️⃣🐝🏎️ 十亿行挑战——用Java探索文本文件中10亿行数据的聚合速度的趣味项目 |
 | [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) | ⭐ 8.0k | Jupyter Notebook | Channel 9 初学者Python课程的示例代码 |
@@ -146,8 +146,8 @@
 | [mypaint/mypaint](https://github.com/mypaint/mypaint) | ⭐ 3.0k | Python | MyPaint 是一款简洁的绘图绘画程序，兼容 Wacom 类绘图板。 |
 | [madler/pigz](https://github.com/madler/pigz) | ⭐ 3.0k | C | 适用于现代多处理器、多核机器的 gzip 并行实现 |
 | [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) | ⭐ 2.8k | C# | 根据当前时间调整屏幕伽马值，缓解眼睛疲劳 |
-| [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec) | ⭐ 2.4k | C++ | std::execution是C++标准提供的异步与并行编程框架。 |
 | [LigphiDonk/academic-figure-generator](https://github.com/LigphiDonk/academic-figure-generator) | ⭐ 2.4k | Python | AI 驱动的学术论文配图生成平台。上传论文 → AI 分析内容生成 Prompt → 一键生成高质量科研配图，还有配套的skill可在主流agent中使用 |
+| [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec) | ⭐ 2.4k | C++ | std::execution是C++标准提供的异步与并行编程框架。 |
 | [bilibili/overlord](https://github.com/bilibili/overlord) | ⭐ 2.2k | Go | Overlord是哔哩哔哩基于Go语言编写的memcache和redis&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。 |
 | [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) | ⭐ 2.2k | C++ | 适用于 Python 和 C++ 的可视化纳秒级性能分析器、日志记录工具与测试启用工具 |
 | [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed) | ⭐ 2.2k | C++ | C++11/14/17/20并发编程解密：从核心原理到线程安全代码 |
@@ -189,17 +189,17 @@
 | [qy527145/acemcp](https://github.com/qy527145/acemcp) | ⭐ 803 | Python | 一个将ACE(Augment Context Engine) 做成MCP的项目 |
 | [findmover/wxread](https://github.com/findmover/wxread) | ⭐ 792 | Python | 微信读书刷时长助你成为霸榜“大佬” |
 | [bilibili/vim-vide](https://github.com/bilibili/vim-vide) | ⭐ 786 | Vim Script | Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！ |
-| [WeichenFan/CFG-Zero-star](https://github.com/WeichenFan/CFG-Zero-star) | ⭐ 717 | Python | CFG-Zero* 的官方仓库 |
+| [WeichenFan/CFG-Zero-star](https://github.com/WeichenFan/CFG-Zero-star) | ⭐ 716 | Python | CFG-Zero* 的官方仓库 |
 | [PytLab/Cpp-Primer-Plus](https://github.com/PytLab/Cpp-Primer-Plus) | ⭐ 684 | C++ | C++ Primer Plus 第六版习题解答 |
 | [Cobertos/md2notion🟡](https://github.com/Cobertos/md2notion) | ⭐ 680 | Python | 更好的 Notion.so Markdown 导入工具 |
 | [astrofrog/psrecord](https://github.com/astrofrog/psrecord) | ⭐ 680 | Python | 记录单个进程的CPU与内存占用活动 |
-| [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) | ⭐ 624 | Rust | 合并多个网络连接，提升你的下载速度 |
+| [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) | ⭐ 623 | Rust | 合并多个网络连接，提升你的下载速度 |
 | [BartVandewoestyne/Effective-Modern-Cpp](https://github.com/BartVandewoestyne/Effective-Modern-Cpp) | ⭐ 618 | C++ | Scott Meyers所著《Effective Modern C++》的示例代码 |
 | [neolee/pilot](https://github.com/neolee/pilot) | ⭐ 613 | Jupyter Notebook | 进入编程世界的第一课 |
-| [Mercurygram/Mercurygram🔀](https://github.com/Mercurygram/Mercurygram) | ⭐ 599 | Java | Android 版官方 Telegram 客户端的非官方、对自由开源软件友好的分支 |
+| [Mercurygram/Mercurygram🔀](https://github.com/Mercurygram/Mercurygram) | ⭐ 602 | Java | Android 版官方 Telegram 客户端的非官方、对自由开源软件友好的分支 |
 | [r-smith/vmPing](https://github.com/r-smith/vmPing) | ⭐ 596 | C# | 可视化多Ping，用于监控多台主机的色标编码Ping工具 |
 | [MoonshotAI/K2-Vendor-Verifier](https://github.com/MoonshotAI/K2-Vendor-Verifier) | ⭐ 594 | Python | 验证所有提供 Kimi K2 API 厂商的精度 |
-| [ZMGID/kivio](https://github.com/ZMGID/kivio) | ⭐ 589 | Rust |  |
+| [ZMGID/kivio](https://github.com/ZMGID/kivio) | ⭐ 588 | Rust |  |
 | [Waleon/DesignPatterns](https://github.com/Waleon/DesignPatterns) | ⭐ 575 | C++ | 趣味设计模式，小朋友也能学得会！ |
 | [ahmetsait/toolgit](https://github.com/ahmetsait/toolgit) | ⭐ 564 | Python | Git 生产力工具集 |
 | [xujiangjiang/Easy-Cat-Timer](https://github.com/xujiangjiang/Easy-Cat-Timer) | ⭐ 552 | C# | This is a very simple cat timer, made using WPF（这是一个非常简单的猫咪计时器，使用WPF制作） |
@@ -217,7 +217,7 @@
 | [jenniferlu717/KrakenTools](https://github.com/jenniferlu717/KrakenTools) | ⭐ 384 | Python | KrakenTools 提供用于分析 Kraken/Kraken2/Bracken/KrakenUniq 输出文件的独立脚本 |
 | [jwcpp/jwEngine](https://github.com/jwcpp/jwEngine) | ⭐ 364 | C | 跨平台 C++<->lua 服务端快速开发方案 |
 | [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11) | ⭐ 329 | C++ | 一款快速、无锁、跨平台的 C++11 线程池库，主打轻量简洁。 |
-| [Baseult/NetLimiterCrack](https://github.com/Baseult/NetLimiterCrack) | ⭐ 308 | C# | 一个用于免费获取 NetLimiter Premium 的简单补丁程序 |
+| [Baseult/NetLimiterCrack](https://github.com/Baseult/NetLimiterCrack) | ⭐ 309 | C# | 一个用于免费获取 NetLimiter Premium 的简单补丁程序 |
 | [GcsSloop/TinyPng](https://github.com/GcsSloop/TinyPng) | ⭐ 303 | Python | 图片批量压缩脚本(Python) |
 | [PGshen/mini-clipboard](https://github.com/PGshen/mini-clipboard) | ⭐ 253 | Swift | 开源项目，专注于简洁美观、流畅顺滑的使用体验。 |
 | [falahati/NetworkAdapterSelector](https://github.com/falahati/NetworkAdapterSelector) | ⭐ 252 | C# | 可强制将程序绑定到指定网络适配器的简易解决方案 |
@@ -225,7 +225,7 @@
 | [bkhtmltopdf/bkhtmltopdf](https://github.com/bkhtmltopdf/bkhtmltopdf) | ⭐ 234 | Java | 使用Blink（Chromium）将HTML转换为PDF |
 | [oDaiSuno/jetbrainsai2api](https://github.com/oDaiSuno/jetbrainsai2api) | ⭐ 209 | Python |  |
 | [broqiang/vim-go-ide](https://github.com/broqiang/vim-go-ide) | ⭐ 207 | Vim Script | Vim as the IDE for the go language 将 vim 打造成 go 语言的 ide |
-| [rosetta-rs/argparse-rosetta-rs](https://github.com/rosetta-rs/argparse-rosetta-rs) | ⭐ 195 | Python | 对比各种 argparse API |
+| [rosetta-rs/argparse-rosetta-rs](https://github.com/rosetta-rs/argparse-rosetta-rs) | ⭐ 196 | Python | 对比各种 argparse API |
 | [jax-explorer/ComfyUI-easycontrol](https://github.com/jax-explorer/ComfyUI-easycontrol) | ⭐ 186 | Python |  |
 | [oscourse-tsinghua/rcore_plus🔀](https://github.com/oscourse-tsinghua/rcore_plus) | ⭐ 174 | Rust | 清华大学uCore操作系统的Rust版本，兼容Linux。 |
 | [HuTianQi/CoolWeather](https://github.com/HuTianQi/CoolWeather) | ⭐ 147 | Java | 本人完全自主设计与开发的一款轻量级简约好用的天气App，无广告，无烦人的通知栏，定位精准，天气信息数据准确，还支持更换背景皮肤哦，颜值爆表 |
