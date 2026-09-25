@@ -6,7 +6,7 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [neovim/neovim](https://github.com/neovim/neovim) | ⭐ 102.5k | Vim Script | 专注于可扩展性与易用性的 Vim 分支 |
+| [neovim/neovim](https://github.com/neovim/neovim) | ⭐ 102.6k | Vim Script | 专注于可扩展性与易用性的 Vim 分支 |
 | [coder/code-server](https://github.com/coder/code-server) | ⭐ 79.4k | TypeScript | 浏览器中的 VS Code |
 | [amix/vimrc](https://github.com/amix/vimrc) | ⭐ 31.8k | Vim Script | 终极 Vim 配置（vimrc） |
 | [wsdjeg/SpaceVim🟡](https://github.com/wsdjeg/SpaceVim) | ⭐ 20.2k | Vim Script | 模块化的 Vim 与 Neovim 配置 |
@@ -33,7 +33,7 @@
 | [gcui-art/markdown-to-image](https://github.com/gcui-art/markdown-to-image) | ⭐ 2.0k | TypeScript | 此 React 组件可将 Markdown 渲染为精美海报图，支持复制为图片，支持将 Markdown 转换为海报/图片/引言卡片/社交卡片，适用于 Insta… |
 | [rohit-px2/nvui](https://github.com/rohit-px2/nvui) | ⭐ 1.7k | C++ | Neovim 的现代化前端界面 |
 | [Auto-Plugin/milkup](https://github.com/Auto-Plugin/milkup) | ⭐ 952 | TypeScript | A cross-platform, instant-rendering desktop Markdown editor 一个跨平台的、即时渲染桌面端 Markd… |
-| [MikeWang000000/vscode-server-centos7](https://github.com/MikeWang000000/vscode-server-centos7) | ⭐ 454 | C | 在 RHEL/CentOS 7 上运行最新版 vscode-server！ |
+| [MikeWang000000/vscode-server-centos7](https://github.com/MikeWang000000/vscode-server-centos7) | ⭐ 453 | C | 在 RHEL/CentOS 7 上运行最新版 vscode-server！ |
 | [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) | ⭐ 425 | Python |  |
 | [atian25/yuque-exporter](https://github.com/atian25/yuque-exporter) | ⭐ 368 | TypeScript | 将语雀导出为本地 Markdown 文件 |
 | [dracula/notepad-plus-plus](https://github.com/dracula/notepad-plus-plus) | ⭐ 366 | TypeScript | 适用于 Notepad++ 的深色主题 |
