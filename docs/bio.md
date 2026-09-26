@@ -19,7 +19,7 @@
 | [shenwei356/csvtk](https://github.com/shenwei356/csvtk) | ⭐ 1.2k | Go | 基于Golang开发的跨平台高效实用CSV/TSV工具包 |
 | [crazyhottommy/RNA-seq-analysis](https://github.com/crazyhottommy/RNA-seq-analysis) | ⭐ 1.1k | Python | Ming Tang的RNAseq分析笔记 |
 | [mikolmogorov/Flye](https://github.com/mikolmogorov/Flye) | ⭐ 950 | C | 基于重复图谱的单分子测序读段从头组装工具 |
-| [bwa-mem2/bwa-mem2](https://github.com/bwa-mem2/bwa-mem2) | ⭐ 864 | C++ | bwa-mem 的下一代版本 |
+| [bwa-mem2/bwa-mem2](https://github.com/bwa-mem2/bwa-mem2) | ⭐ 863 | C++ | bwa-mem 的下一代版本 |
 | [openwdl/wdl](https://github.com/openwdl/wdl) | ⭐ 857 |  | 工作流描述语言（WDL）规范 |
 | [crazyhottommy/scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes) | ⭐ 841 |  | Ming Tang 的单细胞 RNA 测序分析笔记 |
 | [mdozmorov/scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes) | ⭐ 818 | R | 单细胞RNA测序分析工具清单 |
@@ -31,7 +31,7 @@
 | [openbiox/weekly](https://github.com/openbiox/weekly) | ⭐ 460 | HTML | 生信爱好者周刊（每周日发布） |
 | [gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) | ⭐ 396 |  |  |
 | [Ming-Lian/NGS-analysis](https://github.com/Ming-Lian/NGS-analysis) | ⭐ 378 |  | 二代测序数据分析 |
-| [obophenotype/human-phenotype-ontology](https://github.com/obophenotype/human-phenotype-ontology) | ⭐ 373 | Makefile | 用于描述人类临床特征的本体 |
+| [obophenotype/human-phenotype-ontology](https://github.com/obophenotype/human-phenotype-ontology) | ⭐ 374 | Makefile | 用于描述人类临床特征的本体 |
 | [brentp/goleft](https://github.com/brentp/goleft) | ⭐ 227 | Go | goleft 是遵循 MIT 许可证分发的生物信息学工具合集，打包为单个静态二进制文件 |
 | [PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition) | ⭐ 216 | Python | Python生物信息学 cookbook 第三版 |
 | [BGI-HangzhouAI/Genos](https://github.com/BGI-HangzhouAI/Genos) | ⭐ 181 | Jupyter Notebook | 基因组基础大模型 |
