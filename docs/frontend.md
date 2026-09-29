@@ -8,10 +8,10 @@
 |------|------|------|------|
 | [react/react](https://github.com/react/react) | ⭐ 250.8k | JavaScript | 用于构建网页和原生用户界面的库。 |
 | [vuejs/vue](https://github.com/vuejs/vue) | ⭐ 212.8k | TypeScript | 这是 Vue 2 的仓库。Vue 3 请访问 https://github.com/vuejs/core |
-| [vitejs/vite](https://github.com/vitejs/vite) | ⭐ 83.0k | TypeScript | 下一代前端工具链，极速体验！ |
+| [vitejs/vite](https://github.com/vitejs/vite) | ⭐ 83.1k | TypeScript | 下一代前端工具链，极速体验！ |
 | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | ⭐ 80.5k | TypeScript | 开源API开发生态系统 • https://hoppscotch.io • 支持离线、本地部署与云端 • 覆盖Web、桌面端与CLI • Postman、Ins… |
 | [ElemeFE/element](https://github.com/ElemeFE/element) | ⭐ 54.0k | Vue | 适用于Web的Vue.js 2.0 UI组件库 |
-| [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | ⭐ 46.3k | TypeScript | 🧡 一切皆可RSS |
+| [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | ⭐ 46.4k | TypeScript | 🧡 一切皆可RSS |
 | [yarnpkg/yarn](https://github.com/yarnpkg/yarn) | ⭐ 41.5k | JavaScript | 1.x 分支已停止更新，新功能和错误修复现在都在 https://github.com/yarnpkg/berry 开发 |
 | [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) | ⭐ 40.6k | CSS | 50+ 基于 HTML、CSS 和 JS 的小型网页项目 |
 | [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) | ⭐ 31.1k |  | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 |
@@ -51,10 +51,10 @@
 | [Gisto/Gisto](https://github.com/Gisto/Gisto) | ⭐ 1.2k | TypeScript | Gisto 是一款跨平台代码片段管理应用，可让你和/或你的团队快速便捷地共享代码片段。它基于 GitHub Gists 或 GitLab snippets 基础… |
 | [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) | ⭐ 1.2k | JavaScript | 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。 |
 | [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) | ⭐ 1.1k | HTML | 使用 LaTeXML 将 LaTeX 文档转换为美观的响应式网页。 |
-| [dishait/tov-template](https://github.com/dishait/tov-template) | ⭐ 971 | TypeScript | vite + vue3 + ts 开箱即用现代开发模板 | vite + vue3 + ts out-of-the-box modern development… |
+| [dishait/tov-template](https://github.com/dishait/tov-template) | ⭐ 970 | TypeScript | vite + vue3 + ts 开箱即用现代开发模板 | vite + vue3 + ts out-of-the-box modern development… |
 | [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) | ⭐ 910 | Svelte | 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI… |
 | [yenche123/liubai](https://github.com/yenche123/liubai) | ⭐ 864 | TypeScript | 赋能你自己！ |
-| [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 857 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
+| [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 858 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
 | [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 620 | TypeScript |  |
 | [o8oo8o/WebCurl](https://github.com/o8oo8o/WebCurl) | ⭐ 609 | HTML | 极简网页版API调试神器 |
 | [Paper-Dragon/mobaxterm-crack](https://github.com/Paper-Dragon/mobaxterm-crack) | ⭐ 590 | TypeScript | 破解MobaXterm的高级版，生成密钥，支持几乎所有版本。 |
@@ -84,7 +84,7 @@
 | [CY-Christin/CY-Christin-Blog](https://github.com/CY-Christin/CY-Christin-Blog) | ⭐ 37 | TypeScript | 偏 Code，偶尔写写随笔。 |
 | [JiangWay/OpenSpec🔀](https://github.com/JiangWay/OpenSpec) | ⭐ 30 | TypeScript | 适用于AI编码助手的规范驱动开发（SDD） |
 | [wefantasy/collector](https://github.com/wefantasy/collector) | ⭐ 30 | Svelte | Collector 是一个简约个人导航站点，帮助您高效管理和分类收藏的网站。 |
-| [madlifer/BentoGrid-Html-Slide](https://github.com/madlifer/BentoGrid-Html-Slide) | ⭐ 26 | HTML | 便当网格风格幻灯片模板 |
+| [madlifer/BentoGrid-Html-Slide](https://github.com/madlifer/BentoGrid-Html-Slide) | ⭐ 27 | HTML | 便当网格风格幻灯片模板 |
 | [morehardy/vue-steps](https://github.com/morehardy/vue-steps) | ⭐ 26 | JavaScript | 基于 vue 的步骤条插件 |
 | [konbakuyomu/vscode-diagnostics-dumper](https://github.com/konbakuyomu/vscode-diagnostics-dumper) | ⭐ 21 | TypeScript |  |
 | [huggingface/prettier-plugin-vertical-align](https://github.com/huggingface/prettier-plugin-vertical-align) | ⭐ 16 | TypeScript | 为 JS/TS 代码垂直对齐对象属性和接口成员 |

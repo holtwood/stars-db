@@ -6,7 +6,7 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [neovim/neovim](https://github.com/neovim/neovim) | ⭐ 102.6k | Vim Script | 专注于可扩展性与易用性的 Vim 分支 |
+| [neovim/neovim](https://github.com/neovim/neovim) | ⭐ 102.7k | Vim Script | 专注于可扩展性与易用性的 Vim 分支 |
 | [coder/code-server](https://github.com/coder/code-server) | ⭐ 79.5k | TypeScript | 浏览器中的 VS Code |
 | [amix/vimrc](https://github.com/amix/vimrc) | ⭐ 31.8k | Vim Script | 终极 Vim 配置（vimrc） |
 | [wsdjeg/SpaceVim🟡](https://github.com/wsdjeg/SpaceVim) | ⭐ 20.2k | Vim Script | 模块化的 Vim 与 Neovim 配置 |
@@ -18,11 +18,11 @@
 | [Milkdown/milkdown](https://github.com/Milkdown/milkdown) | ⭐ 12.0k | TypeScript | 🍼 插件驱动的所见即所得 Markdown 编辑器框架。 |
 | [wsdjeg/vim-galore-zh_cn🟡](https://github.com/wsdjeg/vim-galore-zh_cn) | ⭐ 10.6k | Vim Script | Vim 从入门到精通 |
 | [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) | ⭐ 10.3k | JavaScript | 💻 让代码片段管理人人可用（支持macOS/Win/Linux） |
-| [HugoBlox/kit](https://github.com/HugoBlox/kit) | ⭐ 9.7k | HTML | 🧱 描述你的网站，AI生成内容，你得到纯Markdown自有文件。像玩乐高一样拼接Tailwind模块——可做落地页、博客、作品集、文档等更多类型。没有AI垃圾… |
+| [HugoBlox/kit](https://github.com/HugoBlox/kit) | ⭐ 9.8k | HTML | 🧱 描述你的网站，AI生成内容，你得到纯Markdown自有文件。像玩乐高一样拼接Tailwind模块——可做落地页、博客、作品集、文档等更多类型。没有AI垃圾… |
 | [tw93/MiaoYan](https://github.com/tw93/MiaoYan) | ⭐ 8.7k | Swift | ⛷ 一款轻量Markdown应用，助你写出流畅出众的语句。 |
 | [massCodeIO/massCode](https://github.com/massCodeIO/massCode) | ⭐ 7.0k | TypeScript | 免费开源开发者工作区，集代码片段、笔记、HTTP 请求、计算与开发工具于一身的本地优先应用。 |
 | [gitpod-io/openvscode-server🔀](https://github.com/gitpod-io/openvscode-server) | ⭐ 6.2k | TypeScript | 在远程机器运行上游 VS Code，可从任意设备、任意地点通过现代浏览器访问使用。 |
-| [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) | ⭐ 5.7k | Swift | 就像Mac上的TextEdit，只不过专为Markdown打造。 |
+| [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) | ⭐ 5.8k | Swift | 就像Mac上的TextEdit，只不过专为Markdown打造。 |
 | [heyman/heynote](https://github.com/heyman/heynote) | ⭐ 5.4k | JavaScript | 面向高级用户的专用临时笔记板 |
 | [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin) | ⭐ 4.6k | JavaScript | Typora Plugin. Feature Enhancement Tool | Typora 插件，功能增强工具 |
 | [blossom-editor/blossom](https://github.com/blossom-editor/blossom) | ⭐ 3.8k | Java | A markdown editor that you can deploy on your own servers to achieve cloud stora… |

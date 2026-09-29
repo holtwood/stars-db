@@ -11,7 +11,7 @@
 | [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) | ⭐ 7.5k |  | 我终于能用谷歌搜中文了…… |
 | [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) | ⭐ 6.0k | JavaScript | 使用Google、Bing或Yandex实时翻译你的页面 |
 | [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) | ⭐ 5.4k | TypeScript | ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展 |
-| [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) | ⭐ 4.4k | TypeScript | AdGuard 浏览器扩展 |
+| [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) | ⭐ 4.5k | TypeScript | AdGuard 浏览器扩展 |
 | [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) | ⭐ 2.6k | TypeScript | 💬 在任意网站与任何人聊天。 |
 | [liminalpurr/jizhi](https://github.com/liminalpurr/jizhi) | ⭐ 1.1k | JavaScript | 一款 Chrome/Firefox 扩展，提供自定义新标签页，内含中国古诗词，以及搭配传统中国配色的 P5.js 噪波动效 |
 | [10D24D/NiceFont](https://github.com/10D24D/NiceFont) | ⭐ 149 | JavaScript | NiceFont —— 一款优化网页字体显示的工具，让浏览更清晰、舒适！“真正调整字体，而非页面缩放，拒绝将就”！可直接修改网页的字体大小与风格，保存你的字体设… |
