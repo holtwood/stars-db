@@ -2,7 +2,7 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1373-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--29-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1373-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--09--30-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
 > 📈 **1373** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
@@ -18,7 +18,7 @@
 - ⭐ [konbakuyomu/smartsearch](https://github.com/konbakuyomu/smartsearch) —  `2026-09-21`
 - ⭐ [zai-org/ZCode](https://github.com/zai-org/ZCode) — Z.ai's coding agent harness. Powerful, intelligent, extensib… `2026-09-21`
 - ⭐ [Jia-Ethan/zcode-keysmith](https://github.com/Jia-Ethan/zcode-keysmith) — ZCode App managed true system-role entrypoint `2026-09-20`
-- ⭐ [Minglink/dsh-infinite-gen-4](https://github.com/Minglink/dsh-infinite-gen-4) — DeepSeek v4.1 flash 网络安全红队工具（无限四代） — jailbreak prompts and t… `2026-09-20`
+- ⭐ [Minglink/dsh-infinite-gen-4](https://github.com/Minglink/dsh-infinite-gen-4) — DeepSeek v4.1 flash 网络安全红队工具（无限四代）     求 Star 收藏 ⭐欢迎大家提交项目的改… `2026-09-20`
 - ⭐ [trevortylerlee/astro-micro](https://github.com/trevortylerlee/astro-micro) — Blog theme for Astro with search and comments built-in. Zero… `2026-09-17`
 - ⭐ [yihui/hugo-prose](https://github.com/yihui/hugo-prose) — A Hugo theme derived from the XMin theme, and inspired by Wo… `2026-09-17`
 - ⭐ [nezhahq/nezha](https://github.com/nezhahq/nezha) — :trollface: Self-hosted, lightweight server and website moni… `2026-09-17`
