@@ -36,7 +36,7 @@
 | [MikeWang000000/vscode-server-centos7](https://github.com/MikeWang000000/vscode-server-centos7) | ⭐ 455 | C | 在 RHEL/CentOS 7 上运行最新版 vscode-server！ |
 | [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) | ⭐ 425 | Python |  |
 | [atian25/yuque-exporter](https://github.com/atian25/yuque-exporter) | ⭐ 368 | TypeScript | 将语雀导出为本地 Markdown 文件 |
-| [dracula/notepad-plus-plus](https://github.com/dracula/notepad-plus-plus) | ⭐ 367 | TypeScript | 适用于 Notepad++ 的深色主题 |
+| [dracula/notepad-plus-plus](https://github.com/dracula/notepad-plus-plus) | ⭐ 368 | TypeScript | 适用于 Notepad++ 的深色主题 |
 | [renyunkang/yuque-exporter](https://github.com/renyunkang/yuque-exporter) | ⭐ 334 | JavaScript | 用于将语雀文档导出为Markdown的工具。 |
 | [zhangguixu/window-vim](https://github.com/zhangguixu/window-vim) | ⭐ 68 | Vim script | 在windows环境下折腾vim，搭建前端开发环境，不定期更新 |
 | [839891627/vim](https://github.com/839891627/vim) | ⭐ 11 | Vim script | 高度可扩展的文本编辑器 |

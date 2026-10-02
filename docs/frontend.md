@@ -2,11 +2,11 @@
 
 > 前端框架、Web 应用与资源
 
-共 **86** 个项目,按 ⭐ 排序
+共 **85** 个项目,按 ⭐ 排序
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [react/react](https://github.com/react/react) | ⭐ 250.8k | JavaScript | 用于构建网页和原生用户界面的库。 |
+| [react/react](https://github.com/react/react) | ⭐ 250.9k | JavaScript | 用于构建网页和原生用户界面的库。 |
 | [vuejs/vue](https://github.com/vuejs/vue) | ⭐ 212.8k | TypeScript | 这是 Vue 2 的仓库。Vue 3 请访问 https://github.com/vuejs/core |
 | [vitejs/vite](https://github.com/vitejs/vite) | ⭐ 83.1k | TypeScript | 下一代前端工具链，极速体验！ |
 | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | ⭐ 80.6k | TypeScript | 开源API开发生态系统 • https://hoppscotch.io • 支持离线、本地部署与云端 • 覆盖Web、桌面端与CLI • Postman、Ins… |
@@ -25,13 +25,12 @@
 | [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage) | ⭐ 13.6k | Vue | A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + el… |
 | [macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web) | ⭐ 12.6k | Vue | mall-admin-web是一个电商后台管理系统的前端项目，基于Vue 3+Element Plus实现。 主要包括商品管理、订单管理、会员管理、促销管理、运… |
 | [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) | ⭐ 11.0k | TypeScript | 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform |
-| [pickle-com/glass](https://github.com/pickle-com/glass) | ⭐ 7.6k | JavaScript | 数字思维扩展 |
 | [jbaysolutions/vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) | ⭐ 7.4k | JavaScript | 适用于 Vue.js 的可拖拽、可调整大小的网格布局 |
 | [lanyulei/ferry](https://github.com/lanyulei/ferry) | ⭐ 6.6k | JavaScript | 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提… |
 | [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) | ⭐ 5.6k | HTML | 转换 PDF 为 HTML，不丢失文本与格式。 |
 | [Innei/Shiro](https://github.com/Innei/Shiro) | ⭐ 4.2k | TypeScript | 📜 一款体现纸张纯净与雪之清新的极简个人网站 |
 | [doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn) | ⭐ 4.2k | TypeScript | 🇨🇳 《JavaScript 二十年》中文版 |
-| [vasanthv/veenew](https://github.com/vasanthv/veenew) | ⭐ 4.2k | JavaScript | Free group video call for the web. No signups. No downloads. |
+| [vasanthv/ahey🟡](https://github.com/vasanthv/ahey) | ⭐ 4.2k | JavaScript | 适用于网页的免费群组视频通话。无需注册，无需下载。 |
 | [cita-777/metapi](https://github.com/cita-777/metapi) | ⭐ 3.3k | TypeScript | 把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站… |
 | [Y-Research-SBU/QuantHarness](https://github.com/Y-Research-SBU/QuantHarness) | ⭐ 2.9k | HTML | QuantHarness 官方仓库 |
 | [meetqy/aspoem](https://github.com/meetqy/aspoem) | ⭐ 2.9k | TypeScript | 通过AsPoem.com学习中国诗词 |
@@ -40,13 +39,13 @@
 | [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) | ⭐ 2.3k | TypeScript | Google Antigravity AI模型配额监控插件 (Antigravity AI Model Quota Watching) |
 | [hellodigua/code996](https://github.com/hellodigua/code996) | ⭐ 2.1k | TypeScript | 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。  Analyzes the commit time distribution of… |
 | [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) | ⭐ 2.0k | JavaScript | Use the browser's online image format converter, no need to upload files, you ca… |
-| [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) | ⭐ 1.9k | TypeScript | High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero… |
+| [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) | ⭐ 2.0k | TypeScript | High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero… |
 | [anvaka/pm](https://github.com/anvaka/pm) | ⭐ 1.8k | JavaScript | 包管理器可视化工具 |
 | [ssbc/ssb-server](https://github.com/ssbc/ssb-server) | ⭐ 1.7k | JavaScript | Secure Scuttlebutt（分布式社交网络）的 gossip 协议与复制服务器 |
 | [Xatta-Trone/medium-parser-extension](https://github.com/Xatta-Trone/medium-parser-extension) | ⭐ 1.6k | JavaScript | 通过 Google 网页缓存阅读 medium.com 及基于 Medium 的文章 |
 | [mengxiong10/vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) | ⭐ 1.5k | JavaScript | 适用于 Vue2 的日期选择器/日期时间选择器组件 |
 | [lvwzhen/medicine](https://github.com/lvwzhen/medicine) | ⭐ 1.4k | Vue | 原研药列表 |
-| [weijunext/landing-page-boilerplate](https://github.com/weijunext/landing-page-boilerplate) | ⭐ 1.3k | TypeScript | 一款多功能落地页模板，适用于各类项目与营销活动。 |
+| [weijunext/landing-page-boilerplate](https://github.com/weijunext/landing-page-boilerplate) | ⭐ 1.4k | TypeScript | 一款多功能落地页模板，适用于各类项目与营销活动。 |
 | [dongsuo/vue-data-board](https://github.com/dongsuo/vue-data-board) | ⭐ 1.3k | Vue | 基于Vue的数据分析看板 |
 | [Gisto/Gisto](https://github.com/Gisto/Gisto) | ⭐ 1.2k | TypeScript | Gisto 是一款跨平台代码片段管理应用，可让你和/或你的团队快速便捷地共享代码片段。它基于 GitHub Gists 或 GitLab snippets 基础… |
 | [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) | ⭐ 1.2k | JavaScript | 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。 |
