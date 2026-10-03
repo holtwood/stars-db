@@ -28,7 +28,7 @@
 | [wdecoster/NanoPlot](https://github.com/wdecoster/NanoPlot) | ⭐ 560 | HTML | 用于长读长测序数据的绘图脚本 |
 | [10XGenomics/cellranger](https://github.com/10XGenomics/cellranger) | ⭐ 479 | Rust | 10x Genomics 单细胞分析 |
 | [seqan/seqan3](https://github.com/seqan/seqan3) | ⭐ 464 | C++ | 用于序列分析的现代C++库，包含该库的第3版本及API文档。 |
-| [openbiox/weekly](https://github.com/openbiox/weekly) | ⭐ 460 | HTML | 生信爱好者周刊（每周日发布） |
+| [openbiox/weekly](https://github.com/openbiox/weekly) | ⭐ 461 | HTML | 生信爱好者周刊（每周日发布） |
 | [gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) | ⭐ 397 |  |  |
 | [Ming-Lian/NGS-analysis](https://github.com/Ming-Lian/NGS-analysis) | ⭐ 378 |  | 二代测序数据分析 |
 | [obophenotype/human-phenotype-ontology](https://github.com/obophenotype/human-phenotype-ontology) | ⭐ 376 | Makefile | 用于描述人类临床特征的本体 |

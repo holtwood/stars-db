@@ -9,7 +9,7 @@
 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | ⭐ 76.2k | Go | 快速可扩展的多平台 HTTP/1-2-3 Web 服务器，自带自动 HTTPS |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | ⭐ 68.4k | Rust | 用 Rust 编写的非官方兼容 Bitwarden 的服务端，曾用名 bitwarden_rs |
 | [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) | ⭐ 52.9k | Shell | 在 Docker 中运行 macOS 虚拟机！在 Docker 中运行接近原生性能的 OSX-KVM！支持 X11 转发！适用于 OS X 安全研究的 CI/C… |
-| [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) | ⭐ 38.1k | TypeScript | 使用 Trilium Notes 构建你的个人知识库 |
+| [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) | ⭐ 38.2k | TypeScript | 使用 Trilium Notes 构建你的个人知识库 |
 | [nginx/nginx](https://github.com/nginx/nginx) | ⭐ 31.8k | C | NGINX 开源版官方仓库。 |
 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | ⭐ 29.4k | TypeScript | 支持自托管的全类型书签应用，可收纳链接、笔记与图片，带AI自动 tagging 和全文搜索 |
 | [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | ⭐ 18.9k | Shell | 可用于生产环境、容器化运行、功能完整却轻量简单的邮件服务器，支持SMTP、IMAP、LDAP、反垃圾邮件、杀毒等功能。 |
@@ -25,7 +25,7 @@
 | [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) | ⭐ 1.9k | Shell | 通过 rclone 备份 vaultwarden（原 bitwarden_rs）的 SQLite3/PostgreSQL/MySQL/MariaDB 数据库，支… |
 | [devcontainers/templates](https://github.com/devcontainers/templates) | ⭐ 1.4k | Shell | 由 Dev Container 规范维护者管理的 Dev Container 模板仓库。前往 https://github.com/devcontainers/… |
 | [kekylin/debnas](https://github.com/kekylin/debnas) | ⭐ 1.2k | Shell | 一个将Debian快速配置成准NAS系统的脚本。 |
-| [Alex-D/dotfiles](https://github.com/Alex-D/dotfiles) | ⭐ 212 | Shell | Windows + WSL 2 Ubuntu + Windows Terminal + zsh + systemd + p10k + Docker + Inte… |
+| [Alex-D/dotfiles](https://github.com/Alex-D/dotfiles) | ⭐ 211 | Shell | Windows + WSL 2 Ubuntu + Windows Terminal + zsh + systemd + p10k + Docker + Inte… |
 | [shuguangnet/docker_backup_script](https://github.com/shuguangnet/docker_backup_script) | ⭐ 136 | Shell | 检测docker容器并自动备份挂载卷以及本地挂载目录 |
 | [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) | ⭐ 133 | Dockerfile |  |
 | [Bioconductor/bioconductor_docker](https://github.com/Bioconductor/bioconductor_docker) | ⭐ 93 | Dockerfile | 适用于 Bioconductor 的 Docker 容器 |
