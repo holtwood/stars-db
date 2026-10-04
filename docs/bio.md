@@ -21,7 +21,7 @@
 | [mikolmogorov/Flye](https://github.com/mikolmogorov/Flye) | ⭐ 951 | C | 基于重复图谱的单分子测序读段从头组装工具 |
 | [bwa-mem2/bwa-mem2](https://github.com/bwa-mem2/bwa-mem2) | ⭐ 862 | C++ | bwa-mem 的下一代版本 |
 | [openwdl/wdl](https://github.com/openwdl/wdl) | ⭐ 857 |  | 工作流描述语言（WDL）规范 |
-| [crazyhottommy/scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes) | ⭐ 842 |  | Ming Tang 的单细胞 RNA 测序分析笔记 |
+| [crazyhottommy/scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes) | ⭐ 843 |  | Ming Tang 的单细胞 RNA 测序分析笔记 |
 | [mdozmorov/scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes) | ⭐ 820 | R | 单细胞RNA测序分析工具清单 |
 | [bebop/poly](https://github.com/bebop/poly) | ⭐ 737 | Go | 用于工程改造生物体的Go包 |
 | [OysterQAQ/ACG2vec](https://github.com/OysterQAQ/ACG2vec) | ⭐ 584 |  | ACG2vec (Anime Comics Games to vector) are committed to creating a playground th… |
@@ -29,7 +29,7 @@
 | [10XGenomics/cellranger](https://github.com/10XGenomics/cellranger) | ⭐ 479 | Rust | 10x Genomics 单细胞分析 |
 | [seqan/seqan3](https://github.com/seqan/seqan3) | ⭐ 464 | C++ | 用于序列分析的现代C++库，包含该库的第3版本及API文档。 |
 | [openbiox/weekly](https://github.com/openbiox/weekly) | ⭐ 461 | HTML | 生信爱好者周刊（每周日发布） |
-| [gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) | ⭐ 397 |  |  |
+| [gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) | ⭐ 398 |  |  |
 | [Ming-Lian/NGS-analysis](https://github.com/Ming-Lian/NGS-analysis) | ⭐ 378 |  | 二代测序数据分析 |
 | [obophenotype/human-phenotype-ontology](https://github.com/obophenotype/human-phenotype-ontology) | ⭐ 376 | Makefile | 用于描述人类临床特征的本体 |
 | [brentp/goleft](https://github.com/brentp/goleft) | ⭐ 227 | Go | goleft 是遵循 MIT 许可证分发的生物信息学工具合集，打包为单个静态二进制文件 |
@@ -45,10 +45,10 @@
 | [broadinstitute/genomics-in-the-cloud](https://github.com/broadinstitute/genomics-in-the-cloud) | ⭐ 103 | Jupyter Notebook | O'Reilly 图书的源代码及相关资料 |
 | [YeoLab/single-cell-bioinformatics🟡](https://github.com/YeoLab/single-cell-bioinformatics) | ⭐ 100 | Jupyter Notebook | 学习单细胞生物信息学方法的Notebook格式课程资料 |
 | [vertgenlab/gonomics](https://github.com/vertgenlab/gonomics) | ⭐ 95 | Go | 用 Go（golang）编写的一组基因组学软件工具集合 |
-| [Illumina/PlatinumGenomes🟡](https://github.com/Illumina/PlatinumGenomes) | ⭐ 89 |  | Platinum 基因组真集 |
+| [Illumina/PlatinumGenomes🟡](https://github.com/Illumina/PlatinumGenomes) | ⭐ 90 |  | Platinum 基因组真集 |
 | [grailbio/bio](https://github.com/grailbio/bio) | ⭐ 79 | Go | 生物信息学基础架构库 |
 | [godotgildor/fastq_compression_comparison](https://github.com/godotgildor/fastq_compression_comparison) | ⭐ 43 | Python | 创建用于协助对FASTQ压缩进行对比的简易Docker镜像 |
-| [microsoft/Genomics-Quickstart🟡](https://github.com/microsoft/Genomics-Quickstart) | ⭐ 25 |  |  |
+| [microsoft/Genomics-Quickstart🟡](https://github.com/microsoft/Genomics-Quickstart) | ⭐ 26 |  |  |
 | [shenwei356/bwt](https://github.com/shenwei356/bwt) | ⭐ 21 | Go | 用 Go 语言实现的 Burrows-Wheeler 变换与 FM-index |
 | [rkhetani/In-depth-NGS-Data-Analysis-Course🔀](https://github.com/rkhetani/In-depth-NGS-Data-Analysis-Course) | ⭐ 16 | HTML | 用于分析RNA-Seq、ChIP-Seq和变异检测数据的12天课程资料 |
 | [open-genomics/micos-2024](https://github.com/open-genomics/micos-2024) | ⭐ 11 | Python | 2024"猛犸杯"参赛作品 · 宏基因组学端到端分析流程 |
