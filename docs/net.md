@@ -6,12 +6,12 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ⭐ 149.1k | Rust | 基于 Tauri 构建的现代化图形界面客户端，支持在 Windows、macOS 和 Linux 运行，提供定制化代理体验 |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ⭐ 149.3k | Rust | 基于 Tauri 构建的现代化图形界面客户端，支持在 Windows、macOS 和 Linux 运行，提供定制化代理体验 |
 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | ⭐ 117.6k | C# | 支持Xray、sing-box等的多平台GUI客户端，兼容Windows、Linux与macOS |
 | [2dust/v2rayNG](https://github.com/2dust/v2rayNG) | ⭐ 63.5k | Kotlin | 适用于 Android 的 V2Ray 客户端，支持 Xray 核心与 v2fly 核心 |
-| [chen08209/FlClash](https://github.com/chen08209/FlClash) | ⭐ 54.3k | Dart | 基于 ClashMeta 的多平台代理客户端，简洁易用，开源无广告。 |
-| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | ⭐ 49.2k | Go | 一个用于聚合与分发的统一AI模型 hub，支持将各类大语言模型转换为兼容OpenAI、Claude或Gemini的格式，是供个人与企业进行模型管理的集中网关。 |
-| [MetaCubeX/ClashMetaForAndroid🔀](https://github.com/MetaCubeX/ClashMetaForAndroid) | ⭐ 47.1k | Kotlin | 适用于 Android 的基于规则的隧道工具 |
+| [chen08209/FlClash](https://github.com/chen08209/FlClash) | ⭐ 54.4k | Dart | 基于 ClashMeta 的多平台代理客户端，简洁易用，开源无广告。 |
+| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | ⭐ 49.3k | Go | 一个用于聚合与分发的统一AI模型 hub，支持将各类大语言模型转换为兼容OpenAI、Claude或Gemini的格式，是供个人与企业进行模型管理的集中网关。 |
+| [MetaCubeX/ClashMetaForAndroid🔀](https://github.com/MetaCubeX/ClashMetaForAndroid) | ⭐ 47.2k | Kotlin | 适用于 Android 的基于规则的隧道工具 |
 | [StevenBlack/hosts](https://github.com/StevenBlack/hosts) | ⭐ 31.2k | Python | 🔒 整合并扩展来自多个精选来源的 hosts 文件，可按需选择 porn、社交媒体等类别的扩展规则。 |
 | [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) | ⭐ 30.8k |  | 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。 |
 | [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | ⭐ 28.7k |  | 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Pre… |
@@ -27,12 +27,12 @@
 | [KaringX/karing](https://github.com/KaringX/karing) | ⭐ 15.3k | Dart | 简单强大的代理工具，支持 clash/sing-box 路由规则 |
 | [alibaba/tengine](https://github.com/alibaba/tengine) | ⭐ 13.4k | C | 高性能 Web 服务器与反向代理，100% 兼容 nginx。 |
 | [mrpond/BlockTheSpot🟡](https://github.com/mrpond/BlockTheSpot) | ⭐ 12.5k | C++ | 适用于 Spotify 的视频、音频与横幅广告拦截跳过工具 |
-| [KaringX/clashmi](https://github.com/KaringX/clashmi) | ⭐ 9.6k | Dart | 适配 iOS/MacOS/Android/Windows/Linux 的 Clash Mihomo |
+| [KaringX/clashmi](https://github.com/KaringX/clashmi) | ⭐ 9.7k | Dart | 适配 iOS/MacOS/Android/Windows/Linux 的 Clash Mihomo |
 | [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) | ⭐ 9.2k | Shell | Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本 |
 | [zero-peak/ZeroOmega🔀](https://github.com/zero-peak/ZeroOmega) | ⭐ 8.0k | CoffeeScript | 快速便捷地管理并切换多个代理。 |
 | [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) | ⭐ 6.8k | Shell | 用于在 Debian / CentOS / Fedora / openSUSE 等支持 systemd 的操作系统上安装 V2Ray 的 Bash 脚本 |
 | [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) | ⭐ 6.1k | Adblock Filter List | 适用于 uBlock Origin 和 uBlock Origin Lite 的过滤列表 |
-| [GMOogway/shadowrocket-rules](https://github.com/GMOogway/shadowrocket-rules) | ⭐ 5.5k |  | 小火箭规则🚀，小火箭模块，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（DIRECT）、代理（PROXY）、屏蔽… |
+| [GMOogway/shadowrocket-rules](https://github.com/GMOogway/shadowrocket-rules) | ⭐ 5.6k |  | 小火箭规则🚀，小火箭模块，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（DIRECT）、代理（PROXY）、屏蔽… |
 | [lennylxx/ipv6-hosts🟡](https://github.com/lennylxx/ipv6-hosts) | ⭐ 4.5k | Python | 这是 https://code.google.com/archive/p/ipv6-hosts/ 的分支，专注于实现自动化 |
 | [yuaotian/antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) | ⭐ 4.3k | C++ | 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TU… |
 | [Script-Hub-Org/Script-Hub](https://github.com/Script-Hub-Org/Script-Hub) | ⭐ 3.8k | JavaScript | Advanced Script Converter for QX, Loon, Surge, Stash, Egern, LanceX and Shadowro… |

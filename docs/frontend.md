@@ -17,7 +17,7 @@
 | [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) | ⭐ 31.1k |  | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 |
 | [aosabook/500lines](https://github.com/aosabook/500lines) | ⭐ 29.6k | JavaScript | 500行以内项目 |
 | [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) | ⭐ 28.6k | TypeScript | 几秒即可克隆复刻任意网站，生成现代化 React 应用 |
-| [readest/readest](https://github.com/readest/readest) | ⭐ 24.8k | TypeScript | Readest 是为深度阅读爱好者打造的现代化多功能电子书阅读器，可提供流畅跨平台访问、强大工具与直观界面，全方位提升你的阅读体验。 |
+| [readest/readest](https://github.com/readest/readest) | ⭐ 24.9k | TypeScript | Readest 是为深度阅读爱好者打造的现代化多功能电子书阅读器，可提供流畅跨平台访问、强大工具与直观界面，全方位提升你的阅读体验。 |
 | [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) | ⭐ 20.4k | JavaScript | 一个轻量的 Vue2.0 后台管理模板 |
 | [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) | ⭐ 19.7k | JavaScript | 用于本地文件共享的渐进式Web应用 |
 | [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) | ⭐ 19.6k | Vue | Vue3、Element Plus、typescript后台管理系统 |
@@ -52,9 +52,9 @@
 | [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) | ⭐ 1.1k | HTML | 使用 LaTeXML 将 LaTeX 文档转换为美观的响应式网页。 |
 | [dishait/tov-template](https://github.com/dishait/tov-template) | ⭐ 970 | TypeScript | vite + vue3 + ts 开箱即用现代开发模板 | vite + vue3 + ts out-of-the-box modern development… |
 | [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) | ⭐ 910 | Svelte | 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI… |
-| [yenche123/liubai](https://github.com/yenche123/liubai) | ⭐ 863 | TypeScript | 赋能你自己！ |
-| [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 862 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
-| [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 621 | TypeScript |  |
+| [yenche123/liubai](https://github.com/yenche123/liubai) | ⭐ 864 | TypeScript | 赋能你自己！ |
+| [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 863 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
+| [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 622 | TypeScript |  |
 | [o8oo8o/WebCurl](https://github.com/o8oo8o/WebCurl) | ⭐ 609 | HTML | 极简网页版API调试神器 |
 | [Paper-Dragon/mobaxterm-crack](https://github.com/Paper-Dragon/mobaxterm-crack) | ⭐ 592 | TypeScript | 破解MobaXterm的高级版，生成密钥，支持几乎所有版本。 |
 | [Sergei-Korneev/obsidian-local-images-plus](https://github.com/Sergei-Korneev/obsidian-local-images-plus) | ⭐ 568 | TypeScript | 本仓库是 obsidian-local-images 插件的重制项目，该插件的核心功能是将 Markdown 笔记中的图片下载到本地存储。 |

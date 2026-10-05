@@ -6,7 +6,7 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [anthropics/skills](https://github.com/anthropics/skills) | ⭐ 179.5k | Python | Agent 技能公开仓库 |
+| [anthropics/skills](https://github.com/anthropics/skills) | ⭐ 179.7k | Python | Agent 技能公开仓库 |
 | [golang/go](https://github.com/golang/go) | ⭐ 139.2k | Go | Go 编程语言 |
 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | ⭐ 102.8k | Python | FastAPI 框架，高性能，易学习，编码快，可用于生产环境 |
 | [nvbn/thefuck](https://github.com/nvbn/thefuck) | ⭐ 97.9k | Python | 一款可以帮你修正上一条控制台命令的好用工具 |
@@ -35,7 +35,7 @@
 | [sharkdp/fd](https://github.com/sharkdp/fd) | ⭐ 44.6k | Rust | find 的简单、快速、易用替代工具 |
 | [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | ⭐ 43.9k | Go | 一本介绍如何用Go构建Web的Go语言电子书 |
 | [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) | ⭐ 43.5k | C++ | C++那些事 |
-| [facebookresearch/faiss](https://github.com/facebookresearch/faiss) | ⭐ 41.0k | C++ | 用于高效稠密向量相似度搜索与聚类的库 |
+| [facebookresearch/faiss](https://github.com/facebookresearch/faiss) | ⭐ 41.1k | C++ | 用于高效稠密向量相似度搜索与聚类的库 |
 | [google/googletest](https://github.com/google/googletest) | ⭐ 39.6k | C++ | GoogleTest —— Google 开发的测试与 Mock 框架 |
 | [lapce/lapce](https://github.com/lapce/lapce) | ⭐ 38.9k | Rust | 用Rust编写的极速高性能代码编辑器 |
 | [jax-ml/jax](https://github.com/jax-ml/jax) | ⭐ 36.4k | Python | 针对Python+NumPy程序的可组合转换：支持自动微分、向量化、GPU/TPU即时编译等功能 |
@@ -103,8 +103,8 @@
 | [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) | ⭐ 8.4k | Python | Boson AI 推出的文本-音频基础模型 |
 | [Mooophy/Cpp-Primer](https://github.com/Mooophy/Cpp-Primer) | ⭐ 8.3k | C++ | C++ Primer 第五版 习题解答 |
 | [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) | ⭐ 8.3k | Go | 硬盘S.M.A.R.T监控、历史趋势分析与实际故障阈值检测 |
-| [linyacool/WebServer](https://github.com/linyacool/WebServer) | ⭐ 8.2k | C++ | 一个C++高性能Web服务器 |
 | [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | ⭐ 8.2k | Rust | 数据中心级分布式推理服务框架 |
+| [linyacool/WebServer](https://github.com/linyacool/WebServer) | ⭐ 8.2k | C++ | 一个C++高性能Web服务器 |
 | [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) | ⭐ 8.2k | Go | Go 示例入门 |
 | [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) | ⭐ 8.1k | Java | 1️⃣🐝🏎️ 十亿行挑战——用Java探索文本文件中10亿行数据的聚合速度的趣味项目 |
 | [Richasy/Bili.Uwp🟡](https://github.com/Richasy/Bili.Uwp) | ⭐ 8.1k | C# | 适用于新系统UI的哔哩 |
@@ -147,7 +147,7 @@
 | [madler/pigz](https://github.com/madler/pigz) | ⭐ 3.0k | C | 适用于现代多处理器、多核机器的 gzip 并行实现 |
 | [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) | ⭐ 2.8k | C# | 根据当前时间调整屏幕伽马值，缓解眼睛疲劳 |
 | [LigphiDonk/academic-figure-generator](https://github.com/LigphiDonk/academic-figure-generator) | ⭐ 2.5k | Python | AI 驱动的学术论文配图生成平台。上传论文 → AI 分析内容生成 Prompt → 一键生成高质量科研配图，还有配套的skill可在主流agent中使用 |
-| [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec) | ⭐ 2.4k | C++ | std::execution是C++标准提供的异步与并行编程框架。 |
+| [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec) | ⭐ 2.5k | C++ | std::execution是C++标准提供的异步与并行编程框架。 |
 | [bilibili/overlord](https://github.com/bilibili/overlord) | ⭐ 2.2k | Go | Overlord是哔哩哔哩基于Go语言编写的memcache和redis&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。 |
 | [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) | ⭐ 2.2k | C++ | 适用于 Python 和 C++ 的可视化纳秒级性能分析器、日志记录工具与测试启用工具 |
 | [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed) | ⭐ 2.2k | C++ | C++11/14/17/20并发编程解密：从核心原理到线程安全代码 |
@@ -183,9 +183,9 @@
 | [0voice/developkit_set](https://github.com/0voice/developkit_set) | ⭐ 999 |  | 2021年最新总结，值得推荐的c/c++开源框架与库。持续更新中。 |
 | [chronolaw/cpp_study](https://github.com/chronolaw/cpp_study) | ⭐ 945 | C++ | 跟我一起学现代C++ |
 | [CaoZ/JD-Coin](https://github.com/CaoZ/JD-Coin) | ⭐ 921 | Python | 自动登录京东，打卡领钢镚，签到领京豆 |
-| [rmyorston/busybox-w32](https://github.com/rmyorston/busybox-w32) | ⭐ 894 | C | BusyBox 的 WIN32 原生移植版。 |
+| [rmyorston/busybox-w32](https://github.com/rmyorston/busybox-w32) | ⭐ 896 | C | BusyBox 的 WIN32 原生移植版。 |
+| [findmover/wxread](https://github.com/findmover/wxread) | ⭐ 808 | Python | 微信读书刷时长助你成为霸榜“大佬” |
 | [intel/optimization-manual🟡](https://github.com/intel/optimization-manual) | ⭐ 807 | Assembly | 包含《英特尔® 64 位与 IA-32 架构优化参考手册》中介绍的源代码示例 |
-| [findmover/wxread](https://github.com/findmover/wxread) | ⭐ 806 | Python | 微信读书刷时长助你成为霸榜“大佬” |
 | [aliyun/ossfs](https://github.com/aliyun/ossfs) | ⭐ 806 | C++ | 用于将OSS存储桶挂载为本地文件系统的高性能文件客户端。 |
 | [qy527145/acemcp](https://github.com/qy527145/acemcp) | ⭐ 802 | Python | 一个将ACE(Augment Context Engine) 做成MCP的项目 |
 | [bilibili/vim-vide](https://github.com/bilibili/vim-vide) | ⭐ 786 | Vim Script | Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！ |
@@ -196,14 +196,14 @@
 | [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) | ⭐ 624 | Rust | 合并多个网络连接，提升你的下载速度 |
 | [BartVandewoestyne/Effective-Modern-Cpp](https://github.com/BartVandewoestyne/Effective-Modern-Cpp) | ⭐ 618 | C++ | Scott Meyers所著《Effective Modern C++》的示例代码 |
 | [neolee/pilot](https://github.com/neolee/pilot) | ⭐ 612 | Jupyter Notebook | 进入编程世界的第一课 |
-| [Mercurygram/Mercurygram🔀](https://github.com/Mercurygram/Mercurygram) | ⭐ 606 | Java | Android 版官方 Telegram 客户端的非官方、对自由开源软件友好的分支 |
+| [Mercurygram/Mercurygram🔀](https://github.com/Mercurygram/Mercurygram) | ⭐ 610 | Java | Android 版官方 Telegram 客户端的非官方、对自由开源软件友好的分支 |
 | [r-smith/vmPing](https://github.com/r-smith/vmPing) | ⭐ 596 | C# | 可视化多Ping，用于监控多台主机的色标编码Ping工具 |
 | [MoonshotAI/K2-Vendor-Verifier](https://github.com/MoonshotAI/K2-Vendor-Verifier) | ⭐ 593 | Python | 验证所有提供 Kimi K2 API 厂商的精度 |
-| [ZMGID/kivio](https://github.com/ZMGID/kivio) | ⭐ 585 | Rust |  |
+| [ZMGID/kivio](https://github.com/ZMGID/kivio) | ⭐ 586 | Rust |  |
 | [Waleon/DesignPatterns](https://github.com/Waleon/DesignPatterns) | ⭐ 575 | C++ | 趣味设计模式，小朋友也能学得会！ |
 | [ahmetsait/toolgit](https://github.com/ahmetsait/toolgit) | ⭐ 565 | Python | Git 生产力工具集 |
 | [xujiangjiang/Easy-Cat-Timer](https://github.com/xujiangjiang/Easy-Cat-Timer) | ⭐ 554 | C# | This is a very simple cat timer, made using WPF（这是一个非常简单的猫咪计时器，使用WPF制作） |
-| [imelnyk/ArxivPapers](https://github.com/imelnyk/ArxivPapers) | ⭐ 543 | Python | Arxiv 论文的配套代码 |
+| [imelnyk/ArxivPapers](https://github.com/imelnyk/ArxivPapers) | ⭐ 544 | Python | Arxiv 论文的配套代码 |
 | [hitnology/snoopy](https://github.com/hitnology/snoopy) | ⭐ 536 | Objective-C | macOS 版本史努比屏幕保护 |
 | [azrilaiman2003/augment-vip](https://github.com/azrilaiman2003/augment-vip) | ⭐ 528 | Python | 移除 AugmentCode 免费试用账户限制 |
 | [petermattis/goid](https://github.com/petermattis/goid) | ⭐ 512 | Go |  |
@@ -212,8 +212,8 @@
 | [nakabonne/gosivy](https://github.com/nakabonne/gosivy) | ⭐ 478 | Go | 用于Go进程指标的实时可视化工具 |
 | [ChengShiest/LAST-ViT](https://github.com/ChengShiest/LAST-ViT) | ⭐ 472 | Python | [CVPR 2026] 论文《Vision Transformer Needs More Than Registers》的官方PyTorch实现 |
 | [vss2sn/path_planning](https://github.com/vss2sn/path_planning) | ⭐ 448 | C++ | 本仓库包含基于网格搜索的C++路径规划算法。 |
-| [itandelin/qoder-free](https://github.com/itandelin/qoder-free) | ⭐ 413 | Python | 一个用于重置 Qoder 应用程序用户身份信息的现代化图形界面工具。 |
-| [cloudanum/50Algorithms](https://github.com/cloudanum/50Algorithms) | ⭐ 399 | Jupyter Notebook | Code for 50 Algorithms Every Programmer Should Know, Second Edition (Packt) by I… |
+| [itandelin/qoder-free](https://github.com/itandelin/qoder-free) | ⭐ 414 | Python | 一个用于重置 Qoder 应用程序用户身份信息的现代化图形界面工具。 |
+| [cloudanum/50Algorithms](https://github.com/cloudanum/50Algorithms) | ⭐ 400 | Jupyter Notebook | Code for 50 Algorithms Every Programmer Should Know, Second Edition (Packt) by I… |
 | [jenniferlu717/KrakenTools](https://github.com/jenniferlu717/KrakenTools) | ⭐ 383 | Python | KrakenTools 提供用于分析 Kraken/Kraken2/Bracken/KrakenUniq 输出文件的独立脚本 |
 | [jwcpp/jwEngine](https://github.com/jwcpp/jwEngine) | ⭐ 365 | C | 跨平台 C++<->lua 服务端快速开发方案 |
 | [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11) | ⭐ 329 | C++ | 一款快速、无锁、跨平台的 C++11 线程池库，主打轻量简洁。 |
@@ -246,8 +246,8 @@
 | [EasyXdc/PortsWhisper-Rust](https://github.com/EasyXdc/PortsWhisper-Rust) | ⭐ 59 | Rust | 🚀 一款快速的Rust命令行工具，用于查询端口归属、检查进程、追踪日志，以及监控本地端口活动。 |
 | [egonelbre/fm-index](https://github.com/egonelbre/fm-index) | ⭐ 57 | Python | BWT与FM-index的教学实现 |
 | [wyhnihaook/Healer_Weather](https://github.com/wyhnihaook/Healer_Weather) | ⭐ 57 | Java | Healer天气预报，希望大家喜欢 |
+| [gorkys/youshu](https://github.com/gorkys/youshu) | ⭐ 56 | Kotlin | 🗂一个由AI开发的家庭物品管理的安卓App |
 | [sublimehq/mmap-example](https://github.com/sublimehq/mmap-example) | ⭐ 55 | C++ |  |
-| [gorkys/youshu](https://github.com/gorkys/youshu) | ⭐ 55 | Kotlin | 🗂一个由AI开发的家庭物品管理的安卓App |
 | [ZeusChan/LittleFreshWeather](https://github.com/ZeusChan/LittleFreshWeather) | ⭐ 49 | Java | A little android weather app.（已修复城市列表问题，可正常使用了~） |
 | [1733617157/Yolo11_OpenCv_DNN](https://github.com/1733617157/Yolo11_OpenCv_DNN) | ⭐ 45 | Python | 自写的YOLO11纯OPENCV调用识别采用DNN加载模型 |
 | [SamZhangQingChuan/Templates-for-Competitive-Programming](https://github.com/SamZhangQingChuan/Templates-for-Competitive-Programming) | ⭐ 45 | C++ |  |

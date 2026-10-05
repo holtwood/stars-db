@@ -6,7 +6,7 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [apache/echarts](https://github.com/apache/echarts) | ⭐ 67.4k | TypeScript | Apache ECharts 是一款功能强大、可交互的浏览器端图表与数据可视化库 |
+| [apache/echarts](https://github.com/apache/echarts) | ⭐ 67.5k | TypeScript | Apache ECharts 是一款功能强大、可交互的浏览器端图表与数据可视化库 |
 | [team-spotube/spotube](https://github.com/team-spotube/spotube) | ⭐ 49.6k | Dart | 🎧 Open source music streaming app! Available for both desktop & mobile! |
 | [iina/iina](https://github.com/iina/iina) | ⭐ 46.6k | Swift | 适用于 macOS 的现代化视频播放器。 |
 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | ⭐ 39.9k | Java | 适用于 Android 的自由轻量级流媒体前端 |
