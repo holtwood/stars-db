@@ -7,8 +7,8 @@
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
 | [apache/echarts](https://github.com/apache/echarts) | ⭐ 67.5k | TypeScript | Apache ECharts 是一款功能强大、可交互的浏览器端图表与数据可视化库 |
-| [team-spotube/spotube](https://github.com/team-spotube/spotube) | ⭐ 49.6k | Dart | 🎧 Open source music streaming app! Available for both desktop & mobile! |
-| [iina/iina](https://github.com/iina/iina) | ⭐ 46.6k | Swift | 适用于 macOS 的现代化视频播放器。 |
+| [team-spotube/spotube](https://github.com/team-spotube/spotube) | ⭐ 49.7k | Dart | 🎧 Open source music streaming app! Available for both desktop & mobile! |
+| [iina/iina](https://github.com/iina/iina) | ⭐ 46.7k | Swift | 适用于 macOS 的现代化视频播放器。 |
 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | ⭐ 39.9k | Java | 适用于 Android 的自由轻量级流媒体前端 |
 | [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | ⭐ 30.1k |  | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 |
 | [fanmingming/live](https://github.com/fanmingming/live) | ⭐ 28.5k | JavaScript | ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕 |

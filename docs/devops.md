@@ -6,7 +6,7 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | ⭐ 77.2k | Go | 快速可扩展的多平台 HTTP/1-2-3 Web 服务器，自带自动 HTTPS |
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | ⭐ 77.4k | Go | 快速可扩展的多平台 HTTP/1-2-3 Web 服务器，自带自动 HTTPS |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | ⭐ 68.6k | Rust | 用 Rust 编写的非官方兼容 Bitwarden 的服务端，曾用名 bitwarden_rs |
 | [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) | ⭐ 53.0k | Shell | 在 Docker 中运行 macOS 虚拟机！在 Docker 中运行接近原生性能的 OSX-KVM！支持 X11 转发！适用于 OS X 安全研究的 CI/C… |
 | [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) | ⭐ 38.2k | TypeScript | 使用 Trilium Notes 构建你的个人知识库 |
@@ -18,7 +18,7 @@
 | [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) | ⭐ 7.7k | TypeScript | 全功能开源监控与可观测性平台 |
 | [Mailu/Mailu](https://github.com/Mailu/Mailu) | ⭐ 7.5k | Python | 隔离式邮件分发——作为 Docker 镜像的邮件服务器 |
 | [photoview/photoview](https://github.com/photoview/photoview) | ⭐ 6.5k | Go | 适用于自托管个人服务器的相册 |
-| [devcontainers/spec](https://github.com/devcontainers/spec) | ⭐ 5.7k |  | Development Containers：使用容器作为全功能开发环境。 |
+| [devcontainers/spec](https://github.com/devcontainers/spec) | ⭐ 5.8k |  | Development Containers：使用容器作为全功能开发环境。 |
 | [devtron-labs/devtron](https://github.com/devtron-labs/devtron) | ⭐ 5.6k | Go | 你所需的唯一 Kubernetes 仪表盘 |
 | [bostrot/wslmanager](https://github.com/bostrot/wslmanager) | ⭐ 4.0k | Dart | GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Ins… |
 | [devcontainers/images](https://github.com/devcontainers/images) | ⭐ 2.1k | Shell | 预构建开发容器镜像仓库，发布于 mcr.microsoft.com/devcontainers |
