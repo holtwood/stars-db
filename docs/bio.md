@@ -19,7 +19,7 @@
 | [shenwei356/csvtk](https://github.com/shenwei356/csvtk) | ⭐ 1.2k | Go | 基于Golang开发的跨平台高效实用CSV/TSV工具包 |
 | [crazyhottommy/RNA-seq-analysis](https://github.com/crazyhottommy/RNA-seq-analysis) | ⭐ 1.1k | Python | Ming Tang的RNAseq分析笔记 |
 | [mikolmogorov/Flye](https://github.com/mikolmogorov/Flye) | ⭐ 952 | C | 基于重复图谱的单分子测序读段从头组装工具 |
-| [bwa-mem2/bwa-mem2](https://github.com/bwa-mem2/bwa-mem2) | ⭐ 862 | C++ | bwa-mem 的下一代版本 |
+| [bwa-mem2/bwa-mem2](https://github.com/bwa-mem2/bwa-mem2) | ⭐ 863 | C++ | bwa-mem 的下一代版本 |
 | [openwdl/wdl](https://github.com/openwdl/wdl) | ⭐ 857 |  | 工作流描述语言（WDL）规范 |
 | [crazyhottommy/scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes) | ⭐ 844 |  | Ming Tang 的单细胞 RNA 测序分析笔记 |
 | [mdozmorov/scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes) | ⭐ 821 | R | 单细胞RNA测序分析工具清单 |
@@ -38,7 +38,7 @@
 | [MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software](https://github.com/MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software) | ⭐ 165 | HTML | 用于灵活、高性能分析DNBelab C系列单细胞数据的官方流程。 |
 | [shubhamchandak94/Spring](https://github.com/shubhamchandak94/Spring) | ⭐ 159 | C | FASTQ 压缩 |
 | [OpenGene/repaq](https://github.com/OpenGene/repaq) | ⭐ 156 | C | 具备超高压缩比的高速无损FASTQ压缩器 |
-| [hbctraining/Intro-to-bulk-RNAseq](https://github.com/hbctraining/Intro-to-bulk-RNAseq) | ⭐ 151 | HTML | 批量RNA-seq入门 |
+| [hbctraining/Intro-to-bulk-RNAseq](https://github.com/hbctraining/Intro-to-bulk-RNAseq) | ⭐ 152 | HTML | 批量RNA-seq入门 |
 | [grimmlab/MicrobiomeBestPracticeReview](https://github.com/grimmlab/MicrobiomeBestPracticeReview) | ⭐ 128 | Shell | 基于扩增子和宏基因组测序的微生物组分析当前挑战与最佳实践方案 |
 | [biocaml/biocaml](https://github.com/biocaml/biocaml) | ⭐ 123 | OCaml | OCaml 生物信息学库 |
 | [BGI-flexlab/SOAPnuke](https://github.com/BGI-flexlab/SOAPnuke) | ⭐ 116 | C++ | 用于对FASTQ或BAM/CRAM文件进行整合质控与预处理的工具 |
