@@ -2,12 +2,13 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1373-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--10--08-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1374-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--10--09-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
-> 📈 **1373** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
+> 📈 **1374** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
 ## 🔥 最近收藏
 
+- ⭐ [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) — Let AI agents use your real, logged-in browser without inter… `2026-10-08`
 - ⭐ [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) — 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabin… `2026-10-01`
 - ⭐ [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) — IDM激活与状态维护工具 `2026-09-27`
 - ⭐ [czm15053/write-notes-like-deepseek](https://github.com/czm15053/write-notes-like-deepseek) — 像 DeepSeek 团队一样沉淀 Agent Notes——决策、取舍与验证一处留痕，半年后仍可追溯。可叠加到任何仓库 `2026-09-26`
@@ -19,10 +20,9 @@
 - ⭐ [konbakuyomu/smartsearch](https://github.com/konbakuyomu/smartsearch) —  `2026-09-21`
 - ⭐ [zai-org/ZCode](https://github.com/zai-org/ZCode) — Z.ai's coding agent harness. Powerful, intelligent, extensib… `2026-09-21`
 - ⭐ [Jia-Ethan/zcode-keysmith](https://github.com/Jia-Ethan/zcode-keysmith) — ZCode App managed true system-role entrypoint `2026-09-20`
-- ⭐ [Minglink/dsh-infinite-gen-4](https://github.com/Minglink/dsh-infinite-gen-4) — DeepSeek v4.1 flash 网络安全红队工具（无限四代）     求 Star 收藏 ⭐欢迎大家提交项目的改… `2026-09-20`
+- ⭐ [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5) — DeepSeek v4.1 flash 逆向工具（无限五代）     求 Star 收藏 ⭐欢迎大家提交项目的改进 `2026-09-20`
 - ⭐ [trevortylerlee/astro-micro](https://github.com/trevortylerlee/astro-micro) — Blog theme for Astro with search and comments built-in. Zero… `2026-09-17`
 - ⭐ [yihui/hugo-prose](https://github.com/yihui/hugo-prose) — A Hugo theme derived from the XMin theme, and inspired by Wo… `2026-09-17`
-- ⭐ [nezhahq/nezha](https://github.com/nezhahq/nezha) — :trollface: Self-hosted, lightweight server and website moni… `2026-09-17`
 
 ## 📑 分类导航
 
@@ -46,11 +46,11 @@
 | 🧬 生物信息 | 51 | `█░░░░░░░░░░░░░░░` (4%) | [docs/bio.md](docs/bio.md) |
 | 📚 学习资源与清单 | 225 | `███░░░░░░░░░░░░░` (16%) | [docs/learning.md](docs/learning.md) |
 | 🎯 面试资料 | 15 | `█░░░░░░░░░░░░░░░` (1%) | [docs/interview.md](docs/interview.md) |
-| 📦 其他与杂项 | 77 | `█░░░░░░░░░░░░░░░` (6%) | [docs/misc.md](docs/misc.md) |
+| 📦 其他与杂项 | 78 | `█░░░░░░░░░░░░░░░` (6%) | [docs/misc.md](docs/misc.md) |
 
 ## 📊 快速入口
 
-- 📦 [全量索引(1373)](docs/all.md) — 所有项目按 ⭐ 排序
+- 📦 [全量索引(1374)](docs/all.md) — 所有项目按 ⭐ 排序
 - 🗣️ [按语言浏览](docs/by-language.md) — 语言分布一览
 
 ## 🔄 自动同步

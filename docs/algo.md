@@ -7,10 +7,10 @@
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 373.5k | Python | 学习如何设计大规模系统，备战系统设计面试，包含Anki闪卡。 |
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐ 362.5k |  | 一份成为软件工程师的完整计算机科学学习计划 |
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ⭐ 225.3k | Python | 用Python实现的所有算法 |
-| [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | ⭐ 186.4k |  | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
-| [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | ⭐ 136.1k | Markdown | 破解LeetCode，不仅要知其然，更要知其所以然。 |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐ 362.3k |  | 一份成为软件工程师的完整计算机科学学习计划 |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ⭐ 225.1k | Python | 用Python实现的所有算法 |
+| [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | ⭐ 186.2k |  | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
+| [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | ⭐ 135.9k | Markdown | 破解LeetCode，不仅要知其然，更要知其所以然。 |
 | [doocs/advanced-java](https://github.com/doocs/advanced-java) | ⭐ 79.1k | Java | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers |… |
 | [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | ⭐ 76.7k | Java | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解Lee… |
 | [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) | ⭐ 62.6k | Shell | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，G… |
