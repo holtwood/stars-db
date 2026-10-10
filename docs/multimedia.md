@@ -20,12 +20,12 @@
 | [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) | ⭐ 6.7k | C++ | MusicPlayer2是一款功能强大的本地音乐播放软件，旨在为用户提供最佳的本地音乐播放体验。它支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌… |
 | [talkgo/read🔀](https://github.com/talkgo/read) | ⭐ 6.2k | Go | Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频） |
 | [gfxfundamentals/webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals) | ⭐ 5.0k | HTML | 从基础讲起的WebGL教程 |
-| [VonChange/utao](https://github.com/VonChange/utao) | ⭐ 4.4k | JavaScript | 油桃TV 电视浏览器 可看各大卫视CCTV直播 无需电视VIP 适配爱奇艺等主流视频平台 |
+| [VonChange/utao](https://github.com/VonChange/utao) | ⭐ 4.5k | JavaScript | 油桃TV 电视浏览器 可看各大卫视CCTV直播 无需电视VIP 适配爱奇艺等主流视频平台 |
 | [q191201771/lal](https://github.com/q191201771/lal) | ⭐ 3.0k | Go | 🔥 Golang audio/video live streaming lib/client/server. support RTMP, RTSP(RTP/RT… |
 | [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) | ⭐ 2.5k | TypeScript | 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成 |
-| [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 805 | Go | 👏 Make learning a lifelong habit. 学无止境 |
+| [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 806 | Go | 👏 Make learning a lifelong habit. 学无止境 |
 | [lylehust/Chinese-IPTV](https://github.com/lylehust/Chinese-IPTV) | ⭐ 594 |  | 中国电视频道列表（IPV6） |
-| [hooke007/mpv.net_CM🟡](https://github.com/hooke007/mpv.net_CM) | ⭐ 547 |  | 🎞 mpv.net_CM 是中文分支模组 |
+| [hooke007/mpv.net_CM🟡](https://github.com/hooke007/mpv.net_CM) | ⭐ 546 |  | 🎞 mpv.net_CM 是中文分支模组 |
 
 ---
 [⬆ 返回顶部](#top)

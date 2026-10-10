@@ -13,7 +13,7 @@
 | [ElemeFE/element](https://github.com/ElemeFE/element) | ⭐ 54.0k | Vue | 适用于Web的Vue.js 2.0 UI组件库 |
 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | ⭐ 46.5k | TypeScript | 🧡 一切皆可RSS |
 | [yarnpkg/yarn](https://github.com/yarnpkg/yarn) | ⭐ 41.5k | JavaScript | 1.x 分支已停止更新，新功能和错误修复现在都在 https://github.com/yarnpkg/berry 开发 |
-| [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) | ⭐ 40.7k | CSS | 50+ 基于 HTML、CSS 和 JS 的小型网页项目 |
+| [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) | ⭐ 40.6k | CSS | 50+ 基于 HTML、CSS 和 JS 的小型网页项目 |
 | [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) | ⭐ 31.1k |  | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 |
 | [aosabook/500lines](https://github.com/aosabook/500lines) | ⭐ 29.6k | JavaScript | 500行以内项目 |
 | [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) | ⭐ 28.7k | TypeScript | 几秒即可克隆复刻任意网站，生成现代化 React 应用 |
@@ -28,7 +28,7 @@
 | [jbaysolutions/vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) | ⭐ 7.4k | JavaScript | 适用于 Vue.js 的可拖拽、可调整大小的网格布局 |
 | [lanyulei/ferry](https://github.com/lanyulei/ferry) | ⭐ 6.6k | JavaScript | 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提… |
 | [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) | ⭐ 5.6k | HTML | 转换 PDF 为 HTML，不丢失文本与格式。 |
-| [Innei/Shiro](https://github.com/Innei/Shiro) | ⭐ 4.2k | TypeScript | 📜 一款体现纸张纯净与雪之清新的极简个人网站 |
+| [Innei/Shiro](https://github.com/Innei/Shiro) | ⭐ 4.3k | TypeScript | 📜 一款体现纸张纯净与雪之清新的极简个人网站 |
 | [doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn) | ⭐ 4.2k | TypeScript | 🇨🇳 《JavaScript 二十年》中文版 |
 | [vasanthv/ahey🟡](https://github.com/vasanthv/ahey) | ⭐ 4.2k | JavaScript | 适用于网页的免费群组视频通话。无需注册，无需下载。 |
 | [cita-777/metapi](https://github.com/cita-777/metapi) | ⭐ 3.3k | TypeScript | 把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站… |
@@ -53,10 +53,10 @@
 | [dishait/tov-template](https://github.com/dishait/tov-template) | ⭐ 970 | TypeScript | vite + vue3 + ts 开箱即用现代开发模板 | vite + vue3 + ts out-of-the-box modern development… |
 | [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) | ⭐ 911 | Svelte | 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI… |
 | [yenche123/liubai](https://github.com/yenche123/liubai) | ⭐ 864 | TypeScript | 赋能你自己！ |
-| [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 863 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
-| [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 619 | TypeScript |  |
+| [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 861 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
+| [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 618 | TypeScript |  |
 | [o8oo8o/WebCurl](https://github.com/o8oo8o/WebCurl) | ⭐ 609 | HTML | 极简网页版API调试神器 |
-| [Paper-Dragon/mobaxterm-crack](https://github.com/Paper-Dragon/mobaxterm-crack) | ⭐ 592 | TypeScript | 破解MobaXterm的高级版，生成密钥，支持几乎所有版本。 |
+| [Paper-Dragon/mobaxterm-crack](https://github.com/Paper-Dragon/mobaxterm-crack) | ⭐ 593 | TypeScript | 破解MobaXterm的高级版，生成密钥，支持几乎所有版本。 |
 | [Sergei-Korneev/obsidian-local-images-plus](https://github.com/Sergei-Korneev/obsidian-local-images-plus) | ⭐ 568 | JavaScript | 本仓库是 obsidian-local-images 插件的重制项目，该插件的核心功能是将 Markdown 笔记中的图片下载到本地存储。 |
 | [lunar-landing/layui-vue](https://github.com/lunar-landing/layui-vue) | ⭐ 558 | Vue | 基于 Layui 和 Vue 的企业级 UI 组件库 |
 | [ButaiKirin/MicrosoftHostsPicker](https://github.com/ButaiKirin/MicrosoftHostsPicker) | ⭐ 509 | CSS | 用于筛选Microsoft服务最快IP的轻量Python脚本 |
@@ -73,7 +73,7 @@
 | [haripo/react-github-contribution-calendar](https://github.com/haripo/react-github-contribution-calendar) | ⭐ 172 | HTML | 用于实现 GitHub 风格热力图日历的 React 组件 |
 | [scottbedard/svelte-heatmap](https://github.com/scottbedard/svelte-heatmap) | ⭐ 167 | JavaScript | GitHub 贡献图的轻量可定制版本 |
 | [happyhope/GitCracken](https://github.com/happyhope/GitCracken) | ⭐ 115 |  |  |
-| [struy-cn/Y-TOC](https://github.com/struy-cn/Y-TOC) | ⭐ 105 | Vue |  |
+| [struy-cn/Y-TOC](https://github.com/struy-cn/Y-TOC) | ⭐ 106 | Vue |  |
 | [lxdao-official/lx-scale](https://github.com/lxdao-official/lx-scale) | ⭐ 96 | TypeScript | 专业心理健康自测工具，帮助你了解自身精神状态 |
 | [BryceWG/Blinko-Extention](https://github.com/BryceWG/Blinko-Extention) | ⭐ 94 | JavaScript | 这是面向 Blinko 的基于 AI 的 Chrome 网页内容提取与总结扩展，支持网页一键总结、选词保存、快速记录等功能，内容可同步至 Blinko 服务器。 |
 | [gp0119/Taby](https://github.com/gp0119/Taby) | ⭐ 50 | Vue | 一款简易的新标签页扩展程序 |
