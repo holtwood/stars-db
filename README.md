@@ -2,7 +2,7 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1375-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--10--12-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1375-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--10--13-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
 > 📈 **1375** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
@@ -11,7 +11,7 @@
 - ⭐ [yetone/magpie](https://github.com/yetone/magpie) — Every agent's model. One place. Codex on DeepSeek, Claude Co… `2026-10-09`
 - ⭐ [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) — Let AI agents use your real, logged-in browser without inter… `2026-10-08`
 - ⭐ [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) — 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabin… `2026-10-01`
-- ⭐ [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) — IDM激活与状态维护工具 `2026-09-27`
+- ⭐ [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) — Activation & Lifecycle State Maintenance Toolkit `2026-09-27`
 - ⭐ [czm15053/write-notes-like-deepseek](https://github.com/czm15053/write-notes-like-deepseek) — 像 DeepSeek 团队一样沉淀 Agent Notes——决策、取舍与验证一处留痕，半年后仍可追溯。可叠加到任何仓库 `2026-09-26`
 - ⭐ [atuinsh/atuin](https://github.com/atuinsh/atuin) — ✨ Making your shell magical `2026-09-26`
 - ⭐ [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) — BookOrbit: Your Reading Space `2026-09-26`

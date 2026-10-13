@@ -8,7 +8,7 @@
 |------|------|------|------|
 | [apache/echarts](https://github.com/apache/echarts) | ⭐ 67.5k | TypeScript | Apache ECharts 是一款功能强大、可交互的浏览器端图表与数据可视化库 |
 | [team-spotube/spotube](https://github.com/team-spotube/spotube) | ⭐ 49.8k | Dart | 🎧 Open source music streaming app! Available for both desktop & mobile! |
-| [iina/iina](https://github.com/iina/iina) | ⭐ 46.7k | Swift | 适用于 macOS 的现代化视频播放器。 |
+| [iina/iina](https://github.com/iina/iina) | ⭐ 46.8k | Swift | 适用于 macOS 的现代化视频播放器。 |
 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | ⭐ 40.1k | Java | 适用于 Android 的自由轻量级流媒体前端 |
 | [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | ⭐ 30.1k |  | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 |
 | [fanmingming/live](https://github.com/fanmingming/live) | ⭐ 28.6k | JavaScript | ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕 |
@@ -16,7 +16,7 @@
 | [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) | ⭐ 16.4k | Jupyter Notebook | 视频技术实战入门：图像、视频、编码（av1、vp9、h265）及更多内容（含ffmpeg编码）。提供多语言译本：🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 |
 | [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) | ⭐ 13.9k | Python | CVPR 2025  Spotlight论文《Structured 3D Latents for Scalable and Versatile 3D Gener… |
 | [talkgo/night](https://github.com/talkgo/night) | ⭐ 12.3k | Go | Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家… |
-| [maotoumao/MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) | ⭐ 8.9k | TypeScript | 插件化、定制化、无广告的免费音乐播放器 |
+| [maotoumao/MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) | ⭐ 9.0k | TypeScript | 插件化、定制化、无广告的免费音乐播放器 |
 | [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) | ⭐ 6.7k | C++ | MusicPlayer2是一款功能强大的本地音乐播放软件，旨在为用户提供最佳的本地音乐播放体验。它支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌… |
 | [talkgo/read🔀](https://github.com/talkgo/read) | ⭐ 6.2k | Go | Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频） |
 | [gfxfundamentals/webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals) | ⭐ 5.0k | HTML | 从基础讲起的WebGL教程 |
