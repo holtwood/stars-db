@@ -7,7 +7,7 @@
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
 | [apache/echarts](https://github.com/apache/echarts) | ⭐ 67.5k | TypeScript | Apache ECharts 是一款功能强大、可交互的浏览器端图表与数据可视化库 |
-| [team-spotube/spotube](https://github.com/team-spotube/spotube) | ⭐ 49.8k | Dart | 🎧 Open source music streaming app! Available for both desktop & mobile! |
+| [team-spotube/spotube](https://github.com/team-spotube/spotube) | ⭐ 49.9k | Dart | 🎧 Open source music streaming app! Available for both desktop & mobile! |
 | [iina/iina](https://github.com/iina/iina) | ⭐ 46.8k | Swift | 适用于 macOS 的现代化视频播放器。 |
 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | ⭐ 40.1k | Java | 适用于 Android 的自由轻量级流媒体前端 |
 | [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | ⭐ 30.1k |  | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 |
@@ -23,8 +23,8 @@
 | [VonChange/utao](https://github.com/VonChange/utao) | ⭐ 4.5k | JavaScript | 油桃TV 电视浏览器 可看各大卫视CCTV直播 无需电视VIP 适配爱奇艺等主流视频平台 |
 | [q191201771/lal](https://github.com/q191201771/lal) | ⭐ 3.0k | Go | 🔥 Golang audio/video live streaming lib/client/server. support RTMP, RTSP(RTP/RT… |
 | [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) | ⭐ 2.5k | TypeScript | 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成 |
-| [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 809 | Go | 👏 Make learning a lifelong habit. 学无止境 |
-| [lylehust/Chinese-IPTV](https://github.com/lylehust/Chinese-IPTV) | ⭐ 594 |  | 中国电视频道列表（IPV6） |
+| [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 811 | Go | 👏 Make learning a lifelong habit. 学无止境 |
+| [lylehust/Chinese-IPTV](https://github.com/lylehust/Chinese-IPTV) | ⭐ 593 |  | 中国电视频道列表（IPV6） |
 | [hooke007/mpv.net_CM🟡](https://github.com/hooke007/mpv.net_CM) | ⭐ 546 |  | 🎞 mpv.net_CM 是中文分支模组 |
 
 ---
