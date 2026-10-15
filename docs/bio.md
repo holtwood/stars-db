@@ -28,14 +28,14 @@
 | [wdecoster/NanoPlot](https://github.com/wdecoster/NanoPlot) | ⭐ 562 | HTML | 用于长读长测序数据的绘图脚本 |
 | [10XGenomics/cellranger](https://github.com/10XGenomics/cellranger) | ⭐ 481 | Rust | 10x Genomics 单细胞分析 |
 | [seqan/seqan3](https://github.com/seqan/seqan3) | ⭐ 465 | C++ | 用于序列分析的现代C++库，包含该库的第3版本及API文档。 |
-| [openbiox/weekly](https://github.com/openbiox/weekly) | ⭐ 461 | HTML | 生信爱好者周刊（每周日发布） |
+| [openbiox/weekly](https://github.com/openbiox/weekly) | ⭐ 462 | HTML | 生信爱好者周刊（每周日发布） |
 | [gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) | ⭐ 397 |  |  |
 | [Ming-Lian/NGS-analysis](https://github.com/Ming-Lian/NGS-analysis) | ⭐ 378 |  | 二代测序数据分析 |
 | [obophenotype/human-phenotype-ontology](https://github.com/obophenotype/human-phenotype-ontology) | ⭐ 377 | Makefile | 用于描述人类临床特征的本体 |
 | [brentp/goleft](https://github.com/brentp/goleft) | ⭐ 227 | Go | goleft 是遵循 MIT 许可证分发的生物信息学工具合集，打包为单个静态二进制文件 |
 | [PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-third-edition) | ⭐ 217 | Python | Python生物信息学 cookbook 第三版 |
 | [BGI-HangzhouAI/Genos](https://github.com/BGI-HangzhouAI/Genos) | ⭐ 181 | Jupyter Notebook | 基因组基础大模型 |
-| [MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software](https://github.com/MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software) | ⭐ 165 | HTML | 用于灵活、高性能分析DNBelab C系列单细胞数据的官方流程。 |
+| [MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software](https://github.com/MGI-tech-bioinformatics/DNBelab_C_Series_HT_scRNA-analysis-software) | ⭐ 166 | HTML | 用于灵活、高性能分析DNBelab C系列单细胞数据的官方流程。 |
 | [shubhamchandak94/Spring](https://github.com/shubhamchandak94/Spring) | ⭐ 159 | C | FASTQ 压缩 |
 | [OpenGene/repaq](https://github.com/OpenGene/repaq) | ⭐ 156 | C | 具备超高压缩比的高速无损FASTQ压缩器 |
 | [hbctraining/Intro-to-bulk-RNAseq](https://github.com/hbctraining/Intro-to-bulk-RNAseq) | ⭐ 155 | HTML | 批量RNA-seq入门 |
