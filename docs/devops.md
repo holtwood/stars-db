@@ -12,7 +12,7 @@
 | [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) | ⭐ 38.3k | TypeScript | 使用 Trilium Notes 构建你的个人知识库 |
 | [nginx/nginx](https://github.com/nginx/nginx) | ⭐ 31.9k | C | NGINX 开源版官方仓库。 |
 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | ⭐ 29.7k | TypeScript | 支持自托管的全类型书签应用，可收纳链接、笔记与图片，带AI自动 tagging 和全文搜索 |
-| [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | ⭐ 19.5k | Shell | 可用于生产环境、容器化运行、功能完整却轻量简单的邮件服务器，支持SMTP、IMAP、LDAP、反垃圾邮件、杀毒等功能。 |
+| [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | ⭐ 19.6k | Shell | 可用于生产环境、容器化运行、功能完整却轻量简单的邮件服务器，支持SMTP、IMAP、LDAP、反垃圾邮件、杀毒等功能。 |
 | [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) | ⭐ 11.6k | Go | Nginx 的又一个 WebUI |
 | [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) | ⭐ 9.1k | Shell | 经过优化适配Docker的极简Ubuntu基础镜像 |
 | [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) | ⭐ 7.7k | TypeScript | 全功能开源监控与可观测性平台 |
