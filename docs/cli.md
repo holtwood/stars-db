@@ -6,10 +6,10 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | ⭐ 294.2k | Shell | 真正工程师必备技能，直接来自我的.agents目录。 |
-| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐ 194.8k | Batchfile | 开源Windows和Office激活工具，支持HWID、Ohook、TSforge和在线KMS激活方式，同时具备高级故障排查功能 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | ⭐ 295.2k | Shell | 真正工程师必备技能，直接来自我的.agents目录。 |
+| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐ 194.9k | Batchfile | 开源Windows和Office激活工具，支持HWID、Ohook、TSforge和在线KMS激活方式，同时具备高级故障排查功能 |
 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | ⭐ 162.5k |  | 掌握命令行，只需一页 |
-| [tw93/Mole](https://github.com/tw93/Mole) | ⭐ 70.7k | Shell | 🐹 清理、卸载、分析、优化与监控你的 Mac。免费开源命令行工具，另有原生 Mac 应用。 |
+| [tw93/Mole](https://github.com/tw93/Mole) | ⭐ 71.0k | Shell | 🐹 清理、卸载、分析、优化与监控你的 Mac。免费开源命令行工具，另有原生 Mac 应用。 |
 | [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | ⭐ 62.3k | Zig | 👻 Ghostty 是一款快速、功能丰富的跨平台终端模拟器，采用平台原生 UI 与 GPU 加速。 |
 | [files-community/Files](https://github.com/files-community/Files) | ⭐ 46.0k | C# | 一款可帮助用户整理文件与文件夹的现代化文件管理器 |
 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | ⭐ 43.8k | TypeScript | 🌐 Internet Computer！免费开源，可自行托管。 |
@@ -21,8 +21,8 @@
 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | ⭐ 28.2k | Swift | 基于 Ghostty 开源改造的 macOS 终端，支持垂直标签页与 AI 编码代理通知，专为多任务处理、有序组织与可编程性打造。 |
 | [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) | ⭐ 26.6k | C# | UniGetUI：你的包管理器图形界面。可以夸张地说，它是用来管理多个包管理器的「包管理器的管理器」。 |
 | [microsoft/winget-cli](https://github.com/microsoft/winget-cli) | ⭐ 26.5k | C++ | WinGet 是 Windows 包管理器。本项目包含 CLI（命令行界面）、PowerShell 模块以及 COM（组件对象模型）API（应用程序编程接口）。 |
-| [powerline/fonts](https://github.com/powerline/fonts) | ⭐ 26.3k | Shell | 适用于 Powerline 用户的补全补丁字体。 |
 | [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | ⭐ 26.3k | Shell | An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWO… |
+| [powerline/fonts](https://github.com/powerline/fonts) | ⭐ 26.3k | Shell | 适用于 Powerline 用户的补全补丁字体。 |
 | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | ⭐ 25.1k | C | 一款持续维护、功能丰富、侧重性能的类 neofetch 系统信息工具。 |
 | [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) | ⭐ 24.7k | PowerShell | 适用于 Windows 的命令行安装程序 |
 | [dracula/dracula-theme](https://github.com/dracula/dracula-theme) | ⭐ 23.6k |  | 同一个主题，全平台适配。 |
@@ -123,10 +123,10 @@
 | [lx-s/WinMute](https://github.com/lx-s/WinMute) | ⭐ 244 | C++ | WinMute 可让你在特定事件（例如屏保启动、工作站锁定、关机等）发生时自动静音你的 PC 音量。 |
 | [Contextualist/acp](https://github.com/Contextualist/acp) | ⭐ 241 | Go | 让终端个人文件传输像`cp`一样简单 |
 | [chenyium/Microsoft-Yahei-Mono](https://github.com/chenyium/Microsoft-Yahei-Mono) | ⭐ 221 |  | Microsoft Yahei Mono 字体 |
-| [sergiye/winUpdateMiniTool](https://github.com/sergiye/winUpdateMiniTool) | ⭐ 218 | C# | Windows Update Mini Tool 是一款用于在 Windows 操作系统上管理 Microsoft 产品更新的工具 |
+| [sergiye/winUpdateMiniTool](https://github.com/sergiye/winUpdateMiniTool) | ⭐ 219 | C# | Windows Update Mini Tool 是一款用于在 Windows 操作系统上管理 Microsoft 产品更新的工具 |
 | [FarseaSH/hugo-theme-moments](https://github.com/FarseaSH/hugo-theme-moments) | ⭐ 181 | HTML | A Hugo theme designed for micro-blogging. 专为动态发布设计的Hugo主题 |
 | [whtiehack/XiaoMi-Air](https://github.com/whtiehack/XiaoMi-Air) | ⭐ 96 | ASL | 适用于 macOS High Sierra、Sierra 和 Big Sur 的小米笔记本 Air 驱动配置 |
-| [lvbibir/JetBrainsLxgwNerdMono](https://github.com/lvbibir/JetBrainsLxgwNerdMono) | ⭐ 85 | Python | JetBrains Mono NerdFont 加霞鹜文楷，就是自带NerdFont图标的完美2:1比例CJK等宽字体 |
+| [lvbibir/JetBrainsLxgwNerdMono](https://github.com/lvbibir/JetBrainsLxgwNerdMono) | ⭐ 86 | Python | JetBrains Mono NerdFont 加霞鹜文楷，就是自带NerdFont图标的完美2:1比例CJK等宽字体 |
 | [sakoula/XiaoMi-Air-6200U](https://github.com/sakoula/XiaoMi-Air-6200U) | ⭐ 67 | ASL | 适用于 macOS Catalina、Mojave 及 High Sierra 的2016款小米Air 13.3 Skylake-U 黑苹果 |
 | [maboroshin/Notepad3ColorTheme](https://github.com/maboroshin/Notepad3ColorTheme) | ⭐ 66 |  | Notepad3 的 19 款颜色主题。 |
 | [AkiChase/Starter](https://github.com/AkiChase/Starter) | ⭐ 52 | AutoHotkey | Starter 是一款AHK编写的极简效率工具，旨在智能、快捷地启动文件和插件应用，提供便利和高效的使用体验。 |
