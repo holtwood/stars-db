@@ -7,7 +7,7 @@
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 374.7k | Python | 学习如何设计大规模系统，备战系统设计面试，包含Anki闪卡。 |
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐ 362.9k |  | 一份成为软件工程师的完整计算机科学学习计划 |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐ 363.0k |  | 一份成为软件工程师的完整计算机科学学习计划 |
 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ⭐ 225.4k | Python | 用Python实现的所有算法 |
 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | ⭐ 186.3k |  | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | ⭐ 135.9k | Markdown | 破解LeetCode，不仅要知其然，更要知其所以然。 |
@@ -17,7 +17,7 @@
 | [azl397985856/leetcode](https://github.com/azl397985856/leetcode) | ⭐ 55.7k | JavaScript | LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的lee… |
 | [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | ⭐ 48.9k | JavaScript | 烟花样式标识：可根据代码生成算法可视化的交互式在线平台 |
 | [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) | ⭐ 46.6k |  | 学习如何设计大规模系统，备战系统设计面试 |
-| [huihut/interview](https://github.com/huihut/interview) | ⭐ 38.2k | C++ | 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository… |
+| [huihut/interview](https://github.com/huihut/interview) | ⭐ 38.3k | C++ | 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository… |
 | [doocs/leetcode](https://github.com/doocs/leetcode) | ⭐ 36.7k | Java | 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第… |
 | [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) | ⭐ 36.1k | Java | 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹… |
 | [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | ⭐ 33.8k | Go | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode… |

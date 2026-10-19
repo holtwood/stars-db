@@ -6,10 +6,10 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [react/react](https://github.com/react/react) | ⭐ 251.3k | JavaScript | 用于构建网页和原生用户界面的库。 |
-| [vuejs/vue](https://github.com/vuejs/vue) | ⭐ 212.6k | TypeScript | 这是 Vue 2 的仓库。Vue 3 请访问 https://github.com/vuejs/core |
+| [react/react](https://github.com/react/react) | ⭐ 251.4k | JavaScript | 用于构建网页和原生用户界面的库。 |
+| [vuejs/vue](https://github.com/vuejs/vue) | ⭐ 212.7k | TypeScript | 这是 Vue 2 的仓库。Vue 3 请访问 https://github.com/vuejs/core |
 | [vitejs/vite](https://github.com/vitejs/vite) | ⭐ 83.4k | TypeScript | 下一代前端工具链，极速体验！ |
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | ⭐ 80.6k | TypeScript | 开源API开发生态系统 • https://hoppscotch.io • 支持离线、本地部署与云端 • 覆盖Web、桌面端与CLI • Postman、Ins… |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | ⭐ 80.7k | TypeScript | 开源API开发生态系统 • https://hoppscotch.io • 支持离线、本地部署与云端 • 覆盖Web、桌面端与CLI • Postman、Ins… |
 | [ElemeFE/element](https://github.com/ElemeFE/element) | ⭐ 54.0k | Vue | 适用于Web的Vue.js 2.0 UI组件库 |
 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | ⭐ 46.6k | TypeScript | 🧡 一切皆可RSS |
 | [yarnpkg/yarn](https://github.com/yarnpkg/yarn) | ⭐ 41.5k | JavaScript | 1.x 分支已停止更新，新功能和错误修复现在都在 https://github.com/yarnpkg/berry 开发 |
@@ -50,7 +50,7 @@
 | [Gisto/Gisto](https://github.com/Gisto/Gisto) | ⭐ 1.2k | TypeScript | Gisto 是一款跨平台代码片段管理应用，可让你和/或你的团队快速便捷地共享代码片段。它基于 GitHub Gists 或 GitLab snippets 基础… |
 | [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) | ⭐ 1.1k | JavaScript | 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。 |
 | [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) | ⭐ 1.1k | HTML | 使用 LaTeXML 将 LaTeX 文档转换为美观的响应式网页。 |
-| [dishait/tov-template](https://github.com/dishait/tov-template) | ⭐ 969 | TypeScript | vite + vue3 + ts 开箱即用现代开发模板 | vite + vue3 + ts out-of-the-box modern development… |
+| [dishait/tov-template](https://github.com/dishait/tov-template) | ⭐ 968 | TypeScript | vite + vue3 + ts 开箱即用现代开发模板 | vite + vue3 + ts out-of-the-box modern development… |
 | [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) | ⭐ 910 | Svelte | 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI… |
 | [yenche123/liubai](https://github.com/yenche123/liubai) | ⭐ 865 | TypeScript | 赋能你自己！ |
 | [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 862 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
@@ -65,7 +65,7 @@
 | [MistRipple/ace-tool](https://github.com/MistRipple/ace-tool) | ⭐ 430 | TypeScript |  |
 | [wzdnzd/resume](https://github.com/wzdnzd/resume) | ⭐ 403 | TypeScript | 功能丰富、支持灵活自定义的简历生成工具 |
 | [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) | ⭐ 373 | JavaScript | 一款广受欢迎的纯CSS文字肖像生成工具，用来送给你爱的人。 |
-| [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) | ⭐ 361 | JavaScript | GitHub Freshness 在线文档 |
+| [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) | ⭐ 362 | JavaScript | GitHub Freshness 在线文档 |
 | [AnkRoot/Augment-BYOK](https://github.com/AnkRoot/Augment-BYOK) | ⭐ 341 | JavaScript |  |
 | [dongshuyan/PromptHelper](https://github.com/dongshuyan/PromptHelper) | ⭐ 332 | JavaScript | 帮你管理提示词模板 |
 | [zhugezifang/ai_timeline](https://github.com/zhugezifang/ai_timeline) | ⭐ 233 | HTML | AI时间线，产品地址：http://www.ai-timeline.top |

@@ -25,7 +25,7 @@
 | [mdozmorov/scRNA-seq_notes](https://github.com/mdozmorov/scRNA-seq_notes) | ⭐ 825 | R | 单细胞RNA测序分析工具清单 |
 | [bebop/poly](https://github.com/bebop/poly) | ⭐ 735 | Go | 用于工程改造生物体的Go包 |
 | [OysterQAQ/ACG2vec](https://github.com/OysterQAQ/ACG2vec) | ⭐ 581 |  | ACG2vec (Anime Comics Games to vector) are committed to creating a playground th… |
-| [wdecoster/NanoPlot](https://github.com/wdecoster/NanoPlot) | ⭐ 563 | HTML | 用于长读长测序数据的绘图脚本 |
+| [wdecoster/NanoPlot](https://github.com/wdecoster/NanoPlot) | ⭐ 564 | HTML | 用于长读长测序数据的绘图脚本 |
 | [10XGenomics/cellranger](https://github.com/10XGenomics/cellranger) | ⭐ 482 | Rust | 10x Genomics 单细胞分析 |
 | [seqan/seqan3](https://github.com/seqan/seqan3) | ⭐ 465 | C++ | 用于序列分析的现代C++库，包含该库的第3版本及API文档。 |
 | [openbiox/weekly](https://github.com/openbiox/weekly) | ⭐ 463 | HTML | 生信爱好者周刊（每周日发布） |
