@@ -35,7 +35,7 @@ add_map = {
     '编辑器与文档笔记': ['vrtmrz/obsidian-livesync'],
     '移动开发': ['mudkipme/MoeMemosAndroid'],
     '学习资源与清单': ['DigitalPlatDev/FreeDomain', 'open-genomics/awesome-bioinfo-algorithms',
-                      'vibe-knight/awesome-compression'],
+                      'holtwood/awesome-compression'],
 }
 
 # 2) 修正：repo -> (移除的list名集合, 加入的list名集合)
