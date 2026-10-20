@@ -6,9 +6,9 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [anthropics/skills](https://github.com/anthropics/skills) | ⭐ 182.1k | Python | Agent 技能公开仓库 |
+| [anthropics/skills](https://github.com/anthropics/skills) | ⭐ 182.3k | Python | Agent 技能公开仓库 |
 | [golang/go](https://github.com/golang/go) | ⭐ 139.4k | Go | Go 编程语言 |
-| [fastapi/fastapi](https://github.com/fastapi/fastapi) | ⭐ 103.2k | Python | FastAPI 框架，高性能，易学习，编码快，可用于生产环境 |
+| [fastapi/fastapi](https://github.com/fastapi/fastapi) | ⭐ 103.3k | Python | FastAPI 框架，高性能，易学习，编码快，可用于生产环境 |
 | [nvbn/thefuck](https://github.com/nvbn/thefuck) | ⭐ 97.9k | Python | 一款可以帮你修正上一条控制台命令的好用工具 |
 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | ⭐ 89.4k | Go | Gin 是一个用 Go 编写的高性能 HTTP 网络框架，它提供类似 Martini 的 API，并且借助 httprouter 实现了大幅提升的性能——最高快… |
 | [junegunn/fzf](https://github.com/junegunn/fzf) | ⭐ 83.7k | Go | :cherry_blossom: 命令行模糊查找器 |
@@ -21,7 +21,7 @@
 | [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | ⭐ 61.9k |  | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
 | [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | ⭐ 61.5k | Go | 单文件开源实时后端 |
 | [minio/minio🟡](https://github.com/minio/minio) | ⭐ 61.3k | Go | MinIO 是一款高性能、兼容 S3 的对象存储，以 GNU AGPLv3 许可证开源。 |
-| [sharkdp/bat](https://github.com/sharkdp/bat) | ⭐ 60.8k | Rust | 带翅膀的 cat(1) 克隆版 |
+| [sharkdp/bat](https://github.com/sharkdp/bat) | ⭐ 60.9k | Rust | 带翅膀的 cat(1) 克隆版 |
 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | ⭐ 58.8k | Python | 花一百美元能买到的顶级ChatGPT体验。 |
 | [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) | ⭐ 58.7k | Python | 没有堡垒，唯有纯粹的开阔之地。OpenManus，即将到来。 |
 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | ⭐ 58.6k | Go | 品茶般顺畅的Git体验！无痛一键自托管一体化软件开发服务，涵盖Git托管、代码评审、团队协作、软件包注册表与CI/CD |
@@ -56,7 +56,7 @@
 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | ⭐ 25.9k | C++ | 现代格式化库 |
 | [sirupsen/logrus](https://github.com/sirupsen/logrus) | ⭐ 25.8k | Go | 适用于 Go 的结构化可插拔日志库 |
 | [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | ⭐ 25.1k | Go | 专为应对Trust Crisis的全新AList分支 |
-| [ogham/exa](https://github.com/ogham/exa) | ⭐ 24.5k | Rust | `ls` 的现代替代工具 |
+| [ogham/exa](https://github.com/ogham/exa) | ⭐ 24.4k | Rust | `ls` 的现代替代工具 |
 | [uutils/coreutils](https://github.com/uutils/coreutils) | ⭐ 24.3k | Rust | GNU coreutils 的跨平台 Rust 重写实现 |
 | [AlDanial/cloc](https://github.com/AlDanial/cloc) | ⭐ 23.6k | Perl | cloc 可统计多种编程语言的空白行、注释行与源代码物理行数。 |
 | [go-chi/chi](https://github.com/go-chi/chi) | ⭐ 23.0k | Go | 用于构建 Go HTTP 服务的轻量、原生、可组合的路由 |
@@ -151,8 +151,8 @@
 | [bilibili/overlord](https://github.com/bilibili/overlord) | ⭐ 2.2k | Go | Overlord是哔哩哔哩基于Go语言编写的memcache和redis&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。 |
 | [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) | ⭐ 2.2k | C++ | 适用于 Python 和 C++ 的可视化纳秒级性能分析器、日志记录工具与测试启用工具 |
 | [elliotchance/c2go](https://github.com/elliotchance/c2go) | ⭐ 2.2k | Go | ⚖️ 一款用于将C转译为Go的工具 |
-| [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed) | ⭐ 2.2k | C++ | C++11/14/17/20并发编程解密：从核心原理到线程安全代码 |
 | [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) | ⭐ 2.2k | TypeScript | PasteBar - 适用于 Mac 和 Windows 的无限制免费剪贴板管理器 |
+| [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed) | ⭐ 2.2k | C++ | C++11/14/17/20并发编程解密：从核心原理到线程安全代码 |
 | [rurban/smhasher](https://github.com/rurban/smhasher) | ⭐ 2.2k | C++ | 哈希函数质量与速度测试 |
 | [Tw1ddle/geometrize](https://github.com/Tw1ddle/geometrize) | ⭐ 2.1k | C++ | :white_square_button: Geometrize 是一款可将图像重构为几何基元的桌面应用 |
 | [bilibili/gengine](https://github.com/bilibili/gengine) | ⭐ 2.1k | Go |  |
@@ -198,7 +198,7 @@
 | [neolee/pilot](https://github.com/neolee/pilot) | ⭐ 612 | Jupyter Notebook | 进入编程世界的第一课 |
 | [r-smith/vmPing](https://github.com/r-smith/vmPing) | ⭐ 596 | C# | 可视化多Ping，用于监控多台主机的色标编码Ping工具 |
 | [MoonshotAI/K2-Vendor-Verifier](https://github.com/MoonshotAI/K2-Vendor-Verifier) | ⭐ 594 | Python | 验证所有提供 Kimi K2 API 厂商的精度 |
-| [ZMGID/kivio](https://github.com/ZMGID/kivio) | ⭐ 584 | Rust |  |
+| [ZMGID/kivio](https://github.com/ZMGID/kivio) | ⭐ 585 | Rust |  |
 | [Waleon/DesignPatterns](https://github.com/Waleon/DesignPatterns) | ⭐ 574 | C++ | 趣味设计模式，小朋友也能学得会！ |
 | [ahmetsait/toolgit](https://github.com/ahmetsait/toolgit) | ⭐ 565 | Python | Git 生产力工具集 |
 | [xujiangjiang/Easy-Cat-Timer](https://github.com/xujiangjiang/Easy-Cat-Timer) | ⭐ 556 | C# | This is a very simple cat timer, made using WPF（这是一个非常简单的猫咪计时器，使用WPF制作） |
@@ -206,12 +206,12 @@
 | [hitnology/snoopy](https://github.com/hitnology/snoopy) | ⭐ 539 | Objective-C | macOS 版本史努比屏幕保护 |
 | [azrilaiman2003/augment-vip](https://github.com/azrilaiman2003/augment-vip) | ⭐ 528 | Python | 移除 AugmentCode 免费试用账户限制 |
 | [petermattis/goid](https://github.com/petermattis/goid) | ⭐ 512 | Go |  |
-| [chengazhen/gitlens-pro](https://github.com/chengazhen/gitlens-pro) | ⭐ 505 | Go | 一个用于激活 GitLens Pro 的工具。 |
+| [chengazhen/gitlens-pro](https://github.com/chengazhen/gitlens-pro) | ⭐ 507 | Go | 一个用于激活 GitLens Pro 的工具。 |
 | [luncliff/coroutine🟡](https://github.com/luncliff/coroutine) | ⭐ 492 | C++ | 实战 C++20 协程（辅助工具+测试代码示例） |
 | [nakabonne/gosivy](https://github.com/nakabonne/gosivy) | ⭐ 478 | Go | 用于Go进程指标的实时可视化工具 |
 | [ChengShiest/LAST-ViT](https://github.com/ChengShiest/LAST-ViT) | ⭐ 472 | Python | [CVPR 2026] 论文《Vision Transformer Needs More Than Registers》的官方PyTorch实现 |
 | [vss2sn/path_planning](https://github.com/vss2sn/path_planning) | ⭐ 448 | C++ | 本仓库包含基于网格搜索的C++路径规划算法。 |
-| [itandelin/qoder-free](https://github.com/itandelin/qoder-free) | ⭐ 416 | Python | 一个用于重置 Qoder 应用程序用户身份信息的现代化图形界面工具。 |
+| [itandelin/qoder-free](https://github.com/itandelin/qoder-free) | ⭐ 417 | Python | 一个用于重置 Qoder 应用程序用户身份信息的现代化图形界面工具。 |
 | [cloudanum/50Algorithms](https://github.com/cloudanum/50Algorithms) | ⭐ 401 | Jupyter Notebook | Code for 50 Algorithms Every Programmer Should Know, Second Edition (Packt) by I… |
 | [jenniferlu717/KrakenTools](https://github.com/jenniferlu717/KrakenTools) | ⭐ 382 | Python | KrakenTools 提供用于分析 Kraken/Kraken2/Bracken/KrakenUniq 输出文件的独立脚本 |
 | [jwcpp/jwEngine](https://github.com/jwcpp/jwEngine) | ⭐ 365 | C | 跨平台 C++<->lua 服务端快速开发方案 |
@@ -246,7 +246,7 @@
 | [egonelbre/fm-index](https://github.com/egonelbre/fm-index) | ⭐ 57 | Python | BWT与FM-index的教学实现 |
 | [wyhnihaook/Healer_Weather](https://github.com/wyhnihaook/Healer_Weather) | ⭐ 57 | Java | Healer天气预报，希望大家喜欢 |
 | [sublimehq/mmap-example](https://github.com/sublimehq/mmap-example) | ⭐ 55 | C++ |  |
-| [gorkys/youshu](https://github.com/gorkys/youshu) | ⭐ 53 | Kotlin | 🗂一个由AI开发的家庭物品管理的安卓App |
+| [gorkys/youshu](https://github.com/gorkys/youshu) | ⭐ 54 | Kotlin | 🗂一个由AI开发的家庭物品管理的安卓App |
 | [ZeusChan/LittleFreshWeather](https://github.com/ZeusChan/LittleFreshWeather) | ⭐ 49 | Java | A little android weather app.（已修复城市列表问题，可正常使用了~） |
 | [SamZhangQingChuan/Templates-for-Competitive-Programming](https://github.com/SamZhangQingChuan/Templates-for-Competitive-Programming) | ⭐ 45 | C++ |  |
 | [xiaoweiChen/DesignPattern🔀](https://github.com/xiaoweiChen/DesignPattern) | ⭐ 45 | C++ | C++11全套设计模式-23种指针的用法(a full DesignPattern implement with c++11) |

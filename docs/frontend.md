@@ -6,7 +6,7 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [react/react](https://github.com/react/react) | ⭐ 251.4k | JavaScript | 用于构建网页和原生用户界面的库。 |
+| [react/react](https://github.com/react/react) | ⭐ 251.5k | JavaScript | 用于构建网页和原生用户界面的库。 |
 | [vuejs/vue](https://github.com/vuejs/vue) | ⭐ 212.7k | TypeScript | 这是 Vue 2 的仓库。Vue 3 请访问 https://github.com/vuejs/core |
 | [vitejs/vite](https://github.com/vitejs/vite) | ⭐ 83.4k | TypeScript | 下一代前端工具链，极速体验！ |
 | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | ⭐ 80.7k | TypeScript | 开源API开发生态系统 • https://hoppscotch.io • 支持离线、本地部署与云端 • 覆盖Web、桌面端与CLI • Postman、Ins… |
@@ -53,7 +53,7 @@
 | [dishait/tov-template](https://github.com/dishait/tov-template) | ⭐ 968 | TypeScript | vite + vue3 + ts 开箱即用现代开发模板 | vite + vue3 + ts out-of-the-box modern development… |
 | [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) | ⭐ 910 | Svelte | 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI… |
 | [yenche123/liubai](https://github.com/yenche123/liubai) | ⭐ 865 | TypeScript | 赋能你自己！ |
-| [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 862 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
+| [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) | ⭐ 864 | JavaScript | ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O |
 | [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) | ⭐ 624 | TypeScript |  |
 | [o8oo8o/WebCurl](https://github.com/o8oo8o/WebCurl) | ⭐ 611 | HTML | 极简网页版API调试神器 |
 | [Paper-Dragon/mobaxterm-crack](https://github.com/Paper-Dragon/mobaxterm-crack) | ⭐ 597 | TypeScript | 破解MobaXterm的高级版，生成密钥，支持几乎所有版本。 |
@@ -64,10 +64,10 @@
 | [hbctraining/In-depth-NGS-Data-Analysis-Course🟡](https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course) | ⭐ 445 | HTML |  |
 | [MistRipple/ace-tool](https://github.com/MistRipple/ace-tool) | ⭐ 430 | TypeScript |  |
 | [wzdnzd/resume](https://github.com/wzdnzd/resume) | ⭐ 403 | TypeScript | 功能丰富、支持灵活自定义的简历生成工具 |
-| [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) | ⭐ 373 | JavaScript | 一款广受欢迎的纯CSS文字肖像生成工具，用来送给你爱的人。 |
+| [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) | ⭐ 372 | JavaScript | 一款广受欢迎的纯CSS文字肖像生成工具，用来送给你爱的人。 |
 | [rational-stars/GitHub-Freshness](https://github.com/rational-stars/GitHub-Freshness) | ⭐ 362 | JavaScript | GitHub Freshness 在线文档 |
 | [AnkRoot/Augment-BYOK](https://github.com/AnkRoot/Augment-BYOK) | ⭐ 341 | JavaScript |  |
-| [dongshuyan/PromptHelper](https://github.com/dongshuyan/PromptHelper) | ⭐ 332 | JavaScript | 帮你管理提示词模板 |
+| [dongshuyan/PromptHelper](https://github.com/dongshuyan/PromptHelper) | ⭐ 333 | JavaScript | 帮你管理提示词模板 |
 | [zhugezifang/ai_timeline](https://github.com/zhugezifang/ai_timeline) | ⭐ 233 | HTML | AI时间线，产品地址：http://www.ai-timeline.top |
 | [summertime-wu/make_cnblogs_better](https://github.com/summertime-wu/make_cnblogs_better) | ⭐ 217 | HTML | 博客园样式美化、自定义博客园样式 |
 | [haripo/react-github-contribution-calendar](https://github.com/haripo/react-github-contribution-calendar) | ⭐ 173 | HTML | 用于实现 GitHub 风格热力图日历的 React 组件 |
@@ -76,7 +76,7 @@
 | [struy-cn/Y-TOC](https://github.com/struy-cn/Y-TOC) | ⭐ 105 | Vue |  |
 | [lxdao-official/lx-scale](https://github.com/lxdao-official/lx-scale) | ⭐ 97 | TypeScript | 专业心理健康自测工具，帮助你了解自身精神状态 |
 | [BryceWG/Blinko-Extention](https://github.com/BryceWG/Blinko-Extention) | ⭐ 94 | JavaScript | 这是面向 Blinko 的基于 AI 的 Chrome 网页内容提取与总结扩展，支持网页一键总结、选词保存、快速记录等功能，内容可同步至 Blinko 服务器。 |
-| [gp0119/Taby](https://github.com/gp0119/Taby) | ⭐ 50 | Vue | 一款简易的新标签页扩展程序 |
+| [gp0119/Taby](https://github.com/gp0119/Taby) | ⭐ 51 | Vue | 一款简易的新标签页扩展程序 |
 | [c-z-chen/contribution-heatmap](https://github.com/c-z-chen/contribution-heatmap) | ⭐ 49 | TypeScript | React 贡献热力图日历组件 |
 | [eveningwater/code-segment](https://github.com/eveningwater/code-segment) | ⭐ 47 | HTML | 一个代码片段的集合 |
 | [aeroidesdev/deep-think🔀](https://github.com/aeroidesdev/deep-think) | ⭐ 45 | JavaScript | 基于 IMO25 和 Deep Research 的 Deep Think Agent |
