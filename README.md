@@ -2,12 +2,15 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1373-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--10--20-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1375-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--10--21-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
-> 📈 **1373** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
+> 📈 **1375** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
 ## 🔥 最近收藏
 
+- ⭐ [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) — DeepInfer: High-performance, large-scale inference framework… `2026-10-20`
+- ⭐ [deepseek-ai/deepseek-recipe](https://github.com/deepseek-ai/deepseek-recipe) —  `2026-10-20`
+- ⭐ [looplj/axonhub](https://github.com/looplj/axonhub) — ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. B… `2026-10-20`
 - ⭐ [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) — Vibe code with pi in a lightweight, real IDE that customises… `2026-10-19`
 - ⭐ [yetone/magpie](https://github.com/yetone/magpie) — Every agent's model. One place. Codex on DeepSeek, Claude Co… `2026-10-09`
 - ⭐ [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) — Let AI agents use your real, logged-in browser without inter… `2026-10-08`
@@ -20,15 +23,12 @@
 - ⭐ [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSe… `2026-09-23`
 - ⭐ [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) — An enterprise AI workspace for model routing, multimodal cha… `2026-09-21`
 - ⭐ [konbakuyomu/smartsearch](https://github.com/konbakuyomu/smartsearch) —  `2026-09-21`
-- ⭐ [zai-org/ZCode](https://github.com/zai-org/ZCode) — Z.ai's coding agent harness. Powerful, intelligent, extensib… `2026-09-21`
-- ⭐ [Jia-Ethan/zcode-keysmith](https://github.com/Jia-Ethan/zcode-keysmith) — ZCode App managed true system-role entrypoint `2026-09-20`
-- ⭐ [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5) — DeepSeek v4.1 flash 逆向工具（无限五代）     求 Star 收藏 ⭐欢迎大家提交项目的改进 `2026-09-20`
 
 ## 📑 分类导航
 
 | 分类 | 项目数 | 占比 | 文档 |
 |------|--------|------|------|
-| 🤖 AI 与 LLM | 307 | `████░░░░░░░░░░░░` (22%) | [docs/ai.md](docs/ai.md) |
+| 🤖 AI 与 LLM | 306 | `████░░░░░░░░░░░░` (22%) | [docs/ai.md](docs/ai.md) |
 | ☁️ DevOps 与云原生 | 26 | `█░░░░░░░░░░░░░░░` (2%) | [docs/devops.md](docs/devops.md) |
 | 🧩 语言生态 | 258 | `███░░░░░░░░░░░░░` (19%) | [docs/lang.md](docs/lang.md) |
 | 🎨 前端与 Web | 85 | `█░░░░░░░░░░░░░░░` (6%) | [docs/frontend.md](docs/frontend.md) |
@@ -46,11 +46,11 @@
 | 🧬 生物信息 | 51 | `█░░░░░░░░░░░░░░░` (4%) | [docs/bio.md](docs/bio.md) |
 | 📚 学习资源与清单 | 225 | `███░░░░░░░░░░░░░` (16%) | [docs/learning.md](docs/learning.md) |
 | 🎯 面试资料 | 15 | `█░░░░░░░░░░░░░░░` (1%) | [docs/interview.md](docs/interview.md) |
-| 📦 其他与杂项 | 79 | `█░░░░░░░░░░░░░░░` (6%) | [docs/misc.md](docs/misc.md) |
+| 📦 其他与杂项 | 82 | `█░░░░░░░░░░░░░░░` (6%) | [docs/misc.md](docs/misc.md) |
 
 ## 📊 快速入口
 
-- 📦 [全量索引(1373)](docs/all.md) — 所有项目按 ⭐ 排序
+- 📦 [全量索引(1375)](docs/all.md) — 所有项目按 ⭐ 排序
 - 🗣️ [按语言浏览](docs/by-language.md) — 语言分布一览
 
 ## 🔄 自动同步
