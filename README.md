@@ -2,12 +2,14 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1375-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--10--21-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1377-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--10--22-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
-> 📈 **1375** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
+> 📈 **1377** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
 ## 🔥 最近收藏
 
+- ⭐ [gpu-mode/reference-kernels](https://github.com/gpu-mode/reference-kernels) — Official Problem Sets / Reference Kernels for the GPU MODE L… `2026-10-21`
+- ⭐ [flagos-ai/FlagGems-sglang](https://github.com/flagos-ai/FlagGems-sglang) — FlagGems-sglang is part of FlagOS. It is a high-performance… `2026-10-21`
 - ⭐ [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) — DeepInfer: High-performance, large-scale inference framework… `2026-10-20`
 - ⭐ [deepseek-ai/deepseek-recipe](https://github.com/deepseek-ai/deepseek-recipe) —  `2026-10-20`
 - ⭐ [looplj/axonhub](https://github.com/looplj/axonhub) — ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. B… `2026-10-20`
@@ -21,8 +23,6 @@
 - ⭐ [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) — BookOrbit: Your Reading Space `2026-09-26`
 - ⭐ [Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) — Synchronize Codex session provider metadata across rollout f… `2026-09-26`
 - ⭐ [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSe… `2026-09-23`
-- ⭐ [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) — An enterprise AI workspace for model routing, multimodal cha… `2026-09-21`
-- ⭐ [konbakuyomu/smartsearch](https://github.com/konbakuyomu/smartsearch) —  `2026-09-21`
 
 ## 📑 分类导航
 
@@ -32,7 +32,7 @@
 | ☁️ DevOps 与云原生 | 26 | `█░░░░░░░░░░░░░░░` (2%) | [docs/devops.md](docs/devops.md) |
 | 🧩 语言生态 | 258 | `███░░░░░░░░░░░░░` (19%) | [docs/lang.md](docs/lang.md) |
 | 🎨 前端与 Web | 85 | `█░░░░░░░░░░░░░░░` (6%) | [docs/frontend.md](docs/frontend.md) |
-| ⌨️ CLI 与终端 | 129 | `██░░░░░░░░░░░░░░` (9%) | [docs/cli.md](docs/cli.md) |
+| ⌨️ CLI 与终端 | 129 | `█░░░░░░░░░░░░░░░` (9%) | [docs/cli.md](docs/cli.md) |
 | 🗄️ 数据库与存储 | 13 | `█░░░░░░░░░░░░░░░` (1%) | [docs/storage.md](docs/storage.md) |
 | 🔐 安全与逆向 | 3 | `█░░░░░░░░░░░░░░░` (0%) | [docs/security.md](docs/security.md) |
 | 🌐 网络与代理 | 40 | `█░░░░░░░░░░░░░░░` (3%) | [docs/net.md](docs/net.md) |
@@ -46,11 +46,11 @@
 | 🧬 生物信息 | 51 | `█░░░░░░░░░░░░░░░` (4%) | [docs/bio.md](docs/bio.md) |
 | 📚 学习资源与清单 | 225 | `███░░░░░░░░░░░░░` (16%) | [docs/learning.md](docs/learning.md) |
 | 🎯 面试资料 | 15 | `█░░░░░░░░░░░░░░░` (1%) | [docs/interview.md](docs/interview.md) |
-| 📦 其他与杂项 | 82 | `█░░░░░░░░░░░░░░░` (6%) | [docs/misc.md](docs/misc.md) |
+| 📦 其他与杂项 | 84 | `█░░░░░░░░░░░░░░░` (6%) | [docs/misc.md](docs/misc.md) |
 
 ## 📊 快速入口
 
-- 📦 [全量索引(1375)](docs/all.md) — 所有项目按 ⭐ 排序
+- 📦 [全量索引(1377)](docs/all.md) — 所有项目按 ⭐ 排序
 - 🗣️ [按语言浏览](docs/by-language.md) — 语言分布一览
 
 ## 🔄 自动同步

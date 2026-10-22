@@ -13,7 +13,7 @@
 | [nginx/nginx](https://github.com/nginx/nginx) | ⭐ 31.9k | C | NGINX 开源版官方仓库。 |
 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | ⭐ 29.9k | TypeScript | 支持自托管的全类型书签应用，可收纳链接、笔记与图片，带AI自动 tagging 和全文搜索 |
 | [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | ⭐ 19.6k | Shell | 可用于生产环境、容器化运行、功能完整却轻量简单的邮件服务器，支持SMTP、IMAP、LDAP、反垃圾邮件、杀毒等功能。 |
-| [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) | ⭐ 11.6k | Go | Nginx 的又一个 WebUI |
+| [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) | ⭐ 11.7k | Go | Nginx 的又一个 WebUI |
 | [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) | ⭐ 9.1k | Shell | 经过优化适配Docker的极简Ubuntu基础镜像 |
 | [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) | ⭐ 7.8k | TypeScript | 全功能开源监控与可观测性平台 |
 | [Mailu/Mailu](https://github.com/Mailu/Mailu) | ⭐ 7.6k | Python | 隔离式邮件分发——作为 Docker 镜像的邮件服务器 |
@@ -27,7 +27,7 @@
 | [kekylin/debnas](https://github.com/kekylin/debnas) | ⭐ 1.2k | Shell | 一个将Debian快速配置成准NAS系统的脚本。 |
 | [Alex-D/dotfiles](https://github.com/Alex-D/dotfiles) | ⭐ 211 | Shell | Windows + WSL 2 Ubuntu + Windows Terminal + zsh + systemd + p10k + Docker + Inte… |
 | [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) | ⭐ 133 | Dockerfile |  |
-| [shuguangnet/docker_backup_script](https://github.com/shuguangnet/docker_backup_script) | ⭐ 125 | Shell | 检测docker容器并自动备份挂载卷以及本地挂载目录 |
+| [shuguangnet/docker_backup_script](https://github.com/shuguangnet/docker_backup_script) | ⭐ 120 | Shell | 检测docker容器并自动备份挂载卷以及本地挂载目录 |
 | [Bioconductor/bioconductor_docker](https://github.com/Bioconductor/bioconductor_docker) | ⭐ 93 | Dockerfile | 适用于 Bioconductor 的 Docker 容器 |
 | [robertdebock/docker-ubuntu-systemd](https://github.com/robertdebock/docker-ubuntu-systemd) | ⭐ 35 | Dockerfile | 用于测试 Ansible 角色的容器，支持使用 systemd 功能 |
 | [eniocarboni/docker-ubuntu-systemd](https://github.com/eniocarboni/docker-ubuntu-systemd) | ⭐ 34 | Dockerfile | 预装 systemd 的 Ubuntu LTS Docker 容器，适用于 Ansible 和 Molecule 测试 |
