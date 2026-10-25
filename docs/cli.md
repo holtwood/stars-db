@@ -6,10 +6,10 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | ⭐ 301.9k | Shell | 真正工程师必备技能，直接来自我的.agents目录。 |
-| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐ 195.7k | Batchfile | 开源Windows和Office激活工具，支持HWID、Ohook、TSforge和在线KMS激活方式，同时具备高级故障排查功能 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | ⭐ 302.6k | Shell | 真正工程师必备技能，直接来自我的.agents目录。 |
+| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐ 196.0k | Batchfile | 开源Windows和Office激活工具，支持HWID、Ohook、TSforge和在线KMS激活方式，同时具备高级故障排查功能 |
 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | ⭐ 162.6k |  | 掌握命令行，只需一页 |
-| [tw93/Mole](https://github.com/tw93/Mole) | ⭐ 72.6k | Shell | 🐹 清理、卸载、分析、优化与监控你的 Mac。免费开源命令行工具，另有原生 Mac 应用。 |
+| [tw93/Mole](https://github.com/tw93/Mole) | ⭐ 72.8k | Shell | 🐹 清理、卸载、分析、优化与监控你的 Mac。免费开源命令行工具，另有原生 Mac 应用。 |
 | [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | ⭐ 62.6k | Zig | 👻 Ghostty 是一款快速、功能丰富的跨平台终端模拟器，采用平台原生 UI 与 GPU 加速。 |
 | [files-community/Files](https://github.com/files-community/Files) | ⭐ 46.2k | C# | 一款可帮助用户整理文件与文件夹的现代化文件管理器 |
 | [HeyPuter/puter](https://github.com/HeyPuter/puter) | ⭐ 43.9k | TypeScript | 🌐 Internet Computer！免费开源，可自行托管。 |
@@ -20,7 +20,7 @@
 | [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | ⭐ 29.5k | Python | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Fon… |
 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | ⭐ 28.4k | Swift | 基于 Ghostty 开源改造的 macOS 终端，支持垂直标签页与 AI 编码代理通知，专为多任务处理、有序组织与可编程性打造。 |
 | [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) | ⭐ 26.7k | C# | UniGetUI：你的包管理器图形界面。可以夸张地说，它是用来管理多个包管理器的「包管理器的管理器」。 |
-| [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | ⭐ 26.5k | Shell | An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWO… |
+| [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | ⭐ 26.6k | Shell | An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWO… |
 | [microsoft/winget-cli](https://github.com/microsoft/winget-cli) | ⭐ 26.5k | C++ | WinGet 是 Windows 包管理器。本项目包含 CLI（命令行界面）、PowerShell 模块以及 COM（组件对象模型）API（应用程序编程接口）。 |
 | [powerline/fonts](https://github.com/powerline/fonts) | ⭐ 26.3k | Shell | 适用于 Powerline 用户的补全补丁字体。 |
 | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | ⭐ 25.1k | C | 一款持续维护、功能丰富、侧重性能的类 neofetch 系统信息工具。 |
@@ -37,7 +37,7 @@
 | [drogonframework/drogon](https://github.com/drogonframework/drogon) | ⭐ 14.4k | C++ | Drogon：一个支持C++14/17/20、可运行在Linux/macOS/Unix/Windows上的HTTP Web应用框架 |
 | [ClementTsang/bottom](https://github.com/ClementTsang/bottom) | ⭐ 14.1k | Rust | 又一款跨平台图形化进程/系统监视器 |
 | [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) | ⭐ 14.0k | CSS | Tomorrow 主题 |
-| [bin456789/reinstall](https://github.com/bin456789/reinstall) | ⭐ 13.8k | Shell | 一键DD/重装脚本 (One-click reinstall OS on VPS) |
+| [bin456789/reinstall](https://github.com/bin456789/reinstall) | ⭐ 13.9k | Shell | 一键DD/重装脚本 (One-click reinstall OS on VPS) |
 | [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) | ⭐ 13.1k | Shell |  |
 | [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) | ⭐ 12.9k | JavaScript | Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕 |
 | [kusti8/proton-native](https://github.com/kusti8/proton-native) | ⭐ 10.9k | TypeScript | 用于开发跨平台桌面应用的 React 环境 |
@@ -106,10 +106,10 @@
 | [ahpxex/Aictionary](https://github.com/ahpxex/Aictionary) | ⭐ 844 | TypeScript | 另一款桌面词典，但速度快得多，释义更丰富，助你真正通晓语言。 |
 | [dracula/jetbrains](https://github.com/dracula/jetbrains) | ⭐ 809 | Kotlin | 适用于 JetBrains IDEs 的深色主题 |
 | [lcomplete/TechShare](https://github.com/lcomplete/TechShare) | ⭐ 800 | Vue | 🌟 分享效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和有趣内容 😄。💌 当有重要的事情需要分享时会发送 newsletter。 |
-| [DJB-Developer/wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions) | ⭐ 797 | JavaScript | 微信Android 微信安卓版 微信安卓 历史版本 官方下载地址 |
-| [wzsx150/MobaXterm_CN](https://github.com/wzsx150/MobaXterm_CN) | ⭐ 630 |  | MobaXterm 综合远程工具 汉化版 |
+| [DJB-Developer/wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions) | ⭐ 796 | JavaScript | 微信Android 微信安卓版 微信安卓 历史版本 官方下载地址 |
+| [wzsx150/MobaXterm_CN](https://github.com/wzsx150/MobaXterm_CN) | ⭐ 631 |  | MobaXterm 综合远程工具 汉化版 |
 | [mhartington/dotfiles](https://github.com/mhartington/dotfiles) | ⭐ 625 | Lua |  |
-| [CyanoHao/Resource-Han-Rounded](https://github.com/CyanoHao/Resource-Han-Rounded) | ⭐ 597 | JavaScript | Resource Han Rounded，一款源自Source Han Sans的圆角字体家族。 |
+| [CyanoHao/Resource-Han-Rounded](https://github.com/CyanoHao/Resource-Han-Rounded) | ⭐ 598 | JavaScript | Resource Han Rounded，一款源自Source Han Sans的圆角字体家族。 |
 | [vannvan/yuque-tools](https://github.com/vannvan/yuque-tools) | ⭐ 554 | TypeScript | 🧰 玩转语雀-朴实无华的语雀资源导出工具，语雀知识库+团队资源批量导出/备份工具(无需Token) |
 | [maxsky/Yahei-Monaco-Hybrid-Font](https://github.com/maxsky/Yahei-Monaco-Hybrid-Font) | ⭐ 463 |  | Microsoft Yahei UI Regular & Apple Monaco Hybrid. 微软雅黑和 Monaco 字体混合版【禁止他用】 |
 | [DoooReyn/WxRead-WebAutoReader](https://github.com/DoooReyn/WxRead-WebAutoReader) | ⭐ 459 |  | 微信读书自动阅读器，全自动刷阅读时长，轻轻松松冲顶霸榜，您的微读挂机好帮手 |
@@ -123,7 +123,7 @@
 | [lx-s/WinMute](https://github.com/lx-s/WinMute) | ⭐ 244 | C++ | WinMute 可让你在特定事件（例如屏保启动、工作站锁定、关机等）发生时自动静音你的 PC 音量。 |
 | [Contextualist/acp](https://github.com/Contextualist/acp) | ⭐ 241 | Go | 让终端个人文件传输像`cp`一样简单 |
 | [sergiye/winUpdateMiniTool](https://github.com/sergiye/winUpdateMiniTool) | ⭐ 224 | C# | Windows Update Mini Tool 是一款用于在 Windows 操作系统上管理 Microsoft 产品更新的工具 |
-| [chenyium/Microsoft-Yahei-Mono](https://github.com/chenyium/Microsoft-Yahei-Mono) | ⭐ 221 |  | Microsoft Yahei Mono 字体 |
+| [chenyium/Microsoft-Yahei-Mono](https://github.com/chenyium/Microsoft-Yahei-Mono) | ⭐ 222 |  | Microsoft Yahei Mono 字体 |
 | [FarseaSH/hugo-theme-moments](https://github.com/FarseaSH/hugo-theme-moments) | ⭐ 181 | HTML | A Hugo theme designed for micro-blogging. 专为动态发布设计的Hugo主题 |
 | [whtiehack/XiaoMi-Air](https://github.com/whtiehack/XiaoMi-Air) | ⭐ 96 | ASL | 适用于 macOS High Sierra、Sierra 和 Big Sur 的小米笔记本 Air 驱动配置 |
 | [lvbibir/JetBrainsLxgwNerdMono](https://github.com/lvbibir/JetBrainsLxgwNerdMono) | ⭐ 86 | Python | JetBrains Mono NerdFont 加霞鹜文楷，就是自带NerdFont图标的完美2:1比例CJK等宽字体 |
@@ -131,7 +131,7 @@
 | [maboroshin/Notepad3ColorTheme](https://github.com/maboroshin/Notepad3ColorTheme) | ⭐ 66 |  | Notepad3 的 19 款颜色主题。 |
 | [AkiChase/Starter](https://github.com/AkiChase/Starter) | ⭐ 52 | AutoHotkey | Starter 是一款AHK编写的极简效率工具，旨在智能、快捷地启动文件和插件应用，提供便利和高效的使用体验。 |
 | [webkong/Dell-7070-mff-hackintosh](https://github.com/webkong/Dell-7070-mff-hackintosh) | ⭐ 49 | C++ | 戴尔Micro Optiplex 7070黑苹果EFI |
-| [LoosePrince/cursor-zh-cn-pack](https://github.com/LoosePrince/cursor-zh-cn-pack) | ⭐ 30 | TypeScript | Cursor 简体中文语言包（私有界面UI汉化专用） |
+| [LoosePrince/cursor-zh-cn-pack](https://github.com/LoosePrince/cursor-zh-cn-pack) | ⭐ 31 | TypeScript | Cursor 简体中文语言包（私有界面UI汉化专用） |
 | [JetBrains/rider-theme-pack](https://github.com/JetBrains/rider-theme-pack) | ⭐ 29 | Python | JetBrains Rider 主题包 |
 | [septag/vscode-vax-dark-theme](https://github.com/septag/vscode-vax-dark-theme) | ⭐ 21 |  | 适用于 VSCode 的默认 Visual Assist 深色主题 |
 | [wesleyel/opendict-apple](https://github.com/wesleyel/opendict-apple) | ⭐ 5 | Python | 把 ahpxex/open-dictionary 的 84,212 条英汉学习词条装进 macOS 自带的「词典.app」，Spotlight、三指查词、 右键… |
