@@ -6,11 +6,11 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ⭐ 153.6k | Rust | 基于 Tauri 构建的现代化图形界面客户端，支持在 Windows、macOS 和 Linux 运行，提供定制化代理体验 |
-| [2dust/v2rayN](https://github.com/2dust/v2rayN) | ⭐ 119.0k | C# | 支持Xray、sing-box等的多平台GUI客户端，兼容Windows、Linux与macOS |
-| [2dust/v2rayNG](https://github.com/2dust/v2rayNG) | ⭐ 64.6k | Kotlin | 适用于 Android 的 V2Ray 客户端，支持 Xray 核心与 v2fly 核心 |
-| [chen08209/FlClash](https://github.com/chen08209/FlClash) | ⭐ 57.9k | Dart | 基于 ClashMeta 的多平台代理客户端，简洁易用，开源无广告。 |
-| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | ⭐ 50.6k | Go | 一个用于聚合与分发的统一AI模型 hub，支持将各类大语言模型转换为兼容OpenAI、Claude或Gemini的格式，是供个人与企业进行模型管理的集中网关。 |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | ⭐ 153.9k | Rust | 基于 Tauri 构建的现代化图形界面客户端，支持在 Windows、macOS 和 Linux 运行，提供定制化代理体验 |
+| [2dust/v2rayN](https://github.com/2dust/v2rayN) | ⭐ 119.1k | C# | 支持Xray、sing-box等的多平台GUI客户端，兼容Windows、Linux与macOS |
+| [2dust/v2rayNG](https://github.com/2dust/v2rayNG) | ⭐ 64.7k | Kotlin | 适用于 Android 的 V2Ray 客户端，支持 Xray 核心与 v2fly 核心 |
+| [chen08209/FlClash](https://github.com/chen08209/FlClash) | ⭐ 58.1k | Dart | 基于 ClashMeta 的多平台代理客户端，简洁易用，开源无广告。 |
+| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | ⭐ 50.7k | Go | 一个用于聚合与分发的统一AI模型 hub，支持将各类大语言模型转换为兼容OpenAI、Claude或Gemini的格式，是供个人与企业进行模型管理的集中网关。 |
 | [MetaCubeX/ClashMetaForAndroid🔀](https://github.com/MetaCubeX/ClashMetaForAndroid) | ⭐ 48.3k | Kotlin | 适用于 Android 的基于规则的隧道工具 |
 | [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) | ⭐ 31.5k |  | 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。 |
 | [StevenBlack/hosts](https://github.com/StevenBlack/hosts) | ⭐ 31.3k | Python | 🔒 整合并扩展来自多个精选来源的 hosts 文件，可按需选择 porn、社交媒体等类别的扩展规则。 |

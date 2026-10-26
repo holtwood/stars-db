@@ -6,23 +6,23 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 375.5k | Python | 学习如何设计大规模系统，备战系统设计面试，包含Anki闪卡。 |
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐ 363.3k |  | 一份成为软件工程师的完整计算机科学学习计划 |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | ⭐ 375.6k | Python | 学习如何设计大规模系统，备战系统设计面试，包含Anki闪卡。 |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | ⭐ 363.4k |  | 一份成为软件工程师的完整计算机科学学习计划 |
 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | ⭐ 225.5k | Python | 用Python实现的所有算法 |
-| [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | ⭐ 186.3k |  | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
+| [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | ⭐ 186.3k | Python | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | ⭐ 136.0k | Markdown | 破解LeetCode，不仅要知其然，更要知其所以然。 |
 | [doocs/advanced-java](https://github.com/doocs/advanced-java) | ⭐ 79.2k | Java | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers |… |
 | [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | ⭐ 76.7k | Java | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解Lee… |
 | [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) | ⭐ 62.7k | Shell | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，G… |
 | [azl397985856/leetcode](https://github.com/azl397985856/leetcode) | ⭐ 55.7k | JavaScript | LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的lee… |
-| [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | ⭐ 48.9k | JavaScript | 烟花样式标识：可根据代码生成算法可视化的交互式在线平台 |
+| [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | ⭐ 49.0k | JavaScript | 烟花样式标识：可根据代码生成算法可视化的交互式在线平台 |
 | [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) | ⭐ 46.6k |  | 学习如何设计大规模系统，备战系统设计面试 |
 | [huihut/interview](https://github.com/huihut/interview) | ⭐ 38.3k | C++ | 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository… |
 | [doocs/leetcode](https://github.com/doocs/leetcode) | ⭐ 36.7k | Java | 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第… |
 | [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) | ⭐ 36.1k | Java | 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹… |
 | [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | ⭐ 33.8k | Go | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode… |
+| [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) | ⭐ 32.7k |  | 按公司分类的题目列表。companies 目录下每个 csv 文件对应特定公司根据 LeetCode 公司标签整理的 Leetcode 题目列表，更新至 202… |
 | [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) | ⭐ 31.9k | Python | 120余道Python算法与数据结构交互式编程面试题，附带Anki闪卡。 |
-| [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) | ⭐ 31.7k |  | 按公司分类的题目列表。companies 目录下每个 csv 文件对应特定公司根据 LeetCode 公司标签整理的 Leetcode 题目列表，更新至 202… |
 | [forthespada/CS-Books](https://github.com/forthespada/CS-Books) | ⭐ 27.7k |  | 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算… |
 | [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) | ⭐ 27.3k | JavaScript | 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 |
 | [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) | ⭐ 21.5k | C | 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售 |
@@ -39,7 +39,7 @@
 | [CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) | ⭐ 7.7k |  | :ant:前端面试复习笔记 |
 | [MysteryVaibhav/leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) | ⭐ 7.4k |  | 本仓库收录了 LeetCode Premium 中按公司分类的题目列表 |
 | [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) | ⭐ 6.6k |  | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等） |
-| [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) | ⭐ 6.0k | C++ | 🏋️ 全部4033道LeetCode题的Python / 现代C++题解（每周更新） |
+| [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) | ⭐ 6.1k | C++ | 🏋️ 全部4033道LeetCode题的Python / 现代C++题解（每周更新） |
 | [alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide) | ⭐ 5.9k | HTML | 针对2026年AI工程面试作业、带回家完成的挑战项目与招聘实践的研究 |
 | [lifei6671/interview-go](https://github.com/lifei6671/interview-go) | ⭐ 5.6k | Go | golang面试题集合https://interview.disign.me/ |
 | [qiyuangong/leetcode](https://github.com/qiyuangong/leetcode) | ⭐ 5.3k | Python | Leetcode 题解，包含 Python 和 Java 实现 |
@@ -53,7 +53,7 @@
 | [fishercoder1534/Leetcode](https://github.com/fishercoder1534/Leetcode) | ⭐ 4.0k | Java | LeetCode 题解，每日更新。更多内容可订阅我的 YouTube 频道。 |
 | [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli) | ⭐ 3.9k | JavaScript | 用来刷题的LeetCode命令行工具！ |
 | [moabukar/tech-vault](https://github.com/moabukar/tech-vault) | ⭐ 3.6k | HCL | 科技领域众多面试题与真实行业挑战汇总 |
-| [amitshekhariitbhu/ai-engineering-interview-questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) | ⭐ 3.5k | Markdown | AI 工程面试 cheat sheet——面试问答汇总 |
+| [amitshekhariitbhu/ai-engineering-interview-questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) | ⭐ 3.6k | Markdown | AI 工程面试 cheat sheet——面试问答汇总 |
 | [billryan/algorithm-exercise](https://github.com/billryan/algorithm-exercise) | ⭐ 3.5k | Python | Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/ |
 | [aQuaYi/LeetCode-in-Go🟡](https://github.com/aQuaYi/LeetCode-in-Go) | ⭐ 3.1k | Go | 基于Go的LeetCode算法题题解，覆盖100%题目。 |
 | [Ewenwan/ShiYanLou](https://github.com/Ewenwan/ShiYanLou) | ⭐ 3.1k | C | 学习C & C++ & python&汇编语言 LLVM编译器 数据结构 算法 操作系统 单片机  linux  面试 |
