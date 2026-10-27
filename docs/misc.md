@@ -6,52 +6,52 @@
 
 | 项目 | 星数 | 语言 | 描述 |
 |------|------|------|------|
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 257.1k | Python | The agent that grows with you |
-| [stablyai/orca](https://github.com/stablyai/orca) | ⭐ 106.0k | TypeScript | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code… |
-| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | ⭐ 92.9k | JavaScript | 酷炫的自托管监控工具 |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | ⭐ 89.3k | JavaScript | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 257.5k | Python | The agent that grows with you |
+| [stablyai/orca](https://github.com/stablyai/orca) | ⭐ 107.2k | TypeScript | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code… |
+| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | ⭐ 93.0k | JavaScript | 酷炫的自托管监控工具 |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | ⭐ 89.9k | JavaScript | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent… |
 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | ⭐ 47.1k | Python | 社区驱动的增强型文档管理系统：扫描、索引并归档您所有的文档 |
-| [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | ⭐ 46.3k | TypeScript | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS,… |
+| [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | ⭐ 46.4k | TypeScript | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS,… |
 | [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) | ⭐ 42.1k |  |  |
 | [ShareX/ShareX](https://github.com/ShareX/ShareX) | ⭐ 40.4k | C# | ShareX is a free and open-source application that enables users to capture or re… |
-| [searxng/searxng](https://github.com/searxng/searxng) | ⭐ 38.8k | Python | SearXNG 是一款免费的互联网元搜索引擎，可聚合来自多种搜索服务与数据库的搜索结果。它不会追踪用户，也不会为用户建立画像。 |
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | ⭐ 36.6k | TypeScript | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
+| [searxng/searxng](https://github.com/searxng/searxng) | ⭐ 38.9k | Python | SearXNG 是一款免费的互联网元搜索引擎，可聚合来自多种搜索服务与数据库的搜索结果。它不会追踪用户，也不会为用户建立画像。 |
+| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | ⭐ 36.7k | TypeScript | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
 | [zellij-org/zellij](https://github.com/zellij-org/zellij) | ⭐ 35.8k | Rust | A terminal workspace with batteries included |
 | [gethomepage/homepage](https://github.com/gethomepage/homepage) | ⭐ 33.4k | JavaScript | 支持Docker和服务API集成的高度可自定义主页（起始页/应用仪表盘） |
 | [atuinsh/atuin](https://github.com/atuinsh/atuin) | ⭐ 32.1k | Rust | ✨ Making your shell magical |
-| [henrygd/beszel](https://github.com/henrygd/beszel) | ⭐ 26.5k | Go | 轻量服务器监控，支持历史数据、Docker 统计和告警。 |
+| [henrygd/beszel](https://github.com/henrygd/beszel) | ⭐ 26.6k | Go | 轻量服务器监控，支持历史数据、Docker 统计和告警。 |
 | [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | ⭐ 24.8k | JavaScript | 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告… |
 | [louislam/dockge](https://github.com/louislam/dockge) | ⭐ 24.7k | TypeScript | 美观易用且响应式的自托管 docker compose.yaml 面向栈管理器 |
-| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | ⭐ 22.5k | Python | DeepInfer: High-performance, large-scale inference framework for DeepSeek models |
+| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | ⭐ 23.1k | Python | DeepInfer: High-performance, large-scale inference framework for DeepSeek models |
+| [yetone/magpie](https://github.com/yetone/magpie) | ⭐ 22.8k | Go | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the… |
 | [docmost/docmost](https://github.com/docmost/docmost) | ⭐ 22.1k | TypeScript | Docmost is an open-source collaborative wiki and documentation software. It is a… |
 | [p0deje/Maccy](https://github.com/p0deje/Maccy) | ⭐ 22.1k | Swift | Lightweight clipboard manager for macOS |
 | [Caldis/Mos](https://github.com/Caldis/Mos) | ⭐ 21.7k | Swift | 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to… |
-| [yetone/magpie](https://github.com/yetone/magpie) | ⭐ 21.6k | Go | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the… |
-| [alibaba/zvec](https://github.com/alibaba/zvec) | ⭐ 16.1k | C++ | A lightweight, lightning-fast, in-process vector database |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | ⭐ 16.2k | C++ | A lightweight, lightning-fast, in-process vector database |
 | [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) | ⭐ 13.4k |  | :books: 极客时间电子书 |
 | [openchamber/openchamber](https://github.com/openchamber/openchamber) | ⭐ 12.2k | TypeScript | Agentic Development Environment based on OpenCode AI agent |
 | [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) | ⭐ 11.7k | Jupyter Notebook | MiniCPM5: SOTA on-device LLMs, small yet powerful. |
-| [sissbruecker/linkding](https://github.com/sissbruecker/linkding) | ⭐ 11.3k | Python | 可自托管的书签管理器，设计简约、运行快速，通过Docker即可轻松部署。 |
+| [sissbruecker/linkding](https://github.com/sissbruecker/linkding) | ⭐ 11.4k | Python | 可自托管的书签管理器，设计简约、运行快速，通过Docker即可轻松部署。 |
 | [nezhahq/nezha](https://github.com/nezhahq/nezha) | ⭐ 10.4k | Go | :trollface: Self-hosted, lightweight server and website monitoring and O&M tool |
 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | ⭐ 9.6k | TypeScript | Let AI agents use your real, logged-in browser without interrupting your work. C… |
 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | ⭐ 8.7k | PHP | A minimalist, open source online pastebin where the server has zero knowledge of… |
-| [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) | ⭐ 8.6k | Python | 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passc… |
-| [zai-org/ZCode](https://github.com/zai-org/ZCode) | ⭐ 8.2k | TypeScript | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
+| [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) | ⭐ 8.7k | Python | 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passc… |
+| [zai-org/ZCode](https://github.com/zai-org/ZCode) | ⭐ 8.3k | TypeScript | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
 | [gopherchina/conference](https://github.com/gopherchina/conference) | ⭐ 7.6k |  |  |
-| [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) | ⭐ 5.7k | TypeScript | BookOrbit: Your Reading Space |
+| [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) | ⭐ 5.8k | TypeScript | BookOrbit: Your Reading Space |
 | [looplj/axonhub](https://github.com/looplj/axonhub) | ⭐ 5.4k | Go | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, lo… |
 | [charmbracelet/freeze](https://github.com/charmbracelet/freeze) | ⭐ 4.9k | Go | Generate images of code and terminal output 📸 |
 | [Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) | ⭐ 3.6k | JavaScript | Synchronize Codex session provider metadata across rollout files and SQLite stat… |
 | [Kuddev/pebrel](https://github.com/Kuddev/pebrel) | ⭐ 3.6k | Rust | AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent se… |
 | [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5) | ⭐ 3.5k | JavaScript | DeepSeek v4.1 flash 逆向工具（无限五代）     求 Star 收藏 ⭐欢迎大家提交项目的改进 |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | ⭐ 3.1k | TypeScript | Vibe code with pi in a lightweight, real IDE that customises itself around the w… |
 | [deepseek-ai/deepseek-recipe](https://github.com/deepseek-ai/deepseek-recipe) | ⭐ 2.5k | Rust |  |
 | [wechat-miniprogram/weui-miniprogram](https://github.com/wechat-miniprogram/weui-miniprogram) | ⭐ 2.4k | TypeScript | 小程序WeUI组件库 |
 | [yhan219/navicat_reset_mac🟡](https://github.com/yhan219/navicat_reset_mac) | ⭐ 2.3k |  | navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script |
 | [anzhihe/learning](https://github.com/anzhihe/learning) | ⭐ 2.2k | Python | Learning Shell，Python，Golang，System，Network |
 | [RawChat/RawChat](https://github.com/RawChat/RawChat) | ⭐ 2.1k |  |  |
-| [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) | ⭐ 2.1k | Go | 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建 |
 | [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) | ⭐ 2.1k | C# | Activation & Lifecycle State Maintenance Toolkit |
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | ⭐ 1.9k | TypeScript | Vibe code with pi in a lightweight, real IDE that customises itself around the w… |
+| [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) | ⭐ 2.1k | Go | 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建 |
 | [almarklein/timetagger](https://github.com/almarklein/timetagger) | ⭐ 1.8k | Python | Tag your time, get the insight |
 | [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) | ⭐ 1.6k | Go | An enterprise AI workspace for model routing, multimodal chat, files, tools, bil… |
 | [uaxe/geektime-docs](https://github.com/uaxe/geektime-docs) | ⭐ 1.4k | Python | 👏极客时间 pdf & markdown 文档 |
@@ -60,18 +60,18 @@
 | [J3n5en/bye](https://github.com/J3n5en/bye) | ⭐ 1.0k |  |  |
 | [nicoxiang/geektime-downloader](https://github.com/nicoxiang/geektime-downloader) | ⭐ 976 | Go | 极客时间课程下载器，支持下载极客时间专栏/视频课/每日一课/大厂实践/训练营视频 |
 | [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) | ⭐ 964 | Shell | Ally-Health 是一款智能医疗助手，它依托先进AI技术与医学专业知识革新个人健康管理。它通过自然语言交互帮助用户记录症状、管理用药、整理病历并获取多学科… |
-| [markhorn-dev/astro-nano](https://github.com/markhorn-dev/astro-nano) | ⭐ 951 | Astro | Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and bl… |
-| [OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | ⭐ 919 |  | 去AI味提示词-作家增强-SKILL |
-| [konbakuyomu/smartsearch](https://github.com/konbakuyomu/smartsearch) | ⭐ 913 | Python |  |
+| [markhorn-dev/astro-nano](https://github.com/markhorn-dev/astro-nano) | ⭐ 952 | Astro | Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and bl… |
+| [OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | ⭐ 922 |  | 去AI味提示词-作家增强-SKILL |
+| [konbakuyomu/smartsearch](https://github.com/konbakuyomu/smartsearch) | ⭐ 915 | Python |  |
 | [golangboy/wxocr](https://github.com/golangboy/wxocr) | ⭐ 894 |  | 无内容 |
 | [zkep/my-geektime](https://github.com/zkep/my-geektime) | ⭐ 821 | Go | 👏 Make learning a lifelong habit. 学无止境 |
-| [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) | ⭐ 789 |  | 部分文件在 T v1.1 上可正常运行（最新支持版本为 v1.9.5/1.9.2-dev），基于 TC 开发 |
-| [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy) | ⭐ 763 | JavaScript | Command Code API 反代代理，兼容 OpenAI 与 Anthropic 接口 | Reverse proxy exposing Command… |
-| [czm15053/write-notes-like-deepseek](https://github.com/czm15053/write-notes-like-deepseek) | ⭐ 581 | HTML | 像 DeepSeek 团队一样沉淀 Agent Notes——决策、取舍与验证一处留痕，半年后仍可追溯。可叠加到任何仓库 |
+| [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) | ⭐ 790 |  | 部分文件在 T v1.1 上可正常运行（最新支持版本为 v1.9.5/1.9.2-dev），基于 TC 开发 |
+| [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy) | ⭐ 768 | JavaScript | Command Code API 反代代理，兼容 OpenAI 与 Anthropic 接口 | Reverse proxy exposing Command… |
+| [czm15053/write-notes-like-deepseek](https://github.com/czm15053/write-notes-like-deepseek) | ⭐ 586 | HTML | 像 DeepSeek 团队一样沉淀 Agent Notes——决策、取舍与验证一处留痕，半年后仍可追溯。可叠加到任何仓库 |
 | [trevortylerlee/astro-micro](https://github.com/trevortylerlee/astro-micro) | ⭐ 538 | Astro | Blog theme for Astro with search and comments built-in. Zero frameworks. |
-| [uaxe/geektime-pdfs](https://github.com/uaxe/geektime-pdfs) | ⭐ 413 |  | 👏极客时间 pdf |
-| [Jia-Ethan/zcode-keysmith](https://github.com/Jia-Ethan/zcode-keysmith) | ⭐ 353 | Python | ZCode App managed true system-role entrypoint |
-| [gpu-mode/reference-kernels](https://github.com/gpu-mode/reference-kernels) | ⭐ 320 | Python | Official Problem Sets / Reference Kernels for the GPU MODE Leaderboard! |
+| [uaxe/geektime-pdfs](https://github.com/uaxe/geektime-pdfs) | ⭐ 414 |  | 👏极客时间 pdf |
+| [Jia-Ethan/zcode-keysmith](https://github.com/Jia-Ethan/zcode-keysmith) | ⭐ 356 | Python | ZCode App managed true system-role entrypoint |
+| [gpu-mode/reference-kernels](https://github.com/gpu-mode/reference-kernels) | ⭐ 321 | Python | Official Problem Sets / Reference Kernels for the GPU MODE Leaderboard! |
 | [soshial/xdxf_makedict](https://github.com/soshial/xdxf_makedict) | ⭐ 248 |  | XDXF 是开放免费的词典格式，以结构化语义化方式存储词条，是兼容性最强的可转换词典格式 |
 | [yyxyz/Book](https://github.com/yyxyz/Book) | ⭐ 227 |  |  |
 | [johnnynunez/Xiaomi-Notebook-Air-1Gen](https://github.com/johnnynunez/Xiaomi-Notebook-Air-1Gen) | ⭐ 178 | ASL | 小米笔记本Air 第一代 |
@@ -81,7 +81,7 @@
 | [archibate/dotfiles-opencode](https://github.com/archibate/dotfiles-opencode) | ⭐ 108 | Python | Archibate 针对 OpenCode 的个人配置 |
 | [cpulxb/WSL-Image-Clipboard-Helper](https://github.com/cpulxb/WSL-Image-Clipboard-Helper) | ⭐ 98 | Rust | 该工具用于在 Windows 中配合 WSL 环境下的 Claude Code、CodeX、OpenCode等 AI 工具，快速保存剪贴板图片并将其转换为 WS… |
 | [Ayi1337/gpt6-astra-one-shot-games](https://github.com/Ayi1337/gpt6-astra-one-shot-games) | ⭐ 57 | HTML | GPT-6 Astra 的 One Shot 游戏测试，包含原始 Prompt 与可直接运行的单文件 HTML。 |
-| [chaun-yi7/Clay](https://github.com/chaun-yi7/Clay) | ⭐ 52 | CSS | Clay —— 一款仿 Claude 审美的 Typora 主题，暖纸质感、明暗双色，克制耐看。 |
+| [chaun-yi7/Clay](https://github.com/chaun-yi7/Clay) | ⭐ 53 | CSS | Clay —— 一款仿 Claude 审美的 Typora 主题，暖纸质感、明暗双色，克制耐看。 |
 | [Lucent-Snow/anti-default-output](https://github.com/Lucent-Snow/anti-default-output) | ⭐ 30 |  | 一项用于在创意任务中打破AI默认通用输出模式的技能。 |
 | [flagos-ai/FlagGems-sglang](https://github.com/flagos-ai/FlagGems-sglang) | ⭐ 20 | Python | FlagGems-sglang is part of FlagOS. It is a high-performance operator library des… |
 | [holtwood-projects/cmdc-statusline](https://github.com/holtwood-projects/cmdc-statusline) | ⭐ 9 | TypeScript | 📊 Status line for Command Code (cmdc) — model · gradient context bar · cache hit… |

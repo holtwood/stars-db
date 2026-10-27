@@ -2,9 +2,9 @@
 
 > 我的 GitHub Star 分类导航 · 由脚本自动生成 · 与 [Star Lists](https://github.com/holtwood?tab=stars) 同步
 
-![项目数](https://img.shields.io/badge/Star_项目-1378-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--10--26-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
+![项目数](https://img.shields.io/badge/Star_项目-1379-8A2BE2) ![最后同步](https://img.shields.io/badge/最后同步-2026--10--27-2ea44f) ![自动更新](https://img.shields.io/badge/自动更新-GitHub_Actions-007ec6)
 
-> 📈 **1378** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
+> 📈 **1379** 个项目 · **19** 个分类 · **28** 个 Star Lists · 每日自动同步
 
 ## 🔥 最近收藏
 
@@ -28,7 +28,7 @@
 
 | 分类 | 项目数 | 占比 | 文档 |
 |------|--------|------|------|
-| 🤖 AI 与 LLM | 306 | `████░░░░░░░░░░░░` (22%) | [docs/ai.md](docs/ai.md) |
+| 🤖 AI 与 LLM | 307 | `████░░░░░░░░░░░░` (22%) | [docs/ai.md](docs/ai.md) |
 | ☁️ DevOps 与云原生 | 26 | `█░░░░░░░░░░░░░░░` (2%) | [docs/devops.md](docs/devops.md) |
 | 🧩 语言生态 | 258 | `███░░░░░░░░░░░░░` (19%) | [docs/lang.md](docs/lang.md) |
 | 🎨 前端与 Web | 85 | `█░░░░░░░░░░░░░░░` (6%) | [docs/frontend.md](docs/frontend.md) |
@@ -50,7 +50,7 @@
 
 ## 📊 快速入口
 
-- 📦 [全量索引(1378)](docs/all.md) — 所有项目按 ⭐ 排序
+- 📦 [全量索引(1379)](docs/all.md) — 所有项目按 ⭐ 排序
 - 🗣️ [按语言浏览](docs/by-language.md) — 语言分布一览
 
 ## 🔄 自动同步
